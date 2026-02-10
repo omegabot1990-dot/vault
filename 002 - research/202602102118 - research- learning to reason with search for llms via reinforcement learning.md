@@ -8,27 +8,21 @@ description: ''
 bot: true
 parent nodes:
 - '[[reinforcement learning verifiable rewards]]'
-published on: null
+published on: 2025-03-25
 ---
 
 ## Topics (not in KG yet)
 
 - [ ] agents
 - [ ] chain-of-thought
-- [ ] Computer Science
-- [ ] cs.AI
-- [ ] cs.CL
 - [ ] instruction-tuning
-- [ ] reasoning
-- [ ] reinforcement-learning
 - [ ] tool-use
-- [ ] transformers
 
 ## Summary
 
-- Trains an LLM to interleave thinking with search using reinforcement learning
-- Does not use supervised data for intermediate reasoning or search steps
-- Improves multi-hop QA results and shows self-correction during training
+- Trains an LLM to interleave reasoning with external search using reinforcement learning
+- Optimizes tool-use decisions without supervised intermediate reasoning traces
+- Targets multi-hop question answering with an outcome reward
 
 ## Problem
 
@@ -38,20 +32,20 @@ published on: null
 
 ## Method
 
-- Treats search as part of the reasoning chain using explicit tags
+- Treats search operations as part of the reasoning chain using explicit tags
 	- `<think> ... </think>`
 	- `<search> ... </search>`
 	- `<result> ... </result>`
-- Uses GRPO to optimize the policy with an outcome reward and a KL penalty
-- Masks retrieved result tokens in the loss so learning targets the model decisions
+- Uses GRPO to optimize behavior with an outcome reward plus a KL penalty
+- Masks retrieved result tokens in the loss so learning pressure focuses on decisions rather than copying evidence
 
 ![](https://paper-assets.alphaxiv.org/figures/2503.19470v3/img-1.jpeg)
 
 ## Result
 
-- Improves Exact Match and LLM-as-a-Judge scores over strong multi-hop QA baselines
-- Trained on one dataset and still generalizes across multiple benchmarks
-- Learns to use more search steps and longer reasoning as training progresses
+- Reports higher multi-hop QA performance than baselines across multiple benchmarks
+- Trained on a single dataset and evaluated on several multi-hop QA datasets
+- Search usage increases during training, suggesting learned reliance on retrieval
 
 ![](https://paper-assets.alphaxiv.org/figures/2503.19470v3/img-0.jpeg)
 
@@ -59,9 +53,9 @@ published on: null
 
 ## Take Away
 
-- Reinforcement learning with a simple outcome reward can teach search behavior
-- Explicitly structuring search inside the reasoning chain makes tool use more stable
-- Reflection and self-correction can emerge without being directly supervised
+- Outcome-reward RL can be enough to induce useful search behavior
+- Explicit structure for tool calls may reduce prompt brittleness
+- Self-correction behaviors can emerge under RL fine-tuning
 
 ## Limitations
 
