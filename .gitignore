@@ -1,0 +1,43 @@
+# Obsidian
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/graph.json
+.trash/
+
+# OS
+.DS_Store
+
+# Large/binary files (keep git lean)
+*.pdf
+*.epub
+*.mobi
+*.djvu
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.psd
+*.ai
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+
+# Optional: keep embedded assets out by default
+assets/
