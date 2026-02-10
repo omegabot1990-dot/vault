@@ -13,6 +13,10 @@ published on: 2025-03-25
 
 ## Topics (not in KG yet)
 
+- [ ] agents
+- [ ] reasoning
+- [ ] reinforcement-learning
+- [ ] transformers
 - [ ] retrieval augmented generation
 - [ ] retrieval
 - [ ] dense retriever
