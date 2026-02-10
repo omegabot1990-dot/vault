@@ -13,7 +13,7 @@ parent nodes:
 
 ### Objects + notation
 
-- [ ] Scalar
+- [ ] [[202602101648 - scalar|Scalar]]
 - [ ] Vector (row vs column)
 - [ ] Matrix
 - [ ] Tensor (order/axes)
