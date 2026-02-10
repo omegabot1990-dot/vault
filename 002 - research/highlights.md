@@ -1,10 +1,9 @@
 ---
 tags:
-- moc
-- root
-description: ''
+  - meta
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 | Importance / Urgency | Urgent                                                               | Not Urgent                                                     |

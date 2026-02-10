@@ -1,10 +1,9 @@
 ---
 tags:
-- moc
-- root
-description: ''
+  - meta
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 - [ ] Move papers from Google Scholar and Semantic Scholar to alphaXiv

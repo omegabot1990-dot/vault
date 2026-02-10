@@ -1,10 +1,9 @@
 ---
 tags:
-- moc
-- root
-description: ''
+  - meta
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 - [ ] Why not inject latent layers inside LLMs?

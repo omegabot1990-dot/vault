@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
       "basename": "code",
       "path": "002 - research/code.md"
+    },
+    {
+      "basename": "random ideas",
+      "path": "002 - research/random ideas.md"
+    },
+    {
+      "basename": "highlights",
+      "path": "002 - research/highlights.md"
+    },
+    {
+      "basename": "todo",
+      "path": "002 - research/todo.md"
+    },
+    {
+      "basename": "blogs",
+      "path": "002 - research/blogs.md"
+    },
+    {
+      "basename": "labs",
+      "path": "002 - research/labs.md"
+    },
+    {
+      "basename": "research tools",
+      "path": "002 - research/research tools.md"
+    },
+    {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "202601282155 - supervised fine-tuning datasets",
+      "path": "002 - research/202601282155 - supervised fine-tuning datasets.md"
+    },
+    {
+      "basename": "compute",
+      "path": "002 - research/compute.md"
     },
     {
       "basename": "202602100011 - mutually exclusive",
@@ -117,10 +157,6 @@
       "path": "002 - research/evaluation.md"
     },
     {
-      "basename": "highlights",
-      "path": "002 - research/highlights.md"
-    },
-    {
       "basename": "OpenClaw",
       "path": "002 - inbox/raw/OpenClaw.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "202602100011 - mutually exclusive",
       "path": "003 - genesis/research/202602100011 - mutually exclusive.md"
-    },
-    {
-      "basename": "202602061354 - random experiment",
-      "path": "003 - genesis/research/202602061354 - random experiment.md"
-    },
-    {
-      "basename": "202602062059 - statistics",
-      "path": "003 - genesis/research/202602062059 - statistics.md"
-    },
-    {
-      "basename": "202602092352 - event",
-      "path": "003 - genesis/research/202602092352 - event.md"
-    },
-    {
-      "basename": "202602091258 - probability mass function",
-      "path": "003 - genesis/research/202602091258 - probability mass function.md"
-    },
-    {
-      "basename": "202602091301 - probability density function",
-      "path": "003 - genesis/research/202602091301 - probability density function.md"
-    },
-    {
-      "basename": "RLVR",
-      "path": "002 - inbox/raw/RLVR.md"
-    },
-    {
-      "basename": "compute",
-      "path": "003 - genesis/research/compute.md"
-    },
-    {
-      "basename": "202602080100 - joint probability",
-      "path": "003 - genesis/research/202602080100 - joint probability.md"
     }
   ],
   "omittedPaths": [],

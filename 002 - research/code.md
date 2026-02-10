@@ -1,11 +1,10 @@
 ---
 tags:
-- moc
-- code
-- root
-description: ''
+  - moc
+  - root
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 ## Topics
