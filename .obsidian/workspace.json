@@ -20,91 +20,21 @@
             }
           },
           {
-            "id": "9511b51ce8c2d211",
+            "id": "612335f30b16f0ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/blogs.md",
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blogs"
-            }
-          },
-          {
-            "id": "a4ce92c81f04c298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "b30002a88f0dba69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/highlights.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "highlights"
-            }
-          },
-          {
-            "id": "ade19bdcfedf442d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/random ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "random ideas"
-            }
-          },
-          {
-            "id": "868adee6e86fa83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "code"
-            }
-          },
-          {
-            "id": "8e618530702717e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reinforcement learning"
+              "title": "202601282131 - training language models to follow instructions with human feedback"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +102,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/reinforcement learning.md"
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reinforcement learning"
+              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -184,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/reinforcement learning.md",
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of reinforcement learning"
+              "title": "Outline of 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -319,15 +249,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8e618530702717e0",
+  "active": "612335f30b16f0ab",
   "lastOpenFiles": [
+    "002 - research/202602102054 - vectors.md",
+    "002 - research/202602102050 - scalar.md",
+    "002 - research/linear algebra.md",
+    "002 - research/202602062110 - mean.md",
+    "002 - research/202602102047 - scalar.md",
+    "002 - research/202602102045 - scalar.md",
+    "002 - research/202602102038 - vector.md",
+    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "002 - research/reinforcement learning.md",
     "002 - research/code.md",
-    "003 - genesis/research/reinforcement learning.md",
-    "003 - genesis/research",
     "002 - research/random ideas.md",
     "002 - research/highlights.md",
     "002 - research/todo.md",
     "002 - research/blogs.md",
+    "003 - genesis/research/reinforcement learning.md",
+    "003 - genesis/research",
     "002 - research/labs.md",
     "002 - research/research tools.md",
     "002 - research/large language models.md",
@@ -339,15 +278,6 @@
     "002 - research/202602061605 - information theory.md",
     "002 - research/202602080132 - conditional probability.md",
     "002 - research/202602101748 - scalar.md",
-    "002 - research/deepseek.md",
-    "002 - research/deep learning.md",
-    "002 - research/decoder transformers.md",
-    "002 - research/curriculum learning.md",
-    "002 - research/continued pre-training.md",
-    "002 - research/class imbalance.md",
-    "001 - inbox/RLVR.md",
-    "001 - inbox/README.md",
-    "002 - research/linear algebra.md",
     "002 - research/research.base",
     "009 - help",
     "008 - templates",
