@@ -6,19 +6,33 @@ parent nodes:
 - '[[large language models]]'
 ---
 
+## Topics
+
 - [x] Accuracy
+
 - [x] Precision
+
 - [x] Recall
+
 - [ ] F1
+
 - [ ] Macro F1
-	- [ ] Class level 
+	- [ ] Class level
+
 - [ ] Micro F1
 	- [ ] Sample level
+
 - [ ] BLEU
 	- [ ] n-gram overlap
+
 - [ ] BERTScore
+
 - [ ] Loss
+
 - [ ] Perplexity
+
+## Blogs
+
 - [ ] [Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches)
 	- [ ] Benchmark-based
 		- [ ] Multiple choice
@@ -26,8 +40,16 @@ parent nodes:
 	- [ ] Judgement-based
 		- [ ] Leaderboards
 		- [ ] LLM as a Judge
-- [ ] [DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agent](https://www.alphaxiv.org/abs/2601.20975)
+
 - [ ] [Holistic Evaluation of Language Models (HELM) - Stanford](https://crfm.stanford.edu/helm/)
 	- [ ] A reproducible and transparent framework for evaluating foundation models
+
+## Papers
+
+- [ ] [DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agent](https://www.alphaxiv.org/abs/2601.20975)
+
 - [ ] [PHUDGE: PHI-3 AS SCALABLE JUDGE](https://www.alphaxiv.org/abs/2405.08029)
 
+## Videos
+
+## Code
