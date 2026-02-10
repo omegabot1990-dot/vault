@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.path.startsWith("003 - genesis/research")
+views:
+  - type: table
+    name: Table

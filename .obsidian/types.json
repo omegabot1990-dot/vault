@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "child nodes": "multitext",
+    "parent nodes": "multitext",
+    "story points": "number",
+    "start date": "date",
+    "due date": "date",
+    "end date": "date",
+    "date": "date",
+    "duration": "number",
+    "recurrent": "checkbox",
+    "start:": "date",
+    "due:": "date",
+    "end:": "date",
+    "start": "date",
+    "end": "date",
+    "published on": "date"
+  }
+}

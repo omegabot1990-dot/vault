@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ca3f8017dffea0a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "58643444b08990cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106c728e078aa3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - daily notes/2024/July/2024-07-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc493155ca58b86a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "82190f95cb5de065",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0149747f36c53354",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ca52a1035c85f9c9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e099ae3efda43ba3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "b7daec64229f7abb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9563a95c13b8925a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a88aa05c579c5a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "001 - daily notes/2024/July/2024-07-27.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3dd315a6c1570b81",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "001 - daily notes/2024/July/2024-07-27.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e26b765dc6bb2433",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "001 - daily notes/2024/July/2024-07-27.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "106c728e078aa3c9",
+  "lastOpenFiles": [
+    "001 - daily notes/2024/July/2024-07-20.md",
+    "001 - daily notes/2024/July/2024-07-27.md",
+    "001 - daily notes/2024/July/2024-07-16.md",
+    "001 - daily notes/2024/July/2024-07-18.md",
+    "001 - daily notes/2024/July/2024-07-13.md",
+    "003 - genesis/music/guitar/202407131549 - guitar lead techniques.md",
+    "003 - genesis/music/guitar/guitar fretboard patterns 15x10.canvas",
+    "003 - genesis/music/guitar/202407131746 - guitar chord theory.md",
+    "003 - genesis/music/guitar/202407080348 - guitar fretboard.md",
+    "003 - genesis/music/guitar/202407130717 - music intervals.md",
+    "003 - genesis/music/guitar/202407080341 - guitar scales theory.md",
+    "003 - genesis/music/guitar/guitar fretboard patterns 15x6.canvas",
+    "002 - inbox/raw/Explore Guitar Lead Techniques.md",
+    "002 - inbox/raw/Plan Semester 1 Pre-requisites.md",
+    "002 - inbox/raw/Explore Blues Scale Theory.md",
+    "002 - inbox/raw/Explore Guitar Rhythm Techniques.md",
+    "001 - daily notes/2024/July/2024-07-08.md",
+    "001 - daily notes/2024/June/2024-06-26.md",
+    "001 - daily notes/2024/July/2024-07-07.md",
+    "001 - daily notes/2024/July",
+    "001 - daily notes/2024/June/2024-06-24.md",
+    "001 - daily notes/2024/June/2024-06-13.md",
+    "001 - daily notes/2024/June/2024-06-12.md",
+    "001 - daily notes/2024/June/2024-06-07.md",
+    "001 - daily notes/2024/June/2024-06-06.md",
+    "001 - daily notes/2024/June/2024-06-04.md"
+  ]
+}

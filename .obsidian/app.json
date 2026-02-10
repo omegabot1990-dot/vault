@@ -1,0 +1,16 @@
+{
+  "propertiesInDocument": "hidden",
+  "promptDelete": false,
+  "attachmentFolderPath": "500 - attachments",
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "002 - inbox/raw",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
+}

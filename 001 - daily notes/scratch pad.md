@@ -1,0 +1,4 @@
+---
+tags:
+  - scratch_pad
+---

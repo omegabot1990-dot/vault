@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "path: \"003 - genesis/research\"  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#thesis  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#note  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "tag:#paper  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "tag:#research  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
+    },
+    {
+      "query": "tag:#code  ",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
+    },
+    {
+      "query": "tag:#root  ",
+      "color": {
+        "a": 1,
+        "rgb": 57600
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 855052
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 16316153
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.14740017361111,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.203385416666667,
+  "repelStrength": 11.9513888888889,
+  "linkStrength": 0.955078125,
+  "linkDistance": 285,
+  "scale": 0.2242321076407822,
+  "close": false
+}

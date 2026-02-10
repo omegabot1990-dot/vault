@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1717345312545,
+      "path": "900 - obsidian/hotkeys.md",
+      "title": "hotkeys"
+    },
+    {
+      "type": "folder",
+      "ctime": 1769979294117,
+      "path": "003 - genesis/research",
+      "title": "research"
+    },
+    {
+      "type": "file",
+      "ctime": 1769952851971,
+      "path": "003 - genesis/research/todo.md",
+      "title": "todo"
+    },
+    {
+      "type": "file",
+      "ctime": 1769979262155,
+      "path": "003 - genesis/research/202512261842 - python.md",
+      "title": "python reference"
+    },
+    {
+      "type": "group",
+      "ctime": 1769979330597,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1769121162985,
+          "path": "500 - attachments/deep_reinforcement_learning.pdf",
+          "title": "reinforcement learning"
+        },
+        {
+          "type": "file",
+          "ctime": 1769121096034,
+          "path": "500 - attachments/understanding_deep_learning_2025.pdf",
+          "title": "deep learning"
+        },
+        {
+          "type": "file",
+          "ctime": 1769120969324,
+          "path": "500 - attachments/hands_on_machine_learning_with_scikit_learn_and_pytorch_concepts_tools_and_techniques_to_build_intelligent_systems.pdf",
+          "title": "hands on machine learning with pytorch"
+        }
+      ],
+      "title": "books"
+    },
+    {
+      "type": "group",
+      "ctime": 1769979312810,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1762365389941,
+          "path": "003 - genesis/personal/pkm/202511051854 - critical thinking.md",
+          "title": "critical thinking"
+        },
+        {
+          "type": "file",
+          "ctime": 1763211493391,
+          "path": "003 - genesis/work/omega/202511111548 - note taking.md",
+          "title": "note taking"
+        },
+        {
+          "type": "file",
+          "ctime": 1738244236090,
+          "path": "003 - genesis/music/ableton/202501301423 - ableton keyboard shortcuts.md",
+          "title": "ableton keyboard shortcuts"
+        },
+        {
+          "type": "file",
+          "ctime": 1737831178029,
+          "path": "003 - genesis/music/guitar/202407080344 - guitar practice.md",
+          "title": "guitar practice"
+        },
+        {
+          "type": "file",
+          "ctime": 1737823534724,
+          "path": "600 - task manager/action items/action items.md",
+          "title": "action items"
+        }
+      ],
+      "title": "other"
+    }
+  ]
+}
