@@ -2,6 +2,7 @@
 tags:
 - inbox
 description: ''
+bot: false
 status: Backlog
 task type: null
 urgency level: null

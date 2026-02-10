@@ -3,6 +3,7 @@ tags:
   - moc
 
 description: ''
+bot: true
 parent nodes:
   - '[[math]]'
 ---
