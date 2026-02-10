@@ -8,7 +8,7 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602102045 - scalar|Scalar]]
+- [x] [[202602102047 - scalar|Scalar]]
 
 ## Blogs
 
