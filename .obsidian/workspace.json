@@ -33,8 +33,7 @@
               "title": "2026-02-10"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,11 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "000 - daily notes/2026-02-10.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2026-02-10"
+              "title": "File properties"
             }
           },
           {
@@ -115,13 +112,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - daily notes/2026-02-10.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-10"
+              "title": "Outline"
             }
           },
           {
@@ -250,12 +246,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "000 - daily notes/2026-02-10.md",
     "002 - research/research interests.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
-    "000 - daily notes/2026-02-10.md",
     "008 - templates/node - daily notes.md",
     "000 - daily notes/2026/February/2026-02-10.md",
     "000 - daily notes/2026/February",
