@@ -7,16 +7,14 @@ parent nodes:
 - '[[research.base]]'
 ---
 
+## Topics
+
 - [ ] Move papers from Google Scholar and Semantic Scholar to alphaXiv
 - [ ] Organise alphaXiv
 	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
-- [ ] [OpenAI Prism](https://prism.openai.com/)
 	- [ ] LaTeX editor built for scientific research, similar to Overleaf but AI-powered
 	- [ ] <mark style="background: #FF5582A6;">DECIDED TO USE IT</mark>
-- [ ] [AllenAI - Paper + Figure QA](https://paperfigureqa.allen.ai/)
-- [ ] [PaperBanana: Automating Academic Illustration for AI Scientists](https://www.alphaxiv.org/abs/2601.23265)
 	- [ ] <mark style="background: #FFB86CA6;">For illustrations</mark>
-- [ ] [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://www.alphaxiv.org/abs/2602.03837)
 	- [ ] <mark style="background: #FFB86CA6;">For use case study</mark>
 
 ---
@@ -37,3 +35,15 @@ parent nodes:
 > > - [Connected Papers](https://www.connectedpapers.com/)
 > > - [ACM Digital Library](https://dl.acm.org/)
 > > - [ORKG](https://orkg.org/)
+
+## Blogs
+
+- [ ] [OpenAI Prism](https://prism.openai.com/)
+- [ ] [AllenAI - Paper + Figure QA](https://paperfigureqa.allen.ai/)
+
+## Papers
+
+- [ ] [PaperBanana: Automating Academic Illustration for AI Scientists](https://www.alphaxiv.org/abs/2601.23265)
+- [ ] [Accelerating Scientific Research with Gemini: Case Studies and Common Techniques](https://www.alphaxiv.org/abs/2602.03837)
+
+## Videos
