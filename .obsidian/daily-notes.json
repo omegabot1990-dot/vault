@@ -1,6 +1,6 @@
 {
   "folder": "000 - daily notes",
   "format": "YYYY/MMMM/YYYY-MM-DD",
-  "template": "700 - templates/node - daily notes",
+  "template": "008 - templates/node - daily notes",
   "autorun": true
 }
