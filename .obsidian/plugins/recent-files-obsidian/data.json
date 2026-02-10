@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "linear algebra",
+      "path": "002 - research/linear algebra.md"
+    },
+    {
+      "basename": "specialisation",
+      "path": "002 - research/specialisation.md"
+    },
+    {
       "basename": "2026-02-10",
       "path": "000 - daily notes/2026-02-10.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "202602102050 - scalar",
       "path": "002 - research/202602102050 - scalar.md"
-    },
-    {
-      "basename": "linear algebra",
-      "path": "002 - research/linear algebra.md"
     },
     {
       "basename": "202602062110 - mean",
@@ -195,10 +199,6 @@
     {
       "basename": "evaluation",
       "path": "002 - research/evaluation.md"
-    },
-    {
-      "basename": "OpenClaw",
-      "path": "002 - inbox/raw/OpenClaw.md"
     }
   ],
   "omittedPaths": [],
