@@ -24,6 +24,8 @@ parent nodes:
 
 ## Papers
 
+- [x] [[202602102118 - research- learning to reason with search for llms via reinforcement learning|ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning]]
+
 - [ ] [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](https://www.alphaxiv.org/abs/2601.22975)
 
 - [ ] [Learning to Reason in 13 Parameters](https://www.alphaxiv.org/abs/2602.04118)
