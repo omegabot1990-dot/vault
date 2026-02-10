@@ -7,13 +7,9 @@ parent nodes:
   - '[[math]]'
 ---
 
-# linear algebra
-
-## Key concepts (simplest → hardest)
-
 ### Objects + notation
 
-- [ ] [[202602101648 - scalar|Scalar]]
+- [x] [[202602101748 - scalar|Scalar]]
 - [ ] Vector (row vs column)
 - [ ] Matrix
 - [ ] Tensor (order/axes)
