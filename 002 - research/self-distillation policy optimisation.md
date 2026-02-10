@@ -6,15 +6,5 @@ parent nodes:
 - '[[reinforcement learning verifiable rewards]]'
 ---
 
-## Topics
-
-	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
-
-## Blogs
-
-
-## Papers
-
 - [ ] [Reinforcement Learning via Self-Distillation](https://www.alphaxiv.org/abs/2601.20802)
-
-## Videos
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>

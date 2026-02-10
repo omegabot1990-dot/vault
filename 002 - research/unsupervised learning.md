@@ -6,8 +6,6 @@ parent nodes:
 - '[[deep learning]]'
 ---
 
-## Topics
-
 - [ ] Clustering
 - [ ] Subspace Estimation
 	- [ ] Principal Component Analysis (PCA) (Linear)?
@@ -17,11 +15,3 @@ parent nodes:
 - [ ] Generative Adversarial Networks?
 - [ ] Normalising Flows?
 - [ ] Diffusion Models?
-
-## Blogs
-
-
-## Papers
-
-
-## Videos

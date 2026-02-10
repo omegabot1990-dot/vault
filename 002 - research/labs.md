@@ -7,8 +7,6 @@ parent nodes:
 - '[[research.base]]'
 ---
 
-## Topics
-
 %% 
 (resources:: Resources - 202601281840)
 %%
@@ -20,11 +18,3 @@ parent nodes:
 > > - [Meta](https://ai.meta.com/results/?content_types%5B0%5D=publication)
 > > - [Microsoft](https://www.microsoft.com/en-us/research/publications/?facet%5Bdate%5D%5Bfixed%5D=any&facet%5Btax%5D%5Bmsr-research-area%5D[]=13556&pg=1&sort_by=most-recent)
 > > - [Nvidia](https://research.nvidia.com/research-area/machine-learning-artificial-intelligence)
-
-## Blogs
-
-
-## Papers
-
-
-## Videos

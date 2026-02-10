@@ -5,10 +5,8 @@ description: ''
 parent nodes: REQUIRED unless this is the root MOC
 ---
 
-## Topics
+# <% tp.file.title %>
 
-## Blogs
+## Map
 
-## Papers
-
-## Videos
+## Links

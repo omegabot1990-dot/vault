@@ -7,16 +7,6 @@ parent nodes:
 - '[[research.base]]'
 ---
 
-## Topics
-
-
-## Blogs
-
 - [Amazon Science](https://www.amazon.science/)
 - [Cameron R. Wolfe, Ph.D.](https://substack.com/@cwolferesearch)
 - [Sebastian Raschka, PhD](https://substack.com/@rasbt)
-
-## Papers
-
-
-## Videos

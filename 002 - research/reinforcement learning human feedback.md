@@ -7,14 +7,4 @@ parent nodes:
 - '[[reward model]]'
 ---
 
-## Topics
-
-
-## Blogs
-
 - [ ] [Reinforcement Learning from Human Feedback](https://rlhfbook.com/)
-
-## Papers
-
-
-## Videos
