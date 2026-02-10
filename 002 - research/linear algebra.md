@@ -10,6 +10,7 @@ parent nodes:
 
 - [x] [[202602102050 - scalar|Scalar]]
 - [x] [[202602102054 - vectors|Vectors]]
+- [x] [[202602102359 - span|Span]]
 
 ## Blogs
 
