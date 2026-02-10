@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
-    },
-    {
       "basename": "202602102054 - vectors",
       "path": "002 - research/202602102054 - vectors.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "202602102050 - scalar",
@@ -19,10 +23,6 @@
     {
       "basename": "202602062110 - mean",
       "path": "002 - research/202602062110 - mean.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "code",
@@ -195,10 +195,6 @@
     {
       "basename": "202602092108 - independent and identically distributed",
       "path": "003 - genesis/research/202602092108 - independent and identically distributed.md"
-    },
-    {
-      "basename": "202602092150 - marginalisation",
-      "path": "003 - genesis/research/202602092150 - marginalisation.md"
     }
   ],
   "omittedPaths": [],

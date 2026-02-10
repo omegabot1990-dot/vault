@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "700 - templates",
+  "templates_folder": "008 - templates",
   "templates_pairs": [
     [
       "",
@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "950 - scripts",
+  "user_scripts_folder": "",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -21,14 +21,13 @@
     {
       "folder": "002 - inbox/zettel",
       "template": "700 - templates/node - zettel.md"
-    },
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
     {
-      "folder": "600 - task manager/planning",
-      "template": "700 - templates/node - planning.md"
-    },
-    {
-      "folder": "600 - task manager/retrospectives",
-      "template": "700 - templates/node - retrospective.md"
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
@@ -39,5 +38,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }
