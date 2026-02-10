@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
+      "LiAlertTriangle",
+      "LiAirplay",
       "LiAlertCircle",
-      "LiAtom",
-      "LiAlbum",
-      "LiAmphora",
-      "LiArchive"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,21 +34,20 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "700 - templates": "RaAmmoBag",
   "800 - metadata": "RaChessboard",
   "900 - obsidian": "RaCastleEmblem",
   "600 - task manager": "RaCompass",
   "900 - obsidian/hotkeys.md": "RaBoomerang",
   "950 - scripts": "RaCrystalWand",
-  "750 - ai conversations": "RaDiceFive",
-  "500 - attachments": "RaAlligatorClip",
   "600 - task manager/action items/action items.md": "LiArrowDownNarrowWide",
   "600 - task manager/archive/Explore Artists.md": "LiAlbum",
   "001 - daily notes": "LiActivity",
   "002 - inbox": "LiAlbum",
   "003 - genesis": "LiArchive",
   "001 - daily notes/scratch pad.md": "LiAmphora",
-  "000 - inbox": "LiAlbum",
   "002 - research": "LiAtom",
-  "900 - help": "LiAlertCircle"
+  "000 - daily notes": "LiAlbum",
+  "001 - inbox": "LiAirplay",
+  "008 - templates": "LiAlertTriangle",
+  "009 - help": "LiAccessibility"
 }

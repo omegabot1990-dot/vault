@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - inbox/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -89,7 +89,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 - inbox/README.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
               "title": "File properties for README"
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - inbox/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -236,15 +236,27 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5faadfb2ca62740e",
+  "active": "18f5190bb6e5db7e",
   "lastOpenFiles": [
+    "000 - inbox/README.md",
+    "009 - help/hotkeys.md",
+    "009 - help/help.md",
+    "009 - help",
+    "008 - templates/node - zettel.md",
+    "008 - templates/node - moc.md",
+    "008 - templates/node - inbox.md",
+    "008 - templates",
+    "001 - inbox/RLVR.md",
+    "001 - inbox/README.md",
+    "001 - inbox",
+    "000 - daily notes",
+    "500 - attachments/hands_on_machine_learning_with_scikit_learn_and_pytorch_concepts_tools_and_techniques_to_build_intelligent_systems.pdf",
+    "500 - attachments/eric_matthes_python_crash_course_a_hands_on_introduction.pdf",
     "700 - templates/Untitled",
     "500 - attachments/Untitled",
     "500 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "000 - inbox/RLVR.md",
     "500 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
-    "000 - inbox/README.md",
-    "500 - attachments/build_a_large_language_model_from_scratch.pdf",
     "002 - inbox/raw/OpenClaw.md",
     "003 - genesis/research/202602080014 - central limit theorem.md",
     "003 - genesis/research/202602100138 - bayes factor.md",
@@ -262,18 +274,6 @@
     "003 - genesis/research/202602091258 - probability mass function.md",
     "003 - genesis/research/202602091301 - probability density function.md",
     "002 - inbox/raw/RLVR.md",
-    "003 - genesis/research/compute.md",
-    "003 - genesis/research/202602080100 - joint probability.md",
-    "003 - genesis/research/202602080132 - conditional probability.md",
-    "003 - genesis/research/202602061346 - sample space.md",
-    "003 - genesis/research/202602062040 - probability.md",
-    "003 - genesis/research/202602080005 - sampling.md",
-    "500 - attachments/system_design.pdf",
-    "001 - daily notes/2026/February",
-    "500 - attachments/machine_learning_the_archive.pdf",
-    "003 - genesis/research/research.base",
-    "500 - attachments/understanding_deep_learning_2025.pdf",
-    "500 - attachments/a_comprehensive_survey_of_small_language_models_in_the_era_of_large_language_models_techniques_enhancements_applications_collaboration_with_llms_and_trustworthiness.pdf",
     "800 - metadata/workflow.canvas",
     "003 - genesis/somedude - time.canvas",
     "003 - genesis/music/guitar/guitar fretboard patterns 15x6.canvas",
