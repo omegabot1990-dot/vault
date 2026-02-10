@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for direct preference optimisation.
+description: ''
 parent nodes:
 - '[[fine-tuning]]'
 ---

@@ -4,7 +4,7 @@ tags:
 aliases:
 - Monte-Carlo Tree Search
 title: monte-carlo tree search
-description: Concise concept note on monte-carlo tree search.
+description: ''
 parent nodes:
 - '[[monte carlo tree search]]'
 published on: null

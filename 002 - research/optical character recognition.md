@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for optical character recognition.
+description: ''
 parent nodes:
 - '[[vision language models]]'
 ---

@@ -1,8 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for reinforcement learning human
-  feedback.
+description: ''
 parent nodes:
 - '[[proximal policy optimisation]]'
 - '[[reward model]]'

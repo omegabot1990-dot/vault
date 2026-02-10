@@ -4,7 +4,7 @@ tags:
 aliases:
 - Supervised Learning
 title: supervised learning
-description: Concise concept note on supervised learning.
+description: ''
 parent nodes:
 - '[[supervised learning]]'
 published on: null

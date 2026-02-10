@@ -4,8 +4,7 @@ tags:
 aliases:
 - Expected Log-Likelihood
 title: expected log-likelihood
-description: 'Math note: - If we have a true distribution $p(x)$ and a model distribution
-  $q(x|\theta)$,'
+description: ''
 parent nodes:
 - '[[202602061424 - log-likelihood]]'
 published on: null

@@ -4,8 +4,7 @@ tags:
 aliases:
 - Marginalisation
 title: marginalisation
-description: 'Math note: - In probability, marginalising (or "marginalising out")
-  a random variable means removing it'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

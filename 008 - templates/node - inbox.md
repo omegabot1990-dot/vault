@@ -1,21 +1,17 @@
 ---
 tags:
-  - inbox
-
-description: "REQUIRED: what needs Batman’s attention?"
+- inbox
+description: ''
 status: Backlog
-
-task type: # capture | organise | distil | plan | execute
-urgency level: # urgent | not urgent
-importance level: # important | not important
-
-due date:
-start date:
-end date:
-story points:
-recurrent:
-
-parent nodes: "REQUIRED: link to a parent MOC/Zettel"
+task type: null
+urgency level: null
+importance level: null
+due date: null
+start date: null
+end date: null
+story points: null
+recurrent: null
+parent nodes: 'REQUIRED: link to a parent MOC/Zettel'
 ---
 
 ## Task

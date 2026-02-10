@@ -4,7 +4,7 @@ tags:
 aliases:
 - SentencePiece
 title: sentencepiece
-description: Concise concept note on sentencepiece.
+description: ''
 parent nodes:
 - '[[tokenizer]]'
 published on: null

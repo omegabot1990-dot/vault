@@ -4,7 +4,7 @@ tags:
 aliases:
 - On-line learning
 title: on-line learning
-description: Concise concept note on on-line learning.
+description: ''
 parent nodes:
 - '[[deep learning]]'
 published on: null

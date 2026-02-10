@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for rubrics as reward.
+description: ''
 parent nodes:
 - '[[reward model]]'
 ---

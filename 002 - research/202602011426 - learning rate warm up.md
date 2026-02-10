@@ -4,7 +4,7 @@ tags:
 aliases:
 - Learning rate warm up
 title: learning rate warm up
-description: Concise concept note on learning rate warm up.
+description: ''
 parent nodes:
 - '[[hyperparameters]]'
 published on: null

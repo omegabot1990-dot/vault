@@ -5,7 +5,7 @@ aliases:
 - AI
 - Artificial Intelligence
 title: artificial intelligence
-description: Concise concept note on artificial intelligence.
+description: ''
 parent nodes:
 - '[[definitions]]'
 published on: null

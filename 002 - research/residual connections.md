@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for residual connections.
+description: ''
 parent nodes:
 - '[[deep learning]]'
 ---

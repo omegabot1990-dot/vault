@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for lightweight models.
+description: ''
 parent nodes:
 - '[[large language models]]'
 ---

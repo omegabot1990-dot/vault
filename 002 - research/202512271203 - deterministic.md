@@ -4,8 +4,7 @@ tags:
 aliases:
 - Deterministic
 title: deterministic
-description: A system in which no randomness is involved in the development of future
-  states. Given
+description: ''
 parent nodes:
 - '[[definitions]]'
 published on: null

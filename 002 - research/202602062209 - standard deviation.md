@@ -4,8 +4,7 @@ tags:
 aliases:
 - Standard Deviation
 title: standard deviation
-description: 'Math note: - Standard Deviation is the square root of the variance -
-  It brings'
+description: ''
 parent nodes:
 - '[[202602062206 - variance|Variance]]'
 published on: null

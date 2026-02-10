@@ -4,8 +4,7 @@ tags:
 aliases:
 - Random Variable
 title: random variable
-description: 'Math note: - A Random Variable is a function that maps the sample space
-  $S$'
+description: ''
 parent nodes:
 - '[[probability and statistics]]'
 published on: null

@@ -1,8 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for difficulty-aware group policy
-  optimisation.
+description: ''
 parent nodes:
 - '[[group relative policy optimisation]]'
 ---

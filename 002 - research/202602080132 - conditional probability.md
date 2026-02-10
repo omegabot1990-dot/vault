@@ -4,8 +4,7 @@ tags:
 aliases:
 - Conditional Probability
 title: conditional probability
-description: 'Math note: - Conditional Probability is the probability of an event
-  occurring given that another'
+description: ''
 parent nodes:
 - '[[202602062040 - probability|Probability]]'
 published on: null

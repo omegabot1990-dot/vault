@@ -4,8 +4,7 @@ tags:
 aliases:
 - Law of Total Probabilities
 title: law of total probabilities
-description: 'Math note: - The Law of Total Probability is the mathematical "bridge"
-  that allows you'
+description: ''
 parent nodes:
 - '[[202602092150 - marginalisation|Marginalisation]]'
 published on: null

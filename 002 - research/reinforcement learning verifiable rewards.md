@@ -1,8 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for reinforcement learning verifiable
-  rewards.
+description: ''
 parent nodes:
 - '[[proximal policy optimisation]]'
 - '[[group relative policy optimisation]]'

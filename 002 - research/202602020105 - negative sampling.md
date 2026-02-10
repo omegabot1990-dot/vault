@@ -4,7 +4,7 @@ tags:
 aliases:
 - Negative sampling
 title: negative sampling
-description: Concise concept note on negative sampling.
+description: ''
 parent nodes:
 - '[[data]]'
 - '[[fine-tuning]]'

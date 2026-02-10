@@ -4,8 +4,7 @@ tags:
 aliases:
 - Central Limit Theorem
 title: central limit theorem
-description: 'Math note: - It states that if you take enough samples from any distribution
-  (no'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

@@ -4,8 +4,7 @@ tags:
 aliases:
 - Log-Likelihood
 title: log-likelihood
-description: 'Math note: - Log-likelihood converts the calculation from Product to
-  Sum'
+description: ''
 parent nodes:
 - '[[202602061241 - likelihood]]'
 published on: null

@@ -4,7 +4,7 @@ tags:
 aliases:
 - Stochastic Gradient Descent
 title: stochastic gradient descent
-description: Concise concept note on stochastic gradient descent.
+description: ''
 parent nodes:
 - '[[optimizer]]'
 published on: null

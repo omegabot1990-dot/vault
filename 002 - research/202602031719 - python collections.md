@@ -4,7 +4,7 @@ tags:
 aliases:
 - collections
 title: python collections
-description: 'Code note: - [ ] ChainMap? - [ ] namedtuple? - [ ] UserDict? -'
+description: ''
 parent nodes:
 - '[[202512261842 - python]]'
 published on: null

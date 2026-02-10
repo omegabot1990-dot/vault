@@ -4,7 +4,7 @@ tags:
 aliases:
 - Machine Learning
 title: machine learning
-description: Concise concept note on machine learning.
+description: ''
 parent nodes:
 - '[[machine learning]]'
 published on: null

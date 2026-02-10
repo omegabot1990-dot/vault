@@ -4,7 +4,7 @@ tags:
 aliases:
 - Teacher forcing
 title: teacher forcing
-description: Concise concept note on teacher forcing.
+description: ''
 parent nodes:
 - '[[training]]'
 published on: null

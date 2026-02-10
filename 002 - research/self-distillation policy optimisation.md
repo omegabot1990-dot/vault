@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for self-distillation policy optimisation.
+description: ''
 parent nodes:
 - '[[reinforcement learning verifiable rewards]]'
 ---

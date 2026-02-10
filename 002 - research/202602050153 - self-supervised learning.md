@@ -4,7 +4,7 @@ tags:
 aliases:
 - Self-supervised learning
 title: self-supervised learning
-description: Concise concept note on self-supervised learning.
+description: ''
 parent nodes:
 - '[[deep learning]]'
 published on: null

@@ -4,7 +4,7 @@ tags:
 aliases:
 - Masked language modelling
 title: masked language modelling
-description: Concise concept note on masked language modelling.
+description: ''
 parent nodes:
 - '[[202602050153 - self-supervised learning|Self-supervised learning]]'
 published on: null

@@ -4,8 +4,7 @@ tags:
 aliases:
 - Normal Distribution
 title: normal distribution
-description: 'Math note: - The Normal Distribution (also known as the Gaussian Distribution
-  or the Bell'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

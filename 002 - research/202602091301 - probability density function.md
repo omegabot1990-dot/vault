@@ -4,8 +4,7 @@ tags:
 aliases:
 - Probability Density Function
 title: probability density function
-description: 'Math note: - The Probability Density Function (PDF) is used for continuous
-  data (like height)'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

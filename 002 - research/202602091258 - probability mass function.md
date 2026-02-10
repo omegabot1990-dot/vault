@@ -4,8 +4,7 @@ tags:
 aliases:
 - Probability Mass Function
 title: probability mass function
-description: 'Math note: - Probability Mass Function (PMF) is used for discrete data
-  (like die rolls)'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

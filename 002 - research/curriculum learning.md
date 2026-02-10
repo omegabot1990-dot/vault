@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for curriculum learning.
+description: ''
 parent nodes:
 - '[[post-training]]'
 ---

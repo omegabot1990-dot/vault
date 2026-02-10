@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for proximal policy optimisation.
+description: ''
 parent nodes:
 - '[[policy gradient methods]]'
 ---

@@ -4,7 +4,7 @@ tags:
 aliases:
 - Natural Language Processing
 title: natural language processing
-description: Concise concept note on natural language processing.
+description: ''
 parent nodes:
 - '[[natural language processing]]'
 published on: null

@@ -3,7 +3,7 @@ tags:
 - moc
 - math
 - root
-description: MOC linking key concepts and zettels for math.
+description: ''
 parent nodes:
 - '[[research.base]]'
 ---

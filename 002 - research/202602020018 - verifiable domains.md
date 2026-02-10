@@ -4,7 +4,7 @@ tags:
 aliases:
 - Verifiable domains
 title: verifiable domains
-description: Concise concept note on verifiable domains.
+description: ''
 parent nodes:
 - '[[reward model]]'
 published on: null

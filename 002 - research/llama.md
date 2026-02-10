@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for llama.
+description: ''
 parent nodes:
 - '[[large language models]]'
 ---

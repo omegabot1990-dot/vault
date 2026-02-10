@@ -4,8 +4,7 @@ tags:
 aliases:
 - functools
 title: python functools
-description: 'Code note: 1. lrucache() 1. Helps with recursive functions by memoisation
-  2. reduce() 1. reduce(func,'
+description: ''
 parent nodes:
 - '[[202512261842 - python]]'
 published on: null

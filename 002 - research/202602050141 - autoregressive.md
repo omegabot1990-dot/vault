@@ -4,7 +4,7 @@ tags:
 aliases:
 - Autoregressive
 title: autoregressive
-description: Concise concept note on autoregressive.
+description: ''
 parent nodes:
 - '[[definitions]]'
 published on: null

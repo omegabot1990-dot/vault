@@ -4,7 +4,7 @@ tags:
 aliases:
 - SFT Dataset
 title: supervised fine-tuning datasets
-description: Concise concept note on supervised fine-tuning datasets.
+description: ''
 parent nodes:
 - '[[supervised fine-tuning]]'
 - '[[data]]'

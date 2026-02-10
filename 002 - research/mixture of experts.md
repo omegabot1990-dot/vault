@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for mixture of experts.
+description: ''
 parent nodes:
 - '[[architecture]]'
 ---

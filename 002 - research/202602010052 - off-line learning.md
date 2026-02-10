@@ -4,7 +4,7 @@ tags:
 aliases:
 - Off-line learning
 title: off-line learning
-description: Concise concept note on off-line learning.
+description: ''
 parent nodes:
 - '[[deep learning]]'
 published on: null

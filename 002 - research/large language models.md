@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for large language models.
+description: ''
 parent nodes:
 - '[[generative pre-trained transformer]]'
 ---

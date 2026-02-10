@@ -4,8 +4,7 @@ tags:
 aliases:
 - Expected Log-Probability
 title: expected log-probability
-description: 'Math note: - If we have a distribution $p(x)$, the expected log-probability
-  represents the average'
+description: ''
 parent nodes:
 - '[[probability and statistics]]'
 published on: null

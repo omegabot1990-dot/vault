@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for semantic-based reward.
+description: ''
 parent nodes:
 - '[[reward model]]'
 ---

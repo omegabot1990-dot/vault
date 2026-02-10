@@ -1,19 +1,19 @@
 ---
 tags:
-  - inbox
-  - work
-  - academic
-description:
-due date:
-start date:
-end date:
+- inbox
+- work
+- academic
+description: ''
+due date: null
+start date: null
+end date: null
 status: In Progress
 importance level: important
 urgency level: urgent
 task type: capture
-story points:
-parent nodes:
-recurrent:
+story points: null
+parent nodes: null
+recurrent: null
 ---
 
 ## Open Problems

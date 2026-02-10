@@ -4,8 +4,7 @@ tags:
 aliases:
 - Joint Probability
 title: joint probability
-description: 'Math note: - Joint Probability is the probability of two or more independent
-  events happening'
+description: ''
 parent nodes:
 - '[[202602062040 - probability|Probability]]'
 published on: null

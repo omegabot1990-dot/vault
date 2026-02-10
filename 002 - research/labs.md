@@ -2,7 +2,7 @@
 tags:
 - moc
 - root
-description: MOC linking key concepts and zettels for labs.
+description: ''
 parent nodes:
 - '[[research.base]]'
 ---

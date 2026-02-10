@@ -4,8 +4,7 @@ tags:
 aliases:
 - Independent and Identically Distributed
 title: independent and identically distributed
-description: 'Math note: - If your data is Independent and Identically Distributed,
-  it means every observation'
+description: ''
 parent nodes:
 - '[[202602072325 - distribution|Distribution]]'
 published on: null

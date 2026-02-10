@@ -4,8 +4,7 @@ tags:
 aliases:
 - Mutually Exclusive
 title: mutually exclusive
-description: 'Math note: - Mutually Exclusive events (also called disjoint events)
-  are events that cannot happen'
+description: ''
 parent nodes:
 - '[[202602092352 - event|Event]]'
 published on: null

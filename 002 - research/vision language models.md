@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for vision language models.
+description: ''
 parent nodes:
 - '[[decoder transformers]]'
 ---

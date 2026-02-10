@@ -4,8 +4,7 @@ tags:
 aliases:
 - Self-Information
 title: self-information
-description: 'Math note: - Information is a measure of surprise [^1] - Information
-  represents the degree'
+description: ''
 parent nodes:
 - '[[202602061605 - information theory|Information Theory]]'
 published on: null

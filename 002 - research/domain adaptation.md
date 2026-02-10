@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for domain adaptation.
+description: ''
 parent nodes:
 - '[[large language models]]'
 ---

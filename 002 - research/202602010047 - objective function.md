@@ -4,7 +4,7 @@ tags:
 aliases:
 - Objective function
 title: objective function
-description: Concise concept note on objective function.
+description: ''
 parent nodes:
 - '[[loss]]'
 published on: null

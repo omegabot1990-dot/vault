@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for decoder transformers.
+description: ''
 parent nodes:
 - '[[transformers]]'
 ---

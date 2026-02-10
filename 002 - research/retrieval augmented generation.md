@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for retrieval augmented generation.
+description: ''
 parent nodes:
 - '[[inference]]'
 ---

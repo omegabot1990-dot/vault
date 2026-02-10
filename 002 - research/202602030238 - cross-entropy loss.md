@@ -4,7 +4,7 @@ tags:
 aliases:
 - Cross-Entropy Loss
 title: cross-entropy loss
-description: Concise concept note on cross-entropy loss.
+description: ''
 parent nodes:
 - '[[loss]]'
 published on: null

@@ -4,8 +4,7 @@ tags:
 aliases:
 - Random Experiment
 title: random experiment
-description: 'Math note: - A Random Experiment is any process, trial, or observation
-  that has a'
+description: ''
 parent nodes:
 - '[[probability and statistics]]'
 published on: null

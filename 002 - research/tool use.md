@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for tool use.
+description: ''
 parent nodes:
 - '[[reasoning]]'
 - '[[reinforcement learning verifiable rewards]]'

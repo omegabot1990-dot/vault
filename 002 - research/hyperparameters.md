@@ -1,7 +1,7 @@
 ---
 tags:
 - moc
-description: MOC linking key concepts and zettels for hyperparameters.
+description: ''
 parent nodes:
 - '[[training]]'
 - '[[deep learning]]'

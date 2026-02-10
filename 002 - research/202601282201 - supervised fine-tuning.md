@@ -4,7 +4,7 @@ tags:
 aliases:
 - Supervised Fine-Tuning
 title: supervised fine-tuning
-description: Concise concept note on supervised fine-tuning.
+description: ''
 parent nodes:
 - '[[supervised fine-tuning]]'
 published on: null

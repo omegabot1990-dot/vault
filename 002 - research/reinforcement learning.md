@@ -2,7 +2,7 @@
 tags:
 - moc
 - root
-description: MOC linking key concepts and zettels for reinforcement learning.
+description: ''
 parent nodes:
 - '[[research.base]]'
 ---

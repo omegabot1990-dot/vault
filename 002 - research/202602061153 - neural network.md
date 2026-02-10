@@ -4,7 +4,7 @@ tags:
 aliases:
 - Neural Network
 title: neural network
-description: Concise concept note on neural network.
+description: ''
 parent nodes:
 - '[[neural networks]]'
 published on: null

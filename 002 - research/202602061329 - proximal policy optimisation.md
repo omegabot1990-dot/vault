@@ -4,7 +4,7 @@ tags:
 aliases:
 - Proximal Policy Optimisation
 title: proximal policy optimisation
-description: Concise note on proximal policy optimisation.
+description: ''
 parent nodes:
 - '[[proximal policy optimisation]]'
 published on: null

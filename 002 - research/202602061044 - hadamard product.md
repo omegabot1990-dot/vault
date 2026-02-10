@@ -4,8 +4,7 @@ tags:
 aliases:
 - Hadamard product
 title: hadamard product
-description: 'Math note: - The Hadamard product (also known as the element-wise product)
-  is an operation'
+description: ''
 parent nodes:
 - '[[math]]'
 published on: null
