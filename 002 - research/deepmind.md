@@ -3,8 +3,8 @@ tags:
   - moc
 description: deepmind family
 parent nodes:
-  - "[[003 - genesis/research/deep learning]]"
-  - "[[003 - genesis/research/reinforcement learning]]"
+  - "[[deep learning]]"
+  - "[[reinforcement learning]]"
 child nodes:
 ---
 

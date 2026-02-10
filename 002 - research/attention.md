@@ -3,7 +3,7 @@ tags:
   - moc
 description:
 parent nodes:
-  - "[[003 - genesis/research/transformers]]"
+  - "[[transformers]]"
 child nodes:
 ---
 

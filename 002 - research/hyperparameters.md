@@ -4,8 +4,8 @@ tags:
 description:
 parent nodes:
   - "[[training]]"
-  - "[[003 - genesis/research/deep learning]]"
-  - "[[003 - genesis/research/reinforcement learning]]"
+  - "[[deep learning]]"
+  - "[[reinforcement learning]]"
 child nodes:
 ---
 

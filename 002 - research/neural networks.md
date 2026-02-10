@@ -1,9 +1,9 @@
 ---
 tags:
   - moc
-description: "[[003 - genesis/research/deep learning]]"
+description: "[[deep learning]]"
 parent nodes:
-  - "[[003 - genesis/research/deep learning]]"
+  - "[[deep learning]]"
 child nodes:
 ---
 

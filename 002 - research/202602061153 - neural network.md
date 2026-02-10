@@ -6,7 +6,7 @@ aliases:
 title: neural network
 description:
 parent nodes:
-  - "[[003 - genesis/research/neural networks]]"
+  - "[[neural networks]]"
 child nodes:
 annotation-target:
 published on:

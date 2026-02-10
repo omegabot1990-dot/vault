@@ -3,7 +3,7 @@ tags:
   - moc
 description:
 parent nodes:
-  - "[[003 - genesis/research/deep learning]]"
+  - "[[deep learning]]"
   - "[[large language models]]"
 child nodes:
 ---

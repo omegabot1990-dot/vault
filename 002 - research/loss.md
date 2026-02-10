@@ -3,7 +3,7 @@ tags:
   - moc
 description: loss functions
 parent nodes:
-  - "[[003 - genesis/research/deep learning]]"
+  - "[[deep learning]]"
 child nodes:
 ---
 

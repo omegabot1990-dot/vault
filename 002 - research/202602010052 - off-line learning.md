@@ -6,7 +6,7 @@ aliases:
 title: off-line learning
 description:
 parent nodes:
-  - "[[003 - genesis/research/deep learning]]"
+  - "[[deep learning]]"
 child nodes:
 annotation-target:
 published on:
