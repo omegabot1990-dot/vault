@@ -10,7 +10,6 @@ parent nodes: "REQUIRED: link to a parent MOC/Zettel"
 
 # Optional (use as needed)
 aliases:
-annotation-target:
 published on:
 ---
 

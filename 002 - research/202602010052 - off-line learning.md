@@ -7,7 +7,6 @@ title: off-line learning
 description:
 parent nodes:
   - "[[deep learning]]"
-annotation-target:
 published on:
 ---
 

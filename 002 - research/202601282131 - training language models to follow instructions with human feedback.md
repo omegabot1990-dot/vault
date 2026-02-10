@@ -8,7 +8,6 @@ title: training language models to follow instructions with human feedback
 description:
 parent nodes:
   - "[[post-training]]"
-annotation-target:
 published on: 2022-03-04
 ---
 

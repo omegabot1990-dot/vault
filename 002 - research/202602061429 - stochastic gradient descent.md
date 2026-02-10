@@ -7,7 +7,6 @@ title: stochastic gradient descent
 description:
 parent nodes:
   - "[[optimizer]]"
-annotation-target:
 published on:
 ---
 

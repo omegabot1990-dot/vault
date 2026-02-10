@@ -7,7 +7,6 @@ title: self-supervised learning
 description:
 parent nodes:
   - "[[deep learning]]"
-annotation-target:
 published on:
 ---
 

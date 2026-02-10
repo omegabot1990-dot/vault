@@ -7,7 +7,6 @@ title: supervised learning
 description:
 parent nodes:
   - "[[supervised learning]]"
-annotation-target:
 published on:
 ---
 

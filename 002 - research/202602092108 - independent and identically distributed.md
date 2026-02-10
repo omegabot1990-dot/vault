@@ -7,7 +7,6 @@ title: independent and identically distributed
 description:
 parent nodes:
   - "[[202602072325 - distribution|Distribution]]"
-annotation-target:
 published on:
 ---
 

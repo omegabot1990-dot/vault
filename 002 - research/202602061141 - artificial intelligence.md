@@ -8,7 +8,6 @@ title: artificial intelligence
 description:
 parent nodes:
   - "[[definitions]]"
-annotation-target:
 published on:
 ---
 

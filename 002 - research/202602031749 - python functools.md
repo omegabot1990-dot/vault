@@ -7,7 +7,6 @@ title: python functools
 description:
 parent nodes:
   - "[[202512261842 - python]]"
-annotation-target:
 published on:
 ---
 

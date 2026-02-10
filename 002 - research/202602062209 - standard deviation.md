@@ -7,7 +7,6 @@ title: standard deviation
 description:
 parent nodes:
   - "[[202602062206 - variance|Variance]]"
-annotation-target:
 published on:
 ---
 

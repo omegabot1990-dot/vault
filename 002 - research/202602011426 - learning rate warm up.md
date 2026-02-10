@@ -7,7 +7,6 @@ title: learning rate warm up
 description:
 parent nodes:
   - "[[hyperparameters]]"
-annotation-target:
 published on:
 ---
 

@@ -7,7 +7,6 @@ title: neural network
 description:
 parent nodes:
   - "[[neural networks]]"
-annotation-target:
 published on:
 ---
 

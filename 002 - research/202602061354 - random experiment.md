@@ -7,7 +7,6 @@ title: random experiment
 description:
 parent nodes:
   - "[[probability and statistics]]"
-annotation-target:
 published on:
 ---
 
