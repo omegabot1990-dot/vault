@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "node - daily notes",
+      "path": "008 - templates/node - daily notes.md"
+    },
+    {
       "basename": "202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning",
       "path": "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "OpenClaw",
       "path": "002 - inbox/raw/OpenClaw.md"
-    },
-    {
-      "basename": "202602080014 - central limit theorem",
-      "path": "003 - genesis/research/202602080014 - central limit theorem.md"
-    },
-    {
-      "basename": "202602100138 - bayes factor",
-      "path": "003 - genesis/research/202602100138 - bayes factor.md"
     }
   ],
   "omittedPaths": [],
