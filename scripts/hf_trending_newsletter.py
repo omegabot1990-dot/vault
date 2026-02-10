@@ -70,15 +70,30 @@ class Paper:
     arxiv: str | None
 
 
-def fetch(url: str) -> str:
+def fetch(url: str, *, retries: int = 3, backoff_s: float = 2.0) -> str:
     req = urllib.request.Request(
         url,
         headers={
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36",
         },
     )
-    with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read().decode("utf-8", "ignore")
+
+    last_err: Exception | None = None
+    for i in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                return r.read().decode("utf-8", "ignore")
+        except Exception as e:
+            last_err = e
+            # basic backoff (handles 429/5xx bursts)
+            if i < retries:
+                import time
+
+                time.sleep(backoff_s * (2 ** i))
+                continue
+            raise
+
+    raise RuntimeError(str(last_err) if last_err else "fetch failed")
 
 
 def norm(s: str) -> str:
@@ -352,8 +367,21 @@ def render_daily_note(papers: list[Paper]) -> str:
 
 def main() -> int:
     vault_root = Path(__file__).resolve().parents[1]
-    trending = fetch(HF_TRENDING_URL)
     keywords = load_interest_keywords(vault_root)
+
+    cache_dir = vault_root / ".cache"
+    cache_dir.mkdir(exist_ok=True)
+    trending_cache = cache_dir / "hf_trending.html"
+
+    try:
+        trending = fetch(HF_TRENDING_URL, retries=2)
+        trending_cache.write_text(trending, encoding="utf-8")
+    except Exception as e:
+        if trending_cache.exists():
+            trending = trending_cache.read_text(encoding="utf-8")
+        else:
+            raise
+
     papers = parse_trending(trending, keywords)
 
     # filter + rank by interest score

@@ -9,6 +9,9 @@
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/cache/
 
+# Script caches
+.cache/
+
 # Obsidian macOS
 .obsidian/.DS_Store
 .obsidian/plugins/.DS_Store
