@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "000 - inbox/README.md"
+    },
+    {
+      "basename": "build_a_reasoning_model_from_scrath",
+      "path": "500 - attachments/build_a_reasoning_model_from_scrath.pdf"
+    },
+    {
+      "basename": "RLVR",
+      "path": "000 - inbox/RLVR.md"
+    },
+    {
+      "basename": "machine_learning_q_and_ai_sebastian_raschka_phd",
+      "path": "500 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf"
+    },
+    {
       "basename": "build_a_large_language_model_from_scratch",
       "path": "500 - attachments/build_a_large_language_model_from_scratch.pdf"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "202602030238 - cross-entropy loss",
       "path": "003 - genesis/research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602061241 - likelihood",
-      "path": "003 - genesis/research/202602061241 - likelihood.md"
-    },
-    {
-      "basename": "202602061424 - log-likelihood",
-      "path": "003 - genesis/research/202602061424 - log-likelihood.md"
-    },
-    {
-      "basename": "202602061419 - expected log-likelihood",
-      "path": "003 - genesis/research/202602061419 - expected log-likelihood.md"
-    },
-    {
-      "basename": "202602061443 - expected log-probability",
-      "path": "003 - genesis/research/202602061443 - expected log-probability.md"
     }
   ],
   "omittedPaths": [],
