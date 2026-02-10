@@ -7,7 +7,6 @@ title: sentencepiece
 description:
 parent nodes:
   - "[[tokenizer]]"
-child nodes:
 annotation-target:
 published on:
 ---

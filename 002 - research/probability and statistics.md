@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[math]]"
-child nodes:
 ---
 
 - [ ] What is probability?

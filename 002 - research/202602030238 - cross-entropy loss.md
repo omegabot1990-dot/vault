@@ -7,7 +7,6 @@ title: cross-entropy loss
 description:
 parent nodes:
   - "[[loss]]"
-child nodes:
 annotation-target:
 published on:
 ---

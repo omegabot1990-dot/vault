@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[group relative policy optimisation]]"
-child nodes:
 ---
 
 - [ ] What is GDPO?

@@ -7,7 +7,6 @@ title: python collections
 description:
 parent nodes:
   - "[[202512261842 - python]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[fine-tuning]]"
-child nodes:
 ---
 
 - [ ] [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.alphaxiv.org/abs/2106.09685)

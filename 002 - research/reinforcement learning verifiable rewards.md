@@ -6,7 +6,6 @@ parent nodes:
   - "[[proximal policy optimisation]]"
   - "[[group relative policy optimisation]]"
   - "[[reward model]]"
-child nodes:
 ---
 
 - [ ] [Verifiable Rewards (RLVR) Framework](https://www.emergentmind.com/topics/verifiable-rewards-rlvr)

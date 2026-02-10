@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[reinforcement learning]]"
-child nodes:
 ---
 
 - [ ] What are policy gradient methods?

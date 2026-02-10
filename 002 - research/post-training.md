@@ -4,7 +4,6 @@ tags:
 description: post training paradigms
 parent nodes:
   - "[[training]]"
-child nodes:
 ---
 
 - [x] [Training language models to follow instructions with human feedback](https://www.alphaxiv.org/abs/2203.02155)

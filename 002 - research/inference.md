@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://www.alphaxiv.org/abs/2408.03314)

@@ -5,7 +5,6 @@ tags:
 description: tools for research
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [ ] Move papers from Google Scholar and Semantic Scholar to alphaXiv

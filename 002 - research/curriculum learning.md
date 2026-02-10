@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[post-training]]"
-child nodes:
 ---
 
 - [ ] Can curriculum learning make a difference?

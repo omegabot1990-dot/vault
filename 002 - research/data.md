@@ -4,5 +4,4 @@ tags:
 description:
 parent nodes:
   - "[[training]]"
-child nodes:
 ---

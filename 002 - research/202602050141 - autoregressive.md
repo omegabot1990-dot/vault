@@ -7,7 +7,6 @@ title: autoregressive
 description:
 parent nodes:
   - "[[definitions]]"
-child nodes:
 annotation-target:
 published on:
 ---

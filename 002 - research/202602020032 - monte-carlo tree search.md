@@ -7,7 +7,6 @@ title: monte-carlo tree search
 description:
 parent nodes:
   - "[[monte carlo tree search]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -5,7 +5,6 @@ description:
 parent nodes:
   - "[[deep learning]]"
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)

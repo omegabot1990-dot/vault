@@ -6,7 +6,6 @@ tags:
 description:
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [ ] [GitHub - llm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)

@@ -4,7 +4,6 @@ tags:
 description: olmo family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Olmo 3](https://www.alphaxiv.org/abs/2512.13961)

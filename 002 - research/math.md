@@ -6,7 +6,6 @@ tags:
 description:
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[agent]]"
-child nodes:
 ---
 
 - [ ] [Multi-Agent Collaboration via Evolving Orchestration](https://www.alphaxiv.org/abs/2505.19591)

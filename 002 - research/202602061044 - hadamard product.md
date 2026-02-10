@@ -7,7 +7,6 @@ title: hadamard product
 description:
 parent nodes:
   - "[[math]]"
-child nodes:
 annotation-target:
 published on:
 ---

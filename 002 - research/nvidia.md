@@ -4,7 +4,6 @@ tags:
 description: nemotron family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Why Nvidia builds open models with Bryan Catanzaro](https://www.interconnects.ai/p/why-nvidia-builds-open-models-with)

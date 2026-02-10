@@ -8,7 +8,6 @@ description:
 parent nodes:
   - "[[supervised fine-tuning]]"
   - "[[data]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -4,7 +4,6 @@ tags:
 description: qwen family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Understanding and Implementing Qwen3 From Scratch](https://magazine.sebastianraschka.com/p/qwen3-from-scratch)

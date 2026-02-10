@@ -4,5 +4,4 @@ tags:
 description: jargon explained
 parent nodes:
   - "[[work]]"
-child nodes:
 ---

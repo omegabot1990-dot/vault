@@ -7,7 +7,6 @@ title: objective function
 description:
 parent nodes:
   - "[[loss]]"
-child nodes:
 annotation-target:
 published on:
 ---

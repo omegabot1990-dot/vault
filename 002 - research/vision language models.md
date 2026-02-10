@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[decoder transformers]]"
-child nodes:
 ---
 
 - [ ] What are VLMs?

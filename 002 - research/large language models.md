@@ -4,7 +4,6 @@ tags:
 description: large language models
 parent nodes:
   - "[[generative pre-trained transformer]]"
-child nodes:
 ---
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)

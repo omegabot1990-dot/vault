@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[natural language processing]]"
-child nodes:
 ---
 
 - [ ] What is a tokenizer?

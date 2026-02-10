@@ -4,7 +4,6 @@ tags:
 description: loss functions
 parent nodes:
   - "[[deep learning]]"
-child nodes:
 ---
 
 - [x] Binary Cross-Entropy Loss

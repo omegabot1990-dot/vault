@@ -7,7 +7,6 @@ title: is tool use a way towards domain adaptation?
 description:
 parent nodes:
   - "[[research.base]]"
-child nodes:
 annotation-target:
 published on:
 ---

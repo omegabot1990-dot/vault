@@ -7,7 +7,6 @@ title: expected log-probability
 description:
 parent nodes:
   - "[[probability and statistics]]"
-child nodes:
 annotation-target:
 published on:
 ---

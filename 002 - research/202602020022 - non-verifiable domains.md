@@ -7,7 +7,6 @@ title: non-verifiable domains
 description:
 parent nodes:
   - "[[reward model]]"
-child nodes:
 annotation-target:
 published on:
 ---

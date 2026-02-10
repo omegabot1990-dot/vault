@@ -5,7 +5,6 @@ tags:
 description: research todos
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [ ] Paper to read

@@ -7,7 +7,6 @@ title: self-information
 description:
 parent nodes:
   - "[[202602061605 - information theory|Information Theory]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] What is prompt engineering?

@@ -5,7 +5,6 @@ description:
 parent nodes:
   - "[[reasoning]]"
   - "[[reinforcement learning verifiable rewards]]"
-child nodes:
 ---
 
 - [ ] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.19470)

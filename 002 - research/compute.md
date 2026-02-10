@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[code]]"
-child nodes:
 ---
 
 - [ ] [VastAI](https://vast.ai/pricing)

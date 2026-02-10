@@ -4,7 +4,6 @@ tags:
 description: kimi family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Kimi K2: Open Agentic Intelligence](https://www.alphaxiv.org/abs/2507.20534)

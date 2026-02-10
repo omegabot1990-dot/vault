@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[policy gradient methods]]"
-child nodes:
 ---
 
 - [ ] [Proximal Policy Optimization Algorithms](https://www.alphaxiv.org/abs/1707.06347)

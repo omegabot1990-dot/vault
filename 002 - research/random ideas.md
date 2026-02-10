@@ -5,7 +5,6 @@ tags:
 description: random ideas to checkout
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [ ] Why not inject latent layers inside LLMs?

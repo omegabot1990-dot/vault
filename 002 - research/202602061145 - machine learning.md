@@ -7,7 +7,6 @@ title: machine learning
 description:
 parent nodes:
   - "[[machine learning]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[data]]"
-child nodes:
 ---
 
 - [ ] What is class imbalance?

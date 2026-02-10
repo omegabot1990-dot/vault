@@ -5,7 +5,6 @@ tags:
 description: labs to follow
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 %% 

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[training]]"
-child nodes:
 ---
 
 - [x] What is pre-training?

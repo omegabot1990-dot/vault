@@ -7,7 +7,6 @@ title: random variable
 description:
 parent nodes:
   - "[[probability and statistics]]"
-child nodes:
 annotation-target:
 published on:
 ---

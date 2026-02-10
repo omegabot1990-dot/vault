@@ -5,7 +5,6 @@ tags:
 description:
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 - [Amazon Science](https://www.amazon.science/)

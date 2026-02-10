@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[post-training]]"
-child nodes:
 ---
 
 - [ ] [YouTube - Knowledge Distillation: How LLMs train each other](https://www.youtube.com/watch?v=jrJKRYAdh7I&list=PLDSlxv8fpkvgNQTSCCvEaRRmEp5tk9gpC&index=9)

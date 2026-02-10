@@ -4,7 +4,6 @@ tags:
 description: llm fine-tuning paradigms
 parent nodes:
   - "[[post-training]]"
-child nodes:
 ---
 
 - [ ] [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)

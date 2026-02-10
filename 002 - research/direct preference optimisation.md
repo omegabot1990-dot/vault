@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[fine-tuning]]"
-child nodes:
 ---
 
 - [ ] [YouTube - Tülu 3 from AI2: Full open-source fine-tuning recipe for LLMs](https://www.youtube.com/watch?v=P26xOoUuef4)

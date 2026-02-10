@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[reward model]]"
-child nodes:
 ---
 
 - [ ] How to add rewards for each reasoning step? (PRMs)

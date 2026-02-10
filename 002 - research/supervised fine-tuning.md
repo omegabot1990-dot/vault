@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[fine-tuning]]"
-child nodes:
 ---
 
 - [ ] [Hugging Face - Supervised Fine-Tuning](https://huggingface.co/learn/llm-course/en/chapter11/1)

@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[reinforcement learning verifiable rewards]]"
-child nodes:
 ---
 
 - [ ] [Reinforcement Learning via Self-Distillation](https://www.alphaxiv.org/abs/2601.20802)

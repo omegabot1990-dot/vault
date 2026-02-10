@@ -7,7 +7,6 @@ title: teacher forcing
 description:
 parent nodes:
   - "[[training]]"
-child nodes:
 annotation-target:
 published on:
 ---

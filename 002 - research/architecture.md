@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)

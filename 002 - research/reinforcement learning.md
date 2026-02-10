@@ -5,7 +5,6 @@ tags:
 description:
 parent nodes:
   - "[[research.base]]"
-child nodes:
 ---
 
 	- [ ] http://incompleteideas.net/book/the-book-2nd.html

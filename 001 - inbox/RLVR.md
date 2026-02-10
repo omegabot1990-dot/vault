@@ -13,7 +13,6 @@ urgency level: urgent
 task type: capture
 story points:
 parent nodes:
-child nodes:
 recurrent:
 ---
 

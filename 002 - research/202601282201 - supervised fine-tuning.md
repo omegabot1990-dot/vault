@@ -7,7 +7,6 @@ title: supervised fine-tuning
 description:
 parent nodes:
   - "[[supervised fine-tuning]]"
-child nodes:
 annotation-target:
 published on:
 ---

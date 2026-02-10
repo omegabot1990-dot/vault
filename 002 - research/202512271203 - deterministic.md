@@ -7,7 +7,6 @@ title: deterministic
 description:
 parent nodes:
   - "[[definitions]]"
-child nodes:
 annotation-target:
 published on:
 ---

@@ -4,7 +4,6 @@ tags:
 description: openai family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [Language Models are Unsupervised Multitask Learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)

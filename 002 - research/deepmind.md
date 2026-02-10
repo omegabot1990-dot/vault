@@ -5,7 +5,6 @@ description: deepmind family
 parent nodes:
   - "[[deep learning]]"
   - "[[reinforcement learning]]"
-child nodes:
 ---
 
 - [ ] AlphaGo

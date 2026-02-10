@@ -7,7 +7,6 @@ title: information theory
 description:
 parent nodes:
   - "[[information theory]]"
-child nodes:
 annotation-target:
 published on:
 ---

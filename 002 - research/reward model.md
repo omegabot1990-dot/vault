@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[reinforcement learning]]"
-child nodes:
 ---
 
 - [ ] [Reward Models](https://cameronrwolfe.substack.com/p/reward-models)

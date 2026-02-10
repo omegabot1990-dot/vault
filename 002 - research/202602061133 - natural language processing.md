@@ -7,7 +7,6 @@ title: natural language processing
 description:
 parent nodes:
   - "[[natural language processing]]"
-child nodes:
 annotation-target:
 published on:
 ---

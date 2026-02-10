@@ -7,7 +7,6 @@ title: conditional probability
 description:
 parent nodes:
   - "[[202602062040 - probability|Probability]]"
-child nodes:
 annotation-target:
 published on:
 ---

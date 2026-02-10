@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[transformers]]"
-child nodes:
 ---
 
 - [ ] [Understanding and Coding Self-Attention, Multi-Head Attention, Causal-Attention, and Cross-Attention in LLMs](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)

@@ -4,6 +4,5 @@ tags:
 description:
 parent nodes:
   - "[[deep learning]]"
-child nodes:
 ---
 

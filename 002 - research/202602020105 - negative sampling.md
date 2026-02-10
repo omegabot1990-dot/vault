@@ -8,7 +8,6 @@ description:
 parent nodes:
   - "[[data]]"
   - "[[fine-tuning]]"
-child nodes:
 annotation-target:
 published on:
 ---

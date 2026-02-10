@@ -7,7 +7,6 @@ title: log-likelihood
 description:
 parent nodes:
   - "[[202602061241 - likelihood]]"
-child nodes:
 annotation-target:
 published on:
 ---

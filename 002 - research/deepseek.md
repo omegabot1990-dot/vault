@@ -4,7 +4,6 @@ tags:
 description: deepseek family
 parent nodes:
   - "[[large language models]]"
-child nodes:
 ---
 
 - [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)

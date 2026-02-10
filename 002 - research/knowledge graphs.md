@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[data]]"
-child nodes:
 ---
 
 - [ ] [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://www.alphaxiv.org/abs/2601.20833)

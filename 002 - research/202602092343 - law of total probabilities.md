@@ -7,7 +7,6 @@ title: law of total probabilities
 description:
 parent nodes:
   - "[[202602092150 - marginalisation|Marginalisation]]"
-child nodes:
 annotation-target:
 published on:
 ---

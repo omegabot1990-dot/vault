@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[reward model]]"
-child nodes:
 ---
 
 - [ ] What is RoR?

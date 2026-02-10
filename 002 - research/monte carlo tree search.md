@@ -4,7 +4,6 @@ tags:
 description:
 parent nodes:
   - "[[inference]]"
-child nodes:
 ---
 
 - [x] What is MCTS?
