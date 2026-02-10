@@ -16,7 +16,6 @@ story points:
 recurrent:
 
 parent nodes: "REQUIRED: link to a parent MOC/Zettel"
-child nodes:
 ---
 
 ## Task

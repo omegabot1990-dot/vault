@@ -6,7 +6,6 @@ tags:
 
 description:
 parent nodes: "REQUIRED unless this is the root MOC"
-child nodes:
 ---
 
 # <% tp.file.title %>
