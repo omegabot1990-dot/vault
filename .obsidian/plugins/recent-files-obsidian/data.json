@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "202601291921 - deepseek r1",
+      "path": "002 - research/202601291921 - deepseek r1.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "research",
+      "path": "002 - research/research.base"
+    },
+    {
+      "basename": "work",
+      "path": "work.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "highlights",
+      "path": "002 - research/highlights.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -171,18 +195,6 @@
     {
       "basename": "202602061530 - self-information",
       "path": "003 - genesis/research/202602061530 - self-information.md"
-    },
-    {
-      "basename": "202602061804 - entropy",
-      "path": "003 - genesis/research/202602061804 - entropy.md"
-    },
-    {
-      "basename": "202602061605 - information theory",
-      "path": "003 - genesis/research/202602061605 - information theory.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "003 - genesis/research/202602030238 - cross-entropy loss.md"
     }
   ],
   "omittedPaths": [],
