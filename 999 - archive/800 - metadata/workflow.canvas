@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"48590188eddc3d5b","type":"group","x":-1183,"y":-691,"width":2367,"height":1382,"label":"pkm"},
+		{"id":"67a93a5ab31b628a","type":"group","x":337,"y":-451,"width":290,"height":1020,"color":"6","label":"task manager"},
+		{"id":"b2a2bf5c7a017cab","type":"group","x":-463,"y":-381,"width":290,"height":540,"color":"3","label":"somedude"},
+		{"id":"7df332b32f97bbae","type":"group","x":-1063,"y":-581,"width":290,"height":400,"color":"5","label":"Information"},
+		{"id":"561e7632864a35bc","x":844,"y":-560,"width":290,"height":300,"color":"1","type":"group","label":"sprint grooming"},
+		{"id":"cb7f30d4e0a5b7dc","type":"text","text":"Text","x":-1043,"y":-561,"width":250,"height":60},
+		{"id":"71697a79f519d99c","type":"text","text":"Audio","x":-1043,"y":-426,"width":250,"height":60},
+		{"id":"8d7a56e7d4b2b8e1","type":"text","text":"in progress","x":357,"y":-11,"width":250,"height":60},
+		{"id":"da0887b6c4160fa7","type":"text","text":"to do","x":357,"y":-211,"width":250,"height":60},
+		{"id":"b2492f003d5f8627","type":"text","text":"genesis","x":-443,"y":59,"width":250,"height":60,"color":"2"},
+		{"id":"360c416e394b2baa","type":"text","text":"Video","x":-1043,"y":-281,"width":250,"height":60},
+		{"id":"af1f8659a07537d7","type":"text","text":"done","x":357,"y":449,"width":250,"height":60},
+		{"id":"ebf8bf5756716761","type":"text","text":"daily notes","x":-443,"y":-361,"width":250,"height":60,"color":"1"},
+		{"id":"339fb40177bbb116","type":"text","text":"inbox","x":-443,"y":-214,"width":250,"height":60,"color":"4"},
+		{"id":"716933b2acd2dc9d","type":"text","text":"zettelkasten","x":-443,"y":-81,"width":250,"height":60,"color":"6"},
+		{"id":"58826689fc338b28","type":"text","text":"backlog","x":357,"y":-431,"width":250,"height":60},
+		{"id":"6dedd020dfd2d852","type":"text","text":"in review","x":357,"y":211,"width":250,"height":60},
+		{"id":"6e1da23ff9874b8c","type":"text","text":"breakdown tasks","x":864,"y":-540,"width":250,"height":60,"color":"5"},
+		{"id":"c3ac08114d83c8a7","type":"text","text":"eisenhower matrix","x":864,"y":-340,"width":250,"height":60,"color":"5"},
+		{"id":"9a5075d3059fb7f8","type":"text","text":"time allocation","x":864,"y":-111,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"3a48e0ab16fbb26f","fromNode":"7df332b32f97bbae","fromSide":"right","toNode":"ebf8bf5756716761","toSide":"left","label":"capture"},
+		{"id":"d7ec71e42980e973","fromNode":"8d7a56e7d4b2b8e1","fromSide":"right","toNode":"6dedd020dfd2d852","toSide":"right","color":"5","label":"distil"},
+		{"id":"f67814db721540e7","fromNode":"da0887b6c4160fa7","fromSide":"right","toNode":"9a5075d3059fb7f8","toSide":"top","color":"6"},
+		{"id":"e96c17a60e0fa239","fromNode":"339fb40177bbb116","fromSide":"right","toNode":"8d7a56e7d4b2b8e1","toSide":"left","color":"5","label":"input"},
+		{"id":"9fb76562c40a7841","fromNode":"af1f8659a07537d7","fromSide":"top","toNode":"b2492f003d5f8627","toSide":"right","color":"3","label":"output"},
+		{"id":"09813a11da1f0a44","fromNode":"6dedd020dfd2d852","fromSide":"right","toNode":"af1f8659a07537d7","toSide":"right","color":"3"},
+		{"id":"47a682b2eedd528f","fromNode":"58826689fc338b28","fromSide":"right","toNode":"da0887b6c4160fa7","toSide":"right","color":"1","label":"sprint planning"},
+		{"id":"b29ab62710de3af3","fromNode":"c3ac08114d83c8a7","fromSide":"bottom","toNode":"58826689fc338b28","toSide":"bottom","color":"4","label":"reorder"},
+		{"id":"5fa97c4a2bf84303","fromNode":"58826689fc338b28","fromSide":"top","toNode":"6e1da23ff9874b8c","toSide":"top","color":"4","label":"analyse"},
+		{"id":"de4d623a52c5a8f8","fromNode":"ebf8bf5756716761","fromSide":"right","toNode":"58826689fc338b28","toSide":"left","color":"4","label":"daily review"},
+		{"id":"7dce2716fdd12165","fromNode":"58826689fc338b28","fromSide":"bottom","toNode":"339fb40177bbb116","toSide":"right","color":"4"},
+		{"id":"fe9f7163799e1657","fromNode":"716933b2acd2dc9d","fromSide":"right","toNode":"6dedd020dfd2d852","toSide":"left","color":"3","label":"input"},
+		{"id":"c08b536bfbf1c478","fromNode":"6dedd020dfd2d852","fromSide":"top","toNode":"716933b2acd2dc9d","toSide":"right","color":"5","label":"output"},
+		{"id":"93c32786b4a5ff61","fromNode":"6e1da23ff9874b8c","fromSide":"bottom","toNode":"c3ac08114d83c8a7","toSide":"top","color":"4"},
+		{"id":"2d996b77b3194f77","fromNode":"9a5075d3059fb7f8","fromSide":"bottom","toNode":"8d7a56e7d4b2b8e1","toSide":"right","color":"6","label":"daily review"}
+	]
+}

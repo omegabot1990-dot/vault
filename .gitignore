@@ -1,1 +1,10 @@
 500 - attachments/
+# OS
+.DS_Store
+
+# Obsidian plugins (keep vault minimal)
+.obsidian/plugins/
+
+# Obsidian state (avoid churn)
+.obsidian/workspace*
+.obsidian/cache/
