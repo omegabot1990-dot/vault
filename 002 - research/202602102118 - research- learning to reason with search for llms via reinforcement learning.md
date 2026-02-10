@@ -13,10 +13,17 @@ published on: 2025-03-25
 
 ## Topics (not in KG yet)
 
-- [ ] agents
-- [ ] chain-of-thought
-- [ ] instruction-tuning
-- [ ] tool-use
+- [ ] retrieval augmented generation
+- [ ] retrieval
+- [ ] dense retriever
+- [ ] multi-hop question answering
+- [ ] external search
+- [ ] FlashRAG
+- [ ] E5-base-v2
+- [ ] Wikipedia
+- [ ] Qwen2.5
+- [ ] group relative policy optimisation
+- [ ] tool use
 
 ## Summary
 
