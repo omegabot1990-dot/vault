@@ -3,8 +3,11 @@
 .DS_Store
 
 # Obsidian plugins (keep vault minimal)
-.obsidian/plugins/
 
 # Obsidian state (avoid churn)
 .obsidian/workspace*
 .obsidian/cache/
+
+# Obsidian macOS
+.obsidian/.DS_Store
+.obsidian/plugins/.DS_Store

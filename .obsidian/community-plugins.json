@@ -1,1 +1,12 @@
-[]
+[
+  "templater-obsidian",
+  "highlightr-plugin",
+  "table-editor-obsidian",
+  "obsidian-git",
+  "dataview",
+  "better-word-count",
+  "obsidian-icon-folder",
+  "obsidian-outliner",
+  "obsidian-latex-suite",
+  "recent-files-obsidian"
+]
