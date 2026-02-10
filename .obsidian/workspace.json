@@ -90,7 +90,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "db646ff6b04fb44e",
@@ -249,8 +250,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "14f552fdf7be9eee",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/research interests.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026-02-10.md",
@@ -286,7 +288,6 @@
     "008 - templates",
     "001 - inbox",
     "000 - daily notes",
-    "500 - attachments/hands_on_machine_learning_with_scikit_learn_and_pytorch_concepts_tools_and_techniques_to_build_intelligent_systems.pdf",
     "800 - metadata/workflow.canvas",
     "003 - genesis/somedude - time.canvas",
     "003 - genesis/music/guitar/guitar fretboard patterns 15x6.canvas",
