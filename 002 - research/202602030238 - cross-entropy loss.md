@@ -31,5 +31,3 @@ published on:
 - Primary objective function used to train <mark style="background: #BBFABBA6;">classification models</mark>
 
 
-[^1]: [[build_a_large_language_model_from_scratch.pdf#page=255&selection=3,40,4,47|build_a_large_language_model_from_scratch, page 255]]
-[^2]: [[build_a_large_language_model_from_scratch.pdf#page=255&selection=13,14,14,12|build_a_large_language_model_from_scratch, page 255]]

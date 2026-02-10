@@ -7,7 +7,6 @@ parent nodes:
 child nodes:
 ---
 
-- [ ] [[build_a_large_language_model_from_scratch.pdf|Build a Large Language Model from Scratch]]
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
 - [ ] [Scaling Laws for Neural Language Models](https://www.alphaxiv.org/abs/2001.08361)
 	- [ ] January 2020

@@ -8,9 +8,7 @@ parent nodes:
 child nodes:
 ---
 
-- [ ] [[reinforcement_learning_an_introduction.pdf|Reinforcement Learning - An Introduction]]
 	- [ ] http://incompleteideas.net/book/the-book-2nd.html
-- [ ] [[deep_reinforcement_learning.pdf|Deep Reinforcement Learning - Aske Plaat]]
 - [ ] [YouTube DeepMind x UCL - 2015](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=Z_ehZvM8ZBHQsMJf)
 - [ ] [YouTube DeepMind x UCL - 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [ ] [RLHF Book - Nathan Lambert](https://rlhfbook.com/)

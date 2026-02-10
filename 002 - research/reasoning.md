@@ -8,7 +8,6 @@ child nodes:
 ---
 
 - [ ] [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
-- [ ] [[build_a_reasoning_model_from_scrath.pdf|Build a Reasoning Model from Scratch]]
 - [ ] [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/)
 	- [ ] Open-source code
 - [x] [TinyZero](https://github.com/Jiayi-Pan/TinyZero/) 
