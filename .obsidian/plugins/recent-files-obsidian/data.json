@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "code",
+      "path": "002 - research/code.md"
+    },
+    {
+      "basename": "202602100011 - mutually exclusive",
+      "path": "002 - research/202602100011 - mutually exclusive.md"
+    },
+    {
+      "basename": "202602092343 - law of total probabilities",
+      "path": "002 - research/202602092343 - law of total probabilities.md"
+    },
+    {
+      "basename": "202602092150 - marginalisation",
+      "path": "002 - research/202602092150 - marginalisation.md"
+    },
+    {
+      "basename": "202602092126 - bayes theorem",
+      "path": "002 - research/202602092126 - bayes theorem.md"
+    },
+    {
+      "basename": "202602092108 - independent and identically distributed",
+      "path": "002 - research/202602092108 - independent and identically distributed.md"
+    },
+    {
+      "basename": "202602080014 - central limit theorem",
+      "path": "002 - research/202602080014 - central limit theorem.md"
+    },
+    {
+      "basename": "202602080005 - sampling",
+      "path": "002 - research/202602080005 - sampling.md"
+    },
+    {
+      "basename": "202602062206 - variance",
+      "path": "002 - research/202602062206 - variance.md"
+    },
+    {
+      "basename": "202602062110 - mean",
+      "path": "002 - research/202602062110 - mean.md"
+    },
+    {
+      "basename": "202602030238 - cross-entropy loss",
+      "path": "002 - research/202602030238 - cross-entropy loss.md"
+    },
+    {
+      "basename": "202602020105 - negative sampling",
+      "path": "002 - research/202602020105 - negative sampling.md"
+    },
+    {
+      "basename": "202602020041 - heuristic",
+      "path": "002 - research/202602020041 - heuristic.md"
+    },
+    {
+      "basename": "202602011551 - f1",
+      "path": "002 - research/202602011551 - f1.md"
+    },
+    {
+      "basename": "202602011426 - learning rate warm up",
+      "path": "002 - research/202602011426 - learning rate warm up.md"
+    },
+    {
+      "basename": "202602010144 - sentencepiece",
+      "path": "002 - research/202602010144 - sentencepiece.md"
+    },
+    {
+      "basename": "202602010052 - off-line learning",
+      "path": "002 - research/202602010052 - off-line learning.md"
+    },
+    {
+      "basename": "202602010106 - imputation",
+      "path": "002 - research/202602010106 - imputation.md"
+    },
+    {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
+      "basename": "202601312002 - create a kernel",
+      "path": "002 - research/202601312002 - create a kernel.md"
+    },
+    {
+      "basename": "202601311948 - pandas",
+      "path": "002 - research/202601311948 - pandas.md"
+    },
+    {
+      "basename": "202601311949 - numpy",
+      "path": "002 - research/202601311949 - numpy.md"
+    },
+    {
+      "basename": "202602010041 - supervised learning",
+      "path": "002 - research/202602010041 - supervised learning.md"
+    },
+    {
+      "basename": "202602010047 - objective function",
+      "path": "002 - research/202602010047 - objective function.md"
+    },
+    {
+      "basename": "202602010053 - on-line learning",
+      "path": "002 - research/202602010053 - on-line learning.md"
+    },
+    {
       "basename": "202601291921 - deepseek r1",
       "path": "002 - research/202601291921 - deepseek r1.md"
     },
@@ -13,20 +113,12 @@
       "path": "002 - research/research.base"
     },
     {
-      "basename": "work",
-      "path": "work.md"
-    },
-    {
       "basename": "evaluation",
       "path": "002 - research/evaluation.md"
     },
     {
       "basename": "highlights",
       "path": "002 - research/highlights.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "OpenClaw",
@@ -103,98 +195,6 @@
     {
       "basename": "202602080100 - joint probability",
       "path": "003 - genesis/research/202602080100 - joint probability.md"
-    },
-    {
-      "basename": "202602080132 - conditional probability",
-      "path": "003 - genesis/research/202602080132 - conditional probability.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "003 - genesis/research/202602061346 - sample space.md"
-    },
-    {
-      "basename": "202602062040 - probability",
-      "path": "003 - genesis/research/202602062040 - probability.md"
-    },
-    {
-      "basename": "202602080005 - sampling",
-      "path": "003 - genesis/research/202602080005 - sampling.md"
-    },
-    {
-      "basename": "code",
-      "path": "003 - genesis/research/code.md"
-    },
-    {
-      "basename": "research tools",
-      "path": "003 - genesis/research/research tools.md"
-    },
-    {
-      "basename": "Meeting Agenda - February 9th 2026",
-      "path": "002 - inbox/raw/Meeting Agenda - February 9th 2026.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "003 - genesis/research/reinforcement learning.md"
-    },
-    {
-      "basename": "parameter efficient fine-tuning",
-      "path": "003 - genesis/research/parameter efficient fine-tuning.md"
-    },
-    {
-      "basename": "202602062209 - standard deviation",
-      "path": "003 - genesis/research/202602062209 - standard deviation.md"
-    },
-    {
-      "basename": "202602062206 - variance",
-      "path": "003 - genesis/research/202602062206 - variance.md"
-    },
-    {
-      "basename": "202602062113 - median",
-      "path": "003 - genesis/research/202602062113 - median.md"
-    },
-    {
-      "basename": "202602062115 - mode",
-      "path": "003 - genesis/research/202602062115 - mode.md"
-    },
-    {
-      "basename": "202602062110 - mean",
-      "path": "003 - genesis/research/202602062110 - mean.md"
-    },
-    {
-      "basename": "highlights",
-      "path": "003 - genesis/research/highlights.md"
-    },
-    {
-      "basename": "202602061044 - hadamard product",
-      "path": "003 - genesis/research/202602061044 - hadamard product.md"
-    },
-    {
-      "basename": "Thesis",
-      "path": "002 - inbox/raw/Thesis.md"
-    },
-    {
-      "basename": "Tool-use to bridge verifiable and non-verifiable domains",
-      "path": "002 - inbox/raw/Tool-use to bridge verifiable and non-verifiable domains.md"
-    },
-    {
-      "basename": "Booking Coding Interview",
-      "path": "002 - inbox/raw/Booking Coding Interview.md"
-    },
-    {
-      "basename": "202602010047 - objective function",
-      "path": "003 - genesis/research/202602010047 - objective function.md"
-    },
-    {
-      "basename": "202602061340 - random variable",
-      "path": "003 - genesis/research/202602061340 - random variable.md"
-    },
-    {
-      "basename": "information theory",
-      "path": "003 - genesis/research/information theory.md"
-    },
-    {
-      "basename": "202602061530 - self-information",
-      "path": "003 - genesis/research/202602061530 - self-information.md"
     }
   ],
   "omittedPaths": [],

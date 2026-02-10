@@ -1,13 +1,13 @@
 ---
 tags:
-- math
+  - math
 aliases:
-- Law of Total Probabilities
+  - Law of Total Probabilities
 title: law of total probabilities
-description: ''
+description:
 parent nodes:
-- '[[202602092150 - marginalisation|Marginalisation]]'
-published on: null
+  - "[[202602092150 - marginalisation|Marginalisation]]"
+published on:
 ---
 
 - The <mark style="background: #BBFABBA6;">Law of Total Probability</mark> is the mathematical "bridge" that allows you to calculate the total [[202602062040 - probability|probability]] of an [[202602092352 - event|event]] by breaking it down into several distinct, easier-to-calculate scenarios [^1]
