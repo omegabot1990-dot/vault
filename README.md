@@ -4,11 +4,11 @@ Minimal Obsidian vault structure.
 
 ## Top-level
 
-- `000 - inbox/` — items created by the assistant that require Batman’s attention (use the inbox template).
+- `004 - inbox/` — items created by the assistant that require Batman’s attention (use the inbox template).
 - `001 - daily notes/` — daily logs.
 - `002 - research/` — research knowledge base (migrated from `003 - genesis/research`).
 - `700 - templates/` — note templates (MOC, Zettel, Inbox).
-- `999 - archive/` — archived legacy folders from the previous vault structure.
+- `/` — archived legacy folders from the previous vault structure.
 
 ## Notes
 

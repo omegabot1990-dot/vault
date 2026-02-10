@@ -1,8 +1,0 @@
-
-## Cues
-
-
-## Notes
-
-
-## Summary
