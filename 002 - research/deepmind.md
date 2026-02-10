@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-description: deepmind family
+- moc
+description: MOC linking key concepts and zettels for deepmind.
 parent nodes:
-  - "[[deep learning]]"
-  - "[[reinforcement learning]]"
+- '[[deep learning]]'
+- '[[reinforcement learning]]'
 ---
 
 - [ ] AlphaGo

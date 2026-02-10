@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for curriculum learning.
 parent nodes:
-  - "[[post-training]]"
+- '[[post-training]]'
 ---
 
 - [ ] Can curriculum learning make a difference?

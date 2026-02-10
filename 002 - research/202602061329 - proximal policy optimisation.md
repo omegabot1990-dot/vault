@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Proximal Policy Optimisation
+- Proximal Policy Optimisation
 title: proximal policy optimisation
-description:
+description: Concise note on proximal policy optimisation.
 parent nodes:
-  - "[[proximal policy optimisation]]"
-published on:
+- '[[proximal policy optimisation]]'
+published on: null
 ---
 
 

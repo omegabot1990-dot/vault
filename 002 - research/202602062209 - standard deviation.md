@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Standard Deviation
+- Standard Deviation
 title: standard deviation
-description:
+description: 'Math note: - Standard Deviation is the square root of the variance -
+  It brings'
 parent nodes:
-  - "[[202602062206 - variance|Variance]]"
-published on:
+- '[[202602062206 - variance|Variance]]'
+published on: null
 ---
 
 - Standard Deviation is the <mark style="background: #BBFABBA6;">square root of the variance</mark>

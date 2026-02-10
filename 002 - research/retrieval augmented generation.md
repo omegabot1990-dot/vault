@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for retrieval augmented generation.
 parent nodes:
-  - "[[inference]]"
+- '[[inference]]'
 ---
 
 - [ ] What is RAG?

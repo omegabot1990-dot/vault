@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for knowledge graphs.
 parent nodes:
-  - "[[data]]"
+- '[[data]]'
 ---
 
 - [ ] [Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives](https://www.alphaxiv.org/abs/2601.20833)

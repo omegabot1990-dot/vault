@@ -1,14 +1,14 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - AI
-  - Artificial Intelligence
+- AI
+- Artificial Intelligence
 title: artificial intelligence
-description:
+description: Concise concept note on artificial intelligence.
 parent nodes:
-  - "[[definitions]]"
-published on:
+- '[[definitions]]'
+published on: null
 ---
 
 - Artificial intelligence (AI) is technology that enables computers and machines to simulate, [^1]

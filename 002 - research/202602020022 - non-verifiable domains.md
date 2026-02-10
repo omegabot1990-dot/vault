@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Non-verifiable domains
+- Non-verifiable domains
 title: non-verifiable domains
-description:
+description: Concise concept note on non-verifiable domains.
 parent nodes:
-  - "[[reward model]]"
-published on:
+- '[[reward model]]'
+published on: null
 ---
 
 - Non-deterministic domains

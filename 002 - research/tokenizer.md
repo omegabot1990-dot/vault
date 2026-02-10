@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for tokenizer.
 parent nodes:
-  - "[[natural language processing]]"
+- '[[natural language processing]]'
 ---
 
 - [ ] What is a tokenizer?

@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Monte-Carlo Tree Search
+- Monte-Carlo Tree Search
 title: monte-carlo tree search
-description:
+description: Concise concept note on monte-carlo tree search.
 parent nodes:
-  - "[[monte carlo tree search]]"
-published on:
+- '[[monte carlo tree search]]'
+published on: null
 ---
 
 - [ ] What is Upper Confidence Bounds for Trees (UCT)?

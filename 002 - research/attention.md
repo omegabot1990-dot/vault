@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for attention.
 parent nodes:
-  - "[[transformers]]"
+- '[[transformers]]'
 ---
 
 - [ ] [Understanding and Coding Self-Attention, Multi-Head Attention, Causal-Attention, and Cross-Attention in LLMs](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)

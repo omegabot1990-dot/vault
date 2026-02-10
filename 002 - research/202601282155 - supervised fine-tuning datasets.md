@@ -1,14 +1,14 @@
 ---
 tags:
-  - research
+- research
 aliases:
-  - SFT Dataset
+- SFT Dataset
 title: supervised fine-tuning datasets
-description:
+description: Concise concept note on supervised fine-tuning datasets.
 parent nodes:
-  - "[[supervised fine-tuning]]"
-  - "[[data]]"
-published on:
+- '[[supervised fine-tuning]]'
+- '[[data]]'
+published on: null
 ---
 
 - [AllenAI Big Instruction Compilation Spreadsheet](https://docs.google.com/spreadsheets/d/1E2ScaKWbTnlelzJzcddCzEtf7WrpF3a5ZP5ZvdsOZ4Y/edit?gid=0#gid=0)

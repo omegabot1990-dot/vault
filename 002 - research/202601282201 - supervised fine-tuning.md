@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Supervised Fine-Tuning
+- Supervised Fine-Tuning
 title: supervised fine-tuning
-description:
+description: Concise concept note on supervised fine-tuning.
 parent nodes:
-  - "[[supervised fine-tuning]]"
-published on:
+- '[[supervised fine-tuning]]'
+published on: null
 ---
 
 - [ ] Update optimizer?

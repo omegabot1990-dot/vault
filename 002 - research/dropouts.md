@@ -1,8 +1,8 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for dropouts.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 

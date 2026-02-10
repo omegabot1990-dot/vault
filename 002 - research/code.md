@@ -1,11 +1,11 @@
 ---
 tags:
-  - moc
-  - code
-  - root
-description:
+- moc
+- code
+- root
+description: MOC linking key concepts and zettels for code.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] [GitHub - llm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)

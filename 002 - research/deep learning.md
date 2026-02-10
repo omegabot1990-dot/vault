@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description:
+- moc
+- root
+description: MOC linking key concepts and zettels for deep learning.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] [D2L](https://d2l.ai/)

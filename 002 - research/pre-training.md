@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for pre-training.
 parent nodes:
-  - "[[training]]"
+- '[[training]]'
 ---
 
 - [x] What is pre-training?

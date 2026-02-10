@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for alphago zero.
 parent nodes:
-  - "[[deepmind]]"
+- '[[deepmind]]'
 ---
 
 - [ ] What is AlphaGo Zero?

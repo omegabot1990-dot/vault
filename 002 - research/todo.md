@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description: research todos
+- moc
+- root
+description: MOC linking key concepts and zettels for todo.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] Paper to read

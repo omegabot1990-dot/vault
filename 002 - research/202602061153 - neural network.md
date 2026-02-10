@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Neural Network
+- Neural Network
 title: neural network
-description:
+description: Concise concept note on neural network.
 parent nodes:
-  - "[[neural networks]]"
-published on:
+- '[[neural networks]]'
+published on: null
 ---
 
 - A neural network is a machine learning model that stacks simple "neurons" in layers and learns pattern-recognising weights and biases from data to map inputs to outputs [^1]

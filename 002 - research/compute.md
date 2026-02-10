@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for compute.
 parent nodes:
-  - "[[code]]"
+- '[[code]]'
 ---
 
 - [ ] [VastAI](https://vast.ai/pricing)

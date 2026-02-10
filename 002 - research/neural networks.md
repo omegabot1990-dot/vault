@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: "[[deep learning]]"
+- moc
+description: MOC linking key concepts and zettels for neural networks.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 
 - [ ] [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)

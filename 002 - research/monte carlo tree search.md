@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for monte carlo tree search.
 parent nodes:
-  - "[[inference]]"
+- '[[inference]]'
 ---
 
 - [x] What is MCTS?

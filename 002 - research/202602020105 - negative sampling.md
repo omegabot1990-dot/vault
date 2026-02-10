@@ -1,14 +1,14 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Negative sampling
+- Negative sampling
 title: negative sampling
-description:
+description: Concise concept note on negative sampling.
 parent nodes:
-  - "[[data]]"
-  - "[[fine-tuning]]"
-published on:
+- '[[data]]'
+- '[[fine-tuning]]'
+published on: null
 ---
 
 - [ ] What is contrastive learning?

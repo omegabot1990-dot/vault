@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Learning rate warm up
+- Learning rate warm up
 title: learning rate warm up
-description:
+description: Concise concept note on learning rate warm up.
 parent nodes:
-  - "[[hyperparameters]]"
-published on:
+- '[[hyperparameters]]'
+published on: null
 ---
 
 - A **training technique** where the learning rate starts small and gradually increases for a few steps or epochs

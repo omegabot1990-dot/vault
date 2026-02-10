@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Self-supervised learning
+- Self-supervised learning
 title: self-supervised learning
-description:
+description: Concise concept note on self-supervised learning.
 parent nodes:
-  - "[[deep learning]]"
-published on:
+- '[[deep learning]]'
+published on: null
 ---
 
 - **Self-supervised learning (SSL)** is a form of machine learning where <mark style="background: #BBFABBA6;">the model trains itself by creating its own labels from "unlabelled" raw data</mark>

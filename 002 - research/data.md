@@ -1,7 +1,7 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for data.
 parent nodes:
-  - "[[training]]"
+- '[[training]]'
 ---

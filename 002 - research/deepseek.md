@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: deepseek family
+- moc
+description: MOC linking key concepts and zettels for deepseek.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)

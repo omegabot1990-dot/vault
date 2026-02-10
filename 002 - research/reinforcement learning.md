@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description:
+- moc
+- root
+description: MOC linking key concepts and zettels for reinforcement learning.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 	- [ ] http://incompleteideas.net/book/the-book-2nd.html

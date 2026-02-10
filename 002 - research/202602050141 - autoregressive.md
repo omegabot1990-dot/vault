@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Autoregressive
+- Autoregressive
 title: autoregressive
-description:
+description: Concise concept note on autoregressive.
 parent nodes:
-  - "[[definitions]]"
-published on:
+- '[[definitions]]'
+published on: null
 ---
 
 - **Autoregressive** refers to a <mark style="background: #BBFABBA6;">modelling technique</mark> where a future value or component in a sequence is predicted based on its own past values

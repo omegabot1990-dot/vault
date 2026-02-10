@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for optimizer.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 
 - [ ] Stochastic Gradient Descent

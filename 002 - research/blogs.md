@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description:
+- moc
+- root
+description: MOC linking key concepts and zettels for blogs.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [Amazon Science](https://www.amazon.science/)

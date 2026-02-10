@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Off-line learning
+- Off-line learning
 title: off-line learning
-description:
+description: Concise concept note on off-line learning.
 parent nodes:
-  - "[[deep learning]]"
-published on:
+- '[[deep learning]]'
+published on: null
 ---
 
 - **Offline Learning** is when learning takes place with the algorithm disconnected from the environment.

@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Information Theory
+- Information Theory
 title: information theory
-description:
+description: 'Math note: - Information theory studies encoding, decoding, transmitting,
+  and manipulating information [^1]'
 parent nodes:
-  - "[[information theory]]"
-published on:
+- '[[information theory]]'
+published on: null
 ---
 
 - Information theory studies <mark style="background: #FF5582A6;">encoding</mark>, <mark style="background: #BBFABBA6;">decoding</mark>, <mark style="background: #ADCCFFA6;">transmitting</mark>, and <mark style="background: #FFB86CA6;">manipulating</mark> information [^1]

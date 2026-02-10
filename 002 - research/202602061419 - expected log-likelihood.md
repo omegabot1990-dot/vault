@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Expected Log-Likelihood
+- Expected Log-Likelihood
 title: expected log-likelihood
-description:
+description: 'Math note: - If we have a true distribution $p(x)$ and a model distribution
+  $q(x|\theta)$,'
 parent nodes:
-  - "[[202602061424 - log-likelihood]]"
-published on:
+- '[[202602061424 - log-likelihood]]'
+published on: null
 ---
 
 - If we have a true distribution $p(x)$ and a model distribution $q(x|\theta)$, the expected log-likelihood is written as,

@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: qwen family
+- moc
+description: MOC linking key concepts and zettels for qwen.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Understanding and Implementing Qwen3 From Scratch](https://magazine.sebastianraschka.com/p/qwen3-from-scratch)

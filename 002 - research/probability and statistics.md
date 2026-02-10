@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for probability and statistics.
 parent nodes:
-  - "[[math]]"
+- '[[math]]'
 ---
 
 - [ ] What is probability?

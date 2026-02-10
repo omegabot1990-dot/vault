@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for agent.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [x] What is an Agent?

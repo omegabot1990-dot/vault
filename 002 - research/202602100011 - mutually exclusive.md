@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Mutually Exclusive
+- Mutually Exclusive
 title: mutually exclusive
-description:
+description: 'Math note: - Mutually Exclusive events (also called disjoint events)
+  are events that cannot happen'
 parent nodes:
-  - "[[202602092352 - event|Event]]"
-published on:
+- '[[202602092352 - event|Event]]'
+published on: null
 ---
 
 - Mutually Exclusive events (also called <mark style="background: #FF5582A6;">disjoint events</mark>) are events that cannot happen at the same time [^1]

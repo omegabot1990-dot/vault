@@ -1,9 +1,10 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for difficulty-aware group policy
+  optimisation.
 parent nodes:
-  - "[[group relative policy optimisation]]"
+- '[[group relative policy optimisation]]'
 ---
 
 - [ ] What is GDPO?

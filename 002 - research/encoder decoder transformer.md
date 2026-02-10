@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for encoder decoder transformer.
 parent nodes:
-  - "[[transformers]]"
+- '[[transformers]]'
 ---
 
 - [ ] [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://www.alphaxiv.org/abs/1910.10683)

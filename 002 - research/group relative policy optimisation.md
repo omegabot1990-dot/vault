@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for group relative policy optimisation.
 parent nodes:
-  - "[[policy gradient methods]]"
+- '[[policy gradient methods]]'
 ---
 
 - [ ] [YouTube - DeepSeek's GRPO (Group Relative Policy Optimization) | Reinforcement Learning for LLMs](https://www.youtube.com/watch?v=xT4jxQUl0X8&t=1031s)

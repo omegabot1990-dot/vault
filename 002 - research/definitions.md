@@ -1,7 +1,7 @@
 ---
 tags:
-  - moc
-description: jargon explained
+- moc
+description: MOC linking key concepts and zettels for definitions.
 parent nodes:
-  - "[[work]]"
+- '[[work]]'
 ---

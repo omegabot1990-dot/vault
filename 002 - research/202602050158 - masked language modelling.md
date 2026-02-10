@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Masked language modelling
+- Masked language modelling
 title: masked language modelling
-description:
+description: Concise concept note on masked language modelling.
 parent nodes:
-  - "[[202602050153 - self-supervised learning|Self-supervised learning]]"
-published on:
+- '[[202602050153 - self-supervised learning|Self-supervised learning]]'
+published on: null
 ---
 
 - [ ] Update BERT link

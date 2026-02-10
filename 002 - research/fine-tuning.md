@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: llm fine-tuning paradigms
+- moc
+description: MOC linking key concepts and zettels for fine-tuning.
 parent nodes:
-  - "[[post-training]]"
+- '[[post-training]]'
 ---
 
 - [ ] [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)

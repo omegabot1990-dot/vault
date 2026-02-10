@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for multi-agent.
 parent nodes:
-  - "[[agent]]"
+- '[[agent]]'
 ---
 
 - [ ] [Multi-Agent Collaboration via Evolving Orchestration](https://www.alphaxiv.org/abs/2505.19591)

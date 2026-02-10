@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Expected Log-Probability
+- Expected Log-Probability
 title: expected log-probability
-description:
+description: 'Math note: - If we have a distribution $p(x)$, the expected log-probability
+  represents the average'
 parent nodes:
-  - "[[probability and statistics]]"
-published on:
+- '[[probability and statistics]]'
+published on: null
 ---
 
 - If we have a distribution $p(x)$, the expected log-probability represents the average "log-confidence" the distribution assigns to its own samples

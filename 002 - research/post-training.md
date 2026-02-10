@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: post training paradigms
+- moc
+description: MOC linking key concepts and zettels for post-training.
 parent nodes:
-  - "[[training]]"
+- '[[training]]'
 ---
 
 - [x] [Training language models to follow instructions with human feedback](https://www.alphaxiv.org/abs/2203.02155)

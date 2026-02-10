@@ -1,11 +1,12 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for reinforcement learning verifiable
+  rewards.
 parent nodes:
-  - "[[proximal policy optimisation]]"
-  - "[[group relative policy optimisation]]"
-  - "[[reward model]]"
+- '[[proximal policy optimisation]]'
+- '[[group relative policy optimisation]]'
+- '[[reward model]]'
 ---
 
 - [ ] [Verifiable Rewards (RLVR) Framework](https://www.emergentmind.com/topics/verifiable-rewards-rlvr)

@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for tool use.
 parent nodes:
-  - "[[reasoning]]"
-  - "[[reinforcement learning verifiable rewards]]"
+- '[[reasoning]]'
+- '[[reinforcement learning verifiable rewards]]'
 ---
 
 - [ ] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.19470)

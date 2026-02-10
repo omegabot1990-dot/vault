@@ -1,13 +1,13 @@
 ---
 tags:
-  - code
+- code
 aliases:
-  - collections
+- collections
 title: python collections
-description:
+description: 'Code note: - [ ] ChainMap? - [ ] namedtuple? - [ ] UserDict? -'
 parent nodes:
-  - "[[202512261842 - python]]"
-published on:
+- '[[202512261842 - python]]'
+published on: null
 ---
 
 - [ ] ChainMap?

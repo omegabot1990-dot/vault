@@ -1,11 +1,11 @@
 ---
 tags:
-  - moc
-  - math
-  - root
-description:
+- moc
+- math
+- root
+description: MOC linking key concepts and zettels for math.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

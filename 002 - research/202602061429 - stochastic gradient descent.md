@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Stochastic Gradient Descent
+- Stochastic Gradient Descent
 title: stochastic gradient descent
-description:
+description: Concise concept note on stochastic gradient descent.
 parent nodes:
-  - "[[optimizer]]"
-published on:
+- '[[optimizer]]'
+published on: null
 ---
 
 - [ ] What is SGD?

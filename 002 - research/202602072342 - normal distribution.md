@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Normal Distribution
+- Normal Distribution
 title: normal distribution
-description:
+description: 'Math note: - The Normal Distribution (also known as the Gaussian Distribution
+  or the Bell'
 parent nodes:
-  - "[[202602072325 - distribution|Distribution]]"
-published on:
+- '[[202602072325 - distribution|Distribution]]'
+published on: null
 ---
 
 - The Normal Distribution (also known as the <mark style="background: #BBFABBA6;">Gaussian Distribution</mark> or the <mark style="background: #ADCCFFA6;">Bell Curve</mark>) is a continuous probability distribution that is symmetrical around the [[202602062110 - mean|mean]] [^1]

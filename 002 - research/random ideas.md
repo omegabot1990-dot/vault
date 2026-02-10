@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description: random ideas to checkout
+- moc
+- root
+description: MOC linking key concepts and zettels for random ideas.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] Why not inject latent layers inside LLMs?

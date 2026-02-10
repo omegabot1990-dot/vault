@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for policy gradient methods.
 parent nodes:
-  - "[[reinforcement learning]]"
+- '[[reinforcement learning]]'
 ---
 
 - [ ] What are policy gradient methods?

@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description:
+- moc
+- root
+description: MOC linking key concepts and zettels for machine learning.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] What is ML?

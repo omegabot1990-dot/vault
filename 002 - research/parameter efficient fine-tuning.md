@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for parameter efficient fine-tuning.
 parent nodes:
-  - "[[fine-tuning]]"
+- '[[fine-tuning]]'
 ---
 
 - [ ] [LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS](https://www.alphaxiv.org/abs/2106.09685)

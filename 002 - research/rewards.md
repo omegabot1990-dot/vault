@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for rewards.
 parent nodes:
-  - "[[reward model]]"
+- '[[reward model]]'
 ---
 
 - [ ] Rewards can be explicit,

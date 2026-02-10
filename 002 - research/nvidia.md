@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: nemotron family
+- moc
+description: MOC linking key concepts and zettels for nvidia.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Why Nvidia builds open models with Bryan Catanzaro](https://www.interconnects.ai/p/why-nvidia-builds-open-models-with)

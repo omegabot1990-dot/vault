@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description:
+- moc
+- root
+description: MOC linking key concepts and zettels for highlights.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 | Importance / Urgency | Urgent                                                               | Not Urgent                                                     |

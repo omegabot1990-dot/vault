@@ -1,13 +1,14 @@
 ---
 tags:
-  - code
+- code
 aliases:
-  - functools
+- functools
 title: python functools
-description:
+description: 'Code note: 1. lrucache() 1. Helps with recursive functions by memoisation
+  2. reduce() 1. reduce(func,'
 parent nodes:
-  - "[[202512261842 - python]]"
-published on:
+- '[[202512261842 - python]]'
+published on: null
 ---
 
 1. [lru_cache()](https://www.geeksforgeeks.org/python/python-functools-lru_cache/)

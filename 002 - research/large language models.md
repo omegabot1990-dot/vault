@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: large language models
+- moc
+description: MOC linking key concepts and zettels for large language models.
 parent nodes:
-  - "[[generative pre-trained transformer]]"
+- '[[generative pre-trained transformer]]'
 ---
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)

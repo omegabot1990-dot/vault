@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Verifiable domains
+- Verifiable domains
 title: verifiable domains
-description:
+description: Concise concept note on verifiable domains.
 parent nodes:
-  - "[[reward model]]"
-published on:
+- '[[reward model]]'
+published on: null
 ---
 
 - Deterministic domains

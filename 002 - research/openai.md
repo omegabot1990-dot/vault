@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: openai family
+- moc
+description: MOC linking key concepts and zettels for openai.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Language Models are Unsupervised Multitask Learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)

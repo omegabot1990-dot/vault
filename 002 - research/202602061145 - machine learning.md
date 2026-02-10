@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Machine Learning
+- Machine Learning
 title: machine learning
-description:
+description: Concise concept note on machine learning.
 parent nodes:
-  - "[[machine learning]]"
-published on:
+- '[[machine learning]]'
+published on: null
 ---
 
 - Machine learning is a subset of [[202602061141 - artificial intelligence|artificial intelligence (AI)]] focused on algorithms that can <mark style="background: #BBFABBA6;">“learn” the patterns</mark> of training data and, subsequently, make accurate <mark style="background: #BBFABBA6;">inferences</mark> about new data [^1]

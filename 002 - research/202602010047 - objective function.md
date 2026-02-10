@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Objective function
+- Objective function
 title: objective function
-description:
+description: Concise concept note on objective function.
 parent nodes:
-  - "[[loss]]"
-published on:
+- '[[loss]]'
+published on: null
 ---
 
 - **Objective Functions** define a <mark style="background: #BBFABBA6;">formal measure of how good or bad the predicted Label is</mark>

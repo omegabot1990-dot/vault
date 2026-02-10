@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for direct preference optimisation.
 parent nodes:
-  - "[[fine-tuning]]"
+- '[[fine-tuning]]'
 ---
 
 - [ ] [YouTube - Tülu 3 from AI2: Full open-source fine-tuning recipe for LLMs](https://www.youtube.com/watch?v=P26xOoUuef4)

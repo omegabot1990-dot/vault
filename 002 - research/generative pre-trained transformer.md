@@ -1,7 +1,7 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for generative pre-trained transformer.
 parent nodes:
-  - "[[decoder transformers]]"
+- '[[decoder transformers]]'
 ---

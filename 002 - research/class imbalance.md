@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for class imbalance.
 parent nodes:
-  - "[[data]]"
+- '[[data]]'
 ---
 
 - [ ] What is class imbalance?

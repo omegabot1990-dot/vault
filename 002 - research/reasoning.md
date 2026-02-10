@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for reasoning.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Understanding Reasoning LLMs](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)

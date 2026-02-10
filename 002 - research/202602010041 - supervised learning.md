@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Supervised Learning
+- Supervised Learning
 title: supervised learning
-description:
+description: Concise concept note on supervised learning.
 parent nodes:
-  - "[[supervised learning]]"
-published on:
+- '[[supervised learning]]'
+published on: null
 ---
 
 - We estimate the conditional probability of a label given input features

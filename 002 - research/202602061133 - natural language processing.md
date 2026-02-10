@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Natural Language Processing
+- Natural Language Processing
 title: natural language processing
-description:
+description: Concise concept note on natural language processing.
 parent nodes:
-  - "[[natural language processing]]"
-published on:
+- '[[natural language processing]]'
+published on: null
 ---
 
 - Natural language processing (NLP) is a subfield of computer science and [[202602061141 - artificial intelligence|artificial intelligence (AI)]] that uses [[202602061145 - machine learning|machine learning]] to enable computers to understand and communicate with human language (natural language) [^1]

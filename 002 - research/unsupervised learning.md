@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for unsupervised learning.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 
 - [ ] Clustering

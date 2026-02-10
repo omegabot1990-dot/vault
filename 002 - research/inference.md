@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for inference.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://www.alphaxiv.org/abs/2408.03314)

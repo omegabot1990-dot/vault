@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: loss functions
+- moc
+description: MOC linking key concepts and zettels for loss.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 
 - [x] Binary Cross-Entropy Loss

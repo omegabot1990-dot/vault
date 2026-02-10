@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Hadamard product
+- Hadamard product
 title: hadamard product
-description:
+description: 'Math note: - The Hadamard product (also known as the element-wise product)
+  is an operation'
 parent nodes:
-  - "[[math]]"
-published on:
+- '[[math]]'
+published on: null
 ---
 
 - The **Hadamard product** (also known as the <mark style="background: #BBFABBA6;">element-wise</mark> product) is an operation that takes two matrices of the <mark style="background: #BBFABBA6;">same dimensions</mark> and produces another matrix of the same dimensions

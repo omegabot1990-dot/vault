@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Causal language modelling
+- Causal language modelling
 title: causal language modelling
-description:
+description: Concise concept note on causal language modelling.
 parent nodes:
-  - "[[202602050153 - self-supervised learning|Self-supervised learning]]"
-published on:
+- '[[202602050153 - self-supervised learning|Self-supervised learning]]'
+published on: null
 ---
 
 - [ ] Update GPT link

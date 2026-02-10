@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Central Limit Theorem
+- Central Limit Theorem
 title: central limit theorem
-description:
+description: 'Math note: - It states that if you take enough samples from any distribution
+  (no'
 parent nodes:
-  - "[[202602072325 - distribution|Distribution]]"
-published on:
+- '[[202602072325 - distribution|Distribution]]'
+published on: null
 ---
 
 - It states that if you take enough samples from any distribution (no matter how weird, skewed, or messy it is), the mean of those samples will eventually form a [[202602072342 - normal distribution|Normal Distribution]] [^1][^2]

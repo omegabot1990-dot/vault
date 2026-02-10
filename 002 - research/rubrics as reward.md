@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for rubrics as reward.
 parent nodes:
-  - "[[reward model]]"
+- '[[reward model]]'
 ---
 
 - [ ] What is RoR?

@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for supervised fine-tuning.
 parent nodes:
-  - "[[fine-tuning]]"
+- '[[fine-tuning]]'
 ---
 
 - [ ] [Hugging Face - Supervised Fine-Tuning](https://huggingface.co/learn/llm-course/en/chapter11/1)

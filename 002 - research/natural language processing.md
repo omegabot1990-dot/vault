@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for natural language processing.
 parent nodes:
-  - "[[deep learning]]"
+- '[[deep learning]]'
 ---
 
 - [ ] What is NLP?

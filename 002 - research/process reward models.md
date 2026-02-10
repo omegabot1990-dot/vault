@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for process reward models.
 parent nodes:
-  - "[[reward model]]"
+- '[[reward model]]'
 ---
 
 - [ ] How to add rewards for each reasoning step? (PRMs)

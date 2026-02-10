@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Random Experiment
+- Random Experiment
 title: random experiment
-description:
+description: 'Math note: - A Random Experiment is any process, trial, or observation
+  that has a'
 parent nodes:
-  - "[[probability and statistics]]"
-published on:
+- '[[probability and statistics]]'
+published on: null
 ---
 
 - A Random Experiment is any <mark style="background: #FFF3A3A6;">process, trial, or observation that has a clearly defined set of possible outcomes</mark>, but where the exact outcome cannot be predicted with certainty before it happens

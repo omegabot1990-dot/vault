@@ -1,13 +1,14 @@
 ---
 tags:
-  - thesis
+- thesis
 aliases:
-  - Is tool use a way towards domain adaptation?
+- Is tool use a way towards domain adaptation?
 title: is tool use a way towards domain adaptation?
-description:
+description: Large Language Models (LLMs) have demonstrated enhanced reasoning abilities
+  solely through reinforcement learning (RL) in
 parent nodes:
-  - "[[research.base]]"
-published on:
+- '[[research.base]]'
+published on: null
 ---
 
 ## Abstract

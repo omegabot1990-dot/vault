@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description: tools for research
+- moc
+- root
+description: MOC linking key concepts and zettels for research tools.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 - [ ] Move papers from Google Scholar and Semantic Scholar to alphaXiv

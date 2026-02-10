@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - SentencePiece
+- SentencePiece
 title: sentencepiece
-description:
+description: Concise concept note on sentencepiece.
 parent nodes:
-  - "[[tokenizer]]"
-published on:
+- '[[tokenizer]]'
+published on: null
 ---
 
 - [ ] What is Byte Pair Encoding (BPE)?

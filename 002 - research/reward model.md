@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for reward model.
 parent nodes:
-  - "[[reinforcement learning]]"
+- '[[reinforcement learning]]'
 ---
 
 - [ ] [Reward Models](https://cameronrwolfe.substack.com/p/reward-models)

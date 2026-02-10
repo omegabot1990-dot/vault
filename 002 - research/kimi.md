@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description: kimi family
+- moc
+description: MOC linking key concepts and zettels for kimi.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [Kimi K2: Open Agentic Intelligence](https://www.alphaxiv.org/abs/2507.20534)

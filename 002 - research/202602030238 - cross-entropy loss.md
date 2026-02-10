@@ -1,13 +1,13 @@
 ---
 tags:
-  - note
+- note
 aliases:
-  - Cross-Entropy Loss
+- Cross-Entropy Loss
 title: cross-entropy loss
-description:
+description: Concise concept note on cross-entropy loss.
 parent nodes:
-  - "[[loss]]"
-published on:
+- '[[loss]]'
+published on: null
 ---
 
 - Minimise the divergence between the true distribution $p$ and predicted distribution $q$

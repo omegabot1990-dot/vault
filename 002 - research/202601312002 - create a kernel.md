@@ -1,13 +1,14 @@
 ---
 tags:
-  - code
+- code
 aliases:
-  - Kernal
+- Kernal
 title: create a kernal
-description:
+description: 'Code note: source venv/bin/activate python -m ipykernel install --user
+  --name= --display-name="Python "'
 parent nodes:
-  - "[[202512261842 - python]]"
-published on:
+- '[[202512261842 - python]]'
+published on: null
 ---
 
 ```

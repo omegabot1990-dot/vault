@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for lightweight models.
 parent nodes:
-  - "[[large language models]]"
+- '[[large language models]]'
 ---
 
 - [ ] [The Optimal Architecture for Small Language Models](https://huggingface.co/blog/codelion/optimal-model-architecture)

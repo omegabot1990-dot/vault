@@ -1,9 +1,9 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for information theory.
 parent nodes:
-  - "[[math]]"
+- '[[math]]'
 ---
 
 - [x] What is information theory?

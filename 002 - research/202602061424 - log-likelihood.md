@@ -1,13 +1,14 @@
 ---
 tags:
-  - math
+- math
 aliases:
-  - Log-Likelihood
+- Log-Likelihood
 title: log-likelihood
-description:
+description: 'Math note: - Log-likelihood converts the calculation from Product to
+  Sum'
 parent nodes:
-  - "[[202602061241 - likelihood]]"
-published on:
+- '[[202602061241 - likelihood]]'
+published on: null
 ---
 
 - Log-likelihood converts the calculation from <mark style="background: #FF5582A6;">Product to Sum</mark>

@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-  - root
-description: labs to follow
+- moc
+- root
+description: MOC linking key concepts and zettels for labs.
 parent nodes:
-  - "[[research.base]]"
+- '[[research.base]]'
 ---
 
 %% 

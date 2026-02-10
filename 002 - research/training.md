@@ -1,10 +1,10 @@
 ---
 tags:
-  - moc
-description:
+- moc
+description: MOC linking key concepts and zettels for training.
 parent nodes:
-  - "[[deep learning]]"
-  - "[[large language models]]"
+- '[[deep learning]]'
+- '[[large language models]]'
 ---
 
 - [ ] [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
