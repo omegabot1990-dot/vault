@@ -34,6 +34,8 @@ parent nodes:
 
 - [ ] [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 
+- [ ] [Reinforcement Learning: An Introduction (Sutton & Barto)](http://incompleteideas.net/book/the-book-2nd.html)
+
 ## Papers
 
 - [ ] [Understanding and Exploiting Weight Update Sparsity for Communication-Efficient Distributed RL](https://www.alphaxiv.org/abs/2602.03839)
@@ -49,5 +51,3 @@ parent nodes:
 - [ ] [YouTube - The FASTEST introduction to Reinforcement Learning on the internet](https://www.youtube.com/watch?v=VnpRp7ZglfA&t=1755s)
 
 ## Code
-
-	- [ ] http://incompleteideas.net/book/the-book-2nd.html
