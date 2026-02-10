@@ -26,24 +26,40 @@ import urllib.request
 
 HF_TRENDING_URL = "https://huggingface.co/papers/trending"
 
-INTEREST_KEYWORDS = [
-    # broad
+RESEARCH_INTERESTS_NOTE = "002 - research/research interests.md"
+
+FALLBACK_KEYWORDS = [
     "large language model",
     "llm",
     "language model",
     "transformer",
-    # RL for LLMs
+    "reasoning",
+    "agent",
+    "agents",
+    "tool use",
     "reinforcement learning",
     "rlhf",
     "rlaif",
-    "policy gradient",
-    # specific
     "group relative policy optimization",
     "group relative policy optimisation",
     "grpo",
     "verifiable rewards",
     "rlvr",
+    "parameter efficient fine tuning",
+    "peft",
+    "low rank adaptation",
+    "lora",
 ]
+
+HIGH_SIGNAL = {
+    "grpo",
+    "rlvr",
+    "verifiable rewards",
+    "group relative policy optimization",
+    "group relative policy optimisation",
+    "lora",
+    "peft",
+}
 
 
 @dataclass
@@ -61,19 +77,98 @@ def fetch(url: str) -> str:
             "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36",
         },
     )
-    with urllib.request.urlopen(req, timeout=60) as r:
+    with urllib.request.urlopen(req, timeout=20) as r:
         return r.read().decode("utf-8", "ignore")
 
 
 def norm(s: str) -> str:
     s = s.lower()
+    s = s.replace("-", " ")
     s = re.sub(r"\s+", " ", s)
     return s.strip()
 
 
-def matches_interest(text: str) -> bool:
+def keyword_hit(text_norm: str, keyword: str) -> bool:
+    k = norm(keyword)
+    if not k:
+        return False
+    # multi-word: require all tokens
+    toks = [t for t in re.split(r"[^a-z0-9]+", k) if t]
+    if len(toks) >= 2:
+        return all(t in text_norm for t in toks)
+    return k in text_norm
+
+
+def load_interest_keywords(vault_root: Path) -> list[str]:
+    p = vault_root / RESEARCH_INTERESTS_NOTE
+    kws: list[str] = []
+
+    if p.exists():
+        txt = p.read_text(encoding="utf-8")
+        for line in txt.splitlines():
+            m = re.match(r"^\s*-\s+(.*)$", line)
+            if not m:
+                continue
+            item = m.group(1).strip()
+            if not item:
+                continue
+            kws.append(item)
+
+            # add any acronyms in parentheses
+            for par in re.findall(r"\(([^\)]+)\)", item):
+                kws.append(par)
+
+            # add useful subphrases for long interests
+            if "reinforcement learning" in item.lower():
+                kws.append("reinforcement learning")
+                kws.append("rl")
+            if "large language model" in item.lower() or "language model" in item.lower():
+                kws.append("large language model")
+                kws.append("llm")
+            if "group relative policy" in item.lower():
+                kws.append("grpo")
+            if "low rank adaptation" in item.lower():
+                kws.append("lora")
+            if "parameter efficient" in item.lower():
+                kws.append("peft")
+
+    # always include a stable baseline vocabulary
+    kws.extend(FALLBACK_KEYWORDS)
+
+    # de-dup
+    out = []
+    seen = set()
+    for k in kws:
+        kn = norm(k)
+        if not kn or kn in seen:
+            continue
+        seen.add(kn)
+        out.append(k)
+
+    return out
+
+
+def interest_score(text: str, keywords: list[str]) -> int:
     t = norm(text)
-    return any(k in t for k in [norm(x) for x in INTEREST_KEYWORDS])
+    score = 0
+
+    for k in HIGH_SIGNAL:
+        if keyword_hit(t, k):
+            score += 3
+
+    for k in keywords:
+        if keyword_hit(t, k):
+            score += 1
+
+    return score
+
+
+def matches_interest(text: str, keywords: list[str]) -> bool:
+    # keep match strict enough to avoid spamming generic "LLM" posts
+    t = norm(text)
+    if any(keyword_hit(t, k) for k in HIGH_SIGNAL):
+        return True
+    return interest_score(t, keywords) >= 2
 
 
 def extract_json_ld(html: str) -> list[dict]:
@@ -99,6 +194,35 @@ def extract_arxiv_link(html: str) -> str | None:
     return None
 
 
+def arxiv_id_from_abs(url: str) -> str | None:
+    m = re.search(r"arxiv\.org/abs/([0-9]{4}\.[0-9]{5})", url)
+    return m.group(1) if m else None
+
+
+def fetch_arxiv_meta(arxiv_id: str) -> tuple[str | None, str | None]:
+    """Return (title, abstract) from arXiv API"""
+    api = f"https://export.arxiv.org/api/query?id_list={arxiv_id}"
+    try:
+        xml = fetch(api)
+    except Exception:
+        return None, None
+
+    # minimal XML parsing via regex
+    t_m = re.search(r"<title>(.*?)</title>", xml, re.S)
+    # first <title> is feed title, second is entry title
+    titles = re.findall(r"<title>(.*?)</title>", xml, re.S)
+    entry_title = None
+    if len(titles) >= 2:
+        entry_title = re.sub(r"\s+", " ", titles[1]).strip()
+
+    s_m = re.search(r"<summary>(.*?)</summary>", xml, re.S)
+    abstract = None
+    if s_m:
+        abstract = re.sub(r"\s+", " ", s_m.group(1)).strip()
+
+    return entry_title, abstract
+
+
 def extract_title(html: str) -> str | None:
     # OpenGraph
     m = re.search(r"<meta[^>]+property=\"og:title\"[^>]+content=\"([^\"]+)\"", html)
@@ -111,26 +235,40 @@ def extract_title(html: str) -> str | None:
     return None
 
 
-def parse_trending(html: str) -> list[Paper]:
-    # HuggingFace pages are JS-heavy but include JSON-LD + normal anchors
+def parse_trending(html: str, keywords: list[str]) -> list[Paper]:
     # Heuristic: collect paper links from /papers/ slug
-    urls = []
+    urls: list[str] = []
     for m in re.finditer(r"href=\"(/papers/[^\"]+)\"", html):
         u = "https://huggingface.co" + m.group(1)
         if u not in urls:
             urls.append(u)
 
     papers: list[Paper] = []
-    for u in urls[:50]:
+    for u in urls[:25]:
         try:
             ph = fetch(u)
         except Exception:
             continue
-        title = extract_title(ph) or u
+
         arxiv = extract_arxiv_link(ph)
-        # crude abstract extraction
-        abs_m = re.search(r"<meta[^>]+name=\"description\"[^>]+content=\"([^\"]+)\"", ph)
-        abstract = abs_m.group(1) if abs_m else None
+        raw_title = extract_title(ph) or u
+
+        # prefilter using only cheap signals (avoid many arXiv API calls)
+        pre_text = " ".join([raw_title, arxiv or ""])
+        if not matches_interest(pre_text, keywords):
+            continue
+
+        arxiv_id = arxiv_id_from_abs(arxiv) if arxiv else None
+        atitle, aabs = (None, None)
+        if arxiv_id:
+            atitle, aabs = fetch_arxiv_meta(arxiv_id)
+
+        title = atitle or raw_title
+        abstract = aabs
+        if abstract is None:
+            abs_m = re.search(r"<meta[^>]+name=\"description\"[^>]+content=\"([^\"]+)\"", ph)
+            abstract = abs_m.group(1) if abs_m else None
+
         papers.append(Paper(title=title, url=u, abstract=abstract, arxiv=arxiv))
 
     return papers
@@ -149,24 +287,29 @@ def daily_note_path(vault_root: Path) -> Path:
 
 
 def short_summary(p: Paper) -> str:
-    # Minimal, safe, no claims
-    # Use description meta if present
+    # Minimal technical summary extracted from abstract
     if p.abstract:
-        s = p.abstract
-        s = re.sub(r"\s+", " ", s).strip()
-        # keep short
-        if len(s) > 220:
-            s = s[:217] + "..."
+        s = re.sub(r"\s+", " ", p.abstract).strip()
+        # prefer first sentence-ish
+        parts = re.split(r"(?<=[.!?])\s+", s)
+        if parts and len(parts[0]) > 30:
+            s = parts[0]
+        if len(s) > 240:
+            s = s[:240].rstrip() + "..."
+        # avoid trailing full stop per vault style
+        s = s.rstrip(".")
         return s
     return "summary pending"
 
 
 def tldr_lines(papers: list[Paper]) -> list[str]:
-    lines = []
+    lines: list[str] = []
     for i, p in enumerate(papers, 1):
         ref = p.arxiv or p.url
+        summ = short_summary(p)
         # TLDR must cite which paper
         lines.append(f"{i}) {p.title} — {ref}")
+        lines.append(f"summary: {summ}")
     return lines
 
 
@@ -198,6 +341,7 @@ def render_daily_note(papers: list[Paper]) -> str:
     out.append("## TLDR top papers")
     out.append("")
     if papers:
+        # two-line blocks per paper, keep each line as its own bullet
         for line in tldr_lines(papers[:10]):
             out.append(f"- [ ] {line}")
     else:
@@ -209,14 +353,20 @@ def render_daily_note(papers: list[Paper]) -> str:
 def main() -> int:
     vault_root = Path(__file__).resolve().parents[1]
     trending = fetch(HF_TRENDING_URL)
-    papers = parse_trending(trending)
+    keywords = load_interest_keywords(vault_root)
+    papers = parse_trending(trending, keywords)
 
-    # filter by interest
-    filtered = []
+    # filter + rank by interest score
+    scored = []
     for p in papers:
+        if not p.arxiv:
+            continue
         text = " ".join([p.title, p.abstract or "", p.arxiv or ""])
-        if matches_interest(text):
-            filtered.append(p)
+        if matches_interest(text, keywords):
+            scored.append((interest_score(text, keywords), p))
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+    filtered = [p for _, p in scored[:20]]
 
     # write daily note
     note_path = daily_note_path(vault_root)
