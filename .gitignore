@@ -5,6 +5,8 @@
 
 # Obsidian state (avoid churn)
 .obsidian/workspace*
+.obsidian/graph.json
+.obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/cache/
 
 # Obsidian macOS
