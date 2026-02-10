@@ -8,8 +8,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602102038 - vector|Vector]]
-
 ## Blogs
 
 - [ ] [D2L — Linear Algebra (scalars → norms)](https://d2l.ai/chapter_preliminaries/linear-algebra.html)
