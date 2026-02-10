@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602102359 - span",
+      "path": "002 - research/202602102359 - span.md"
+    },
+    {
       "basename": "linear algebra",
       "path": "002 - research/linear algebra.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "research",
       "path": "002 - research/research.base"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
     }
   ],
   "omittedPaths": [],
