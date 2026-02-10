@@ -376,11 +376,15 @@ def main() -> int:
     try:
         trending = fetch(HF_TRENDING_URL, retries=2)
         trending_cache.write_text(trending, encoding="utf-8")
-    except Exception as e:
+    except Exception:
         if trending_cache.exists():
             trending = trending_cache.read_text(encoding="utf-8")
         else:
-            raise
+            # graceful failure for rate limits
+            sys.stdout.write(
+                f"Daily papers ({today_str()})\n\nHugging Face is rate-limiting or unreachable, no update produced\n"
+            )
+            return 0
 
     papers = parse_trending(trending, keywords)
 
