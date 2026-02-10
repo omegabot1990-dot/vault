@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/trusted sources.md",
+                "file": "008 - templates/node - zettel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trusted sources"
+              "title": "node - zettel"
             }
           }
         ],
@@ -90,7 +90,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "db646ff6b04fb44e",
@@ -102,10 +103,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/trusted sources.md"
+                "file": "008 - templates/node - zettel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for trusted sources"
+              "title": "File properties for node - zettel"
             }
           },
           {
@@ -114,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/trusted sources.md",
+                "file": "008 - templates/node - zettel.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of trusted sources"
+              "title": "Outline of node - zettel"
             }
           },
           {
@@ -249,9 +250,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2369357988b1ff7a",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "008 - templates/node - moc.md",
+    "008 - templates/node - inbox.md",
+    "008 - templates/node - zettel.md",
     "002 - research/trusted sources.md",
+    "001 - inbox/README.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/202602102054 - vectors.md",
     "002 - research/202602102138 - transformer.md",
@@ -274,10 +279,6 @@
     "003 - genesis/research",
     "002 - research/labs.md",
     "002 - research/research tools.md",
-    "002 - research/large language models.md",
-    "002 - research/202601282155 - supervised fine-tuning datasets.md",
-    "002 - research/compute.md",
-    "002 - research/architecture.md",
     "002 - research/research.base",
     "009 - help",
     "008 - templates",

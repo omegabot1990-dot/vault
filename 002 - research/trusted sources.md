@@ -1,13 +1,13 @@
 ---
 tags:
 - meta
+title: trusted sources
 description: ''
 bot: true
 parent nodes:
 - '[[research.base]]'
 aliases:
 - Trusted Sources
-title: trusted sources
 published on: null
 ---
 
