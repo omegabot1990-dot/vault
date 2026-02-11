@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111358 - weights and bias",
-      "path": "002 - research/202602111358 - weights and bias.md"
+      "basename": "202602111358 - weights and biases",
+      "path": "002 - research/202602111358 - weights and biases.md"
+    },
+    {
+      "basename": "202602111350 - inference",
+      "path": "002 - research/202602111350 - inference.md"
+    },
+    {
+      "basename": "202602111314 - model parameters",
+      "path": "002 - research/202602111314 - model parameters.md"
+    },
+    {
+      "basename": "202602111400 - activation",
+      "path": "002 - research/202602111400 - activation.md"
     },
     {
       "basename": "202602061153 - neural network",
@@ -19,14 +31,6 @@
     {
       "basename": "202602010047 - objective function",
       "path": "002 - research/202602010047 - objective function.md"
-    },
-    {
-      "basename": "202602111350 - inference",
-      "path": "002 - research/202602111350 - inference.md"
-    },
-    {
-      "basename": "202602111314 - model parameters",
-      "path": "002 - research/202602111314 - model parameters.md"
     },
     {
       "basename": "202602111256 - hyperparameters",
@@ -195,10 +199,6 @@
     {
       "basename": "202602062110 - mean",
       "path": "002 - research/202602062110 - mean.md"
-    },
-    {
-      "basename": "highlights",
-      "path": "002 - research/highlights.md"
     }
   ],
   "omittedPaths": [],

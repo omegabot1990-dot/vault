@@ -2,8 +2,8 @@
 tags:
   - deep_learning
 aliases:
-  - Weights and Bias
-title: weights and bias
+  - Weights and Biases
+title: weights and biases
 description: ""
 bot: true
 parent nodes:
@@ -12,8 +12,13 @@ published on:
 ---
 
 - Weights and bias are trainable [[202602111314 - model parameters|model parameters]] in a neural layer
-- The weights <mark style="background: #FF5582A6;">scale and mix input features</mark>, while the bias shifts the activation [^1]
-- A layer computes an affine map $z = Wx + b$ before applying a nonlinearity
+- The weights <mark style="background: #FF5582A6;">scale and mix input features</mark>, while the bias shifts the [[202602111400 - activation|activation]] [^1]
+- The weights act like dials that control how strongly each input feature influences the decision [^1]
+- A layer computes an affine map before applying a nonlinearity
+
+> [!MATH] Weights and Biases
+> $$z = Wx + b$$
+
 - During [[202602111335 - training|training]], gradients update both weights and bias to reduce [[202602010047 - objective function|loss]]
 - Weight values largely control feature interactions and model capacity
 - Bias helps <mark style="background: #BBFABBA6;">move decision boundaries</mark> and represent functions that do not pass through the origin [^2]

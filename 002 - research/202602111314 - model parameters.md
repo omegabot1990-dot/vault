@@ -13,7 +13,7 @@ published on:
 
 - [[202602010044 - model|Model]] parameters are <mark style="background: #BBFABBA6;">values learned from data</mark> during [[202602111335 - training|training]] [^1]
 - They are updated by optimisation steps to reduce the [[202602010047 - objective function|loss]]
-- In [[202602061153 - neural network|neural networks]], weights and biases are model parameters [^2]
+- In [[202602061153 - neural network|neural networks]], [[202602111358 - weights and biases|weights and biases]] are model parameters [^2]
 - Model parameters differ from [[202602111256 - hyperparameters|hyperparameters]], which are set before training
 - Parameter count <mark style="background: #FFF3A3A6;">controls model capacity and memory/computation cost</mark>
 - Learned parameter values determine the final function used at [[202602111350 - inference|inference]]
