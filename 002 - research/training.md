@@ -13,6 +13,7 @@ parent nodes:
 - [x] [[202602111639 - underfitting|Underfitting]]
 - [x] [[202602111640 - dropout|Dropout]]
 - [x] [[202602111644 - overfitting|Overfitting]]
+- [x] [[202602111730 - l2 early stopping|L2 Early Stopping]]
 
 ## Blogs
 
