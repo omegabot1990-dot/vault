@@ -37,7 +37,7 @@ $$C = \frac{1}{n} \sum_{i=1}^{n} (y_{true} - y_{pred})^2$$
 - To update weights, we need the gradient of the [[202602010047 - objective function|cost function]] with respect to the weight
 - We use the chain rule to find this derivative:
 
-> [!MATH] Backpropagation (The Chain Rule)
+> [!MATH] [[202602111557 - backpropagation|Backpropagation]]
 $$\frac{\partial C}{\partial w} = \frac{\partial C}{\partial a} \cdot \frac{\partial a}{\partial z} \cdot \frac{\partial z}{\partial w}$$
 
 - Once the gradient is calculated, we update the weight using the Learning Rate ($\eta$), which is a [[202602111256 - hyperparameters|hyperparameter]]:

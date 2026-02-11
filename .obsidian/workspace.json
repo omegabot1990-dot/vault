@@ -224,9 +224,41 @@
               "icon": "lucide-file",
               "title": "202602061153 - neural network"
             }
+          },
+          {
+            "id": "c5e3f73ff14312a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111557 - backpropagation.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111557 - backpropagation"
+            }
+          },
+          {
+            "id": "ae4ec01c3c53336b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111600 - learning rate.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111600 - learning rate"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -295,10 +327,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602061153 - neural network.md"
+                "file": "002 - research/202602111600 - learning rate.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602061153 - neural network"
+              "title": "File properties for 202602111600 - learning rate"
             }
           },
           {
@@ -307,13 +339,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602061153 - neural network.md",
+                "file": "002 - research/202602111600 - learning rate.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602061153 - neural network"
+              "title": "Outline of 202602111600 - learning rate"
             }
           },
           {
@@ -442,12 +474,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "629d4760abcd45c6",
+  "active": "ae4ec01c3c53336b",
   "lastOpenFiles": [
-    "002 - research/202602111558 - gradient descent.md",
-    "002 - research/202602111557 - backpropagation.md",
-    "002 - research/202602102054 - vectors.md",
     "002 - research/202602061153 - neural network.md",
+    "002 - research/202602111557 - backpropagation.md",
+    "002 - research/202602111600 - learning rate.md",
+    "002 - research/202602111558 - gradient descent.md",
+    "002 - research/202602102054 - vectors.md",
     "002 - research/202602111400 - activation.md",
     "002 - research/202601311954 - pytorch.md",
     "002 - research/202602111526 - relu.md",
@@ -469,7 +502,6 @@
     "202602111340 - neural networks.md",
     "002 - research/202602111340 - neural networks.md",
     "002 - research/202602111256 - hyperparameters.md",
-    "002 - research/hyperparameters.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

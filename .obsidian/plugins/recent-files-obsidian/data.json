@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111600 - learning rate",
+      "path": "002 - research/202602111600 - learning rate.md"
+    },
+    {
       "basename": "202602061153 - neural network",
       "path": "002 - research/202602061153 - neural network.md"
+    },
+    {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "202602102054 - vectors",
@@ -191,14 +199,6 @@
     {
       "basename": "large language models",
       "path": "002 - research/large language models.md"
-    },
-    {
-      "basename": "linear algebra",
-      "path": "002 - research/linear algebra.md"
-    },
-    {
-      "basename": "2026-02-10",
-      "path": "000 - daily notes/2026-02-10.md"
     }
   ],
   "omittedPaths": [],
