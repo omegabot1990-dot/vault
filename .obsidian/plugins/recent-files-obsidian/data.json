@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
       "basename": "202602111636 - regularization",
       "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602111731 - data augmentation",
+      "path": "002 - research/202602111731 - data augmentation.md"
+    },
+    {
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
     },
     {
       "basename": "202602111711 - l2 regularization",
@@ -11,10 +23,6 @@
     {
       "basename": "202602111600 - learning rate",
       "path": "002 - research/202602111600 - learning rate.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
     },
     {
       "basename": "202602111605 - optimization algorithms",
@@ -27,10 +35,6 @@
     {
       "basename": "202602111640 - dropout",
       "path": "002 - research/202602111640 - dropout.md"
-    },
-    {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
     },
     {
       "basename": "202602111639 - underfitting",

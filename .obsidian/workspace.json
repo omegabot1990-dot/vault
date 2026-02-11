@@ -336,9 +336,25 @@
               "icon": "lucide-file",
               "title": "202602111636 - regularization"
             }
+          },
+          {
+            "id": "36ee398e701b7621",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602010049 - overfitting.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602010049 - overfitting"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -407,10 +423,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111636 - regularization.md"
+                "file": "002 - research/202602010049 - overfitting.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111636 - regularization"
+              "title": "File properties for 202602010049 - overfitting"
             }
           },
           {
@@ -419,13 +435,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111636 - regularization.md",
+                "file": "002 - research/202602010049 - overfitting.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111636 - regularization"
+              "title": "Outline of 202602010049 - overfitting"
             }
           },
           {
@@ -434,7 +450,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "What is data augmen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -554,18 +570,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2504ddab8453fb6d",
+  "active": "36ee398e701b7621",
   "lastOpenFiles": [
-    "002 - research/202602111730 - l2 early stopping.md",
     "002 - research/202602111636 - regularization.md",
+    "002 - research/202602010049 - overfitting.md",
+    "002 - research/202602111731 - data augmentation.md",
+    "002 - research/202602111617 - learning rate schedule.md",
+    "002 - research/202602111730 - l2 early stopping.md",
+    "002 - research/202602111711 - l2 regularisation.md",
     "002 - research/202602111711 - l2 regularization.md",
     "002 - research/202602111600 - learning rate.md",
-    "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602111634 - weight decay.md",
     "002 - research/202602111640 - dropout.md",
     "002 - research/202602111705 - activations.md",
-    "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111639 - underfitting.md",
     "002 - research/202602111644 - overfitting.md",
     "002 - research/202602011426 - warmup.md",
@@ -580,8 +598,6 @@
     "002 - research/202602111526 - relu.md",
     "002 - research/202602111527 - gelu.md",
     "002 - research/202602102143 - transformer.md",
-    "002 - research/202602111530 - softmax.md",
-    "002 - research/202602030238 - cross-entropy loss.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

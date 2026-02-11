@@ -12,7 +12,6 @@ published on:
 ---
 
 - [ ] What is early stopping?
-- [ ] What is data augmentation?
 
 ---
 - Regularization is a set of methods used to reduce [[202602010049 - overfitting|overfitting]] and improve generalisation
@@ -21,7 +20,7 @@ published on:
 	- [[202602111634 - weight decay|Weight decay]]
 	- [[202602111640 - dropout|Dropout]]
 	- Early stopping
-	- Data augmentation
+	- [[202602111731 - data augmentation|Data augmentation]]
 - Regularization strength is controlled by [[202602111256 - hyperparameters|hyperparameters]] and must be tuned with validation data
 - Too much regularization causes [[202602111639 - underfitting|underfitting]], while too little can cause [[202602010049 - overfitting|overfitting]]
 - Effective regularisation depends on [[202602111314 - model parameters|model size]], dataset scale, and [[202602111605 - optimization algorithms|optimization]] setup
