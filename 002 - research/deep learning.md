@@ -10,6 +10,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602120054 - classification|Classification]]
+
 ## Blogs
 
 - [ ] [D2L](https://d2l.ai/)
