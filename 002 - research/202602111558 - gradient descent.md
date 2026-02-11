@@ -1,6 +1,6 @@
 ---
 tags:
-  - math
+  - deep_learning
 aliases:
   - Gradient Descent
 title: gradient descent
@@ -15,15 +15,15 @@ published on:
 - It updates [[202602111314 - model parameters|parameters]] by moving in the negative gradient direction
 - For objective $f(\theta)$ and [[202602111600 - learning rate|learning rate]] $\eta>0$:
 
-> [!MATH] Gradient descent update
+> [!MATH] Gradient Descent Update
 > $$\theta_{t+1}=\theta_t-\eta\nabla f(\theta_t)$$
 
 - The gradient gives the <mark style="background: #BBFABBA6;">local steepest ascent direction</mark>, so its negative points toward local decrease
 - Learning rate controls step size,
-    - Too large can cause divergence or oscillation
-    - Too small can make convergence very slow
+    - Too large a value can cause divergence or oscillation
+    - Too small a value can make convergence very slow
 - In high dimensions, curvature differences across directions affect convergence speed
-- Stochastic gradient descent and mini-[[202602111625 - batch size|batch]] variants approximate this update with sampled data
+- [[202602111845 - stochastic gradient descent|Stochastic gradient descent]] and mini-[[202602111625 - batch size|batch]] variants approximate this update with sampled data
 
 
 [^1]: 
