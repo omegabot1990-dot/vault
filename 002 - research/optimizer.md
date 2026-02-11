@@ -11,7 +11,7 @@ parent nodes:
 - [x] [[202602111605 - optimization algorithms|Optimization Algorithms]]
 
 - [x] [[202602111845 - stochastic gradient descent|Stochastic Gradient Descent]]
-	- [ ] What is momentum?
+	- [x] [[202602111851 - momentum|Momentum]]
 	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
 
 - [ ] Adaptive Moment Estimation (Adam)
