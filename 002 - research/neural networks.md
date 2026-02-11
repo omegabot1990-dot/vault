@@ -8,6 +8,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111340 - neural networks|Neural Networks]]
+
 ## Blogs
 
 - [ ] [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
