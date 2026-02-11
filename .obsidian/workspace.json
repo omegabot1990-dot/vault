@@ -442,8 +442,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5d8895306e991c04",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602111558 - gradient descent.md",
+    "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602102054 - vectors.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111400 - activation.md",
@@ -468,8 +470,6 @@
     "002 - research/202602111340 - neural networks.md",
     "002 - research/202602111256 - hyperparameters.md",
     "002 - research/hyperparameters.md",
-    "002 - research/202602010044 - model.md",
-    "002 - research/natural language processing.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

@@ -10,6 +10,9 @@ parent nodes:
 published on:
 ---
 
+- [ ] What is MSE?
+
+---
 - A neural network is a machine learning [[202602010044 - model|model]] that stacks simple "neurons" in layers and learns pattern-recognising weights and biases from data to map inputs to outputs [^1]
 - Neural networks are <mark style="background: #FF5582A6;">function approximators</mark> built from layers of interconnected units (neurons)
 - Each layer applies an [[202602111417 - affine map|affine]] transformation followed by a nonlinear [[202602111400 - activation|activation]]
@@ -31,13 +34,13 @@ $$a = f(z)$$
 > [!MATH] The [[202602010047 - objective function|Loss Function]] (Mean Squared Error)
 $$C = \frac{1}{n} \sum_{i=1}^{n} (y_{true} - y_{pred})^2$$
 
-- To update weights, we need the gradient of the cost function with respect to the weight
+- To update weights, we need the gradient of the [[202602010047 - objective function|cost function]] with respect to the weight
 - We use the chain rule to find this derivative:
 
 > [!MATH] Backpropagation (The Chain Rule)
 $$\frac{\partial C}{\partial w} = \frac{\partial C}{\partial a} \cdot \frac{\partial a}{\partial z} \cdot \frac{\partial z}{\partial w}$$
 
-- Once the gradient is calculated, we update the weight using the Learning Rate ($\eta$), which is a hyperparameter:
+- Once the gradient is calculated, we update the weight using the Learning Rate ($\eta$), which is a [[202602111256 - hyperparameters|hyperparameter]]:
 
 > [!MATH] The Update Rule (Gradient Descent)
 > $$w_{new} = w_{old} - \eta \cdot \frac{\partial C}{\partial w}$$
