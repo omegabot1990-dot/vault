@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "trusted sources",
-      "path": "002 - research/trusted sources.md"
+      "basename": "202602010044 - model",
+      "path": "002 - research/202602010044 - model.md"
     },
     {
       "basename": "202602111256 - hyperparameters",
       "path": "002 - research/202602111256 - hyperparameters.md"
     },
     {
-      "basename": "natural language processing",
-      "path": "002 - research/natural language processing.md"
+      "basename": "trusted sources",
+      "path": "002 - research/trusted sources.md"
     },
     {
       "basename": "hyperparameters",
       "path": "002 - research/hyperparameters.md"
+    },
+    {
+      "basename": "natural language processing",
+      "path": "002 - research/natural language processing.md"
     },
     {
       "basename": "unsupervised learning",
@@ -195,10 +199,6 @@
     {
       "basename": "202602100011 - mutually exclusive",
       "path": "002 - research/202602100011 - mutually exclusive.md"
-    },
-    {
-      "basename": "202602092343 - law of total probabilities",
-      "path": "002 - research/202602092343 - law of total probabilities.md"
     }
   ],
   "omittedPaths": [],
