@@ -15,6 +15,7 @@ parent nodes:
 - [x] [[202602111640 - dropout|Dropout]]
 - [x] [[202602111731 - data augmentation|Data Augmentation]]
 - [x] [[202602111733 - early stopping|Early Stopping]]
+- [x] [[202602010041 - supervised learning|Supervised Learning]]
 
 ## Blogs
 
