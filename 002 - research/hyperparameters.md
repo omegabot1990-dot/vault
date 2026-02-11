@@ -10,7 +10,7 @@ parent nodes:
 
 ## Topics
 
-- [ ] What is a hyperparameter?
+- [x] [[202602111256 - hyperparameters|Hyperparameters]]
 
 ## Blogs
 
