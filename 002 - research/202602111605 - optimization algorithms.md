@@ -19,7 +19,7 @@ published on:
 
 ---
 - Optimization algorithms are methods that update [[202602111314 - model parameters|model parameters]] to minimise an [[202602010047 - objective function|objective function]]
-- They use gradients and update rules to control step direction, scale, and stability
+- They use [[202602111558 - gradient descent|gradients]] and update rules to control step direction, scale, and stability
 - Core families are first-order methods, such as:
 	- Stochastic Gradient Descent (SGD)
 	- Momentum SGD

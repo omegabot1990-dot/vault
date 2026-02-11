@@ -274,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -343,10 +343,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111600 - learning rate.md"
+                "file": "002 - research/202602111605 - optimization algorithms.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111600 - learning rate"
+              "title": "File properties for 202602111605 - optimization algorithms"
             }
           },
           {
@@ -355,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111600 - learning rate.md",
+                "file": "002 - research/202602111605 - optimization algorithms.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111600 - learning rate"
+              "title": "Outline of 202602111605 - optimization algorithms"
             }
           },
           {
@@ -490,10 +490,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ae4ec01c3c53336b",
+  "active": "8709fa406d18fab3",
   "lastOpenFiles": [
-    "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602111600 - learning rate.md",
+    "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602011426 - warmup.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111557 - backpropagation.md",
