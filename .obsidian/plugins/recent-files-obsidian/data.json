@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602010041 - ss",
+      "path": "002 - research/202602010041 - ss.md"
+    },
+    {
       "basename": "202602112310 - unsupervised learning",
       "path": "002 - research/202602112310 - unsupervised learning.md"
     },
     {
-      "basename": "202602010041 - ss",
-      "path": "002 - research/202602010041 - ss.md"
+      "basename": "202602050153 - self-supervised learning",
+      "path": "002 - research/202602050153 - self-supervised learning.md"
     },
     {
       "basename": "training",
@@ -195,10 +199,6 @@
     {
       "basename": "202602111530 - softmax",
       "path": "002 - research/202602111530 - softmax.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
     }
   ],
   "omittedPaths": [],
