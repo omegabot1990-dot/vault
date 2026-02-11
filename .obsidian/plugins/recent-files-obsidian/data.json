@@ -5,6 +5,10 @@
       "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
+      "basename": "202602111558 - gradient descent",
+      "path": "002 - research/202602111558 - gradient descent.md"
+    },
+    {
       "basename": "202602111600 - learning rate",
       "path": "002 - research/202602111600 - learning rate.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "kimi",
       "path": "002 - research/kimi.md"
-    },
-    {
-      "basename": "olmo",
-      "path": "002 - research/olmo.md"
     }
   ],
   "omittedPaths": [],

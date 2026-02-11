@@ -240,6 +240,22 @@
               "icon": "lucide-file",
               "title": "202602111557 - backpropagation"
             }
+          },
+          {
+            "id": "f2d36a9713c6e6d7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111558 - gradient descent.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111558 - gradient descent"
+            }
           }
         ],
         "currentTab": 15
@@ -460,6 +476,8 @@
   },
   "active": "c5e3f73ff14312a7",
   "lastOpenFiles": [
+    "002 - research/202602111558 - gradient descent.md",
+    "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111600 - learning rate.md",
     "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111605 - optimization algorithms.md",
@@ -480,8 +498,6 @@
     "002 - research/202602111623 - epochs.md",
     "002 - research/202602111625 - batch size.md",
     "002 - research/202602061153 - neural network.md",
-    "002 - research/202602111557 - backpropagation.md",
-    "002 - research/202602111558 - gradient descent.md",
     "002 - research/202602102054 - vectors.md",
     "002 - research/202602111400 - activation.md",
     "002 - research/202601311954 - pytorch.md",
