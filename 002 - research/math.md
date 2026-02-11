@@ -12,6 +12,7 @@ parent nodes:
 
 - [x] [[202602111417 - affine map|Affine map]]
 - [x] [[202602111510 - sigmoid|Sigmoid]]
+- [x] [[202602111518 - tanh|Tanh]]
 
 - Learning Strategy
 	- Start with a video explanation
