@@ -10,6 +10,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602112310 - unsupervised learning|Unsupervised Learning]]
+- [x] [[202602010041 - supervised learning|Supervised Learning]]
 
 ## Blogs
 
