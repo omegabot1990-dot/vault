@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111605 - optimization algorithms",
-      "path": "002 - research/202602111605 - optimization algorithms.md"
+      "basename": "202602011426 - warmup",
+      "path": "002 - research/202602011426 - warmup.md"
+    },
+    {
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
     },
     {
       "basename": "202602111600 - learning rate",
       "path": "002 - research/202602111600 - learning rate.md"
     },
     {
-      "basename": "202602011426 - warmup",
-      "path": "002 - research/202602011426 - warmup.md"
+      "basename": "202602111605 - optimization algorithms",
+      "path": "002 - research/202602111605 - optimization algorithms.md"
     },
     {
       "basename": "202602061153 - neural network",
@@ -195,10 +199,6 @@
     {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
-    },
-    {
-      "basename": "blogs",
-      "path": "002 - research/blogs.md"
     }
   ],
   "omittedPaths": [],
