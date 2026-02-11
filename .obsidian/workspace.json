@@ -64,9 +64,52 @@
               "icon": "lucide-file",
               "title": "202602050153 - self-supervised learning"
             }
+          },
+          {
+            "id": "cf02b9f465ace6c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602112328 - supervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602112328 - supervised learning"
+            }
+          },
+          {
+            "id": "e0a3d0c37e58013a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602102143 - transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202602102143 - transformer"
+            }
+          },
+          {
+            "id": "baea62d9cdae09c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602102143 - transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202602102143 - transformer"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,11 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602112310 - unsupervised learning.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602112310 - unsupervised learning"
+              "title": "File properties"
             }
           },
           {
@@ -147,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602112310 - unsupervised learning.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602112310 - unsupervised learning"
+              "title": "Outline"
             }
           },
           {
@@ -282,13 +322,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d7295843f483e0a7",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602050153 - self-supervised learning.md",
-    "002 - research/202602010041 - supervised learning.md",
-    "002 - research/202602112310 - unsupervised learning.md",
-    "conflict-files-obsidian-git.md",
+    "002 - research/202602102143 - transformer.md",
     "002 - research/training.md",
+    "002 - research/202602112310 - unsupervised learning.md",
+    "002 - research/202602050153 - self-supervised learning.md",
+    "002 - research/202602112328 - supervised learning.md",
+    "002 - research/202602010041 - supervised learning.md",
+    "conflict-files-obsidian-git.md",
     "002 - research/supervised learning.md",
     "002 - research/deepmind.md",
     "002 - research/202602010052 - off-line learning.md",
@@ -308,8 +350,6 @@
     "002 - research/neural networks.md",
     "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111510 - sigmoid.md",
-    "002 - research/202602111417 - affine map.md",
-    "002 - research/202602111851 - momentum.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
