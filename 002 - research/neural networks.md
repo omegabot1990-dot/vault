@@ -9,6 +9,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602111340 - neural networks|Neural Networks]]
+- [x] [[202602111358 - weights and bias|Weights and Bias]]
 
 ## Blogs
 
