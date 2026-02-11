@@ -260,6 +260,7 @@
           {
             "id": "515c6408858c9906",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -267,6 +268,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "202601311954 - pytorch"
             }
@@ -488,14 +490,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "629d4760abcd45c6",
+  "active": "25852a852149100d",
   "lastOpenFiles": [
+    "002 - research/202602111358 - weights and biases.md",
     "002 - research/202601311954 - pytorch.md",
+    "002 - research/202602111400 - activation.md",
     "002 - research/202602111510 - sigmoid.md",
     "002 - research/activations.md",
-    "002 - research/202602111400 - activation.md",
     "002 - research/202602010047 - objective function.md",
-    "002 - research/202602111358 - weights and biases.md",
     "002 - research/202602111314 - model parameters.md",
     "002 - research/202602111417 - affine map.md",
     "002 - research/math.md",
