@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111256 - hyperparameters.md"
+                "file": "002 - research/202602111314 - model parameters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111256 - hyperparameters"
+              "title": "File properties for 202602111314 - model parameters"
             }
           },
           {
@@ -283,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111256 - hyperparameters.md",
+                "file": "002 - research/202602111314 - model parameters.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111256 - hyperparameters"
+              "title": "Outline of 202602111314 - model parameters"
             }
           },
           {
@@ -418,11 +418,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6005fcc2f1ee8428",
+  "active": "f1263f5470807a3b",
   "lastOpenFiles": [
     "002 - research/202602010044 - model.md",
-    "002 - research/202602111314 - model parameters.md",
     "002 - research/202602111256 - hyperparameters.md",
+    "002 - research/202602111314 - model parameters.md",
     "002 - research/trusted sources.md",
     "002 - research/hyperparameters.md",
     "002 - research/natural language processing.md",

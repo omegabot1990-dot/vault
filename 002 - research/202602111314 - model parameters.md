@@ -1,18 +1,18 @@
 ---
 tags:
-- note
+  - deep_learning
 aliases:
-- Model Parameters
+  - Model Parameters
 title: model parameters
-description: ''
+description: ""
 bot: true
 parent nodes:
-- '[[hyperparameters]]'
-published on: null
+  - "[[hyperparameters]]"
+published on:
 ---
 
-- Model parameters are values learned from data during training
-- They are updated by optimization steps to reduce the loss
+- [[202602010044 - model|Model]] parameters are values learned from data during training
+- They are updated by optimisation steps to reduce the [[202602010047 - objective function|loss]]
 - In neural networks, weights and biases are model parameters
 - Model parameters differ from hyperparameters which are set before training
 - Parameter count controls model capacity and memory/computation cost
