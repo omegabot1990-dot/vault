@@ -9,7 +9,7 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602111705 - activations|Activations]]
+- [x] [[202602111400 - activation|Activation]]
 
 ## Blogs
 

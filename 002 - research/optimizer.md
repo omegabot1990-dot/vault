@@ -1,18 +1,12 @@
 ---
 tags:
-  - deep_learning
+  - moc
 description: ""
 parent nodes:
   - "[[deep learning]]"
 ---
 
 ## Topics
-
-- [x] [[202602111605 - optimization algorithms|Optimization Algorithms]]
-
-- [x] [[202602111845 - stochastic gradient descent|Stochastic Gradient Descent]]
-	- [x] [[202602111851 - momentum|Momentum]]
-	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
 
 - [ ] Adaptive Moment Estimation (Adam)
 

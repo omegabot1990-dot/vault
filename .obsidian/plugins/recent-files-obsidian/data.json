@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
-    },
-    {
-      "basename": "202602111558 - gradient descent",
-      "path": "002 - research/202602111558 - gradient descent.md"
+      "basename": "optimizer",
+      "path": "002 - research/optimizer.md"
     },
     {
       "basename": "202602111845 - stochastic gradient descent",
@@ -15,6 +11,38 @@
     {
       "basename": "202602111851 - momentum",
       "path": "002 - research/202602111851 - momentum.md"
+    },
+    {
+      "basename": "neural networks",
+      "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "202602111417 - affine map",
+      "path": "002 - research/202602111417 - affine map.md"
+    },
+    {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
+    },
+    {
+      "basename": "deep learning",
+      "path": "002 - research/deep learning.md"
+    },
+    {
+      "basename": "definitions",
+      "path": "002 - research/definitions.md"
+    },
+    {
+      "basename": "202602061424 - log-likelihood",
+      "path": "002 - research/202602061424 - log-likelihood.md"
+    },
+    {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "202602111558 - gradient descent",
+      "path": "002 - research/202602111558 - gradient descent.md"
     },
     {
       "basename": "202602111605 - optimization algorithms",
@@ -133,10 +161,6 @@
       "path": "002 - research/202602111314 - model parameters.md"
     },
     {
-      "basename": "202602111417 - affine map",
-      "path": "002 - research/202602111417 - affine map.md"
-    },
-    {
       "basename": "math",
       "path": "002 - research/math.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "202602011532 - training tips",
       "path": "002 - research/202602011532 - training tips.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
-    },
-    {
-      "basename": "supervised learning",
-      "path": "002 - research/supervised learning.md"
-    },
-    {
-      "basename": "neural networks",
-      "path": "002 - research/neural networks.md"
-    },
-    {
-      "basename": "residual connections",
-      "path": "002 - research/residual connections.md"
-    },
-    {
-      "basename": "optimizer",
-      "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "transformers",
-      "path": "002 - research/transformers.md"
     }
   ],
   "omittedPaths": [],

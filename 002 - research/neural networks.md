@@ -8,7 +8,7 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602111340 - neural networks|Neural Networks]]
+- [x] [[202602061153 - neural network|Neural Network]]
 - [x] [[202602111358 - weights and biases|Weights and Bias]]
 - [x] [[202602111400 - activation|Activation]]
 

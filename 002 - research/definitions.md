@@ -1,7 +1,7 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+description: ""
 parent nodes:
-- '[[work]]'
+  - "[[research.base]]"
 ---
