@@ -8,6 +8,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111350 - inference|Inference]]
+
 ## Blogs
 
 ## Papers
