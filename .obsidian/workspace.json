@@ -540,8 +540,9 @@
   },
   "active": "591bef1039f176fe",
   "lastOpenFiles": [
-    "002 - research/202602010049 - overfitting.md",
+    "002 - research/202602111625 - batch size.md",
     "002 - research/202602111623 - epochs.md",
+    "002 - research/202602010049 - overfitting.md",
     "002 - research/202602011426 - warmup.md",
     "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111600 - learning rate.md",
@@ -565,7 +566,6 @@
     "002 - research/202602111314 - model parameters.md",
     "002 - research/202602111417 - affine map.md",
     "002 - research/math.md",
-    "002 - research/trusted sources.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

@@ -5,6 +5,10 @@
       "path": "002 - research/202602111623 - epochs.md"
     },
     {
+      "basename": "202602111625 - batch size",
+      "path": "002 - research/202602111625 - batch size.md"
+    },
+    {
       "basename": "202602010049 - overfitting",
       "path": "002 - research/202602010049 - overfitting.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "random ideas",
       "path": "002 - research/random ideas.md"
-    },
-    {
-      "basename": "202602102050 - scalar",
-      "path": "002 - research/202602102050 - scalar.md"
     }
   ],
   "omittedPaths": [],
