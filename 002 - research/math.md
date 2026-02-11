@@ -15,6 +15,7 @@ parent nodes:
 - [x] [[202602111518 - tanh|Tanh]]
 - [x] [[202602111526 - relu|ReLU]]
 - [x] [[202602111527 - gelu|GELU]]
+- [x] [[202602111530 - softmax|Softmax]]
 
 - Learning Strategy
 	- Start with a video explanation
