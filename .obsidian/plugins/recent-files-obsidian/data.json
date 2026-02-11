@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
       "basename": "202602111639 - underfitting",
       "path": "002 - research/202602111639 - underfitting.md"
     },
     {
       "basename": "202602111636 - regularization",
       "path": "002 - research/202602111636 - regularization.md"
-    },
-    {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
     },
     {
       "basename": "202602111634 - weight decay",
@@ -195,10 +195,6 @@
     {
       "basename": "qwen",
       "path": "002 - research/qwen.md"
-    },
-    {
-      "basename": "deepseek",
-      "path": "002 - research/deepseek.md"
     }
   ],
   "omittedPaths": [],
