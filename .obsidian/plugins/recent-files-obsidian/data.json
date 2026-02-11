@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
+    },
+    {
       "basename": "neural networks",
       "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "202602111417 - affine map",
+      "path": "002 - research/202602111417 - affine map.md"
     },
     {
       "basename": "202602111851 - momentum",
@@ -15,14 +23,6 @@
     {
       "basename": "optimizer",
       "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "202602111417 - affine map",
-      "path": "002 - research/202602111417 - affine map.md"
-    },
-    {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "deep learning",
