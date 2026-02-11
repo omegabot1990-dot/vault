@@ -3,10 +3,9 @@ tags:
   - deep_learning
 aliases:
   - Backpropagation
-  - Back propagation
 title: backpropagation
 description: ""
-bot: true
+bot: false
 parent nodes:
   - "[[202602061153 - neural network|Neural Network]]"
 published on:
@@ -15,7 +14,7 @@ published on:
 - [ ] What is Adam?
 
 ---
-- Backpropagation computes gradients of a [[202602010047 - objective function|loss]] with respect to [[202602111314 - model parameters|Model Parameters]] by <mark style="background: #BBFABBA6;">applying the chain rule from the output layer to the input layer</mark>
+- Backpropagation computes gradients of a [[202602010047 - objective function|loss]] with respect to [[202602111314 - model parameters|parameters]] by <mark style="background: #BBFABBA6;">applying the chain rule from the output layer to the input layer</mark>
 - It reuses intermediate forward-pass values to efficiently compute all partial derivatives
 - For a composition $L(f(g(x)))$:
 
@@ -35,3 +34,4 @@ published on:
 
 
 [^1]: [Backpropagation, intuitively | Deep Learning Chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3&t=1s)
+[^2]: [Backpropagation calculus | Deep Learning Chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)

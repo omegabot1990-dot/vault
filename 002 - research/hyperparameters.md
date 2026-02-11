@@ -10,16 +10,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602111256 - hyperparameters|Hyperparameters]]
-- [x] [[202602111314 - model parameters|Model Parameters]]
-- [x] [[202602111600 - learning rate|Learning Rate]]
-- [x] [[202602111617 - learning rate schedule|Learning Rate Schedule]]
-- [x] [[202602111623 - epochs|Epochs]]
-- [x] [[202602111625 - batch size|Batch Size]]
-- [x] [[202602111634 - weight decay|Weight Decay]]
-- [x] [[202602111636 - regularization|Regularization]]
-- [x] [[202602111711 - l2 regularization|L2 Regularisation]]
-
 ## Blogs
 
 ## Papers

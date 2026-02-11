@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
+      "basename": "202602111256 - hyperparameters",
+      "path": "002 - research/202602111256 - hyperparameters.md"
+    },
+    {
+      "basename": "hyperparameters",
+      "path": "002 - research/hyperparameters.md"
+    },
+    {
+      "basename": "202602111335 - training",
+      "path": "002 - research/202602111335 - training.md"
+    },
+    {
+      "basename": "202602111350 - inference",
+      "path": "002 - research/202602111350 - inference.md"
+    },
+    {
+      "basename": "202602061153 - neural network",
+      "path": "002 - research/202602061153 - neural network.md"
     },
     {
       "basename": "neural networks",
       "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
+    },
+    {
+      "basename": "202602111510 - sigmoid",
+      "path": "002 - research/202602111510 - sigmoid.md"
     },
     {
       "basename": "202602111417 - affine map",
@@ -105,10 +129,6 @@
       "path": "002 - research/202602111625 - batch size.md"
     },
     {
-      "basename": "202602061153 - neural network",
-      "path": "002 - research/202602061153 - neural network.md"
-    },
-    {
       "basename": "202602102054 - vectors",
       "path": "002 - research/202602102054 - vectors.md"
     },
@@ -145,10 +165,6 @@
       "path": "002 - research/202602111518 - tanh.md"
     },
     {
-      "basename": "202602111510 - sigmoid",
-      "path": "002 - research/202602111510 - sigmoid.md"
-    },
-    {
       "basename": "202602111358 - weights and biases",
       "path": "002 - research/202602111358 - weights and biases.md"
     },
@@ -167,22 +183,6 @@
     {
       "basename": "trusted sources",
       "path": "002 - research/trusted sources.md"
-    },
-    {
-      "basename": "202602111350 - inference",
-      "path": "002 - research/202602111350 - inference.md"
-    },
-    {
-      "basename": "202602111335 - training",
-      "path": "002 - research/202602111335 - training.md"
-    },
-    {
-      "basename": "202602111256 - hyperparameters",
-      "path": "002 - research/202602111256 - hyperparameters.md"
-    },
-    {
-      "basename": "hyperparameters",
-      "path": "002 - research/hyperparameters.md"
     },
     {
       "basename": "202602010044 - model",

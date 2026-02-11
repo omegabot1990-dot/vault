@@ -5,23 +5,30 @@ aliases:
   - Hyperparameters
 title: hyperparameters
 description: ""
-bot: true
+bot: false
 parent nodes:
-  - "[[hyperparameters]]"
+  - "[[202602061150 - deep learning|Deep Learning]]"
+  - "[[202602111335 - training|Training]]"
 published on:
 ---
 
-- Hyperparameters are <mark style="background: #BBFABBA6;">top-level configuration values</mark> set before dtraining that control model structure or learning behaviour [^1][^2]
-- They are <mark style="background: #FF5582A6;">not learned directly from gradient updates</mark>, unlike model parameters [^3]
+- [ ] What are search strategies?
+- [ ] What is grid search?
+- [ ] What is random search?
+- [ ] What is Bayesian optimisation?
+
+---
+- Hyperparameters are <mark style="background: #BBFABBA6;">top-level configuration values</mark> set before [[202602111335 - training|training]] that control model structure or learning behaviour [^1][^2]
+- They are <mark style="background: #FF5582A6;">not learned directly from gradient updates</mark>, unlike [[202602111314 - model parameters|model parameters]] [^3]
 - Typical examples are: [^4]
-	- learning rate
-	- optimisation algorithm
-	- activation function
-	- loss or cost function
-	- batch size
-	- epochs
-	- weight decay
-	- dropout rate
+	- [[202602111600 - learning rate|learning rate]]
+	- [[202602111605 - optimization algorithms|optimization algorithm]]
+	- [[202602111400 - activation|activation function]]
+	- [[202602010047 - objective function|loss or cost function]]
+	- [[202602111625 - batch size|batch size]]
+	- [[202602111623 - epochs|epochs]]
+	- [[202602111634 - weight decay|weight decay]]
+	- [[202602111640 - dropout|dropout rate]]
 	- number of layers
 	- hidden dimension
 - Good hyperparameter choices improve <mark style="background: #ADCCFFA6;">convergence speed, stability, and generalisation</mark>

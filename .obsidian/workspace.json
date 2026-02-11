@@ -144,121 +144,9 @@
               "icon": "lucide-file",
               "title": "natural language processing"
             }
-          },
-          {
-            "id": "2a249e38e8417397",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/hyperparameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "hyperparameters"
-            }
-          },
-          {
-            "id": "6005fcc2f1ee8428",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111256 - hyperparameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111256 - hyperparameters"
-            }
-          },
-          {
-            "id": "f55f10403348d8ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111335 - training.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111335 - training"
-            }
-          },
-          {
-            "id": "d30bfe636e44aafd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111350 - inference.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111350 - inference"
-            }
-          },
-          {
-            "id": "5d8895306e991c04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602061153 - neural network.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602061153 - neural network"
-            }
-          },
-          {
-            "id": "c5e3f73ff14312a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111557 - backpropagation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111557 - backpropagation"
-            }
-          },
-          {
-            "id": "368c1de3530830c2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/neural networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "neural networks"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -326,10 +214,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111557 - backpropagation.md"
+                "file": "002 - research/202602111256 - hyperparameters.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111557 - backpropagation"
+              "title": "File properties for 202602111256 - hyperparameters"
             }
           },
           {
@@ -338,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111557 - backpropagation.md",
+                "file": "002 - research/202602111256 - hyperparameters.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111557 - backpropagation"
+              "title": "Outline of 202602111256 - hyperparameters"
             }
           },
           {
@@ -473,14 +361,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c5e3f73ff14312a7",
+  "active": "6dc1e73051258a8e",
   "lastOpenFiles": [
+    "002 - research/hyperparameters.md",
+    "002 - research/202602111256 - hyperparameters.md",
+    "002 - research/202602111335 - training.md",
+    "002 - research/202602111350 - inference.md",
+    "002 - research/202602061153 - neural network.md",
     "002 - research/neural networks.md",
+    "002 - research/202602111557 - backpropagation.md",
+    "002 - research/202602111510 - sigmoid.md",
     "002 - research/202602111417 - affine map.md",
     "002 - research/202602111851 - momentum.md",
     "002 - research/202602111845 - stochastic gradient descent.md",
     "002 - research/optimizer.md",
-    "002 - research/202602111557 - backpropagation.md",
     "002 - research/deep learning.md",
     "002 - research/definitions.md",
     "002 - research/202602061424 - log-likelihood.md",
@@ -495,12 +389,6 @@
     "002 - research/dropouts.md",
     "002 - research/202602111711 - l2 regularization.md",
     "002 - research/202602111636 - regularization.md",
-    "002 - research/202602010049 - overfitting.md",
-    "002 - research/202602111733 - early stopping.md",
-    "002 - research/202602111731 - data augmentation.md",
-    "002 - research/202602111730 - l2 early stopping.md",
-    "002 - research/202602111711 - l2 regularisation.md",
-    "002 - research/202602111640 - dropout.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
