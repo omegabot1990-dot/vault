@@ -10,6 +10,7 @@ parent nodes:
 
 - [x] [[202602111340 - neural networks|Neural Networks]]
 - [x] [[202602111358 - weights and bias|Weights and Bias]]
+- [x] [[202602111400 - activation|Activation]]
 
 ## Blogs
 
