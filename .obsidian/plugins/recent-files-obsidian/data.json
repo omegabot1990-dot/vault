@@ -5,6 +5,14 @@
       "path": "002 - research/202602111400 - activation.md"
     },
     {
+      "basename": "202601311954 - pytorch",
+      "path": "002 - research/202601311954 - pytorch.md"
+    },
+    {
+      "basename": "202602111510 - sigmoid",
+      "path": "002 - research/202602111510 - sigmoid.md"
+    },
+    {
       "basename": "202602010047 - objective function",
       "path": "002 - research/202602010047 - objective function.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "node - moc",
       "path": "008 - templates/node - moc.md"
-    },
-    {
-      "basename": "node - inbox",
-      "path": "008 - templates/node - inbox.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     }
   ],
   "omittedPaths": [],
