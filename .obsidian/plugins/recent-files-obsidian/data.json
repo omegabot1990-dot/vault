@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111526 - relu",
+      "path": "002 - research/202602111526 - relu.md"
+    },
+    {
       "basename": "202602111518 - tanh",
       "path": "002 - research/202602111518 - tanh.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "optical character recognition",
       "path": "002 - research/optical character recognition.md"
-    },
-    {
-      "basename": "node - zettel",
-      "path": "008 - templates/node - zettel.md"
     }
   ],
   "omittedPaths": [],

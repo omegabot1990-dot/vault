@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/202602111518 - tanh.md",
+                "file": "002 - research/202602111526 - relu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202602111518 - tanh"
+              "title": "202602111526 - relu"
             }
           }
         ],
@@ -357,10 +357,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111518 - tanh.md"
+                "file": "002 - research/202602111526 - relu.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111518 - tanh"
+              "title": "File properties for 202602111526 - relu"
             }
           },
           {
@@ -369,13 +369,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111518 - tanh.md",
+                "file": "002 - research/202602111526 - relu.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111518 - tanh"
+              "title": "Outline of 202602111526 - relu"
             }
           },
           {
@@ -506,9 +506,10 @@
   },
   "active": "e767ff1278866313",
   "lastOpenFiles": [
-    "002 - research/202601311954 - pytorch.md",
-    "002 - research/202602111400 - activation.md",
     "002 - research/202602111518 - tanh.md",
+    "002 - research/202601311954 - pytorch.md",
+    "002 - research/202602111526 - relu.md",
+    "002 - research/202602111400 - activation.md",
     "002 - research/202602111510 - sigmoid.md",
     "002 - research/202602111358 - weights and biases.md",
     "002 - research/activations.md",
@@ -531,7 +532,6 @@
     "002 - research/training.md",
     "002 - research/supervised learning.md",
     "002 - research/neural networks.md",
-    "002 - research/residual connections.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
