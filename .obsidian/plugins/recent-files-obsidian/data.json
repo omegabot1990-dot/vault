@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "202602010041 - supervised learning",
       "path": "002 - research/202602010041 - supervised learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602030238 - cross-entropy loss",
       "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602111518 - tanh",
-      "path": "002 - research/202602111518 - tanh.md"
     }
   ],
   "omittedPaths": [],
