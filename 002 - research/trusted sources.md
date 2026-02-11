@@ -18,4 +18,5 @@ published on: null
 - [Emergent Mind](https://www.emergentmind.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [IBM Think](https://www.ibm.com/think/topics)
+- [Algorithm Archive](https://www.algorithm-archive.org/)
 

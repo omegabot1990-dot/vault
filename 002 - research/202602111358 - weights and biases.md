@@ -14,7 +14,7 @@ published on:
 - Weights and bias are trainable [[202602111314 - model parameters|model parameters]] in a neural layer
 - The weights <mark style="background: #FF5582A6;">scale and mix input features</mark>, while the bias shifts the [[202602111400 - activation|activation]] [^1]
 - The weights act like dials that control how strongly each input feature influences the decision [^1]
-- A layer computes an affine map before applying a nonlinearity
+- A layer computes an [[202602111417 - affine map|affine map]] before applying a nonlinearity
 
 > [!MATH] Weights and Biases
 > $$z = Wx + b$$

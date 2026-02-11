@@ -23,6 +23,9 @@ parent nodes:
 
 - [ ] [Josh Starmer - StatQuest](https://statquest.org/video_index.html)
 
+- [ ] [Algorithm Archive](https://www.algorithm-archive.org/)
+	- [ ] <mark style="background: #FF5582A6;">Amazing VISUAL AIDS</mark>
+
 
 ---
 
