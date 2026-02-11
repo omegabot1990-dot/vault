@@ -12,6 +12,8 @@ parent nodes:
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
 
+- [ ] [Weights and Biases Course](https://wandb.ai/site/courses/)
+
 - [ ] [The State Of LLMs 2025: Progress, Problems, and Predictions - Sebastian Raschka](https://magazine.sebastianraschka.com/p/state-of-llms-2025)
 	- [ ] ==IMPORTANT==
 

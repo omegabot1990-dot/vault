@@ -1,9 +1,9 @@
 ---
 tags:
-- moc
-description: ''
+  - family
+description: ""
 parent nodes:
-- '[[large language models]]'
+  - "[[large language models]]"
 ---
 
 ## Topics

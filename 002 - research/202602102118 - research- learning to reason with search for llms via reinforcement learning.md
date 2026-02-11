@@ -32,7 +32,7 @@ published on: 2025-03-25
 ## Summary
 
 - Trains an LLM to interleave reasoning with external search using reinforcement learning
-- Optimizes tool-use decisions without supervised intermediate reasoning traces
+- Optimises tool-use decisions without supervised intermediate reasoning traces
 - Targets multi-hop question answering with an outcome reward
 
 ## Problem
@@ -47,8 +47,8 @@ published on: 2025-03-25
 	- `<think> ... </think>`
 	- `<search> ... </search>`
 	- `<result> ... </result>`
-- Uses GRPO to optimize behavior with an outcome reward plus a KL penalty
-- Masks retrieved result tokens in the loss so learning pressure focuses on decisions rather than copying evidence
+- Uses GRPO to optimise behaviour with an outcome reward plus a KL penalty
+- Masks retrieved result tokens in the loss, so learning pressure focuses on decisions rather than copying evidence
 
 ![](https://paper-assets.alphaxiv.org/figures/2503.19470v3/img-1.jpeg)
 
@@ -64,15 +64,15 @@ published on: 2025-03-25
 
 ## Take Away
 
-- Outcome-reward RL can be enough to induce useful search behavior
+- Outcome-reward RL can be enough to induce useful search behaviour
 - Explicit structure for tool calls may reduce prompt brittleness
-- Self-correction behaviors can emerge under RL fine-tuning
+- Self-correction behaviours can emerge under RL fine-tuning
 
 ## Limitations
 
 - Reward based on answer overlap may not fit tasks with subjective or long-form targets
 - Depends on the quality and coverage of the external knowledge source
-- Reinforcement learning adds compute and engineering cost
+- Reinforcement learning adds compute and engineering costs
 
 ## Future Work
 

@@ -13,10 +13,6 @@ parent nodes:
 
 - [ ] Beam search during inference
 
----
-
-- Use Exercism + LeetCode
-
 ## Blogs
 
 - [ ] [Unsloth.ai](https://unsloth.ai/blog)
@@ -26,8 +22,6 @@ parent nodes:
 	- [ ] Visualisation
 	- [ ] Experiment tracking
 	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
-
----
 
 ## Papers
 
@@ -41,11 +35,13 @@ parent nodes:
 - [ ] [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro)
 
 - [ ] [LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch)
+	- [ ] Connect [W&B](https://docs.wandb.ai/weave/quickstart)
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
 
 - [ ] [Reasoning from Scratch](https://github.com/rasbt/reasoning-from-scratch/tree/main)
 
 - [ ] [Machine Learning Q and A](https://github.com/rasbt/MachineLearning-QandAI-book)
 
-## Things to try
-
 ## Learning Strategy
+
+- Use Exercism + LeetCode

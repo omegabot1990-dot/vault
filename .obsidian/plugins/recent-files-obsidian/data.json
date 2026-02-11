@@ -1,16 +1,120 @@
 {
   "recentFiles": [
     {
-      "basename": "202602102359 - span",
-      "path": "002 - research/202602102359 - span.md"
+      "basename": "hyperparameters",
+      "path": "002 - research/hyperparameters.md"
     },
     {
-      "basename": "linear algebra",
-      "path": "002 - research/linear algebra.md"
+      "basename": "unsupervised learning",
+      "path": "002 - research/unsupervised learning.md"
+    },
+    {
+      "basename": "202602011532 - training tips",
+      "path": "002 - research/202602011532 - training tips.md"
+    },
+    {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "supervised learning",
+      "path": "002 - research/supervised learning.md"
+    },
+    {
+      "basename": "neural networks",
+      "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "residual connections",
+      "path": "002 - research/residual connections.md"
+    },
+    {
+      "basename": "optimizer",
+      "path": "002 - research/optimizer.md"
+    },
+    {
+      "basename": "dropouts",
+      "path": "002 - research/dropouts.md"
+    },
+    {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
+    },
+    {
+      "basename": "loss",
+      "path": "002 - research/loss.md"
+    },
+    {
+      "basename": "kimi",
+      "path": "002 - research/kimi.md"
+    },
+    {
+      "basename": "olmo",
+      "path": "002 - research/olmo.md"
+    },
+    {
+      "basename": "llama",
+      "path": "002 - research/llama.md"
+    },
+    {
+      "basename": "nvidia",
+      "path": "002 - research/nvidia.md"
+    },
+    {
+      "basename": "qwen",
+      "path": "002 - research/qwen.md"
+    },
+    {
+      "basename": "deepseek",
+      "path": "002 - research/deepseek.md"
+    },
+    {
+      "basename": "openai",
+      "path": "002 - research/openai.md"
     },
     {
       "basename": "specialisation",
       "path": "002 - research/specialisation.md"
+    },
+    {
+      "basename": "random ideas",
+      "path": "002 - research/random ideas.md"
+    },
+    {
+      "basename": "202602102050 - scalar",
+      "path": "002 - research/202602102050 - scalar.md"
+    },
+    {
+      "basename": "202602102359 - span",
+      "path": "002 - research/202602102359 - span.md"
+    },
+    {
+      "basename": "202602102054 - vectors",
+      "path": "002 - research/202602102054 - vectors.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
+      "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
+      "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
+    },
+    {
+      "basename": "blogs",
+      "path": "002 - research/blogs.md"
+    },
+    {
+      "basename": "code",
+      "path": "002 - research/code.md"
+    },
+    {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "linear algebra",
+      "path": "002 - research/linear algebra.md"
     },
     {
       "basename": "2026-02-10",
@@ -45,10 +149,6 @@
       "path": "002 - research/trusted sources.md"
     },
     {
-      "basename": "202602102054 - vectors",
-      "path": "002 - research/202602102054 - vectors.md"
-    },
-    {
       "basename": "reinforcement learning",
       "path": "002 - research/reinforcement learning.md"
     },
@@ -57,20 +157,8 @@
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
-      "basename": "202602102050 - scalar",
-      "path": "002 - research/202602102050 - scalar.md"
-    },
-    {
       "basename": "202602062110 - mean",
       "path": "002 - research/202602062110 - mean.md"
-    },
-    {
-      "basename": "code",
-      "path": "002 - research/code.md"
-    },
-    {
-      "basename": "random ideas",
-      "path": "002 - research/random ideas.md"
     },
     {
       "basename": "highlights",
@@ -81,20 +169,12 @@
       "path": "002 - research/todo.md"
     },
     {
-      "basename": "blogs",
-      "path": "002 - research/blogs.md"
-    },
-    {
       "basename": "labs",
       "path": "002 - research/labs.md"
     },
     {
       "basename": "research tools",
       "path": "002 - research/research tools.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
     },
     {
       "basename": "202601282155 - supervised fine-tuning datasets",
@@ -119,86 +199,6 @@
     {
       "basename": "202602092126 - bayes theorem",
       "path": "002 - research/202602092126 - bayes theorem.md"
-    },
-    {
-      "basename": "202602092108 - independent and identically distributed",
-      "path": "002 - research/202602092108 - independent and identically distributed.md"
-    },
-    {
-      "basename": "202602080014 - central limit theorem",
-      "path": "002 - research/202602080014 - central limit theorem.md"
-    },
-    {
-      "basename": "202602080005 - sampling",
-      "path": "002 - research/202602080005 - sampling.md"
-    },
-    {
-      "basename": "202602062206 - variance",
-      "path": "002 - research/202602062206 - variance.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602020105 - negative sampling",
-      "path": "002 - research/202602020105 - negative sampling.md"
-    },
-    {
-      "basename": "202602020041 - heuristic",
-      "path": "002 - research/202602020041 - heuristic.md"
-    },
-    {
-      "basename": "202602011551 - f1",
-      "path": "002 - research/202602011551 - f1.md"
-    },
-    {
-      "basename": "202602011426 - learning rate warm up",
-      "path": "002 - research/202602011426 - learning rate warm up.md"
-    },
-    {
-      "basename": "202602010144 - sentencepiece",
-      "path": "002 - research/202602010144 - sentencepiece.md"
-    },
-    {
-      "basename": "202602010052 - off-line learning",
-      "path": "002 - research/202602010052 - off-line learning.md"
-    },
-    {
-      "basename": "202602010106 - imputation",
-      "path": "002 - research/202602010106 - imputation.md"
-    },
-    {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
-    },
-    {
-      "basename": "202601312002 - create a kernel",
-      "path": "002 - research/202601312002 - create a kernel.md"
-    },
-    {
-      "basename": "202601311948 - pandas",
-      "path": "002 - research/202601311948 - pandas.md"
-    },
-    {
-      "basename": "202601311949 - numpy",
-      "path": "002 - research/202601311949 - numpy.md"
-    },
-    {
-      "basename": "202602010041 - supervised learning",
-      "path": "002 - research/202602010041 - supervised learning.md"
-    },
-    {
-      "basename": "202602010047 - objective function",
-      "path": "002 - research/202602010047 - objective function.md"
-    },
-    {
-      "basename": "202602010053 - on-line learning",
-      "path": "002 - research/202602010053 - on-line learning.md"
-    },
-    {
-      "basename": "research",
-      "path": "002 - research/research.base"
     }
   ],
   "omittedPaths": [],

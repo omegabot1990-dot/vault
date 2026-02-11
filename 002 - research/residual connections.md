@@ -1,9 +1,9 @@
 ---
 tags:
-- moc
-description: ''
+  - deep_learning
+description: ""
 parent nodes:
-- '[[deep learning]]'
+  - "[[deep learning]]"
 ---
 
 ## Topics
