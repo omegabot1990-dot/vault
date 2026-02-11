@@ -10,6 +10,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111417 - affine map|Affine map]]
+
 - Learning Strategy
 	- Start with a video explanation
 	- Read relevant resources and write down the math
