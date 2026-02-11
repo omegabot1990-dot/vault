@@ -195,10 +195,6 @@
     {
       "basename": "nvidia",
       "path": "002 - research/nvidia.md"
-    },
-    {
-      "basename": "qwen",
-      "path": "002 - research/qwen.md"
     }
   ],
   "omittedPaths": [],
