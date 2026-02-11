@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111518 - tanh",
-      "path": "002 - research/202602111518 - tanh.md"
+      "basename": "202602061153 - neural network",
+      "path": "002 - research/202602061153 - neural network.md"
     },
     {
-      "basename": "202602111526 - relu",
-      "path": "002 - research/202602111526 - relu.md"
+      "basename": "202602102054 - vectors",
+      "path": "002 - research/202602102054 - vectors.md"
+    },
+    {
+      "basename": "202602111400 - activation",
+      "path": "002 - research/202602111400 - activation.md"
     },
     {
       "basename": "202601311954 - pytorch",
       "path": "002 - research/202601311954 - pytorch.md"
     },
     {
-      "basename": "202602111400 - activation",
-      "path": "002 - research/202602111400 - activation.md"
+      "basename": "202602111526 - relu",
+      "path": "002 - research/202602111526 - relu.md"
+    },
+    {
+      "basename": "202602111527 - gelu",
+      "path": "002 - research/202602111527 - gelu.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
+      "basename": "202602111530 - softmax",
+      "path": "002 - research/202602111530 - softmax.md"
+    },
+    {
+      "basename": "202602030238 - cross-entropy loss",
+      "path": "002 - research/202602030238 - cross-entropy loss.md"
+    },
+    {
+      "basename": "202602111518 - tanh",
+      "path": "002 - research/202602111518 - tanh.md"
     },
     {
       "basename": "202602111510 - sigmoid",
@@ -47,10 +71,6 @@
     {
       "basename": "202602111350 - inference",
       "path": "002 - research/202602111350 - inference.md"
-    },
-    {
-      "basename": "202602061153 - neural network",
-      "path": "002 - research/202602061153 - neural network.md"
     },
     {
       "basename": "202602111335 - training",
@@ -157,14 +177,6 @@
       "path": "002 - research/202602102359 - span.md"
     },
     {
-      "basename": "202602102054 - vectors",
-      "path": "002 - research/202602102054 - vectors.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
-    },
-    {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2026-02-10",
       "path": "000 - daily notes/2026-02-10.md"
-    },
-    {
-      "basename": "node - daily notes",
-      "path": "008 - templates/node - daily notes.md"
-    },
-    {
-      "basename": "202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
-    },
-    {
-      "basename": "optical character recognition",
-      "path": "002 - research/optical character recognition.md"
     }
   ],
   "omittedPaths": [],

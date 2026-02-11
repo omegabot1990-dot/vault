@@ -194,22 +194,6 @@
             }
           },
           {
-            "id": "5d8895306e991c04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602061153 - neural network.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602061153 - neural network"
-            }
-          },
-          {
             "id": "d30bfe636e44aafd",
             "type": "leaf",
             "pinned": true,
@@ -226,69 +210,23 @@
             }
           },
           {
-            "id": "cf3f15eb162305b6",
+            "id": "5d8895306e991c04",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/202602111358 - weights and biases.md",
+                "file": "002 - research/202602061153 - neural network.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "202602111358 - weights and biases"
-            }
-          },
-          {
-            "id": "25852a852149100d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111400 - activation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111400 - activation"
-            }
-          },
-          {
-            "id": "515c6408858c9906",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202601311954 - pytorch.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202601311954 - pytorch"
-            }
-          },
-          {
-            "id": "e767ff1278866313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111518 - tanh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202602111518 - tanh"
+              "title": "202602061153 - neural network"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -357,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111518 - tanh.md"
+                "file": "002 - research/202602061153 - neural network.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111518 - tanh"
+              "title": "File properties for 202602061153 - neural network"
             }
           },
           {
@@ -369,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111518 - tanh.md",
+                "file": "002 - research/202602061153 - neural network.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111518 - tanh"
+              "title": "Outline of 202602061153 - neural network"
             }
           },
           {
@@ -504,13 +442,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e767ff1278866313",
+  "active": "5d8895306e991c04",
   "lastOpenFiles": [
+    "002 - research/202602102054 - vectors.md",
+    "002 - research/202602061153 - neural network.md",
+    "002 - research/202602111400 - activation.md",
+    "002 - research/202601311954 - pytorch.md",
     "002 - research/202602111526 - relu.md",
     "002 - research/202602111527 - gelu.md",
+    "002 - research/202602102143 - transformer.md",
+    "002 - research/202602111530 - softmax.md",
+    "002 - research/202602030238 - cross-entropy loss.md",
     "002 - research/202602111518 - tanh.md",
-    "002 - research/202601311954 - pytorch.md",
-    "002 - research/202602111400 - activation.md",
     "002 - research/202602111510 - sigmoid.md",
     "002 - research/202602111358 - weights and biases.md",
     "002 - research/activations.md",
@@ -520,7 +463,6 @@
     "002 - research/math.md",
     "002 - research/trusted sources.md",
     "002 - research/202602111350 - inference.md",
-    "002 - research/202602061153 - neural network.md",
     "002 - research/202602111335 - training.md",
     "202602111340 - neural networks.md",
     "002 - research/202602111340 - neural networks.md",
@@ -528,10 +470,6 @@
     "002 - research/hyperparameters.md",
     "002 - research/202602010044 - model.md",
     "002 - research/natural language processing.md",
-    "002 - research/unsupervised learning.md",
-    "002 - research/202602011532 - training tips.md",
-    "002 - research/training.md",
-    "002 - research/supervised learning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
