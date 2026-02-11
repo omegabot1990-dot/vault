@@ -292,6 +292,7 @@
           {
             "id": "9aa3c86c30c7d23f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -299,12 +300,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "202602011426 - warmup"
             }
+          },
+          {
+            "id": "591bef1039f176fe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111623 - epochs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111623 - epochs"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -373,10 +391,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602011426 - warmup.md"
+                "file": "002 - research/202602111623 - epochs.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602011426 - warmup"
+              "title": "File properties for 202602111623 - epochs"
             }
           },
           {
@@ -385,13 +403,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602011426 - warmup.md",
+                "file": "002 - research/202602111623 - epochs.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602011426 - warmup"
+              "title": "Outline of 202602111623 - epochs"
             }
           },
           {
@@ -520,12 +538,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "9aa3c86c30c7d23f",
+  "active": "591bef1039f176fe",
   "lastOpenFiles": [
+    "002 - research/202602010049 - overfitting.md",
+    "002 - research/202602111623 - epochs.md",
+    "002 - research/202602011426 - warmup.md",
     "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111600 - learning rate.md",
     "002 - research/202602111605 - optimization algorithms.md",
-    "002 - research/202602011426 - warmup.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111558 - gradient descent.md",
@@ -546,8 +566,6 @@
     "002 - research/202602111417 - affine map.md",
     "002 - research/math.md",
     "002 - research/trusted sources.md",
-    "002 - research/202602111350 - inference.md",
-    "002 - research/202602111335 - training.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

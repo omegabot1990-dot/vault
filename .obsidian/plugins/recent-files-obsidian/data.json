@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111623 - epochs",
+      "path": "002 - research/202602111623 - epochs.md"
+    },
+    {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
       "basename": "202602011426 - warmup",
       "path": "002 - research/202602011426 - warmup.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "202602102050 - scalar",
       "path": "002 - research/202602102050 - scalar.md"
-    },
-    {
-      "basename": "202602102359 - span",
-      "path": "002 - research/202602102359 - span.md"
-    },
-    {
-      "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
-      "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
     }
   ],
   "omittedPaths": [],
