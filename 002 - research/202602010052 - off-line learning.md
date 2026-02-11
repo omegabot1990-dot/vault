@@ -1,16 +1,17 @@
 ---
 tags:
-- note
+  - deep_learning
+  - training
 aliases:
-- Off-line learning
+  - Off-line learning
 title: off-line learning
-description: ''
+description: ""
 parent nodes:
-- '[[deep learning]]'
-published on: null
+  - "[[202602111335 - training|Training]]"
+published on:
 ---
 
-- **Offline Learning** is when learning takes place with the algorithm disconnected from the environment.
+- Offline Learning is when learning takes place with the algorithm disconnected from the environment
 
 | Feature        | Online Learning                                 | Offline (Batch) Learning                         |
 | :------------- | :---------------------------------------------- | :----------------------------------------------- |

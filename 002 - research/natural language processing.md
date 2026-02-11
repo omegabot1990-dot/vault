@@ -1,9 +1,10 @@
 ---
 tags:
-  - deep_learning
+  - moc
+  - nlp
 description: ""
 parent nodes:
-  - "[[deep learning]]"
+  - "[[research.base]]"
 ---
 
 ## Topics

@@ -1,15 +1,14 @@
 ---
 tags:
-- moc
-- root
-description: ''
+  - moc
+  - root
+  - deep_learning
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 ## Topics
-
-- [x] [[202602111400 - activation|Activation]]
 
 ## Blogs
 

@@ -1,20 +1,13 @@
 ---
 tags:
+  - moc
   - deep_learning
 description: ""
 parent nodes:
   - "[[deep learning]]"
-  - "[[large language models]]"
 ---
 
 ## Topics
-
-- [x] [[202602111335 - training|Training]]
-- [x] [[202602010049 - overfitting|Overfitting]]
-- [x] [[202602111639 - underfitting|Underfitting]]
-- [x] [[202602111640 - dropout|Dropout]]
-- [x] [[202602111731 - data augmentation|Data Augmentation]]
-- [x] [[202602111733 - early stopping|Early Stopping]]
 
 ## Blogs
 
@@ -27,6 +20,7 @@ parent nodes:
 - [ ] [New LLM Pre-training and Post-training Paradigms](https://magazine.sebastianraschka.com/p/new-llm-pre-training-and-post-training)
 	- [ ] ==IMPORTANT==
 
+- [ ] [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction)
 ## Papers
 
 ## Videos
@@ -35,4 +29,3 @@ parent nodes:
 
 ## Code
 
-- [ ] [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#introduction)

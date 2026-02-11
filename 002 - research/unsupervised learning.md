@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - moc
 description: ""
 parent nodes:
   - "[[deep learning]]"
