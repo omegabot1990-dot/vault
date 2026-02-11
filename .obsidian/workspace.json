@@ -48,9 +48,25 @@
               "icon": "lucide-file",
               "title": "202602010041 - ss"
             }
+          },
+          {
+            "id": "d7295843f483e0a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602112310 - unsupervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602112310 - unsupervised learning"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602010041 - ss.md"
+                "file": "002 - research/202602112310 - unsupervised learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602010041 - ss"
+              "title": "File properties for 202602112310 - unsupervised learning"
             }
           },
           {
@@ -131,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602010041 - ss.md",
+                "file": "002 - research/202602112310 - unsupervised learning.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602010041 - ss"
+              "title": "Outline of 202602112310 - unsupervised learning"
             }
           },
           {
@@ -266,10 +282,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "660edeb03e5d2f49",
+  "active": "d7295843f483e0a7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "002 - research/202602010041 - ss.md",
+    "002 - research/202602112310 - unsupervised learning.md",
+    "conflict-files-obsidian-git.md",
     "002 - research/training.md",
     "002 - research/supervised learning.md",
     "002 - research/deepmind.md",
@@ -293,7 +310,6 @@
     "002 - research/202602111417 - affine map.md",
     "002 - research/202602111851 - momentum.md",
     "002 - research/202602111845 - stochastic gradient descent.md",
-    "002 - research/definitions.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
