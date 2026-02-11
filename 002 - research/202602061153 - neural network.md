@@ -11,7 +11,7 @@ published on:
 ---
 
 - A neural network is a machine learning [[202602010044 - model|model]] that stacks simple "neurons" in layers and learns pattern-recognising weights and biases from data to map inputs to outputs [^1]
-- Neural networks are function approximators built from layers of interconnected units
+- Neural networks are <mark style="background: #FF5582A6;">function approximators</mark> built from layers of interconnected units (neurons)
 - Each layer applies an affine transformation followed by a nonlinear activation
 - Depth enables hierarchical feature learning from simple to complex patterns
 - Parameters are learned from data using backpropagation and gradient-based optimization
