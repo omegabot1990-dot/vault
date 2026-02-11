@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111705 - activations|Activations]]
+
 ## Blogs
 
 - [ ] [D2L](https://d2l.ai/)
