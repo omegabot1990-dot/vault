@@ -12,6 +12,7 @@ parent nodes:
 
 - [x] [[202602111256 - hyperparameters|Hyperparameters]]
 - [x] [[202602111314 - model parameters|Model Parameters]]
+- [x] [[202602111600 - learning rate|Learning Rate]]
 
 ## Blogs
 
