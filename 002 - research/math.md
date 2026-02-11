@@ -14,6 +14,7 @@ parent nodes:
 - [x] [[202602111510 - sigmoid|Sigmoid]]
 - [x] [[202602111518 - tanh|Tanh]]
 - [x] [[202602111526 - relu|ReLU]]
+- [x] [[202602111527 - gelu|GELU]]
 
 - Learning Strategy
 	- Start with a video explanation
