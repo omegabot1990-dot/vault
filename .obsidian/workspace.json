@@ -228,6 +228,7 @@
           {
             "id": "cf3f15eb162305b6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -235,12 +236,27 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "202602111358 - weights and bias"
             }
+          },
+          {
+            "id": "b5a0b50e6cb0ed39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602010047 - objective function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202602010047 - objective function"
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -309,10 +325,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111358 - weights and bias.md"
+                "file": "002 - research/202602010047 - objective function.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111358 - weights and bias"
+              "title": "File properties for 202602010047 - objective function"
             }
           },
           {
@@ -321,13 +337,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111358 - weights and bias.md",
+                "file": "002 - research/202602010047 - objective function.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111358 - weights and bias"
+              "title": "Outline of 202602010047 - objective function"
             }
           },
           {
@@ -456,11 +472,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "cf3f15eb162305b6",
+  "active": "b5a0b50e6cb0ed39",
   "lastOpenFiles": [
-    "002 - research/202602061153 - neural network.md",
-    "002 - research/202602111358 - weights and bias.md",
     "002 - research/202602111350 - inference.md",
+    "002 - research/202602111358 - weights and bias.md",
+    "002 - research/202602010047 - objective function.md",
+    "002 - research/202602061153 - neural network.md",
     "002 - research/202602111314 - model parameters.md",
     "202602111340 - neural networks.md",
     "002 - research/202602111340 - neural networks.md",
@@ -468,7 +485,6 @@
     "002 - research/202602111256 - hyperparameters.md",
     "002 - research/hyperparameters.md",
     "002 - research/202602010044 - model.md",
-    "002 - research/202602010047 - objective function.md",
     "002 - research/trusted sources.md",
     "002 - research/natural language processing.md",
     "002 - research/unsupervised learning.md",

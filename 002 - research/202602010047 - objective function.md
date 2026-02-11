@@ -1,13 +1,13 @@
 ---
 tags:
-- note
+  - deep_learning
 aliases:
-- Objective function
+  - Objective Function
 title: objective function
-description: ''
+description: ""
 parent nodes:
-- '[[loss]]'
-published on: null
+  - "[[loss]]"
+published on:
 ---
 
 - **Objective Functions** define a <mark style="background: #BBFABBA6;">formal measure of how good or bad the predicted Label is</mark>
