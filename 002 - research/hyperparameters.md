@@ -17,6 +17,7 @@ parent nodes:
 - [x] [[202602111623 - epochs|Epochs]]
 - [x] [[202602111625 - batch size|Batch Size]]
 - [x] [[202602111634 - weight decay|Weight Decay]]
+- [x] [[202602111636 - regularization|Regularization]]
 
 ## Blogs
 
