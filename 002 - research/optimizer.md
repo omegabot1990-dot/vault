@@ -10,7 +10,7 @@ parent nodes:
 
 - [x] [[202602111605 - optimization algorithms|Optimization Algorithms]]
 
-- [ ] Stochastic Gradient Descent
+- [x] [[202602061429 - stochastic gradient descent|Stochastic Gradient Descent]]
 	- [ ] What is momentum?
 	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
 
