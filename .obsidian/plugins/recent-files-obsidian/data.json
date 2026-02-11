@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111314 - model parameters",
-      "path": "002 - research/202602111314 - model parameters.md"
-    },
-    {
-      "basename": "202602111340 - neural networks",
-      "path": "002 - research/202602111340 - neural networks.md"
-    },
-    {
-      "basename": "202602010044 - model",
-      "path": "002 - research/202602010044 - model.md"
-    },
-    {
       "basename": "202602061153 - neural network",
       "path": "002 - research/202602061153 - neural network.md"
+    },
+    {
+      "basename": "202602111350 - inference",
+      "path": "002 - research/202602111350 - inference.md"
+    },
+    {
+      "basename": "202602111314 - model parameters",
+      "path": "002 - research/202602111314 - model parameters.md"
     },
     {
       "basename": "202602111335 - training",
@@ -27,6 +23,10 @@
     {
       "basename": "hyperparameters",
       "path": "002 - research/hyperparameters.md"
+    },
+    {
+      "basename": "202602010044 - model",
+      "path": "002 - research/202602010044 - model.md"
     },
     {
       "basename": "202602010047 - objective function",
@@ -195,10 +195,6 @@
     {
       "basename": "highlights",
       "path": "002 - research/highlights.md"
-    },
-    {
-      "basename": "todo",
-      "path": "002 - research/todo.md"
     }
   ],
   "omittedPaths": [],

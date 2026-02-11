@@ -1,17 +1,17 @@
 ---
 tags:
-- note
+  - deep_learning
 aliases:
-- Hyperparameters
+  - Hyperparameters
 title: hyperparameters
-description: ''
+description: ""
 bot: true
 parent nodes:
-- '[[hyperparameters]]'
-published on: null
+  - "[[hyperparameters]]"
+published on:
 ---
 
-- Hyperparameters are <mark style="background: #BBFABBA6;">top-level configuration values</mark> set before training that control model structure or learning behaviour [^1][^2]
+- Hyperparameters are <mark style="background: #BBFABBA6;">top-level configuration values</mark> set before dtraining that control model structure or learning behaviour [^1][^2]
 - They are <mark style="background: #FF5582A6;">not learned directly from gradient updates</mark>, unlike model parameters [^3]
 - Typical examples are: [^4]
 	- learning rate

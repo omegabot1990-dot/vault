@@ -162,22 +162,6 @@
             }
           },
           {
-            "id": "f1263f5470807a3b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111314 - model parameters.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111314 - model parameters"
-            }
-          },
-          {
             "id": "6005fcc2f1ee8428",
             "type": "leaf",
             "pinned": true,
@@ -210,22 +194,6 @@
             }
           },
           {
-            "id": "1a781a8347bb419a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111340 - neural networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111340 - neural networks"
-            }
-          },
-          {
             "id": "5d8895306e991c04",
             "type": "leaf",
             "pinned": true,
@@ -240,9 +208,25 @@
               "icon": "lucide-file",
               "title": "202602061153 - neural network"
             }
+          },
+          {
+            "id": "d30bfe636e44aafd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111350 - inference.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111350 - inference"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -311,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111314 - model parameters.md"
+                "file": "002 - research/202602061153 - neural network.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111314 - model parameters"
+              "title": "File properties for 202602061153 - neural network"
             }
           },
           {
@@ -323,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111314 - model parameters.md",
+                "file": "002 - research/202602061153 - neural network.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111314 - model parameters"
+              "title": "Outline of 202602061153 - neural network"
             }
           },
           {
@@ -458,15 +442,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f1263f5470807a3b",
+  "active": "5d8895306e991c04",
   "lastOpenFiles": [
-    "002 - research/202602111340 - neural networks.md",
+    "002 - research/202602111350 - inference.md",
     "002 - research/202602111314 - model parameters.md",
-    "002 - research/202602010044 - model.md",
+    "202602111340 - neural networks.md",
     "002 - research/202602061153 - neural network.md",
+    "002 - research/202602111340 - neural networks.md",
     "002 - research/202602111335 - training.md",
     "002 - research/202602111256 - hyperparameters.md",
     "002 - research/hyperparameters.md",
+    "002 - research/202602010044 - model.md",
     "002 - research/202602010047 - objective function.md",
     "002 - research/trusted sources.md",
     "002 - research/natural language processing.md",
@@ -484,8 +470,6 @@
     "002 - research/olmo.md",
     "002 - research/llama.md",
     "002 - research/nvidia.md",
-    "002 - research/qwen.md",
-    "002 - research/deepseek.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
