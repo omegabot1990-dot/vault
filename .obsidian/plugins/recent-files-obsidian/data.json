@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111636 - regularization",
+      "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
       "basename": "202602111634 - weight decay",
       "path": "002 - research/202602111634 - weight decay.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "202602111625 - batch size",
       "path": "002 - research/202602111625 - batch size.md"
-    },
-    {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
     },
     {
       "basename": "202602111617 - learning rate schedule",
@@ -195,10 +199,6 @@
     {
       "basename": "openai",
       "path": "002 - research/openai.md"
-    },
-    {
-      "basename": "specialisation",
-      "path": "002 - research/specialisation.md"
     }
   ],
   "omittedPaths": [],
