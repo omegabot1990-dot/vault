@@ -288,7 +288,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -357,10 +357,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111400 - activation.md"
+                "file": "002 - research/202602111518 - tanh.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111400 - activation"
+              "title": "File properties for 202602111518 - tanh"
             }
           },
           {
@@ -369,13 +369,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111400 - activation.md",
+                "file": "002 - research/202602111518 - tanh.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111400 - activation"
+              "title": "Outline of 202602111518 - tanh"
             }
           },
           {
@@ -504,12 +504,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "25852a852149100d",
+  "active": "e767ff1278866313",
   "lastOpenFiles": [
     "002 - research/202601311954 - pytorch.md",
+    "002 - research/202602111400 - activation.md",
     "002 - research/202602111518 - tanh.md",
     "002 - research/202602111510 - sigmoid.md",
-    "002 - research/202602111400 - activation.md",
     "002 - research/202602111358 - weights and biases.md",
     "002 - research/activations.md",
     "002 - research/202602010047 - objective function.md",
