@@ -5,6 +5,10 @@
       "path": "002 - research/202602111636 - regularization.md"
     },
     {
+      "basename": "202602111711 - l2 regularization",
+      "path": "002 - research/202602111711 - l2 regularization.md"
+    },
+    {
       "basename": "202602111600 - learning rate",
       "path": "002 - research/202602111600 - learning rate.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "202602111634 - weight decay",
       "path": "002 - research/202602111634 - weight decay.md"
-    },
-    {
-      "basename": "202602111711 - l2 regularization",
-      "path": "002 - research/202602111711 - l2 regularization.md"
     },
     {
       "basename": "202602111640 - dropout",
@@ -195,10 +195,6 @@
     {
       "basename": "llama",
       "path": "002 - research/llama.md"
-    },
-    {
-      "basename": "nvidia",
-      "path": "002 - research/nvidia.md"
     }
   ],
   "omittedPaths": [],
