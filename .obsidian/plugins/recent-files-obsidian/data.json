@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111845 - stochastic gradient descent",
-      "path": "002 - research/202602111845 - stochastic gradient descent.md"
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "202602111558 - gradient descent",
       "path": "002 - research/202602111558 - gradient descent.md"
     },
     {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
+      "basename": "202602111845 - stochastic gradient descent",
+      "path": "002 - research/202602111845 - stochastic gradient descent.md"
+    },
+    {
+      "basename": "202602111851 - momentum",
+      "path": "002 - research/202602111851 - momentum.md"
+    },
+    {
+      "basename": "202602111605 - optimization algorithms",
+      "path": "002 - research/202602111605 - optimization algorithms.md"
     },
     {
       "basename": "202602111600 - learning rate",
@@ -19,10 +27,6 @@
     {
       "basename": "202602111617 - learning rate schedule",
       "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602111605 - optimization algorithms",
-      "path": "002 - research/202602111605 - optimization algorithms.md"
     },
     {
       "basename": "202602111634 - weight decay",
@@ -195,10 +199,6 @@
     {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
-    },
-    {
-      "basename": "loss",
-      "path": "002 - research/loss.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,7 @@ parent nodes:
 published on:
 ---
 
-- Gradient descent is an iterative [[202602111605 - optimization algorithms|optimization]] method for minimising a differentiable [[202602010047 - objective function|objective]]
+- Gradient descent is an iterative [[202602111605 - optimization algorithms|optimization]] method for minimising a differentiable [[202602010047 - objective function|objective]] [^1]
 - It updates [[202602111314 - model parameters|parameters]] by moving in the negative gradient direction
 - For objective $f(\theta)$ and [[202602111600 - learning rate|learning rate]] $\eta>0$:
 
@@ -26,4 +26,4 @@ published on:
 - [[202602111845 - stochastic gradient descent|Stochastic gradient descent]] and mini-[[202602111625 - batch size|batch]] variants approximate this update with sampled data
 
 
-[^1]: 
+[^1]: [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)

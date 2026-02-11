@@ -12,7 +12,6 @@ parent nodes:
 published on:
 ---
 
-- [ ] What is SGD?
 - [ ] What is Adam?
 
 ---
@@ -30,7 +29,7 @@ published on:
 > $$\frac{\partial L}{\partial W}=\delta x^\top,\qquad \frac{\partial L}{\partial b}=\delta,\qquad \frac{\partial L}{\partial x}=W^\top\delta$$
 
 - Backpropagation enables [[202602111558 - gradient descent|gradient-based]] optimisation methods like,
-	- Stochastic Gradient Descent (SGD)
+	- [[202602111845 - stochastic gradient descent|Stochastic Gradient Descent (SGD)]]
 	- Adam
 - Automatic differentiation systems implement backpropagation on computational graphs
 

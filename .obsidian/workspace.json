@@ -240,41 +240,9 @@
               "icon": "lucide-file",
               "title": "202602111557 - backpropagation"
             }
-          },
-          {
-            "id": "f2d36a9713c6e6d7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111558 - gradient descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111558 - gradient descent"
-            }
-          },
-          {
-            "id": "bfa4751374e15068",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111845 - stochastic gradient descent.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111845 - stochastic gradient descent"
-            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -343,10 +311,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111845 - stochastic gradient descent.md"
+                "file": "002 - research/202602111557 - backpropagation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111845 - stochastic gradient descent"
+              "title": "File properties for 202602111557 - backpropagation"
             }
           },
           {
@@ -355,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111845 - stochastic gradient descent.md",
+                "file": "002 - research/202602111557 - backpropagation.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111845 - stochastic gradient descent"
+              "title": "Outline of 202602111557 - backpropagation"
             }
           },
           {
@@ -370,7 +338,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "What is data augmen",
+                "query": "What is SGD?",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -490,16 +458,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "bfa4751374e15068",
+  "active": "c5e3f73ff14312a7",
   "lastOpenFiles": [
     "002 - research/202602111558 - gradient descent.md",
     "002 - research/202602111845 - stochastic gradient descent.md",
+    "002 - research/202602111851 - momentum.md",
+    "002 - research/202602111605 - optimization algorithms.md",
+    "002 - research/202602111557 - backpropagation.md",
     "202602061429 - stochastic gradient descent.md",
     "002 - research/202602061429 - stochastic gradient descent.md",
-    "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111600 - learning rate.md",
     "002 - research/202602111617 - learning rate schedule.md",
-    "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602111634 - weight decay.md",
     "002 - research/dropouts.md",
     "002 - research/202602111711 - l2 regularization.md",
@@ -517,7 +486,6 @@
     "002 - research/202602111623 - epochs.md",
     "002 - research/202602111625 - batch size.md",
     "002 - research/202602061153 - neural network.md",
-    "002 - research/202602102054 - vectors.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

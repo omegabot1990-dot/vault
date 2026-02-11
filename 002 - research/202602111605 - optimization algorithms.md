@@ -11,8 +11,6 @@ parent nodes:
 published on:
 ---
 
-- [ ] What is SGD?
-- [ ] What is Momentum SGD?
 - [ ] What is RMSProp?
 - [ ] What is Adam?
 - [ ] What is AdamW?
@@ -21,8 +19,8 @@ published on:
 - Optimization algorithms are methods that update [[202602111314 - model parameters|model parameters]] to minimise an [[202602010047 - objective function|objective function]]
 - They use [[202602111558 - gradient descent|gradients]] and update rules to control step direction, scale, and stability
 - Core families are first-order methods, such as:
-	- Stochastic Gradient Descent (SGD)
-	- Momentum SGD
+	- [[202602111845 - stochastic gradient descent|Stochastic Gradient Descent]]
+	- [[202602111851 - momentum|Momentum SGD]]
 	- RMSProp
 	- Adam
 	- AdamW
