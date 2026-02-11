@@ -12,6 +12,7 @@ parent nodes:
 - [x] [[202602111335 - training|Training]]
 - [x] [[202602111639 - underfitting|Underfitting]]
 - [x] [[202602111640 - dropout|Dropout]]
+- [x] [[202602111644 - overfitting|Overfitting]]
 
 ## Blogs
 
