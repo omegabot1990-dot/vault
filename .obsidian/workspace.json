@@ -50,22 +50,6 @@
             }
           },
           {
-            "id": "0ec6a6f9b83ade4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602050153 - self-supervised learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602050153 - self-supervised learning"
-            }
-          },
-          {
             "id": "cf02b9f465ace6c1",
             "type": "leaf",
             "pinned": true,
@@ -79,6 +63,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "202602112328 - supervised learning"
+            }
+          },
+          {
+            "id": "0ec6a6f9b83ade4b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602050153 - self-supervised learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602050153 - self-supervised learning"
             }
           },
           {
@@ -108,8 +108,23 @@
               "icon": "lucide-file",
               "title": "202602102143 - transformer"
             }
+          },
+          {
+            "id": "1063fc393d6c271a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602061241 - likelihood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202602061241 - likelihood"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -177,9 +192,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602061241 - likelihood.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602061241 - likelihood"
             }
           },
           {
@@ -188,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "002 - research/202602061241 - likelihood.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 202602061241 - likelihood"
             }
           },
           {
@@ -322,13 +340,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4153eb17f64db27b",
+  "active": "1063fc393d6c271a",
   "lastOpenFiles": [
+    "002 - research/202602112310 - unsupervised learning.md",
+    "002 - research/202602112328 - supervised learning.md",
+    "002 - research/202602061241 - likelihood.md",
+    "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/training.md",
-    "002 - research/202602112310 - unsupervised learning.md",
-    "002 - research/202602050153 - self-supervised learning.md",
-    "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602010041 - supervised learning.md",
     "conflict-files-obsidian-git.md",
     "002 - research/supervised learning.md",
@@ -349,7 +368,6 @@
     "002 - research/202602061153 - neural network.md",
     "002 - research/neural networks.md",
     "002 - research/202602111557 - backpropagation.md",
-    "002 - research/202602111510 - sigmoid.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

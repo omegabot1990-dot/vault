@@ -40,5 +40,5 @@ published on:
 	- Autoencoders
 	- Contrastive/[[202602050153 - self-supervised learning|self-supervised]] objectives
 	- Diffusion-based models
-- Evaluation is often indirect, using reconstruction quality, likelihood proxies, clustering metrics, or downstream transfer performance
+- Evaluation is often indirect, using reconstruction quality, [[202602061241 - likelihood|likelihood]] proxies, clustering metrics, or downstream transfer performance
 - Unsupervised learning is important when labelled data is scarce, but raw data is abundant

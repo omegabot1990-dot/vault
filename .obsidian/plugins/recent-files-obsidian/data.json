@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
+      "basename": "202602061241 - likelihood",
+      "path": "002 - research/202602061241 - likelihood.md"
     },
     {
       "basename": "202602112310 - unsupervised learning",
       "path": "002 - research/202602112310 - unsupervised learning.md"
     },
     {
+      "basename": "202602112328 - supervised learning",
+      "path": "002 - research/202602112328 - supervised learning.md"
+    },
+    {
       "basename": "202602050153 - self-supervised learning",
       "path": "002 - research/202602050153 - self-supervised learning.md"
     },
     {
-      "basename": "202602112328 - supervised learning",
-      "path": "002 - research/202602112328 - supervised learning.md"
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
+      "basename": "training",
+      "path": "002 - research/training.md"
     },
     {
       "basename": "supervised learning",
@@ -195,10 +199,6 @@
     {
       "basename": "202602111527 - gelu",
       "path": "002 - research/202602111527 - gelu.md"
-    },
-    {
-      "basename": "202602111530 - softmax",
-      "path": "002 - research/202602111530 - softmax.md"
     }
   ],
   "omittedPaths": [],
