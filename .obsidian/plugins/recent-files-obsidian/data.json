@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602010041 - supervised learning",
+      "path": "002 - research/202602010041 - supervised learning.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
     {
-      "basename": "202602010041 - supervised learning",
-      "path": "002 - research/202602010041 - supervised learning.md"
+      "basename": "training",
+      "path": "002 - research/training.md"
     },
     {
       "basename": "supervised learning",
@@ -27,10 +31,6 @@
     {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
     },
     {
       "basename": "optimizer",
