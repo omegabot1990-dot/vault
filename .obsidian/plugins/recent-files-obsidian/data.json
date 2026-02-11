@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111640 - dropout",
-      "path": "002 - research/202602111640 - dropout.md"
+      "basename": "202602111634 - weight decay",
+      "path": "002 - research/202602111634 - weight decay.md"
     },
     {
       "basename": "202602111636 - regularization",
       "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602111640 - dropout",
+      "path": "002 - research/202602111640 - dropout.md"
     },
     {
       "basename": "202602010049 - overfitting",
@@ -15,10 +19,6 @@
     {
       "basename": "202602111639 - underfitting",
       "path": "002 - research/202602111639 - underfitting.md"
-    },
-    {
-      "basename": "202602111634 - weight decay",
-      "path": "002 - research/202602111634 - weight decay.md"
     },
     {
       "basename": "202602111605 - optimization algorithms",

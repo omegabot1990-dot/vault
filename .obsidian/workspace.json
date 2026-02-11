@@ -304,41 +304,9 @@
               "icon": "lucide-file",
               "title": "202602111634 - weight decay"
             }
-          },
-          {
-            "id": "13fb0d65679c31ea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111636 - regularization.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111636 - regularization"
-            }
-          },
-          {
-            "id": "da7e58ba0699e999",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111640 - dropout.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111640 - dropout"
-            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -407,10 +375,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111640 - dropout.md"
+                "file": "002 - research/202602111634 - weight decay.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111640 - dropout"
+              "title": "File properties for 202602111634 - weight decay"
             }
           },
           {
@@ -419,13 +387,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111640 - dropout.md",
+                "file": "002 - research/202602111634 - weight decay.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111640 - dropout"
+              "title": "Outline of 202602111634 - weight decay"
             }
           },
           {
@@ -554,11 +522,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "da7e58ba0699e999",
+  "active": "151e3d23609d4451",
   "lastOpenFiles": [
-    "002 - research/202602111705 - activations.md",
-    "002 - research/202602111640 - dropout.md",
     "002 - research/202602111636 - regularization.md",
+    "002 - research/202602111640 - dropout.md",
+    "002 - research/202602111705 - activations.md",
     "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111639 - underfitting.md",
     "002 - research/202602111644 - overfitting.md",
