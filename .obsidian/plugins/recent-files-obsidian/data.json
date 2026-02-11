@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
-    },
-    {
       "basename": "202602111558 - gradient descent",
       "path": "002 - research/202602111558 - gradient descent.md"
+    },
+    {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "202602111600 - learning rate",
@@ -195,10 +195,6 @@
     {
       "basename": "loss",
       "path": "002 - research/loss.md"
-    },
-    {
-      "basename": "kimi",
-      "path": "002 - research/kimi.md"
     }
   ],
   "omittedPaths": [],
