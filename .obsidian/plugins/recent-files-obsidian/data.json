@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
-    },
-    {
-      "basename": "202602111636 - regularization",
-      "path": "002 - research/202602111636 - regularization.md"
-    },
-    {
-      "basename": "202602111731 - data augmentation",
-      "path": "002 - research/202602111731 - data augmentation.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602111711 - l2 regularization",
-      "path": "002 - research/202602111711 - l2 regularization.md"
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "202602111600 - learning rate",
       "path": "002 - research/202602111600 - learning rate.md"
+    },
+    {
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
     },
     {
       "basename": "202602111605 - optimization algorithms",
@@ -31,6 +19,30 @@
     {
       "basename": "202602111634 - weight decay",
       "path": "002 - research/202602111634 - weight decay.md"
+    },
+    {
+      "basename": "dropouts",
+      "path": "002 - research/dropouts.md"
+    },
+    {
+      "basename": "202602111711 - l2 regularization",
+      "path": "002 - research/202602111711 - l2 regularization.md"
+    },
+    {
+      "basename": "202602111636 - regularization",
+      "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
+      "basename": "202602111733 - early stopping",
+      "path": "002 - research/202602111733 - early stopping.md"
+    },
+    {
+      "basename": "202602111731 - data augmentation",
+      "path": "002 - research/202602111731 - data augmentation.md"
     },
     {
       "basename": "202602111640 - dropout",
@@ -55,10 +67,6 @@
     {
       "basename": "202602061153 - neural network",
       "path": "002 - research/202602061153 - neural network.md"
-    },
-    {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
     },
     {
       "basename": "202602102054 - vectors",
@@ -177,10 +185,6 @@
       "path": "002 - research/optimizer.md"
     },
     {
-      "basename": "dropouts",
-      "path": "002 - research/dropouts.md"
-    },
-    {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "olmo",
       "path": "002 - research/olmo.md"
-    },
-    {
-      "basename": "llama",
-      "path": "002 - research/llama.md"
     }
   ],
   "omittedPaths": [],

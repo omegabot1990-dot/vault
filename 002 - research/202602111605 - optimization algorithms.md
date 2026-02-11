@@ -5,7 +5,7 @@ aliases:
   - Optimization Algorithms
 title: optimization algorithms
 description: ""
-bot: true
+bot: false
 parent nodes:
   - "[[optimizer]]"
 published on:
@@ -27,5 +27,5 @@ published on:
 	- Adam
 	- AdamW
 - Different optimizers trade off <mark style="background: #BBFABBA6;">convergence speed</mark>, <mark style="background: #FF5582A6;">memory cost</mark>, and <mark style="background: #FFF3A3A6;">generalisation</mark> behaviour
-- Hyperparameters like [[202602111600 - learning rate|learning rate]] and weight decay strongly influence optimizer performance
+- [[202602111256 - hyperparameters|Hyperparameters]] like [[202602111600 - learning rate|learning rate]] and [[202602111634 - weight decay|weight decay]] strongly influence optimizer performance
 - In deep learning, mini-batch training is typically combined with an optimizer and a [[202602111617 - learning rate schedule|learning-rate schedule]]

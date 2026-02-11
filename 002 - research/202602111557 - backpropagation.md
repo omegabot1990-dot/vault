@@ -12,7 +12,11 @@ parent nodes:
 published on:
 ---
 
-- Backpropagation computes gradients of a [[202602010047 - objective function|loss]] with respect to model parameters by applying the chain rule from the output layer to the input layer
+- [ ] What is SGD?
+- [ ] What is Adam?
+
+---
+- Backpropagation computes gradients of a [[202602010047 - objective function|loss]] with respect to [[202602111314 - model parameters|Model Parameters]] by <mark style="background: #BBFABBA6;">applying the chain rule from the output layer to the input layer</mark>
 - It reuses intermediate forward-pass values to efficiently compute all partial derivatives
 - For a composition $L(f(g(x)))$:
 
@@ -25,8 +29,8 @@ published on:
 > [!MATH] Affine Layer Gradients
 > $$\frac{\partial L}{\partial W}=\delta x^\top,\qquad \frac{\partial L}{\partial b}=\delta,\qquad \frac{\partial L}{\partial x}=W^\top\delta$$
 
-- Backpropagation enables gradient-based optimisation methods like,
-	- SGD
+- Backpropagation enables [[202602111558 - gradient descent|gradient-based]] optimisation methods like,
+	- Stochastic Gradient Descent (SGD)
 	- Adam
 - Automatic differentiation systems implement backpropagation on computational graphs
 

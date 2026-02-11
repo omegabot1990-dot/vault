@@ -240,121 +240,9 @@
               "icon": "lucide-file",
               "title": "202602111557 - backpropagation"
             }
-          },
-          {
-            "id": "ae4ec01c3c53336b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111600 - learning rate.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111600 - learning rate"
-            }
-          },
-          {
-            "id": "e5dfda6fc94285ca",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111617 - learning rate schedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111617 - learning rate schedule"
-            }
-          },
-          {
-            "id": "8709fa406d18fab3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111605 - optimization algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111605 - optimization algorithms"
-            }
-          },
-          {
-            "id": "151e3d23609d4451",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111634 - weight decay.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111634 - weight decay"
-            }
-          },
-          {
-            "id": "d3cf7f035fa1865f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111711 - l2 regularization.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111711 - l2 regularization"
-            }
-          },
-          {
-            "id": "2504ddab8453fb6d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602111636 - regularization.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602111636 - regularization"
-            }
-          },
-          {
-            "id": "36ee398e701b7621",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602010049 - overfitting.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602010049 - overfitting"
-            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -423,10 +311,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602010049 - overfitting.md"
+                "file": "002 - research/202602111557 - backpropagation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602010049 - overfitting"
+              "title": "File properties for 202602111557 - backpropagation"
             }
           },
           {
@@ -435,13 +323,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602010049 - overfitting.md",
+                "file": "002 - research/202602111557 - backpropagation.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602010049 - overfitting"
+              "title": "Outline of 202602111557 - backpropagation"
             }
           },
           {
@@ -570,18 +458,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "36ee398e701b7621",
+  "active": "c5e3f73ff14312a7",
   "lastOpenFiles": [
-    "002 - research/202602111636 - regularization.md",
-    "002 - research/202602010049 - overfitting.md",
-    "002 - research/202602111731 - data augmentation.md",
-    "002 - research/202602111617 - learning rate schedule.md",
-    "002 - research/202602111730 - l2 early stopping.md",
-    "002 - research/202602111711 - l2 regularisation.md",
-    "002 - research/202602111711 - l2 regularization.md",
     "002 - research/202602111600 - learning rate.md",
+    "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602111634 - weight decay.md",
+    "002 - research/dropouts.md",
+    "002 - research/202602111711 - l2 regularization.md",
+    "002 - research/202602111636 - regularization.md",
+    "002 - research/202602010049 - overfitting.md",
+    "002 - research/202602111733 - early stopping.md",
+    "002 - research/202602111731 - data augmentation.md",
+    "002 - research/202602111730 - l2 early stopping.md",
+    "002 - research/202602111711 - l2 regularisation.md",
     "002 - research/202602111640 - dropout.md",
     "002 - research/202602111705 - activations.md",
     "002 - research/202602111639 - underfitting.md",
@@ -596,8 +486,6 @@
     "002 - research/202602111400 - activation.md",
     "002 - research/202601311954 - pytorch.md",
     "002 - research/202602111526 - relu.md",
-    "002 - research/202602111527 - gelu.md",
-    "002 - research/202602102143 - transformer.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
