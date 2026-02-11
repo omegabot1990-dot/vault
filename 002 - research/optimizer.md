@@ -8,6 +8,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111605 - optimization algorithms|Optimization Algorithms]]
+
 - [ ] Stochastic Gradient Descent
 	- [ ] What is momentum?
 	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
