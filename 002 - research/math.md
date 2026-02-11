@@ -17,6 +17,7 @@ parent nodes:
 - [x] [[202602111527 - gelu|GELU]]
 - [x] [[202602111530 - softmax|Softmax]]
 - [x] [[202602111557 - backpropagation|Backpropagation]]
+- [x] [[202602111558 - gradient descent|Gradient Descent]]
 
 - Learning Strategy
 	- Start with a video explanation
