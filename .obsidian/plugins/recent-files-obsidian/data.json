@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "202602010041 - supervised learning",
+      "path": "002 - research/202602010041 - supervised learning.md"
+    },
+    {
+      "basename": "supervised learning",
+      "path": "002 - research/supervised learning.md"
+    },
+    {
+      "basename": "deepmind",
+      "path": "002 - research/deepmind.md"
+    },
+    {
+      "basename": "202602010052 - off-line learning",
+      "path": "002 - research/202602010052 - off-line learning.md"
+    },
+    {
+      "basename": "202602010053 - on-line learning",
+      "path": "002 - research/202602010053 - on-line learning.md"
+    },
+    {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
+    },
+    {
+      "basename": "optimizer",
+      "path": "002 - research/optimizer.md"
+    },
+    {
+      "basename": "202602061150 - deep learning",
+      "path": "002 - research/202602061150 - deep learning.md"
+    },
+    {
+      "basename": "deep learning",
+      "path": "002 - research/deep learning.md"
+    },
+    {
+      "basename": "natural language processing",
+      "path": "002 - research/natural language processing.md"
+    },
+    {
+      "basename": "unsupervised learning",
+      "path": "002 - research/unsupervised learning.md"
+    },
+    {
+      "basename": "dropouts",
+      "path": "002 - research/dropouts.md"
+    },
+    {
       "basename": "202602111256 - hyperparameters",
       "path": "002 - research/202602111256 - hyperparameters.md"
     },
@@ -45,24 +97,12 @@
       "path": "002 - research/202602111845 - stochastic gradient descent.md"
     },
     {
-      "basename": "optimizer",
-      "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "deep learning",
-      "path": "002 - research/deep learning.md"
-    },
-    {
       "basename": "definitions",
       "path": "002 - research/definitions.md"
     },
     {
       "basename": "202602061424 - log-likelihood",
       "path": "002 - research/202602061424 - log-likelihood.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
     },
     {
       "basename": "202602111558 - gradient descent",
@@ -83,10 +123,6 @@
     {
       "basename": "202602111634 - weight decay",
       "path": "002 - research/202602111634 - weight decay.md"
-    },
-    {
-      "basename": "dropouts",
-      "path": "002 - research/dropouts.md"
     },
     {
       "basename": "202602111711 - l2 regularization",
@@ -159,46 +195,6 @@
     {
       "basename": "202602030238 - cross-entropy loss",
       "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602111518 - tanh",
-      "path": "002 - research/202602111518 - tanh.md"
-    },
-    {
-      "basename": "202602111358 - weights and biases",
-      "path": "002 - research/202602111358 - weights and biases.md"
-    },
-    {
-      "basename": "202602010047 - objective function",
-      "path": "002 - research/202602010047 - objective function.md"
-    },
-    {
-      "basename": "202602111314 - model parameters",
-      "path": "002 - research/202602111314 - model parameters.md"
-    },
-    {
-      "basename": "math",
-      "path": "002 - research/math.md"
-    },
-    {
-      "basename": "trusted sources",
-      "path": "002 - research/trusted sources.md"
-    },
-    {
-      "basename": "202602010044 - model",
-      "path": "002 - research/202602010044 - model.md"
-    },
-    {
-      "basename": "natural language processing",
-      "path": "002 - research/natural language processing.md"
-    },
-    {
-      "basename": "unsupervised learning",
-      "path": "002 - research/unsupervised learning.md"
-    },
-    {
-      "basename": "202602011532 - training tips",
-      "path": "002 - research/202602011532 - training tips.md"
     }
   ],
   "omittedPaths": [],

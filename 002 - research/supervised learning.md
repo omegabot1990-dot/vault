@@ -1,5 +1,6 @@
 ---
 tags:
+  - moc
   - deep_learning
 description: ""
 parent nodes:
@@ -7,8 +8,6 @@ parent nodes:
 ---
 
 ## Topics
-
-- [x] What is supervised learning?
 
 ## Blogs
 

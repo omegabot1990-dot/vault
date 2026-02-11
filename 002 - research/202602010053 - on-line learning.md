@@ -1,16 +1,17 @@
 ---
 tags:
-- note
+  - deep_learning
+  - training
 aliases:
-- On-line learning
+  - On-line learning
 title: on-line learning
-description: ''
+description: ""
 parent nodes:
-- '[[deep learning]]'
-published on: null
+  - "[[202602111335 - training|Training]]"
+published on:
 ---
 
-- **Online Learning** (also called incremental learning) is a paradigm where a model learns continuously from a stream of data as it arrives, rather than being trained once on a static dataset
+- Online Learning (also called incremental learning) is a paradigm where a [[202602010044 - model|model]] learns continuously from a stream of data as it arrives, rather than being [[202602111335 - training|Training]] once on a static dataset
 
 | Feature        | Online Learning                                 | Offline (Batch) Learning                         |
 | :------------- | :---------------------------------------------- | :----------------------------------------------- |

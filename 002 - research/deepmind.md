@@ -1,10 +1,11 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+  - family
+description: ""
 parent nodes:
-- '[[deep learning]]'
-- '[[reinforcement learning]]'
+  - "[[deep learning]]"
+  - "[[reinforcement learning]]"
 ---
 
 ## Topics

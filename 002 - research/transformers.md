@@ -1,14 +1,14 @@
 ---
 tags:
+  - moc
   - deep_learning
+  - transformers
 description: ""
 parent nodes:
-  - "[[deep learning]]"
+  - "[[202602061153 - neural network|Neural Network]]"
 ---
 
 ## Topics
-
-- [x] [[202602102143 - transformer|Transformer]]
 
 ## Blogs
 
