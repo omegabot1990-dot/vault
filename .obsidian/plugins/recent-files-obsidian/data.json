@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "trusted sources",
+      "path": "002 - research/trusted sources.md"
+    },
+    {
+      "basename": "202602111256 - hyperparameters",
+      "path": "002 - research/202602111256 - hyperparameters.md"
+    },
+    {
       "basename": "natural language processing",
       "path": "002 - research/natural language processing.md"
     },
@@ -149,10 +157,6 @@
       "path": "008 - templates/node - inbox.md"
     },
     {
-      "basename": "trusted sources",
-      "path": "002 - research/trusted sources.md"
-    },
-    {
       "basename": "reinforcement learning",
       "path": "002 - research/reinforcement learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602092343 - law of total probabilities",
       "path": "002 - research/202602092343 - law of total probabilities.md"
-    },
-    {
-      "basename": "202602092150 - marginalisation",
-      "path": "002 - research/202602092150 - marginalisation.md"
     }
   ],
   "omittedPaths": [],

@@ -16,4 +16,5 @@ published on: null
 - [StatQuest](https://www.youtube.com/@statquest)
 - [arXiv](https://arxiv.org/)
 - [Emergent Mind](https://www.emergentmind.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
 
