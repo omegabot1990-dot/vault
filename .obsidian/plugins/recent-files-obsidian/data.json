@@ -5,28 +5,36 @@
       "path": "002 - research/202602111314 - model parameters.md"
     },
     {
+      "basename": "202602111340 - neural networks",
+      "path": "002 - research/202602111340 - neural networks.md"
+    },
+    {
       "basename": "202602010044 - model",
       "path": "002 - research/202602010044 - model.md"
+    },
+    {
+      "basename": "202602061153 - neural network",
+      "path": "002 - research/202602061153 - neural network.md"
     },
     {
       "basename": "202602111335 - training",
       "path": "002 - research/202602111335 - training.md"
     },
     {
-      "basename": "202602010047 - objective function",
-      "path": "002 - research/202602010047 - objective function.md"
-    },
-    {
       "basename": "202602111256 - hyperparameters",
       "path": "002 - research/202602111256 - hyperparameters.md"
     },
     {
-      "basename": "trusted sources",
-      "path": "002 - research/trusted sources.md"
-    },
-    {
       "basename": "hyperparameters",
       "path": "002 - research/hyperparameters.md"
+    },
+    {
+      "basename": "202602010047 - objective function",
+      "path": "002 - research/202602010047 - objective function.md"
+    },
+    {
+      "basename": "trusted sources",
+      "path": "002 - research/trusted sources.md"
     },
     {
       "basename": "natural language processing",
@@ -191,14 +199,6 @@
     {
       "basename": "todo",
       "path": "002 - research/todo.md"
-    },
-    {
-      "basename": "labs",
-      "path": "002 - research/labs.md"
-    },
-    {
-      "basename": "research tools",
-      "path": "002 - research/research tools.md"
     }
   ],
   "omittedPaths": [],
