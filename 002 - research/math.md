@@ -11,6 +11,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602111417 - affine map|Affine map]]
+- [x] [[202602111510 - sigmoid|Sigmoid]]
 
 - Learning Strategy
 	- Start with a video explanation
