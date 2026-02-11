@@ -10,6 +10,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602111335 - training|Training]]
+- [x] [[202602111639 - underfitting|Underfitting]]
 
 ## Blogs
 
