@@ -304,9 +304,41 @@
               "icon": "lucide-file",
               "title": "202602111634 - weight decay"
             }
+          },
+          {
+            "id": "d3cf7f035fa1865f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111711 - l2 regularization.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111711 - l2 regularization"
+            }
+          },
+          {
+            "id": "2504ddab8453fb6d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111636 - regularization.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111636 - regularization"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -375,10 +407,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111634 - weight decay.md"
+                "file": "002 - research/202602111636 - regularization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111634 - weight decay"
+              "title": "File properties for 202602111636 - regularization"
             }
           },
           {
@@ -387,13 +419,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111634 - weight decay.md",
+                "file": "002 - research/202602111636 - regularization.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111634 - weight decay"
+              "title": "Outline of 202602111636 - regularization"
             }
           },
           {
@@ -522,21 +554,22 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "151e3d23609d4451",
+  "active": "2504ddab8453fb6d",
   "lastOpenFiles": [
     "002 - research/202602111636 - regularization.md",
+    "002 - research/202602111600 - learning rate.md",
+    "002 - research/202602111617 - learning rate schedule.md",
+    "002 - research/202602111605 - optimization algorithms.md",
+    "002 - research/202602111634 - weight decay.md",
+    "002 - research/202602111711 - l2 regularization.md",
     "002 - research/202602111640 - dropout.md",
     "002 - research/202602111705 - activations.md",
     "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111639 - underfitting.md",
     "002 - research/202602111644 - overfitting.md",
-    "002 - research/202602111634 - weight decay.md",
-    "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602011426 - warmup.md",
     "002 - research/202602111623 - epochs.md",
     "002 - research/202602111625 - batch size.md",
-    "002 - research/202602111617 - learning rate schedule.md",
-    "002 - research/202602111600 - learning rate.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111558 - gradient descent.md",
@@ -549,7 +582,6 @@
     "002 - research/202602111530 - softmax.md",
     "002 - research/202602030238 - cross-entropy loss.md",
     "002 - research/202602111518 - tanh.md",
-    "002 - research/202602111510 - sigmoid.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

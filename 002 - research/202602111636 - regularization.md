@@ -17,7 +17,7 @@ published on:
 ---
 - Regularization is a set of methods used to reduce [[202602010049 - overfitting|overfitting]] and improve generalisation
 - It constrains [[202602010044 - model|model]] complexity or injects noise so the model learns robust patterns
-- Common methods include
+- Common methods include:
 	- [[202602111634 - weight decay|Weight decay]]
 	- [[202602111640 - dropout|Dropout]]
 	- Early stopping

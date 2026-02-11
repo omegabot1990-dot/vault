@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111636 - regularization",
+      "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602111600 - learning rate",
+      "path": "002 - research/202602111600 - learning rate.md"
+    },
+    {
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
+    },
+    {
+      "basename": "202602111605 - optimization algorithms",
+      "path": "002 - research/202602111605 - optimization algorithms.md"
+    },
+    {
       "basename": "202602111634 - weight decay",
       "path": "002 - research/202602111634 - weight decay.md"
     },
     {
-      "basename": "202602111636 - regularization",
-      "path": "002 - research/202602111636 - regularization.md"
+      "basename": "202602111711 - l2 regularization",
+      "path": "002 - research/202602111711 - l2 regularization.md"
     },
     {
       "basename": "202602111640 - dropout",
@@ -21,10 +37,6 @@
       "path": "002 - research/202602111639 - underfitting.md"
     },
     {
-      "basename": "202602111605 - optimization algorithms",
-      "path": "002 - research/202602111605 - optimization algorithms.md"
-    },
-    {
       "basename": "202602011426 - warmup",
       "path": "002 - research/202602011426 - warmup.md"
     },
@@ -35,14 +47,6 @@
     {
       "basename": "202602111625 - batch size",
       "path": "002 - research/202602111625 - batch size.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602111600 - learning rate",
-      "path": "002 - research/202602111600 - learning rate.md"
     },
     {
       "basename": "202602061153 - neural network",
