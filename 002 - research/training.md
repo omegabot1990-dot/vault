@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602111335 - training|Training]]
+
 ## Blogs
 
 - [ ] [LLM Training: RLHF and Its Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
