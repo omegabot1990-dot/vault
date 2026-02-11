@@ -288,9 +288,25 @@
               "icon": "lucide-file",
               "title": "202602111605 - optimization algorithms"
             }
+          },
+          {
+            "id": "151e3d23609d4451",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111634 - weight decay.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111634 - weight decay"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -359,10 +375,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111605 - optimization algorithms.md"
+                "file": "002 - research/202602111634 - weight decay.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111605 - optimization algorithms"
+              "title": "File properties for 202602111634 - weight decay"
             }
           },
           {
@@ -371,13 +387,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111605 - optimization algorithms.md",
+                "file": "002 - research/202602111634 - weight decay.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111605 - optimization algorithms"
+              "title": "Outline of 202602111634 - weight decay"
             }
           },
           {
@@ -506,15 +522,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "8709fa406d18fab3",
+  "active": "151e3d23609d4451",
   "lastOpenFiles": [
+    "002 - research/202602111605 - optimization algorithms.md",
+    "002 - research/202602111634 - weight decay.md",
     "002 - research/202602011426 - warmup.md",
     "002 - research/202602111623 - epochs.md",
     "002 - research/202602111625 - batch size.md",
     "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602111600 - learning rate.md",
-    "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111557 - backpropagation.md",
     "002 - research/202602111558 - gradient descent.md",
@@ -533,7 +550,6 @@
     "002 - research/202602010047 - objective function.md",
     "002 - research/202602111314 - model parameters.md",
     "002 - research/202602111417 - affine map.md",
-    "002 - research/math.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
