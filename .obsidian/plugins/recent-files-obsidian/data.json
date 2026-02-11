@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111256 - hyperparameters",
+      "path": "002 - research/202602111256 - hyperparameters.md"
+    },
+    {
       "basename": "202602010044 - model",
       "path": "002 - research/202602010044 - model.md"
     },
     {
-      "basename": "202602111256 - hyperparameters",
-      "path": "002 - research/202602111256 - hyperparameters.md"
+      "basename": "202602111314 - model parameters",
+      "path": "002 - research/202602111314 - model parameters.md"
     },
     {
       "basename": "trusted sources",
@@ -195,10 +199,6 @@
     {
       "basename": "compute",
       "path": "002 - research/compute.md"
-    },
-    {
-      "basename": "202602100011 - mutually exclusive",
-      "path": "002 - research/202602100011 - mutually exclusive.md"
     }
   ],
   "omittedPaths": [],
