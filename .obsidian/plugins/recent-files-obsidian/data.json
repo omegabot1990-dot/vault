@@ -5,16 +5,20 @@
       "path": "002 - research/202602111400 - activation.md"
     },
     {
-      "basename": "202602111358 - weights and biases",
-      "path": "002 - research/202602111358 - weights and biases.md"
-    },
-    {
       "basename": "202601311954 - pytorch",
       "path": "002 - research/202601311954 - pytorch.md"
     },
     {
+      "basename": "202602111518 - tanh",
+      "path": "002 - research/202602111518 - tanh.md"
+    },
+    {
       "basename": "202602111510 - sigmoid",
       "path": "002 - research/202602111510 - sigmoid.md"
+    },
+    {
+      "basename": "202602111358 - weights and biases",
+      "path": "002 - research/202602111358 - weights and biases.md"
     },
     {
       "basename": "202602010047 - objective function",
@@ -195,10 +199,6 @@
     {
       "basename": "node - zettel",
       "path": "008 - templates/node - zettel.md"
-    },
-    {
-      "basename": "node - moc",
-      "path": "008 - templates/node - moc.md"
     }
   ],
   "omittedPaths": [],
