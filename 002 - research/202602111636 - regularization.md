@@ -23,5 +23,5 @@ published on:
 	- Data augmentation
 	- Early stopping
 - Regularization strength is controlled by [[202602111256 - hyperparameters|hyperparameters]] and must be tuned with validation data
-- Too much regularization causes underfitting, while too little can cause overfitting
-- Effective regularization depends on model size, dataset scale, and optimization setup
+- Too much regularization causes underfitting, while too little can cause [[202602010049 - overfitting|overfitting]]
+- Effective regularisation depends on [[202602111314 - model parameters|model size]], dataset scale, and [[202602111605 - optimization algorithms|optimization]] setup

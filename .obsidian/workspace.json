@@ -320,9 +320,25 @@
               "icon": "lucide-file",
               "title": "202602111636 - regularization"
             }
+          },
+          {
+            "id": "5c2b4e6edd984357",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602111639 - underfitting.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602111639 - underfitting"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -391,10 +407,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111636 - regularization.md"
+                "file": "002 - research/202602111639 - underfitting.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111636 - regularization"
+              "title": "File properties for 202602111639 - underfitting"
             }
           },
           {
@@ -403,13 +419,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602111636 - regularization.md",
+                "file": "002 - research/202602111639 - underfitting.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602111636 - regularization"
+              "title": "Outline of 202602111639 - underfitting"
             }
           },
           {
@@ -538,10 +554,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "13fb0d65679c31ea",
+  "active": "5c2b4e6edd984357",
   "lastOpenFiles": [
-    "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111636 - regularization.md",
+    "002 - research/202602111640 - dropout.md",
+    "002 - research/202602111639 - underfitting.md",
+    "002 - research/202602010049 - overfitting.md",
     "002 - research/202602111634 - weight decay.md",
     "002 - research/202602111605 - optimization algorithms.md",
     "002 - research/202602011426 - warmup.md",
@@ -564,8 +582,6 @@
     "002 - research/202602111510 - sigmoid.md",
     "002 - research/202602111358 - weights and biases.md",
     "002 - research/activations.md",
-    "002 - research/202602010047 - objective function.md",
-    "002 - research/202602111314 - model parameters.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602111639 - underfitting",
+      "path": "002 - research/202602111639 - underfitting.md"
+    },
+    {
       "basename": "202602111636 - regularization",
       "path": "002 - research/202602111636 - regularization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "deepseek",
       "path": "002 - research/deepseek.md"
-    },
-    {
-      "basename": "openai",
-      "path": "002 - research/openai.md"
     }
   ],
   "omittedPaths": [],
