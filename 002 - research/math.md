@@ -18,6 +18,7 @@ parent nodes:
 - [x] [[202602111530 - softmax|Softmax]]
 - [x] [[202602111557 - backpropagation|Backpropagation]]
 - [x] [[202602111558 - gradient descent|Gradient Descent]]
+- [x] [[202602120102 - cross entropy|Cross entropy]]
 
 - Learning Strategy
 	- Start with a video explanation
