@@ -12,6 +12,7 @@ parent nodes:
 
 - [x] [[202602120054 - classification|Classification]]
 - [x] [[202602120056 - regression|Regression]]
+- [x] [[202602120132 - evaluation|Evaluation]]
 
 ## Blogs
 
