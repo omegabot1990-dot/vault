@@ -8,13 +8,6 @@ parent nodes:
 
 ## Topics
 
-- [x] Accuracy
-
-- [x] Precision
-
-- [x] Recall
-
-- [ ] F1
 
 - [ ] Macro F1
 	- [ ] Class level

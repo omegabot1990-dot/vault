@@ -1,19 +1,31 @@
 ---
 tags:
-- note
+  - deep_learning
+  - training
 aliases:
-- Classification
+  - Classification
 title: classification
-description: ''
+description: ""
 bot: true
 parent nodes:
-- '[[deep learning]]'
-published on: null
+  - "[[202602112328 - supervised learning|Supervised Learning]]"
+published on:
 ---
 
-- Classification is a supervised learning task where inputs are mapped to discrete class labels
-- The model outputs class scores or probabilities, and prediction selects the most likely class
-- Common settings are binary classification, multiclass classification, and multilabel classification
-- Typical training uses cross-entropy-based losses with sigmoid or softmax output layers
-- Performance is evaluated with metrics such as accuracy, precision, recall, F1, and ROC-AUC depending on class balance and task goals
-- Good classification performance depends on data quality, calibration, regularization, and decision-threshold selection
+- [ ] What is ROC-AUC?
+
+---
+- Classification is a [[202602112328 - supervised learning|supervised learning]] task where inputs are mapped to discrete class labels
+- The model outputs class scores or [[202602062040 - probability|probabilities]], and the prediction selects the most likely class
+- Common settings are
+	- Binary classification
+	- Multi-class classification
+	- Multi-label classification
+- Typical training uses cross-entropy-based losses with [[202602111510 - sigmoid|sigmoid]] or [[202602111530 - softmax|softmax]] output layers
+- Performance is evaluated with metrics such as the below depending on class balance and task goals
+	- [[202602011507 - accuracy|Accuracy]]
+	- [[202602011511 - precision|Precision]]
+	- [[202602011513 - recall|Recall]]
+	- [[202602011551 - f1|F1 score]]
+	- ROC-AUC
+- Good classification performance depends on data quality, calibration, [[202602111636 - regularization|regularization]], and decision-threshold selection

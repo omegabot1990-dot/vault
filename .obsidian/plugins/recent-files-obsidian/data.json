@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602061241 - likelihood",
-      "path": "002 - research/202602061241 - likelihood.md"
+      "basename": "202602120056 - regression",
+      "path": "002 - research/202602120056 - regression.md"
+    },
+    {
+      "basename": "202602120054 - classification",
+      "path": "002 - research/202602120054 - classification.md"
+    },
+    {
+      "basename": "202602011507 - accuracy",
+      "path": "002 - research/202602011507 - accuracy.md"
+    },
+    {
+      "basename": "202602011511 - precision",
+      "path": "002 - research/202602011511 - precision.md"
+    },
+    {
+      "basename": "202602011513 - recall",
+      "path": "002 - research/202602011513 - recall.md"
+    },
+    {
+      "basename": "202602011551 - f1",
+      "path": "002 - research/202602011551 - f1.md"
     },
     {
       "basename": "202602112310 - unsupervised learning",
@@ -19,6 +39,18 @@
     {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "202602010047 - objective function",
+      "path": "002 - research/202602010047 - objective function.md"
+    },
+    {
+      "basename": "202602061241 - likelihood",
+      "path": "002 - research/202602061241 - likelihood.md"
     },
     {
       "basename": "training",
@@ -167,38 +199,6 @@
     {
       "basename": "202602111639 - underfitting",
       "path": "002 - research/202602111639 - underfitting.md"
-    },
-    {
-      "basename": "202602011426 - warmup",
-      "path": "002 - research/202602011426 - warmup.md"
-    },
-    {
-      "basename": "202602111623 - epochs",
-      "path": "002 - research/202602111623 - epochs.md"
-    },
-    {
-      "basename": "202602111625 - batch size",
-      "path": "002 - research/202602111625 - batch size.md"
-    },
-    {
-      "basename": "202602102054 - vectors",
-      "path": "002 - research/202602102054 - vectors.md"
-    },
-    {
-      "basename": "202602111400 - activation",
-      "path": "002 - research/202602111400 - activation.md"
-    },
-    {
-      "basename": "202601311954 - pytorch",
-      "path": "002 - research/202601311954 - pytorch.md"
-    },
-    {
-      "basename": "202602111526 - relu",
-      "path": "002 - research/202602111526 - relu.md"
-    },
-    {
-      "basename": "202602111527 - gelu",
-      "path": "002 - research/202602111527 - gelu.md"
     }
   ],
   "omittedPaths": [],
