@@ -95,8 +95,7 @@
               "title": "deep learning"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,11 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/deep learning.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for deep learning"
+              "title": "File properties"
             }
           },
           {
@@ -377,12 +374,14 @@
       }
     ]
   },
-  "active": "4f7f4ede4caffd3d",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/training.md",
+    "002 - research/evaluation.md",
+    "002 - research/deep learning.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
-    "002 - research/evaluation.md",
     "002 - research/202602011551 - f1.md",
     "002 - research/202602120145 - loss.md",
     "002 - research/202602120102 - cross-entropy.md",
@@ -395,7 +394,6 @@
     "002 - research/202602010047 - objective function.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602061241 - likelihood.md",
-    "002 - research/training.md",
     "002 - research/202602010041 - supervised learning.md",
     "conflict-files-obsidian-git.md",
     "002 - research/supervised learning.md",
@@ -404,7 +402,6 @@
     "002 - research/202602010053 - on-line learning.md",
     "002 - research/transformers.md",
     "002 - research/optimizer.md",
-    "002 - research/202602061150 - deep learning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

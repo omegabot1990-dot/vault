@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
       "basename": "deep learning",
       "path": "002 - research/deep learning.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "202602112328 - supervised learning",
       "path": "002 - research/202602112328 - supervised learning.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
     },
     {
       "basename": "202602011551 - f1",
@@ -63,10 +67,6 @@
     {
       "basename": "202602061241 - likelihood",
       "path": "002 - research/202602061241 - likelihood.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
     },
     {
       "basename": "supervised learning",
