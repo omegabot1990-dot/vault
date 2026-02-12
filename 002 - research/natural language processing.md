@@ -1,6 +1,7 @@
 ---
 tags:
   - moc
+  - root
   - nlp
 description: ""
 parent nodes:

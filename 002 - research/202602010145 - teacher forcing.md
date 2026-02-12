@@ -1,13 +1,17 @@
 ---
 tags:
-- note
+  - training
 aliases:
-- Teacher forcing
+  - Teacher forcing
 title: teacher forcing
-description: ''
+description: ""
 parent nodes:
-- '[[training]]'
-published on: null
+  - "[[202602030230 - pre-training|Pre-training]]"
+published on:
 ---
 
-- A **training strategy for sequence models** (e.g., RNNs) where the model receives the _ground truth_ previous token instead of its own predicted token, stabilising early training.
+- [ ] What are RNNs?
+- [ ] What are sequence models?
+
+---
+- A [[202602111335 - training|training]] strategy for sequence [[202602010044 - model|models]] (e.g., RNNs) where the model receives the _ground truth_ previous token instead of its own predicted token, stabilising early training

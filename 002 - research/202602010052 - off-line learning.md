@@ -1,6 +1,5 @@
 ---
 tags:
-  - deep_learning
   - training
 aliases:
   - Off-line learning

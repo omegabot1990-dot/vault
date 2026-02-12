@@ -1,6 +1,5 @@
 ---
 tags:
-  - moc
   - family
 description: ""
 parent nodes:

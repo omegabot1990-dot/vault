@@ -20,36 +20,6 @@
             }
           },
           {
-            "id": "bfdf0ffba8738cf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "training"
-            }
-          },
-          {
-            "id": "d7295843f483e0a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602112310 - unsupervised learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602112310 - unsupervised learning"
-            }
-          },
-          {
             "id": "baea62d9cdae09c0",
             "type": "leaf",
             "pinned": true,
@@ -66,51 +36,70 @@
             }
           },
           {
-            "id": "718d2c87fefcc905",
+            "id": "b48fe11647ae7bdf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/evaluation.md",
+                "file": "002 - research/202601282201 - supervised fine-tuning.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "evaluation"
+              "title": "202601282201 - supervised fine-tuning"
             }
           },
           {
-            "id": "4f7f4ede4caffd3d",
+            "id": "dbd4c0667c0ab221",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/deep learning.md",
+                "file": "002 - research/202602010145 - teacher forcing.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "deep learning"
+              "title": "202602010145 - teacher forcing"
             }
           },
           {
-            "id": "59a411db59e99997",
+            "id": "08dddd432aaba6fe",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/deep learning.md",
+                "file": "002 - research/202601282201 - supervised fine-tuning.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "deep learning"
+              "title": "202601282201 - supervised fine-tuning"
+            }
+          },
+          {
+            "id": "211ff5022c624d15",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602030230 - pre-training.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602030230 - pre-training"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/deep learning.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for deep learning"
+              "title": "File properties"
             }
           },
           {
@@ -191,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602120145 - loss.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602120145 - loss"
+              "title": "Outline"
             }
           },
           {
@@ -206,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: work",
+                "query": "tag:#training",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,33 +377,33 @@
       }
     ]
   },
-  "active": "59a411db59e99997",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/training.md",
-    "002 - research/evaluation.md",
-    "002 - research/deep learning.md",
-    "002 - research/202602102143 - transformer.md",
-    "002 - research/202602050153 - self-supervised learning.md",
-    "002 - research/202602112328 - supervised learning.md",
-    "002 - research/202602011551 - f1.md",
-    "002 - research/202602120145 - loss.md",
-    "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602120056 - regression.md",
-    "002 - research/202602120054 - classification.md",
-    "002 - research/202602011511 - precision.md",
-    "002 - research/202602011513 - recall.md",
-    "002 - research/202602011507 - accuracy.md",
-    "002 - research/202602120132 - evaluation.md",
-    "002 - research/202602010047 - objective function.md",
-    "002 - research/202602112310 - unsupervised learning.md",
-    "002 - research/202602061241 - likelihood.md",
-    "002 - research/202602010041 - supervised learning.md",
-    "conflict-files-obsidian-git.md",
-    "002 - research/supervised learning.md",
-    "002 - research/deepmind.md",
+    "002 - research/202602030230 - pre-training.md",
+    "002 - research/202602061443 - expected log-probability.md",
+    "002 - research/202602010145 - teacher forcing.md",
+    "002 - research/202602111335 - training.md",
+    "002 - research/202601282201 - supervised fine-tuning.md",
+    "002 - research/supervised fine-tuning.md",
+    "002 - research/fine-tuning.md",
+    "002 - research/202602050158 - masked language modelling.md",
     "002 - research/202602010052 - off-line learning.md",
     "002 - research/202602010053 - on-line learning.md",
-    "002 - research/transformers.md",
+    "002 - research/202602120054 - classification.md",
+    "002 - research/202602120056 - regression.md",
+    "002 - research/202602112310 - unsupervised learning.md",
+    "002 - research/202602112328 - supervised learning.md",
+    "002 - research/202602102143 - transformer.md",
+    "202602050153 - self-supervised learning.md",
+    "002 - research/unsupervised learning.md",
+    "002 - research/residual connections.md",
+    "002 - research/training.md",
+    "002 - research/supervised learning.md",
+    "002 - research/natural language processing.md",
+    "002 - research/neural networks.md",
+    "002 - research/deep learning.md",
+    "002 - research/loss.md",
+    "002 - research/hyperparameters.md",
     "002 - research/optimizer.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",

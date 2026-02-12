@@ -1,13 +1,14 @@
 ---
 tags:
-- note
+  - deep_learning
+  - evaluation
 aliases:
-- Cross-Entropy Loss
+  - Cross-Entropy Loss
 title: cross-entropy loss
-description: ''
+description: ""
 parent nodes:
-- '[[loss]]'
-published on: null
+  - "[[202602120145 - loss|Loss]]"
+published on:
 ---
 
 - Minimise the divergence between the true distribution $p$ and predicted distribution $q$
