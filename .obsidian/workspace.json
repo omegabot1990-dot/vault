@@ -377,8 +377,9 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "000 - daily notes/2026-02-12.md",
     "002 - research/202602030230 - pre-training.md",
     "002 - research/202602061443 - expected log-probability.md",
     "002 - research/202602010145 - teacher forcing.md",
@@ -404,7 +405,6 @@
     "002 - research/deep learning.md",
     "002 - research/loss.md",
     "002 - research/hyperparameters.md",
-    "002 - research/optimizer.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
