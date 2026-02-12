@@ -6,7 +6,7 @@ aliases:
   - Classification
 title: classification
 description: ""
-bot: true
+bot: false
 parent nodes:
   - "[[202602112328 - supervised learning|Supervised Learning]]"
 published on:
@@ -24,7 +24,7 @@ published on:
 - Typical training uses [[202602120102 - cross-entropy|cross-entropy]]-based [[202602010047 - objective function|losses]] with, 
 	- [[202602111510 - sigmoid|Sigmoid]] for binary
 	- [[202602111530 - softmax|Softmax]] for multi-class
-- Performance is evaluated with metrics such as the below depending on class balance and task goals
+- Performance is [[202602120132 - evaluation|evaluated]] with metrics such as the below depending on class balance and task goals
 	- [[202602011507 - accuracy|Accuracy]]
 	- [[202602011511 - precision|Precision]]
 	- [[202602011513 - recall|Recall]]

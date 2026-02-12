@@ -128,102 +128,6 @@
               "icon": "lucide-file",
               "title": "evaluation"
             }
-          },
-          {
-            "id": "657cc57b0aa302ae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602120056 - regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602120056 - regression"
-            }
-          },
-          {
-            "id": "a73669998a47ecae",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602120054 - classification.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602120054 - classification"
-            }
-          },
-          {
-            "id": "2b66acece194054a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602011511 - precision.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602011511 - precision"
-            }
-          },
-          {
-            "id": "c212d55426d807c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602011513 - recall.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602011513 - recall"
-            }
-          },
-          {
-            "id": "300b39717b3bb507",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602011551 - f1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602011551 - f1"
-            }
-          },
-          {
-            "id": "8a12a77afa766372",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602011507 - accuracy.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602011507 - accuracy"
-            }
           }
         ],
         "currentTab": 7
@@ -507,21 +411,22 @@
       }
     ]
   },
-  "active": "718d2c87fefcc905",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602120056 - regression.md",
     "002 - research/202602120054 - classification.md",
     "002 - research/202602011511 - precision.md",
     "002 - research/202602011513 - recall.md",
     "002 - research/202602011551 - f1.md",
     "002 - research/202602011507 - accuracy.md",
+    "002 - research/202602120132 - evaluation.md",
+    "002 - research/evaluation.md",
     "002 - research/202602010047 - objective function.md",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602120056 - regression.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602102143 - transformer.md",
-    "002 - research/evaluation.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/training.md",
     "002 - research/202602010041 - supervised learning.md",
@@ -534,7 +439,6 @@
     "002 - research/optimizer.md",
     "002 - research/202602061150 - deep learning.md",
     "002 - research/deep learning.md",
-    "002 - research/natural language processing.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
