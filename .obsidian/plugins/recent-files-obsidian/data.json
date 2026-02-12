@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "202602120054 - classification",
+      "path": "002 - research/202602120054 - classification.md"
+    },
+    {
+      "basename": "202602011511 - precision",
+      "path": "002 - research/202602011511 - precision.md"
+    },
+    {
       "basename": "202602011513 - recall",
       "path": "002 - research/202602011513 - recall.md"
     },
@@ -17,20 +29,12 @@
       "path": "002 - research/202602010047 - objective function.md"
     },
     {
-      "basename": "202602120054 - classification",
-      "path": "002 - research/202602120054 - classification.md"
-    },
-    {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
       "basename": "202602120056 - regression",
       "path": "002 - research/202602120056 - regression.md"
-    },
-    {
-      "basename": "202602011511 - precision",
-      "path": "002 - research/202602011511 - precision.md"
     },
     {
       "basename": "202602112310 - unsupervised learning",
@@ -47,10 +51,6 @@
     {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
     },
     {
       "basename": "202602061241 - likelihood",

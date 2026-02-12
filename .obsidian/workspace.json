@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602011513 - recall.md"
+                "file": "002 - research/evaluation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602011513 - recall"
+              "title": "File properties for evaluation"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602011513 - recall.md",
+                "file": "002 - research/evaluation.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602011513 - recall"
+              "title": "Outline of evaluation"
             }
           },
           {
@@ -507,16 +507,16 @@
       }
     ]
   },
-  "active": "c212d55426d807c8",
+  "active": "718d2c87fefcc905",
   "lastOpenFiles": [
+    "002 - research/202602120054 - classification.md",
+    "002 - research/202602011511 - precision.md",
+    "002 - research/202602011513 - recall.md",
     "002 - research/202602011551 - f1.md",
     "002 - research/202602011507 - accuracy.md",
     "002 - research/202602010047 - objective function.md",
-    "002 - research/202602120054 - classification.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602120056 - regression.md",
-    "002 - research/202602011511 - precision.md",
-    "002 - research/202602011513 - recall.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602050153 - self-supervised learning.md",

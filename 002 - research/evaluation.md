@@ -8,7 +8,6 @@ parent nodes:
 
 ## Topics
 
-
 - [ ] Macro F1
 	- [ ] Class level
 
