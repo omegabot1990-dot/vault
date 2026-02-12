@@ -50,38 +50,6 @@
             }
           },
           {
-            "id": "cf02b9f465ace6c1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602112328 - supervised learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602112328 - supervised learning"
-            }
-          },
-          {
-            "id": "0ec6a6f9b83ade4b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602050153 - self-supervised learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602050153 - self-supervised learning"
-            }
-          },
-          {
             "id": "baea62d9cdae09c0",
             "type": "leaf",
             "pinned": true,
@@ -95,22 +63,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "202602102143 - transformer"
-            }
-          },
-          {
-            "id": "b390dfdc0415a49e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602011551 - f1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602011551 - f1"
             }
           },
           {
@@ -128,25 +80,9 @@
               "icon": "lucide-file",
               "title": "evaluation"
             }
-          },
-          {
-            "id": "45cd51d09362cb07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602120145 - loss.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602120145 - loss"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,10 +151,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602120145 - loss.md"
+                "file": "002 - research/202602102143 - transformer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602120145 - loss"
+              "title": "File properties for 202602102143 - transformer"
             }
           },
           {
@@ -427,13 +363,15 @@
       }
     ]
   },
-  "active": "45cd51d09362cb07",
+  "active": "baea62d9cdae09c0",
   "lastOpenFiles": [
-    "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602120145 - loss.md",
+    "002 - research/202602050153 - self-supervised learning.md",
+    "002 - research/202602112328 - supervised learning.md",
     "002 - research/evaluation.md",
-    "002 - research/202602011551 - f1.md",
     "002 - research/202602102143 - transformer.md",
+    "002 - research/202602011551 - f1.md",
+    "002 - research/202602120145 - loss.md",
+    "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602120056 - regression.md",
     "002 - research/202602120054 - classification.md",
     "002 - research/202602011511 - precision.md",
@@ -442,8 +380,6 @@
     "002 - research/202602120132 - evaluation.md",
     "002 - research/202602010047 - objective function.md",
     "002 - research/202602112310 - unsupervised learning.md",
-    "002 - research/202602112328 - supervised learning.md",
-    "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/training.md",
     "002 - research/202602010041 - supervised learning.md",

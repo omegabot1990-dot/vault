@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "202602120145 - loss",
-      "path": "002 - research/202602120145 - loss.md"
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
     },
     {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
+      "basename": "202602112328 - supervised learning",
+      "path": "002 - research/202602112328 - supervised learning.md"
     },
     {
       "basename": "evaluation",
@@ -17,8 +17,12 @@
       "path": "002 - research/202602011551 - f1.md"
     },
     {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
+      "basename": "202602120145 - loss",
+      "path": "002 - research/202602120145 - loss.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
       "basename": "202602120056 - regression",
@@ -51,14 +55,6 @@
     {
       "basename": "202602112310 - unsupervised learning",
       "path": "002 - research/202602112310 - unsupervised learning.md"
-    },
-    {
-      "basename": "202602112328 - supervised learning",
-      "path": "002 - research/202602112328 - supervised learning.md"
-    },
-    {
-      "basename": "202602050153 - self-supervised learning",
-      "path": "002 - research/202602050153 - self-supervised learning.md"
     },
     {
       "basename": "202602061241 - likelihood",
