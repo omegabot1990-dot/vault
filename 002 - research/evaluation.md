@@ -19,7 +19,7 @@ parent nodes:
 
 - [ ] BERTScore
 
-- [ ] Loss
+- [x] [[202602120145 - loss|Loss]]
 
 - [ ] Perplexity
 
