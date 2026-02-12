@@ -3,6 +3,8 @@ tags:
   - deep_learning
 aliases:
   - Objective Function
+  - Cost Function
+  - Loss Function
 title: objective function
 description: ""
 parent nodes:

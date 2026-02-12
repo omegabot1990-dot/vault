@@ -226,7 +226,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602120056 - regression.md"
+                "file": "002 - research/202602011513 - recall.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602120056 - regression"
+              "title": "File properties for 202602011513 - recall"
             }
           },
           {
@@ -307,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/202602120056 - regression.md",
+                "file": "002 - research/202602011513 - recall.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 202602120056 - regression"
+              "title": "Outline of 202602011513 - recall"
             }
           },
           {
@@ -442,20 +442,86 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "657cc57b0aa302ae",
+  "floating": {
+    "id": "cf992f3b18f87eb0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7ad6e118982ecb70",
+        "type": "window",
+        "children": [
+          {
+            "id": "06e3699fadd1ca87",
+            "type": "tabs",
+            "dimension": 77.91005291005291,
+            "children": [
+              {
+                "id": "db9da6fb7d359755",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602120102 - cross-entropy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602120102 - cross-entropy"
+                },
+                "group": "2a2f7e94e3759c04"
+              }
+            ]
+          },
+          {
+            "id": "d4e87b8922f5c13a",
+            "type": "tabs",
+            "dimension": 22.08994708994709,
+            "children": [
+              {
+                "id": "3310657d261fc271",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "002 - research/202602120102 - cross-entropy.md"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-info",
+                  "title": "File properties for 202602120102 - cross-entropy"
+                },
+                "group": "2a2f7e94e3759c04"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 33,
+        "width": 1512,
+        "height": 949,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c212d55426d807c8",
   "lastOpenFiles": [
-    "002 - research/202602120054 - classification.md",
-    "002 - research/202602120056 - regression.md",
+    "002 - research/202602011551 - f1.md",
     "002 - research/202602011507 - accuracy.md",
+    "002 - research/202602010047 - objective function.md",
+    "002 - research/202602120054 - classification.md",
+    "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602120056 - regression.md",
     "002 - research/202602011511 - precision.md",
     "002 - research/202602011513 - recall.md",
-    "002 - research/202602011551 - f1.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/evaluation.md",
-    "002 - research/202602010047 - objective function.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/training.md",
     "002 - research/202602010041 - supervised learning.md",
@@ -469,7 +535,6 @@
     "002 - research/202602061150 - deep learning.md",
     "002 - research/deep learning.md",
     "002 - research/natural language processing.md",
-    "002 - research/unsupervised learning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
