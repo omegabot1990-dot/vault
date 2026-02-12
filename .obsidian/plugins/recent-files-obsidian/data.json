@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "202602120145 - loss",
+      "path": "002 - research/202602120145 - loss.md"
+    },
+    {
       "basename": "evaluation",
       "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "202602011551 - f1",
+      "path": "002 - research/202602011551 - f1.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "202602120056 - regression",
@@ -19,10 +31,6 @@
     {
       "basename": "202602011513 - recall",
       "path": "002 - research/202602011513 - recall.md"
-    },
-    {
-      "basename": "202602011551 - f1",
-      "path": "002 - research/202602011551 - f1.md"
     },
     {
       "basename": "202602011507 - accuracy",
@@ -51,10 +59,6 @@
     {
       "basename": "202602050153 - self-supervised learning",
       "path": "002 - research/202602050153 - self-supervised learning.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "202602061241 - likelihood",
@@ -195,10 +199,6 @@
     {
       "basename": "202602111733 - early stopping",
       "path": "002 - research/202602111733 - early stopping.md"
-    },
-    {
-      "basename": "202602111731 - data augmentation",
-      "path": "002 - research/202602111731 - data augmentation.md"
     }
   ],
   "omittedPaths": [],

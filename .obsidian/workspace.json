@@ -128,9 +128,25 @@
               "icon": "lucide-file",
               "title": "evaluation"
             }
+          },
+          {
+            "id": "45cd51d09362cb07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602120145 - loss.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602120145 - loss"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -199,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/evaluation.md"
+                "file": "002 - research/202602120145 - loss.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for evaluation"
+              "title": "File properties for 202602120145 - loss"
             }
           },
           {
@@ -211,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 - research/evaluation.md",
+                "file": "002 - research/202602120145 - loss.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of evaluation"
+              "title": "Outline of 202602120145 - loss"
             }
           },
           {
@@ -411,22 +427,23 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "45cd51d09362cb07",
   "lastOpenFiles": [
+    "002 - research/evaluation.md",
+    "002 - research/202602011551 - f1.md",
+    "002 - research/202602120145 - loss.md",
+    "002 - research/202602102143 - transformer.md",
     "002 - research/202602120056 - regression.md",
     "002 - research/202602120054 - classification.md",
     "002 - research/202602011511 - precision.md",
     "002 - research/202602011513 - recall.md",
-    "002 - research/202602011551 - f1.md",
     "002 - research/202602011507 - accuracy.md",
     "002 - research/202602120132 - evaluation.md",
-    "002 - research/evaluation.md",
     "002 - research/202602010047 - objective function.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602050153 - self-supervised learning.md",
-    "002 - research/202602102143 - transformer.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/training.md",
     "002 - research/202602010041 - supervised learning.md",
@@ -438,7 +455,6 @@
     "002 - research/transformers.md",
     "002 - research/optimizer.md",
     "002 - research/202602061150 - deep learning.md",
-    "002 - research/deep learning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

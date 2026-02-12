@@ -19,8 +19,6 @@ parent nodes:
 
 - [ ] BERTScore
 
-- [x] [[202602120145 - loss|Loss]]
-
 - [ ] Perplexity
 
 ## Blogs
