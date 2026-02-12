@@ -397,7 +397,7 @@
           {
             "id": "d4e87b8922f5c13a",
             "type": "tabs",
-            "dimension": 22.08994708994709,
+            "dimension": 22.089947089947092,
             "children": [
               {
                 "id": "3310657d261fc271",
@@ -429,9 +429,10 @@
   },
   "active": "45cd51d09362cb07",
   "lastOpenFiles": [
+    "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602120145 - loss.md",
     "002 - research/evaluation.md",
     "002 - research/202602011551 - f1.md",
-    "002 - research/202602120145 - loss.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/202602120056 - regression.md",
     "002 - research/202602120054 - classification.md",
@@ -440,7 +441,6 @@
     "002 - research/202602011507 - accuracy.md",
     "002 - research/202602120132 - evaluation.md",
     "002 - research/202602010047 - objective function.md",
-    "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602112310 - unsupervised learning.md",
     "002 - research/202602112328 - supervised learning.md",
     "002 - research/202602050153 - self-supervised learning.md",

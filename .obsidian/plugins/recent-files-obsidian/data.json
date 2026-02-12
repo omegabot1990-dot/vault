@@ -5,6 +5,10 @@
       "path": "002 - research/202602120145 - loss.md"
     },
     {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
       "basename": "evaluation",
       "path": "002 - research/evaluation.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "202602010047 - objective function",
       "path": "002 - research/202602010047 - objective function.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
       "basename": "202602112310 - unsupervised learning",
