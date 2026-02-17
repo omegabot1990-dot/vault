@@ -322,23 +322,21 @@
                 }
               },
               {
-                "id": "b409a9649369e783",
+                "id": "f83e5b4770dc0935",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602172113 - population.md",
+                    "file": "002 - research/202602172120 - sample.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602172113 - population"
+                  "title": "202602172120 - sample"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -348,15 +346,11 @@
               {
                 "id": "3310657d261fc271",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "002 - research/202602172113 - population.md"
-                  },
-                  "pinned": true,
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for 202602172113 - population"
+                  "title": "File properties"
                 }
               }
             ]
@@ -372,16 +366,18 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602172113 - population.md",
-    "002 - research/202602061346 - sample space.md",
     "002 - research/202602172103 - correlation.md",
     "002 - research/202602172058 - covariance.md",
-    "002 - research/202602062209 - standard deviation.md",
-    "002 - research/202602062206 - variance.md",
-    "002 - research/202602062110 - mean.md",
     "002 - research/202602061333 - expectation.md",
+    "002 - research/202602172120 - sample.md",
+    "002 - research/202602062206 - variance.md",
+    "002 - research/202602172113 - population.md",
+    "002 - research/202602061340 - random variable.md",
+    "002 - research/202602061346 - sample space.md",
+    "002 - research/202602062209 - standard deviation.md",
+    "002 - research/202602062110 - mean.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602061424 - log-likelihood.md",
     "002 - research/202602061241 - likelihood.md",
@@ -398,8 +394,6 @@
     "002 - research/202601282201 - supervised fine-tuning.md",
     "002 - research/202602010145 - teacher forcing.md",
     "002 - research/202602030230 - pre-training.md",
-    "002 - research/202602010106 - imputation.md",
-    "002 - research/202602020018 - verifiable domains.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

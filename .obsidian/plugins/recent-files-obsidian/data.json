@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "202602172113 - population",
-      "path": "002 - research/202602172113 - population.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "002 - research/202602061346 - sample space.md"
-    },
-    {
       "basename": "202602172103 - correlation",
       "path": "002 - research/202602172103 - correlation.md"
     },
@@ -17,20 +9,36 @@
       "path": "002 - research/202602172058 - covariance.md"
     },
     {
-      "basename": "202602062209 - standard deviation",
-      "path": "002 - research/202602062209 - standard deviation.md"
+      "basename": "202602061333 - expectation",
+      "path": "002 - research/202602061333 - expectation.md"
+    },
+    {
+      "basename": "202602172120 - sample",
+      "path": "002 - research/202602172120 - sample.md"
     },
     {
       "basename": "202602062206 - variance",
       "path": "002 - research/202602062206 - variance.md"
     },
     {
-      "basename": "202602062110 - mean",
-      "path": "002 - research/202602062110 - mean.md"
+      "basename": "202602172113 - population",
+      "path": "002 - research/202602172113 - population.md"
     },
     {
-      "basename": "202602061333 - expectation",
-      "path": "002 - research/202602061333 - expectation.md"
+      "basename": "202602061340 - random variable",
+      "path": "002 - research/202602061340 - random variable.md"
+    },
+    {
+      "basename": "202602061346 - sample space",
+      "path": "002 - research/202602061346 - sample space.md"
+    },
+    {
+      "basename": "202602062209 - standard deviation",
+      "path": "002 - research/202602062209 - standard deviation.md"
+    },
+    {
+      "basename": "202602062110 - mean",
+      "path": "002 - research/202602062110 - mean.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
@@ -191,14 +199,6 @@
     {
       "basename": "202602061329 - proximal policy optimisation",
       "path": "002 - research/202602061329 - proximal policy optimisation.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
-    },
-    {
-      "basename": "202602061145 - machine learning",
-      "path": "002 - research/202602061145 - machine learning.md"
     }
   ],
   "omittedPaths": [],
