@@ -21,3 +21,6 @@ published on: null
 		- $f(x) \ge 0$ for all $x$
 	- <mark style="background: #BBFABBA6;">Sum to One</mark>
 		- $\sum f(x_i) = 1$
+
+
+[^1]: [Probability density and mass functions](https://www.youtube.com/watch?v=hDjcxi9p0ak)

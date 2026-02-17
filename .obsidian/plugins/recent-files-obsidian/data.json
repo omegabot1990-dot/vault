@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602091301 - probability density function",
+      "path": "002 - research/202602091301 - probability density function.md"
+    },
+    {
+      "basename": "202602091258 - probability mass function",
+      "path": "002 - research/202602091258 - probability mass function.md"
+    },
+    {
+      "basename": "202602061340 - random variable",
+      "path": "002 - research/202602061340 - random variable.md"
+    },
+    {
       "basename": "202602061333 - expectation",
       "path": "002 - research/202602061333 - expectation.md"
+    },
+    {
+      "basename": "202602111530 - softmax",
+      "path": "002 - research/202602111530 - softmax.md"
+    },
+    {
+      "basename": "202602172258 - p-value",
+      "path": "002 - research/202602172258 - p-value.md"
     },
     {
       "basename": "202602172058 - covariance",
@@ -11,10 +31,6 @@
     {
       "basename": "202602172103 - correlation",
       "path": "002 - research/202602172103 - correlation.md"
-    },
-    {
-      "basename": "202602172258 - p-value",
-      "path": "002 - research/202602172258 - p-value.md"
     },
     {
       "basename": "202602172331 - t-test",
@@ -41,10 +57,6 @@
       "path": "002 - research/202602172113 - population.md"
     },
     {
-      "basename": "202602061340 - random variable",
-      "path": "002 - research/202602061340 - random variable.md"
-    },
-    {
       "basename": "202602061346 - sample space",
       "path": "002 - research/202602061346 - sample space.md"
     },
@@ -69,20 +81,12 @@
       "path": "002 - research/202602061241 - likelihood.md"
     },
     {
-      "basename": "202602091301 - probability density function",
-      "path": "002 - research/202602091301 - probability density function.md"
-    },
-    {
       "basename": "202602092150 - marginalisation",
       "path": "002 - research/202602092150 - marginalisation.md"
     },
     {
       "basename": "202602072342 - normal distribution",
       "path": "002 - research/202602072342 - normal distribution.md"
-    },
-    {
-      "basename": "202602091258 - probability mass function",
-      "path": "002 - research/202602091258 - probability mass function.md"
     },
     {
       "basename": "202602061605 - information theory",
@@ -195,10 +199,6 @@
     {
       "basename": "202602010049 - overfitting",
       "path": "002 - research/202602010049 - overfitting.md"
-    },
-    {
-      "basename": "202602111639 - underfitting",
-      "path": "002 - research/202602111639 - underfitting.md"
     }
   ],
   "omittedPaths": [],

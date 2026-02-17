@@ -19,8 +19,12 @@ published on: null
 
 - Properties
 	- <mark style="background: #FFF3A3A6;">Total Area</mark>
-		- The entire area under the curve must be exactly 1
+		- The entire area under the curve must be exactly 1 [^1]
 	- <mark style="background: #D2B3FFA6;">Not a Probability</mark>
 		- $f(x)$ can be greater than 1 (unlike a PMF), it represents "density", not "chance"
 	- <mark style="background: #FFB86CA6;">Points</mark>
 		- $P(X = \text{exactly } 1.75) = 0$, since we only measure intervals
+
+
+[^1]: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/random-variables.html#:~:text=It%20turns%20out,(22.6.10)
+[^2]: [Probability density and mass functions](https://www.youtube.com/watch?v=hDjcxi9p0ak)
