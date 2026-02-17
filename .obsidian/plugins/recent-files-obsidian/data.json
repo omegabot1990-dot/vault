@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602172113 - population",
+      "path": "002 - research/202602172113 - population.md"
+    },
+    {
       "basename": "202602061346 - sample space",
       "path": "002 - research/202602061346 - sample space.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602061145 - machine learning",
       "path": "002 - research/202602061145 - machine learning.md"
-    },
-    {
-      "basename": "202602061157 - generative AI",
-      "path": "002 - research/202602061157 - generative AI.md"
     }
   ],
   "omittedPaths": [],

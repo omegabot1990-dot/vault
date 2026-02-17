@@ -87,9 +87,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602172113 - population.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602172113 - population"
             }
           },
           {
@@ -324,15 +326,17 @@
               {
                 "id": "b409a9649369e783",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602061346 - sample space.md",
+                    "file": "002 - research/202602172113 - population.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602061346 - sample space"
+                  "title": "202602172113 - population"
                 }
               }
             ],
@@ -346,11 +350,15 @@
               {
                 "id": "3310657d261fc271",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "002 - research/202602172113 - population.md"
+                  },
+                  "pinned": true,
                   "icon": "lucide-info",
-                  "title": "File properties"
+                  "title": "File properties for 202602172113 - population"
                 }
               }
             ]
@@ -366,9 +374,10 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "b409a9649369e783",
   "lastOpenFiles": [
     "002 - research/202602061346 - sample space.md",
+    "002 - research/202602172113 - population.md",
     "002 - research/202602172103 - correlation.md",
     "002 - research/202602172058 - covariance.md",
     "002 - research/202602062209 - standard deviation.md",
@@ -393,7 +402,6 @@
     "002 - research/202602030230 - pre-training.md",
     "002 - research/202602010106 - imputation.md",
     "002 - research/202602020018 - verifiable domains.md",
-    "002 - research/202602020041 - heuristic.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
