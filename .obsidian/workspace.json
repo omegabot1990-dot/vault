@@ -288,8 +288,25 @@
                   "icon": "lucide-file",
                   "title": "202602061333 - expectation"
                 }
+              },
+              {
+                "id": "6937f0e705e9e9bc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602172058 - covariance.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602172058 - covariance"
+                }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -319,11 +336,14 @@
       }
     ]
   },
-  "active": "bb42fd34f6702404",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602172058 - covariance.md",
+    "002 - research/202602062209 - standard deviation.md",
+    "002 - research/202602062206 - variance.md",
+    "002 - research/202602062110 - mean.md",
     "002 - research/202602061333 - expectation.md",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602062206 - variance.md",
     "002 - research/202602061424 - log-likelihood.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/202602091301 - probability density function.md",
@@ -344,9 +364,6 @@
     "002 - research/202602020018 - verifiable domains.md",
     "002 - research/202602020041 - heuristic.md",
     "002 - research/202602111350 - inference.md",
-    "002 - research/202602011423 - top p.md",
-    "002 - research/202602011422 - top k.md",
-    "002 - research/202602010147 - beam search.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

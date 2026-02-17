@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602172058 - covariance",
+      "path": "002 - research/202602172058 - covariance.md"
+    },
+    {
+      "basename": "202602062209 - standard deviation",
+      "path": "002 - research/202602062209 - standard deviation.md"
+    },
+    {
+      "basename": "202602062206 - variance",
+      "path": "002 - research/202602062206 - variance.md"
+    },
+    {
+      "basename": "202602062110 - mean",
+      "path": "002 - research/202602062110 - mean.md"
+    },
+    {
       "basename": "202602061333 - expectation",
       "path": "002 - research/202602061333 - expectation.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202602062206 - variance",
-      "path": "002 - research/202602062206 - variance.md"
     },
     {
       "basename": "202602061424 - log-likelihood",
@@ -187,18 +199,6 @@
     {
       "basename": "202602061141 - artificial intelligence",
       "path": "002 - research/202602061141 - artificial intelligence.md"
-    },
-    {
-      "basename": "202602061133 - natural language processing",
-      "path": "002 - research/202602061133 - natural language processing.md"
-    },
-    {
-      "basename": "202602061150 - deep learning",
-      "path": "002 - research/202602061150 - deep learning.md"
-    },
-    {
-      "basename": "202602120054 - classification",
-      "path": "002 - research/202602120054 - classification.md"
     }
   ],
   "omittedPaths": [],

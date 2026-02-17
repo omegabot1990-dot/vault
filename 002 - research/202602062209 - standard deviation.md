@@ -23,3 +23,5 @@ published on: null
 	- High $\sigma$
 		- Data is spread out over a wide range
 
+
+[^1]: [Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
