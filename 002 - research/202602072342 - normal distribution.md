@@ -11,7 +11,7 @@ published on: null
 ---
 
 - The Normal Distribution (also known as the <mark style="background: #BBFABBA6;">Gaussian Distribution</mark> or the <mark style="background: #ADCCFFA6;">Bell Curve</mark>) is a continuous probability distribution that is symmetrical around the [[202602062110 - mean|mean]] [^1]
-- It is the <mark style="background: #FF5582A6;">most important distribution</mark> in [[202602062059 - statistics|Statistics]] because of the [[202602080014 - central limit theorem|Central Limit Theorem]], which states that the averages of [[202602061340 - random variable|random variables]] independently drawn from any distribution converge to a normal distribution
+- It is the <mark style="background: #FF5582A6;">most important distribution</mark> in [[202602062059 - statistics|statistics]] because of the [[202602080014 - central limit theorem|Central Limit Theorem (CLT)]], which states that the averages of [[202602061340 - random variable|random variables]] independently drawn from any distribution converge to a normal distribution
 
 > [!MATH] Gaussian Probability Density Function
 > The probability density for a value $x$ is:

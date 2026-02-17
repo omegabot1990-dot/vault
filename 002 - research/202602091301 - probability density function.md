@@ -11,7 +11,7 @@ published on: null
 ---
 
 - The Probability Density Function (PDF) is used for <mark style="background: #ADCCFFA6;">continuous data</mark> (like height)
-- It gives the "density" or [[202602061241 - likelihood|likelihood]] rather than the exact probability
+- It gives the "density" or [[202602061241 - likelihood|likelihood]] rather than the exact [[202602062040 - probability|probability]]
 - For a continuous random variable $X$, the probability of $X$ falling between $a$ and $b$ is the <mark style="background: #FF5582A6;">area under the curve</mark>:
 
 > [!MATH] Probability Density Function

@@ -87,9 +87,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602061333 - expectation.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602061333 - expectation"
             }
           },
           {
@@ -260,6 +262,7 @@
               {
                 "id": "db9da6fb7d359755",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -267,22 +270,25 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "202602120102 - cross-entropy"
                 }
               },
               {
-                "id": "dd6920f8bc108b94",
+                "id": "2df6b97f22bb6057",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602092126 - bayes theorem.md",
+                    "file": "002 - research/202602061333 - expectation.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602092126 - bayes theorem"
+                  "title": "202602061333 - expectation"
                 }
               }
             ],
@@ -298,9 +304,11 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "002 - research/202602061333 - expectation.md"
+                  },
                   "icon": "lucide-info",
-                  "title": "File properties"
+                  "title": "File properties for 202602061333 - expectation"
                 }
               }
             ]
@@ -316,11 +324,22 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "2df6b97f22bb6057",
   "lastOpenFiles": [
-    "002 - research/202602092126 - bayes theorem.md",
-    "002 - research/202602062059 - statistics.md",
     "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602062206 - variance.md",
+    "002 - research/202602061333 - expectation.md",
+    "002 - research/202602061424 - log-likelihood.md",
+    "002 - research/202602061241 - likelihood.md",
+    "002 - research/202602091301 - probability density function.md",
+    "002 - research/202602061346 - sample space.md",
+    "002 - research/202602092150 - marginalisation.md",
+    "002 - research/202602072342 - normal distribution.md",
+    "002 - research/202602091258 - probability mass function.md",
+    "002 - research/202602061605 - information theory.md",
+    "002 - research/202602092126 - bayes theorem.md",
+    "002 - research/202602102359 - span.md",
+    "002 - research/202602062059 - statistics.md",
     "002 - research/202602031104 - agent.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/202601282201 - supervised fine-tuning.md",
@@ -333,17 +352,6 @@
     "002 - research/202602011423 - top p.md",
     "002 - research/202602011422 - top k.md",
     "002 - research/202602010147 - beam search.md",
-    "002 - research/202602120145 - loss.md",
-    "002 - research/202602030238 - cross-entropy loss.md",
-    "002 - research/202602111400 - activation.md",
-    "002 - research/202602111625 - batch size.md",
-    "002 - research/202602011426 - warmup.md",
-    "002 - research/202602111623 - epochs.md",
-    "002 - research/202602111617 - learning rate schedule.md",
-    "002 - research/202602111634 - weight decay.md",
-    "002 - research/202602111600 - learning rate.md",
-    "002 - research/202602111733 - early stopping.md",
-    "002 - research/202602111711 - l2 regularization.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
