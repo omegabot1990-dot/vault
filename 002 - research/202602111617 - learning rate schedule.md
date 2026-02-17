@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - training
 aliases:
   - Learning Rate Schedule
 title: learning rate schedule

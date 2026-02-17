@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - training
 aliases:
   - L2 regularization
 title: l2 regularization

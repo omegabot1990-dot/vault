@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "residual connections",
-      "path": "002 - research/residual connections.md"
+      "basename": "202602092126 - bayes theorem",
+      "path": "002 - research/202602092126 - bayes theorem.md"
     },
     {
-      "basename": "202602030230 - pre-training",
-      "path": "002 - research/202602030230 - pre-training.md"
-    },
-    {
-      "basename": "neural networks",
-      "path": "002 - research/neural networks.md"
-    },
-    {
-      "basename": "optimizer",
-      "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "deep learning",
-      "path": "002 - research/deep learning.md"
-    },
-    {
-      "basename": "2026-02-10",
-      "path": "000 - daily notes/2026-02-10.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "000 - daily notes/2026-02-11.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "000 - daily notes/2026-02-12.md"
+      "basename": "202602062059 - statistics",
+      "path": "002 - research/202602062059 - statistics.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
-      "basename": "202602061443 - expected log-probability",
-      "path": "002 - research/202602061443 - expected log-probability.md"
-    },
-    {
-      "basename": "202602010145 - teacher forcing",
-      "path": "002 - research/202602010145 - teacher forcing.md"
-    },
-    {
-      "basename": "202602111335 - training",
-      "path": "002 - research/202602111335 - training.md"
-    },
-    {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
-      "basename": "supervised fine-tuning",
-      "path": "002 - research/supervised fine-tuning.md"
-    },
-    {
-      "basename": "fine-tuning",
-      "path": "002 - research/fine-tuning.md"
-    },
-    {
-      "basename": "202602050158 - masked language modelling",
-      "path": "002 - research/202602050158 - masked language modelling.md"
-    },
-    {
-      "basename": "202602010052 - off-line learning",
-      "path": "002 - research/202602010052 - off-line learning.md"
-    },
-    {
-      "basename": "202602010053 - on-line learning",
-      "path": "002 - research/202602010053 - on-line learning.md"
-    },
-    {
-      "basename": "202602120054 - classification",
-      "path": "002 - research/202602120054 - classification.md"
-    },
-    {
-      "basename": "202602120056 - regression",
-      "path": "002 - research/202602120056 - regression.md"
-    },
-    {
-      "basename": "202602112310 - unsupervised learning",
-      "path": "002 - research/202602112310 - unsupervised learning.md"
-    },
-    {
-      "basename": "202602112328 - supervised learning",
-      "path": "002 - research/202602112328 - supervised learning.md"
+      "basename": "202602031104 - agent",
+      "path": "002 - research/202602031104 - agent.md"
     },
     {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
     },
     {
-      "basename": "202602050153 - self-supervised learning",
-      "path": "202602050153 - self-supervised learning.md"
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
     },
     {
-      "basename": "unsupervised learning",
-      "path": "002 - research/unsupervised learning.md"
+      "basename": "202602010145 - teacher forcing",
+      "path": "002 - research/202602010145 - teacher forcing.md"
     },
     {
-      "basename": "training",
-      "path": "002 - research/training.md"
+      "basename": "202602030230 - pre-training",
+      "path": "002 - research/202602030230 - pre-training.md"
     },
     {
-      "basename": "natural language processing",
-      "path": "002 - research/natural language processing.md"
+      "basename": "202602010106 - imputation",
+      "path": "002 - research/202602010106 - imputation.md"
+    },
+    {
+      "basename": "202602020018 - verifiable domains",
+      "path": "002 - research/202602020018 - verifiable domains.md"
+    },
+    {
+      "basename": "202602020041 - heuristic",
+      "path": "002 - research/202602020041 - heuristic.md"
     },
     {
       "basename": "202602111350 - inference",
       "path": "002 - research/202602111350 - inference.md"
     },
     {
-      "basename": "deepmind",
-      "path": "002 - research/deepmind.md"
+      "basename": "202602011423 - top p",
+      "path": "002 - research/202602011423 - top p.md"
     },
     {
-      "basename": "openai",
-      "path": "002 - research/openai.md"
+      "basename": "202602011422 - top k",
+      "path": "002 - research/202602011422 - top k.md"
     },
     {
-      "basename": "202602111640 - dropout",
-      "path": "002 - research/202602111640 - dropout.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602011551 - f1",
-      "path": "002 - research/202602011551 - f1.md"
+      "basename": "202602010147 - beam search",
+      "path": "002 - research/202602010147 - beam search.md"
     },
     {
       "basename": "202602120145 - loss",
       "path": "002 - research/202602120145 - loss.md"
     },
     {
-      "basename": "202602011511 - precision",
-      "path": "002 - research/202602011511 - precision.md"
+      "basename": "202602030238 - cross-entropy loss",
+      "path": "002 - research/202602030238 - cross-entropy loss.md"
     },
     {
-      "basename": "202602011513 - recall",
-      "path": "002 - research/202602011513 - recall.md"
+      "basename": "202602111400 - activation",
+      "path": "002 - research/202602111400 - activation.md"
     },
     {
-      "basename": "202602011507 - accuracy",
-      "path": "002 - research/202602011507 - accuracy.md"
+      "basename": "202602111625 - batch size",
+      "path": "002 - research/202602111625 - batch size.md"
     },
     {
-      "basename": "202602120132 - evaluation",
-      "path": "002 - research/202602120132 - evaluation.md"
+      "basename": "202602011426 - warmup",
+      "path": "002 - research/202602011426 - warmup.md"
     },
     {
-      "basename": "202602010047 - objective function",
-      "path": "002 - research/202602010047 - objective function.md"
+      "basename": "202602111623 - epochs",
+      "path": "002 - research/202602111623 - epochs.md"
     },
     {
-      "basename": "202602061241 - likelihood",
-      "path": "002 - research/202602061241 - likelihood.md"
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
     },
     {
-      "basename": "transformers",
-      "path": "002 - research/transformers.md"
+      "basename": "202602111634 - weight decay",
+      "path": "002 - research/202602111634 - weight decay.md"
+    },
+    {
+      "basename": "202602111600 - learning rate",
+      "path": "002 - research/202602111600 - learning rate.md"
+    },
+    {
+      "basename": "202602111733 - early stopping",
+      "path": "002 - research/202602111733 - early stopping.md"
+    },
+    {
+      "basename": "202602111711 - l2 regularization",
+      "path": "002 - research/202602111711 - l2 regularization.md"
+    },
+    {
+      "basename": "202602010049 - overfitting",
+      "path": "002 - research/202602010049 - overfitting.md"
+    },
+    {
+      "basename": "202602111639 - underfitting",
+      "path": "002 - research/202602111639 - underfitting.md"
+    },
+    {
+      "basename": "202602111731 - data augmentation",
+      "path": "002 - research/202602111731 - data augmentation.md"
+    },
+    {
+      "basename": "202602111636 - regularization",
+      "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602111640 - dropout",
+      "path": "002 - research/202602111640 - dropout.md"
+    },
+    {
+      "basename": "202602061329 - proximal policy optimisation",
+      "path": "002 - research/202602061329 - proximal policy optimisation.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "202602061145 - machine learning",
+      "path": "002 - research/202602061145 - machine learning.md"
+    },
+    {
+      "basename": "202602061157 - generative AI",
+      "path": "002 - research/202602061157 - generative AI.md"
+    },
+    {
+      "basename": "202602061141 - artificial intelligence",
+      "path": "002 - research/202602061141 - artificial intelligence.md"
+    },
+    {
+      "basename": "202602061133 - natural language processing",
+      "path": "002 - research/202602061133 - natural language processing.md"
     },
     {
       "basename": "202602061150 - deep learning",
       "path": "002 - research/202602061150 - deep learning.md"
     },
     {
-      "basename": "202602111256 - hyperparameters",
-      "path": "002 - research/202602111256 - hyperparameters.md"
+      "basename": "202602120054 - classification",
+      "path": "002 - research/202602120054 - classification.md"
     },
     {
-      "basename": "202602061153 - neural network",
-      "path": "002 - research/202602061153 - neural network.md"
+      "basename": "202602010047 - objective function",
+      "path": "002 - research/202602010047 - objective function.md"
     },
     {
-      "basename": "202602111557 - backpropagation",
-      "path": "002 - research/202602111557 - backpropagation.md"
+      "basename": "202602120132 - evaluation",
+      "path": "002 - research/202602120132 - evaluation.md"
     },
     {
-      "basename": "202602111510 - sigmoid",
-      "path": "002 - research/202602111510 - sigmoid.md"
+      "basename": "202602011511 - precision",
+      "path": "002 - research/202602011511 - precision.md"
     },
     {
-      "basename": "202602111417 - affine map",
-      "path": "002 - research/202602111417 - affine map.md"
+      "basename": "202602011507 - accuracy",
+      "path": "002 - research/202602011507 - accuracy.md"
     },
     {
-      "basename": "202602111851 - momentum",
-      "path": "002 - research/202602111851 - momentum.md"
+      "basename": "202602011513 - recall",
+      "path": "002 - research/202602011513 - recall.md"
+    },
+    {
+      "basename": "202602011551 - f1",
+      "path": "002 - research/202602011551 - f1.md"
+    },
+    {
+      "basename": "202602111605 - optimization algorithms",
+      "path": "002 - research/202602111605 - optimization algorithms.md"
+    },
+    {
+      "basename": "deepmind",
+      "path": "002 - research/deepmind.md"
+    },
+    {
+      "basename": "neural networks",
+      "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "optimizer",
+      "path": "002 - research/optimizer.md"
     }
   ],
   "omittedPaths": [],

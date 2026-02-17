@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - training
 aliases:
   - Data Augmentation
 title: data augmentation

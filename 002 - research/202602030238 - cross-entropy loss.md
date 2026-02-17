@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - training
   - evaluation
 aliases:
   - Cross-Entropy Loss

@@ -1,6 +1,6 @@
 ---
 tags:
-  - deep_learning
+  - training
 aliases:
   - Regularization
 title: regularization
