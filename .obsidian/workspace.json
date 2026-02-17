@@ -87,11 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602061333 - expectation.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602061333 - expectation"
+              "title": "File properties"
             }
           },
           {
@@ -304,11 +302,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "002 - research/202602061333 - expectation.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for 202602061333 - expectation"
+                  "title": "File properties"
                 }
               }
             ]
@@ -324,11 +320,11 @@
       }
     ]
   },
-  "active": "2df6b97f22bb6057",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602061333 - expectation.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602062206 - variance.md",
-    "002 - research/202602061333 - expectation.md",
     "002 - research/202602061424 - log-likelihood.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/202602091301 - probability density function.md",
