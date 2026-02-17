@@ -87,11 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602091301 - probability density function.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602091301 - probability density function"
+              "title": "File properties"
             }
           },
           {
@@ -334,11 +332,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {
-                    "file": "002 - research/202602091301 - probability density function.md"
-                  },
+                  "state": {},
                   "icon": "lucide-info",
-                  "title": "File properties for 202602091301 - probability density function"
+                  "title": "File properties"
                 }
               }
             ]
@@ -354,10 +350,10 @@
       }
     ]
   },
-  "active": "452fd411a0c050d8",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602091258 - probability mass function.md",
     "002 - research/202602091301 - probability density function.md",
+    "002 - research/202602091258 - probability mass function.md",
     "002 - research/202602061340 - random variable.md",
     "002 - research/202602061333 - expectation.md",
     "002 - research/202602111530 - softmax.md",
