@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "202602172103 - correlation",
+      "path": "002 - research/202602172103 - correlation.md"
+    },
+    {
       "basename": "202602172258 - p-value",
       "path": "002 - research/202602172258 - p-value.md"
     },
     {
-      "basename": "202602172120 - sample",
-      "path": "002 - research/202602172120 - sample.md"
+      "basename": "202602172300 - hypothesis",
+      "path": "002 - research/202602172300 - hypothesis.md"
     },
     {
-      "basename": "202602172103 - correlation",
-      "path": "002 - research/202602172103 - correlation.md"
+      "basename": "202602172120 - sample",
+      "path": "002 - research/202602172120 - sample.md"
     },
     {
       "basename": "202602172058 - covariance",
@@ -195,10 +199,6 @@
     {
       "basename": "202602111636 - regularization",
       "path": "002 - research/202602111636 - regularization.md"
-    },
-    {
-      "basename": "202602111640 - dropout",
-      "path": "002 - research/202602111640 - dropout.md"
     }
   ],
   "omittedPaths": [],

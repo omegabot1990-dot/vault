@@ -338,7 +338,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -370,9 +370,10 @@
   },
   "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602172258 - p-value.md",
-    "002 - research/202602172120 - sample.md",
     "002 - research/202602172103 - correlation.md",
+    "002 - research/202602172258 - p-value.md",
+    "002 - research/202602172300 - hypothesis.md",
+    "002 - research/202602172120 - sample.md",
     "002 - research/202602172058 - covariance.md",
     "002 - research/202602061333 - expectation.md",
     "002 - research/202602062206 - variance.md",
@@ -395,7 +396,6 @@
     "002 - research/202602031104 - agent.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/202601282201 - supervised fine-tuning.md",
-    "002 - research/202602010145 - teacher forcing.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
