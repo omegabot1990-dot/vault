@@ -87,9 +87,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602172103 - correlation.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602172103 - correlation"
             }
           },
           {
@@ -336,6 +338,22 @@
                   "icon": "lucide-file",
                   "title": "202602172258 - p-value"
                 }
+              },
+              {
+                "id": "63c4036db6573bb3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602172331 - t-test.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602172331 - t-test"
+                }
               }
             ],
             "currentTab": 4
@@ -350,9 +368,11 @@
                 "type": "leaf",
                 "state": {
                   "type": "file-properties",
-                  "state": {},
+                  "state": {
+                    "file": "002 - research/202602172103 - correlation.md"
+                  },
                   "icon": "lucide-info",
-                  "title": "File properties"
+                  "title": "File properties for 202602172103 - correlation"
                 }
               }
             ]
@@ -368,10 +388,11 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "45a16f8ed2d23146",
   "lastOpenFiles": [
-    "002 - research/202602172103 - correlation.md",
     "002 - research/202602172258 - p-value.md",
+    "002 - research/202602172331 - t-test.md",
+    "002 - research/202602172103 - correlation.md",
     "002 - research/202602172300 - hypothesis.md",
     "002 - research/202602172120 - sample.md",
     "002 - research/202602172058 - covariance.md",
@@ -395,7 +416,6 @@
     "002 - research/202602062059 - statistics.md",
     "002 - research/202602031104 - agent.md",
     "002 - research/202602102143 - transformer.md",
-    "002 - research/202601282201 - supervised fine-tuning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
