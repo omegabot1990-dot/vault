@@ -21,6 +21,7 @@ parent nodes:
 - [x] [[202602120102 - cross-entropy|Cross entropy]]
 - [x] [[202602172058 - covariance|Covariance]]
 - [x] [[202602172103 - correlation|Correlation]]
+- [x] [[202602172113 - population|Population]]
 
 - Learning Strategy
 	- Start with a video explanation
