@@ -24,6 +24,7 @@ parent nodes:
 - [x] [[202602172113 - population|Population]]
 - [x] [[202602172120 - sample|Sample]]
 - [x] [[202602172258 - p-value|P-value]]
+- [x] [[202602172300 - hypothesis|Hypothesis]]
 
 - Learning Strategy
 	- Start with a video explanation
