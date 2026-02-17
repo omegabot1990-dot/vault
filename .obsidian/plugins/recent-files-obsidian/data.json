@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602061333 - expectation",
+      "path": "002 - research/202602061333 - expectation.md"
+    },
+    {
+      "basename": "202602172058 - covariance",
+      "path": "002 - research/202602172058 - covariance.md"
+    },
+    {
       "basename": "202602172103 - correlation",
       "path": "002 - research/202602172103 - correlation.md"
     },
@@ -13,20 +21,16 @@
       "path": "002 - research/202602172331 - t-test.md"
     },
     {
+      "basename": "202602172339 - t-statistic",
+      "path": "002 - research/202602172339 - t-statistic.md"
+    },
+    {
       "basename": "202602172300 - hypothesis",
       "path": "002 - research/202602172300 - hypothesis.md"
     },
     {
       "basename": "202602172120 - sample",
       "path": "002 - research/202602172120 - sample.md"
-    },
-    {
-      "basename": "202602172058 - covariance",
-      "path": "002 - research/202602172058 - covariance.md"
-    },
-    {
-      "basename": "202602061333 - expectation",
-      "path": "002 - research/202602061333 - expectation.md"
     },
     {
       "basename": "202602062206 - variance",
@@ -195,10 +199,6 @@
     {
       "basename": "202602111639 - underfitting",
       "path": "002 - research/202602111639 - underfitting.md"
-    },
-    {
-      "basename": "202602111731 - data augmentation",
-      "path": "002 - research/202602111731 - data augmentation.md"
     }
   ],
   "omittedPaths": [],

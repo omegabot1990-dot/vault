@@ -288,73 +288,9 @@
                   "icon": "lucide-file",
                   "title": "202602061333 - expectation"
                 }
-              },
-              {
-                "id": "6937f0e705e9e9bc",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602172058 - covariance.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "202602172058 - covariance"
-                }
-              },
-              {
-                "id": "45a16f8ed2d23146",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602172103 - correlation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "202602172103 - correlation"
-                }
-              },
-              {
-                "id": "f83e5b4770dc0935",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602172258 - p-value.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "202602172258 - p-value"
-                }
-              },
-              {
-                "id": "63c4036db6573bb3",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602172331 - t-test.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "202602172331 - t-test"
-                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -384,15 +320,16 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602061333 - expectation.md",
+    "002 - research/202602172058 - covariance.md",
     "002 - research/202602172103 - correlation.md",
     "002 - research/202602172258 - p-value.md",
     "002 - research/202602172331 - t-test.md",
+    "002 - research/202602172339 - t-statistic.md",
     "002 - research/202602172300 - hypothesis.md",
     "002 - research/202602172120 - sample.md",
-    "002 - research/202602172058 - covariance.md",
-    "002 - research/202602061333 - expectation.md",
     "002 - research/202602062206 - variance.md",
     "002 - research/202602172113 - population.md",
     "002 - research/202602061340 - random variable.md",
@@ -411,7 +348,6 @@
     "002 - research/202602102359 - span.md",
     "002 - research/202602062059 - statistics.md",
     "002 - research/202602031104 - agent.md",
-    "002 - research/202602102143 - transformer.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
