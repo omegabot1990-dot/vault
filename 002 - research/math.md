@@ -22,6 +22,7 @@ parent nodes:
 - [x] [[202602172058 - covariance|Covariance]]
 - [x] [[202602172103 - correlation|Correlation]]
 - [x] [[202602172113 - population|Population]]
+- [x] [[202602172120 - sample|Sample]]
 
 - Learning Strategy
 	- Start with a video explanation
