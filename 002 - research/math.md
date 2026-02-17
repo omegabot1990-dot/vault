@@ -27,6 +27,7 @@ parent nodes:
 - [x] [[202602172300 - hypothesis|Hypothesis]]
 - [x] [[202602172331 - t-test|T-test]]
 - [x] [[202602172339 - t-statistic|T-statistic]]
+- [x] [[202602180005 - cumulative distribution function|Cumulative Distribution Function]]
 
 - Learning Strategy
 	- Start with a video explanation
