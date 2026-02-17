@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602061346 - sample space",
+      "path": "002 - research/202602061346 - sample space.md"
+    },
+    {
+      "basename": "202602172103 - correlation",
+      "path": "002 - research/202602172103 - correlation.md"
+    },
+    {
       "basename": "202602172058 - covariance",
       "path": "002 - research/202602172058 - covariance.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "202602091301 - probability density function",
       "path": "002 - research/202602091301 - probability density function.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "002 - research/202602061346 - sample space.md"
     },
     {
       "basename": "202602092150 - marginalisation",
@@ -195,10 +199,6 @@
     {
       "basename": "202602061157 - generative AI",
       "path": "002 - research/202602061157 - generative AI.md"
-    },
-    {
-      "basename": "202602061141 - artificial intelligence",
-      "path": "002 - research/202602061141 - artificial intelligence.md"
     }
   ],
   "omittedPaths": [],
