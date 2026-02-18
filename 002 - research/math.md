@@ -30,6 +30,7 @@ parent nodes:
 - [x] [[202602180005 - cumulative distribution function|Cumulative Distribution Function]]
 - [x] [[202602181139 - joint density|Joint density]]
 - [x] [[202602181227 - maximum likelihood|Maximum likelihood]]
+- [x] [[202602181338 - mutual information|Mutual information]]
 
 - Learning Strategy
 	- Start with a video explanation
