@@ -332,10 +332,11 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "000 - daily notes/2026-02-18.md",
     "002 - research/202602080100 - joint probability.md",
+    "002 - research/202602092343 - law of total probabilities.md",
+    "000 - daily notes/2026-02-18.md",
     "002 - research/202602062209 - standard deviation.md",
     "002 - research/202602120102 - cross-entropy.md",
     "000 - daily notes/2026/February/2026-02-18.md",
@@ -359,7 +360,6 @@
     "002 - research/202602172120 - sample.md",
     "002 - research/202602172113 - population.md",
     "002 - research/202602061346 - sample space.md",
-    "002 - research/202602061424 - log-likelihood.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
