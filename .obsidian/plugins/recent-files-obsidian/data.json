@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "202602181532 - conditional entropy",
-      "path": "002 - research/202602181532 - conditional entropy.md"
+      "basename": "202602092126 - bayes theorem",
+      "path": "002 - research/202602092126 - bayes theorem.md"
     },
     {
-      "basename": "202602181530 - joint entropy",
-      "path": "002 - research/202602181530 - joint entropy.md"
+      "basename": "math",
+      "path": "002 - research/math.md"
     },
     {
-      "basename": "202602181338 - mutual information",
-      "path": "002 - research/202602181338 - mutual information.md"
-    },
-    {
-      "basename": "202602061804 - entropy",
-      "path": "002 - research/202602061804 - entropy.md"
+      "basename": "202602061605 - information theory",
+      "path": "002 - research/202602061605 - information theory.md"
     },
     {
       "basename": "202602061530 - self-information",
       "path": "002 - research/202602061530 - self-information.md"
     },
     {
+      "basename": "202602061804 - entropy",
+      "path": "002 - research/202602061804 - entropy.md"
+    },
+    {
+      "basename": "202602181338 - mutual information",
+      "path": "002 - research/202602181338 - mutual information.md"
+    },
+    {
+      "basename": "202602181530 - joint entropy",
+      "path": "002 - research/202602181530 - joint entropy.md"
+    },
+    {
+      "basename": "202602181532 - conditional entropy",
+      "path": "002 - research/202602181532 - conditional entropy.md"
+    },
+    {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
+      "basename": "202602181227 - maximum likelihood",
+      "path": "002 - research/202602181227 - maximum likelihood.md"
+    },
+    {
+      "basename": "202602061419 - expected log-likelihood",
+      "path": "002 - research/202602061419 - expected log-likelihood.md"
     },
     {
       "basename": "202602092108 - independent and identically distributed",
@@ -31,18 +55,6 @@
     {
       "basename": "202602061241 - likelihood",
       "path": "002 - research/202602061241 - likelihood.md"
-    },
-    {
-      "basename": "202602061605 - information theory",
-      "path": "002 - research/202602061605 - information theory.md"
-    },
-    {
-      "basename": "202602061419 - expected log-likelihood",
-      "path": "002 - research/202602061419 - expected log-likelihood.md"
-    },
-    {
-      "basename": "202602181227 - maximum likelihood",
-      "path": "002 - research/202602181227 - maximum likelihood.md"
     },
     {
       "basename": "202602062040 - probability",
@@ -161,10 +173,6 @@
       "path": "002 - research/202602061346 - sample space.md"
     },
     {
-      "basename": "202602092126 - bayes theorem",
-      "path": "002 - research/202602092126 - bayes theorem.md"
-    },
-    {
       "basename": "202602102359 - span",
       "path": "002 - research/202602102359 - span.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "202602030230 - pre-training",
       "path": "002 - research/202602030230 - pre-training.md"
-    },
-    {
-      "basename": "202602010106 - imputation",
-      "path": "002 - research/202602010106 - imputation.md"
-    },
-    {
-      "basename": "202602020018 - verifiable domains",
-      "path": "002 - research/202602020018 - verifiable domains.md"
     }
   ],
   "omittedPaths": [],

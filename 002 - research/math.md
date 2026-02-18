@@ -8,37 +8,12 @@ parent nodes:
 - '[[research.base]]'
 ---
 
-## Topics
-
-- [x] [[202602111417 - affine map|Affine map]]
-- [x] [[202602111510 - sigmoid|Sigmoid]]
-- [x] [[202602111518 - tanh|Tanh]]
-- [x] [[202602111526 - relu|ReLU]]
-- [x] [[202602111527 - gelu|GELU]]
-- [x] [[202602111530 - softmax|Softmax]]
-- [x] [[202602111557 - backpropagation|Backpropagation]]
-- [x] [[202602111558 - gradient descent|Gradient Descent]]
-- [x] [[202602120102 - cross-entropy|Cross entropy]]
-- [x] [[202602172058 - covariance|Covariance]]
-- [x] [[202602172103 - correlation|Correlation]]
-- [x] [[202602172113 - population|Population]]
-- [x] [[202602172120 - sample|Sample]]
-- [x] [[202602172258 - p-value|P-value]]
-- [x] [[202602172300 - hypothesis|Hypothesis]]
-- [x] [[202602172331 - t-test|T-test]]
-- [x] [[202602172339 - t-statistic|T-statistic]]
-- [x] [[202602180005 - cumulative distribution function|Cumulative Distribution Function]]
-- [x] [[202602181139 - joint density|Joint density]]
-- [x] [[202602181227 - maximum likelihood|Maximum likelihood]]
-- [x] [[202602181338 - mutual information|Mutual information]]
-- [x] [[202602181530 - joint entropy|Joint entropy]]
-- [x] [[202602181532 - conditional entropy|Conditional entropy]]
-- [x] [[202602181827 - kl divergence|KL divergence]]
-
 - Learning Strategy
 	- Start with a video explanation
 	- Read relevant resources and write down the math
 	- Try to implement in code
+
+## Topics
 
 ## Blogs
 
