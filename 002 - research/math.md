@@ -33,6 +33,7 @@ parent nodes:
 - [x] [[202602181338 - mutual information|Mutual information]]
 - [x] [[202602181530 - joint entropy|Joint entropy]]
 - [x] [[202602181532 - conditional entropy|Conditional entropy]]
+- [x] [[202602181827 - kl divergence|KL divergence]]
 
 - Learning Strategy
 	- Start with a video explanation
