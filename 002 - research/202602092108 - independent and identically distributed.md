@@ -1,13 +1,14 @@
 ---
 tags:
-- math
+  - math
 aliases:
-- Independent and Identically Distributed
+  - Independent and Identically Distributed
+  - IID
 title: independent and identically distributed
-description: ''
+description: ""
 parent nodes:
-- '[[202602072325 - distribution|Distribution]]'
-published on: null
+  - "[[202602072325 - distribution|Distribution]]"
+published on:
 ---
 
 - If your data is [[202602100004 - independence|Independent]] and Identically Distributed, it means every observation comes from the exact same source and doesn't influence the others

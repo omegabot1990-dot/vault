@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602181338 - mutual information",
+      "path": "002 - research/202602181338 - mutual information.md"
+    },
+    {
+      "basename": "202602061804 - entropy",
+      "path": "002 - research/202602061804 - entropy.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602092108 - independent and identically distributed",
+      "path": "002 - research/202602092108 - independent and identically distributed.md"
+    },
+    {
       "basename": "202602061241 - likelihood",
       "path": "002 - research/202602061241 - likelihood.md"
+    },
+    {
+      "basename": "202602061605 - information theory",
+      "path": "002 - research/202602061605 - information theory.md"
     },
     {
       "basename": "202602061419 - expected log-likelihood",
@@ -13,24 +33,12 @@
       "path": "002 - research/202602181227 - maximum likelihood.md"
     },
     {
-      "basename": "202602061804 - entropy",
-      "path": "002 - research/202602061804 - entropy.md"
-    },
-    {
       "basename": "202602062040 - probability",
       "path": "002 - research/202602062040 - probability.md"
     },
     {
       "basename": "202602061530 - self-information",
       "path": "002 - research/202602061530 - self-information.md"
-    },
-    {
-      "basename": "202602061605 - information theory",
-      "path": "002 - research/202602061605 - information theory.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
       "basename": "202602061424 - log-likelihood",
@@ -191,14 +199,6 @@
     {
       "basename": "202602111350 - inference",
       "path": "002 - research/202602111350 - inference.md"
-    },
-    {
-      "basename": "202602011423 - top p",
-      "path": "002 - research/202602011423 - top p.md"
-    },
-    {
-      "basename": "202602011422 - top k",
-      "path": "002 - research/202602011422 - top k.md"
     }
   ],
   "omittedPaths": [],
