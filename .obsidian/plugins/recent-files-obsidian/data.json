@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602181532 - conditional entropy",
+      "path": "002 - research/202602181532 - conditional entropy.md"
+    },
+    {
       "basename": "202602181530 - joint entropy",
       "path": "002 - research/202602181530 - joint entropy.md"
     },
@@ -9,16 +13,20 @@
       "path": "002 - research/202602181338 - mutual information.md"
     },
     {
-      "basename": "202602092108 - independent and identically distributed",
-      "path": "002 - research/202602092108 - independent and identically distributed.md"
-    },
-    {
       "basename": "202602061804 - entropy",
       "path": "002 - research/202602061804 - entropy.md"
     },
     {
+      "basename": "202602061530 - self-information",
+      "path": "002 - research/202602061530 - self-information.md"
+    },
+    {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602092108 - independent and identically distributed",
+      "path": "002 - research/202602092108 - independent and identically distributed.md"
     },
     {
       "basename": "202602061241 - likelihood",
@@ -39,10 +47,6 @@
     {
       "basename": "202602062040 - probability",
       "path": "002 - research/202602062040 - probability.md"
-    },
-    {
-      "basename": "202602061530 - self-information",
-      "path": "002 - research/202602061530 - self-information.md"
     },
     {
       "basename": "202602061424 - log-likelihood",
@@ -195,10 +199,6 @@
     {
       "basename": "202602020018 - verifiable domains",
       "path": "002 - research/202602020018 - verifiable domains.md"
-    },
-    {
-      "basename": "202602020041 - heuristic",
-      "path": "002 - research/202602020041 - heuristic.md"
     }
   ],
   "omittedPaths": [],

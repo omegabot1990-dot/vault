@@ -352,9 +352,25 @@
                   "icon": "lucide-file",
                   "title": "202602181530 - joint entropy"
                 }
+              },
+              {
+                "id": "44dcee455010b846",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602181532 - conditional entropy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602181532 - conditional entropy"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -384,19 +400,20 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602181532 - conditional entropy.md",
     "002 - research/202602181530 - joint entropy.md",
     "002 - research/202602181338 - mutual information.md",
-    "002 - research/202602092108 - independent and identically distributed.md",
     "002 - research/202602061804 - entropy.md",
+    "002 - research/202602061530 - self-information.md",
     "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602092108 - independent and identically distributed.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/202602061605 - information theory.md",
     "002 - research/202602061419 - expected log-likelihood.md",
     "002 - research/202602181227 - maximum likelihood.md",
     "002 - research/202602062040 - probability.md",
-    "002 - research/202602061530 - self-information.md",
     "002 - research/202602061424 - log-likelihood.md",
     "002 - research/202602061333 - expectation.md",
     "002 - research/202602181139 - joint density.md",
@@ -411,7 +428,6 @@
     "002 - research/202602092343 - law of total probabilities.md",
     "000 - daily notes/2026-02-18.md",
     "000 - daily notes/2026/February/2026-02-18.md",
-    "002 - research/202602062206 - variance.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

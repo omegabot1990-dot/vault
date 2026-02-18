@@ -62,5 +62,7 @@ published on:
 > [!MATH] Data Processing Inequality
 > $$I(X; Y) \ge I(X; Z)$$
 
+![MI|700](https://d2l.ai/_images/mutual-information.svg)
+
 
 [^1]: [Mutual Information, Clearly Explained!!!](https://www.youtube.com/watch?v=eJIp_mgVLwE)
