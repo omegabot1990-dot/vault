@@ -274,8 +274,9 @@
                 }
               },
               {
-                "id": "9799793e945cacfd",
+                "id": "c117db1c8cd9a9cc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -283,6 +284,7 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "202602061241 - likelihood"
                 }
@@ -322,13 +324,13 @@
   "lastOpenFiles": [
     "002 - research/202602061241 - likelihood.md",
     "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602181139 - joint density.md",
     "002 - research/202602072325 - distribution.md",
     "002 - research/202602072342 - normal distribution.md",
     "002 - research/202602172103 - correlation.md",
     "002 - research/202602091301 - probability density function.md",
     "002 - research/202602172058 - covariance.md",
     "002 - research/202602061333 - expectation.md",
-    "002 - research/202602181139 - joint density.md",
     "002 - research/202602062209 - standard deviation.md",
     "002 - research/202602080100 - joint probability.md",
     "002 - research/202602092150 - marginalisation.md",
