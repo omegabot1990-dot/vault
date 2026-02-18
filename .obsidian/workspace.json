@@ -338,21 +338,23 @@
                 }
               },
               {
-                "id": "1c49e0c7b4c152a4",
+                "id": "32aea67c1bc63663",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602092108 - independent and identically distributed.md",
+                    "file": "002 - research/202602181530 - joint entropy.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602092108 - independent and identically distributed"
+                  "title": "202602181530 - joint entropy"
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -384,10 +386,11 @@
   },
   "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602181530 - joint entropy.md",
     "002 - research/202602181338 - mutual information.md",
+    "002 - research/202602092108 - independent and identically distributed.md",
     "002 - research/202602061804 - entropy.md",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602092108 - independent and identically distributed.md",
     "002 - research/202602061241 - likelihood.md",
     "002 - research/202602061605 - information theory.md",
     "002 - research/202602061419 - expected log-likelihood.md",
@@ -409,7 +412,6 @@
     "000 - daily notes/2026-02-18.md",
     "000 - daily notes/2026/February/2026-02-18.md",
     "002 - research/202602062206 - variance.md",
-    "002 - research/202602062110 - mean.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

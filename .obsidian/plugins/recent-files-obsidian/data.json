@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "202602181530 - joint entropy",
+      "path": "002 - research/202602181530 - joint entropy.md"
+    },
+    {
       "basename": "202602181338 - mutual information",
       "path": "002 - research/202602181338 - mutual information.md"
+    },
+    {
+      "basename": "202602092108 - independent and identically distributed",
+      "path": "002 - research/202602092108 - independent and identically distributed.md"
     },
     {
       "basename": "202602061804 - entropy",
@@ -11,10 +19,6 @@
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202602092108 - independent and identically distributed",
-      "path": "002 - research/202602092108 - independent and identically distributed.md"
     },
     {
       "basename": "202602061241 - likelihood",
@@ -195,10 +199,6 @@
     {
       "basename": "202602020041 - heuristic",
       "path": "002 - research/202602020041 - heuristic.md"
-    },
-    {
-      "basename": "202602111350 - inference",
-      "path": "002 - research/202602111350 - inference.md"
     }
   ],
   "omittedPaths": [],
