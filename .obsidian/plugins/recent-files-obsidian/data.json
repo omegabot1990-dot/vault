@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "202602061241 - likelihood",
-      "path": "002 - research/202602061241 - likelihood.md"
+      "basename": "202602061804 - entropy",
+      "path": "002 - research/202602061804 - entropy.md"
+    },
+    {
+      "basename": "202602062040 - probability",
+      "path": "002 - research/202602062040 - probability.md"
+    },
+    {
+      "basename": "202602061530 - self-information",
+      "path": "002 - research/202602061530 - self-information.md"
+    },
+    {
+      "basename": "202602061605 - information theory",
+      "path": "002 - research/202602061605 - information theory.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602061241 - likelihood",
+      "path": "002 - research/202602061241 - likelihood.md"
+    },
+    {
+      "basename": "202602061424 - log-likelihood",
+      "path": "002 - research/202602061424 - log-likelihood.md"
+    },
+    {
+      "basename": "202602181227 - maximum likelihood",
+      "path": "002 - research/202602181227 - maximum likelihood.md"
+    },
+    {
+      "basename": "202602061419 - expected log-likelihood",
+      "path": "002 - research/202602061419 - expected log-likelihood.md"
+    },
+    {
+      "basename": "202602061333 - expectation",
+      "path": "002 - research/202602061333 - expectation.md"
     },
     {
       "basename": "202602181139 - joint density",
@@ -31,10 +63,6 @@
     {
       "basename": "202602172058 - covariance",
       "path": "002 - research/202602172058 - covariance.md"
-    },
-    {
-      "basename": "202602061333 - expectation",
-      "path": "002 - research/202602061333 - expectation.md"
     },
     {
       "basename": "202602062209 - standard deviation",
@@ -117,14 +145,6 @@
       "path": "002 - research/202602061346 - sample space.md"
     },
     {
-      "basename": "202602061424 - log-likelihood",
-      "path": "002 - research/202602061424 - log-likelihood.md"
-    },
-    {
-      "basename": "202602061605 - information theory",
-      "path": "002 - research/202602061605 - information theory.md"
-    },
-    {
       "basename": "202602092126 - bayes theorem",
       "path": "002 - research/202602092126 - bayes theorem.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "202602011422 - top k",
       "path": "002 - research/202602011422 - top k.md"
-    },
-    {
-      "basename": "202602010147 - beam search",
-      "path": "002 - research/202602010147 - beam search.md"
-    },
-    {
-      "basename": "202602120145 - loss",
-      "path": "002 - research/202602120145 - loss.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "202602111400 - activation",
-      "path": "002 - research/202602111400 - activation.md"
-    },
-    {
-      "basename": "202602111625 - batch size",
-      "path": "002 - research/202602111625 - batch size.md"
     }
   ],
   "omittedPaths": [],

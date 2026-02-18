@@ -274,23 +274,55 @@
                 }
               },
               {
-                "id": "c117db1c8cd9a9cc",
+                "id": "4ddcd12f3a455b19",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602061241 - likelihood.md",
+                    "file": "002 - research/202602061605 - information theory.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602061241 - likelihood"
+                  "title": "202602061605 - information theory"
+                }
+              },
+              {
+                "id": "fd906aaa902fdda8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602061530 - self-information.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602061530 - self-information"
+                }
+              },
+              {
+                "id": "1dbb54c6ea2ee5b5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602061804 - entropy.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602061804 - entropy"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           },
           {
             "id": "d4e87b8922f5c13a",
@@ -320,17 +352,24 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602061241 - likelihood.md",
+    "002 - research/202602061804 - entropy.md",
+    "002 - research/202602062040 - probability.md",
+    "002 - research/202602061530 - self-information.md",
+    "002 - research/202602061605 - information theory.md",
     "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602061241 - likelihood.md",
+    "002 - research/202602061424 - log-likelihood.md",
+    "002 - research/202602181227 - maximum likelihood.md",
+    "002 - research/202602061419 - expected log-likelihood.md",
+    "002 - research/202602061333 - expectation.md",
     "002 - research/202602181139 - joint density.md",
     "002 - research/202602072325 - distribution.md",
     "002 - research/202602072342 - normal distribution.md",
     "002 - research/202602172103 - correlation.md",
     "002 - research/202602091301 - probability density function.md",
     "002 - research/202602172058 - covariance.md",
-    "002 - research/202602061333 - expectation.md",
     "002 - research/202602062209 - standard deviation.md",
     "002 - research/202602080100 - joint probability.md",
     "002 - research/202602092150 - marginalisation.md",
@@ -341,13 +380,6 @@
     "002 - research/202602062110 - mean.md",
     "002 - research/202602100011 - mutually exclusive.md",
     "002 - research/202602100004 - independence.md",
-    "002 - research/202602092352 - event.md",
-    "002 - research/202602180005 - cumulative distribution function.md",
-    "002 - research/202602091258 - probability mass function.md",
-    "002 - research/202602061340 - random variable.md",
-    "002 - research/202602111530 - softmax.md",
-    "002 - research/202602172258 - p-value.md",
-    "002 - research/202602172331 - t-test.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
