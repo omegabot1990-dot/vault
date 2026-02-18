@@ -31,6 +31,7 @@ parent nodes:
 - [x] [[202602181139 - joint density|Joint density]]
 - [x] [[202602181227 - maximum likelihood|Maximum likelihood]]
 - [x] [[202602181338 - mutual information|Mutual information]]
+- [x] [[202602181530 - joint entropy|Joint entropy]]
 
 - Learning Strategy
 	- Start with a video explanation
