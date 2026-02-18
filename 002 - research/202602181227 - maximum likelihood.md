@@ -20,7 +20,7 @@ published on:
 > [!MATH] Likelihood and MLE
 > $$L(\theta\mid x_{1:n})=\prod_{i=1}^{n} p(x_i\mid\theta),\qquad \hat\theta_{\mathrm{MLE}}=\arg\max_{\theta} L(\theta\mid x_{1:n})$$
 
-> [!MATH] Log-likelihood form
+> [!MATH] Log-likelihood 
 > $$\ell(\theta)=\log L(\theta\mid x_{1:n})=\sum_{i=1}^{n}\log p(x_i\mid\theta),\qquad \hat\theta_{\mathrm{MLE}}=\arg\max_{\theta}\ell(\theta)$$
 
 - Many common training objectives are negative log-likelihood minimisation
