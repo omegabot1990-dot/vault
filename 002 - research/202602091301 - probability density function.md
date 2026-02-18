@@ -1,13 +1,14 @@
 ---
 tags:
-- math
+  - math
 aliases:
-- Probability Density Function
+  - Probability Density Function
+  - PDF
 title: probability density function
-description: ''
+description: ""
 parent nodes:
-- '[[202602072325 - distribution|Distribution]]'
-published on: null
+  - "[[202602072325 - distribution|Distribution]]"
+published on:
 ---
 
 - The Probability Density Function (PDF) is used for <mark style="background: #ADCCFFA6;">continuous data</mark> (like height)

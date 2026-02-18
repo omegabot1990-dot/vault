@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "202602080100 - joint probability",
+      "path": "002 - research/202602080100 - joint probability.md"
+    },
+    {
+      "basename": "202602062209 - standard deviation",
+      "path": "002 - research/202602062209 - standard deviation.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602062206 - variance",
+      "path": "002 - research/202602062206 - variance.md"
+    },
+    {
+      "basename": "202602062110 - mean",
+      "path": "002 - research/202602062110 - mean.md"
+    },
+    {
+      "basename": "202602100011 - mutually exclusive",
+      "path": "002 - research/202602100011 - mutually exclusive.md"
+    },
+    {
+      "basename": "202602100004 - independence",
+      "path": "002 - research/202602100004 - independence.md"
+    },
+    {
+      "basename": "202602092352 - event",
+      "path": "002 - research/202602092352 - event.md"
+    },
+    {
+      "basename": "202602180005 - cumulative distribution function",
+      "path": "002 - research/202602180005 - cumulative distribution function.md"
+    },
+    {
+      "basename": "202602061333 - expectation",
+      "path": "002 - research/202602061333 - expectation.md"
+    },
+    {
       "basename": "202602091301 - probability density function",
       "path": "002 - research/202602091301 - probability density function.md"
     },
@@ -11,10 +51,6 @@
     {
       "basename": "202602061340 - random variable",
       "path": "002 - research/202602061340 - random variable.md"
-    },
-    {
-      "basename": "202602061333 - expectation",
-      "path": "002 - research/202602061333 - expectation.md"
     },
     {
       "basename": "202602111530 - softmax",
@@ -49,28 +85,12 @@
       "path": "002 - research/202602172120 - sample.md"
     },
     {
-      "basename": "202602062206 - variance",
-      "path": "002 - research/202602062206 - variance.md"
-    },
-    {
       "basename": "202602172113 - population",
       "path": "002 - research/202602172113 - population.md"
     },
     {
       "basename": "202602061346 - sample space",
       "path": "002 - research/202602061346 - sample space.md"
-    },
-    {
-      "basename": "202602062209 - standard deviation",
-      "path": "002 - research/202602062209 - standard deviation.md"
-    },
-    {
-      "basename": "202602062110 - mean",
-      "path": "002 - research/202602062110 - mean.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
       "basename": "202602061424 - log-likelihood",
@@ -175,30 +195,6 @@
     {
       "basename": "202602111623 - epochs",
       "path": "002 - research/202602111623 - epochs.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602111634 - weight decay",
-      "path": "002 - research/202602111634 - weight decay.md"
-    },
-    {
-      "basename": "202602111600 - learning rate",
-      "path": "002 - research/202602111600 - learning rate.md"
-    },
-    {
-      "basename": "202602111733 - early stopping",
-      "path": "002 - research/202602111733 - early stopping.md"
-    },
-    {
-      "basename": "202602111711 - l2 regularization",
-      "path": "002 - research/202602111711 - l2 regularization.md"
-    },
-    {
-      "basename": "202602010049 - overfitting",
-      "path": "002 - research/202602010049 - overfitting.md"
     }
   ],
   "omittedPaths": [],

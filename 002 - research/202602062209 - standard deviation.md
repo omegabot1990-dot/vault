@@ -25,3 +25,4 @@ published on: null
 
 
 [^1]: [Calculating the Mean, Variance and Standard Deviation, Clearly Explained!!!](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
+[^2]: https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/random-variables.html#:~:text=can%20always%20be%20deduced%20from%20the%20variance%20by%20taking%20the%20square%20root
