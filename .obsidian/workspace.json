@@ -336,8 +336,9 @@
       }
     ]
   },
-  "active": "bb42fd34f6702404",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "000 - daily notes/2026-02-19.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602181338 - mutual information.md",
     "002 - research/202602181530 - joint entropy.md",
@@ -363,7 +364,6 @@
     "002 - research/202602080132 - conditional probability.md",
     "002 - research/202602100004 - independence.md",
     "002 - research/202602080100 - joint probability.md",
-    "002 - research/202602092126 - bayes theorem.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
