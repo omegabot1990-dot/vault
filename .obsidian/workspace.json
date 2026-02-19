@@ -145,8 +145,7 @@
               "title": "202602192345 - environment"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602192345 - environment.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602192345 - environment"
+              "title": "File properties"
             }
           },
           {
@@ -268,7 +265,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192345 - environment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192345 - environment"
+              "title": "Graph view"
             }
           }
         ]
@@ -503,8 +499,7 @@
                   "title": "202602192352 - reward"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "867784f3a276c04a",
@@ -520,11 +515,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602192345 - environment.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192345 - environment"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -539,7 +532,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192345 - environment.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -567,7 +559,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192345 - environment"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -586,10 +578,10 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602192343 - agent.md",
     "002 - research/202602192345 - environment.md",
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602192351 - state.md",
     "002 - research/202602192350 - action.md",
     "002 - research/202602192352 - reward.md",
