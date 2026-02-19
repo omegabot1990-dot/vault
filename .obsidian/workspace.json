@@ -68,23 +68,34 @@
             }
           },
           {
-            "id": "d05dd7c56c78f260",
+            "id": "24be6523dcd7a042",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/202602191524 - large language model.md",
+                "file": "002 - research/202602191533 - attention is all you need.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "202602191524 - large language model"
+              "title": "202602191533 - attention is all you need"
+            }
+          },
+          {
+            "id": "5075a51d5905981b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/transformers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transformers"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,11 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602191524 - large language model.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602191524 - large language model"
+              "title": "File properties"
             }
           },
           {
@@ -206,7 +215,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602191524 - large language model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,10 +242,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602191524 - large language model"
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -377,11 +386,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602191524 - large language model.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602191524 - large language model"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -396,7 +403,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602191524 - large language model.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -424,7 +430,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602191524 - large language model"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -443,12 +449,16 @@
       }
     ]
   },
-  "active": "d05dd7c56c78f260",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/transformers.md",
+    "002 - research/202602191533 - attention is all you need.md",
+    "002 - research/encoder transformer.md",
+    "002 - research/202602191531 - attention.md",
+    "002 - research/202602191524 - large language model.md",
     "002 - research/202602050155 - causal language modelling.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "002 - research/attention.md",
-    "002 - research/202602191524 - large language model.md",
     "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/normalization.md",
     "002 - research/pre-training.md",
@@ -457,9 +467,6 @@
     "002 - research/202602191644 - post-training.md",
     "002 - research/post-training.md",
     "002 - research/202602030230 - pre-training.md",
-    "002 - research/transformers.md",
-    "002 - research/202602191533 - attention is all you need.md",
-    "002 - research/202602191531 - attention.md",
     "202602050153 - self-supervised learning.md",
     "002 - research/202602191621 - residual connection.md",
     "002 - research/202602191619 - multi-head self attention.md",
@@ -470,7 +477,6 @@
     "002 - research/202602102143 - transformer.md",
     "002 - research/neural networks.md",
     "002 - research/202602061153 - neural network.md",
-    "002 - research/202602111558 - gradient descent.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

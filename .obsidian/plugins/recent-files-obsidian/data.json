@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
+    },
+    {
+      "basename": "202602191533 - attention is all you need",
+      "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
+      "basename": "encoder transformer",
+      "path": "002 - research/encoder transformer.md"
+    },
+    {
+      "basename": "202602191531 - attention",
+      "path": "002 - research/202602191531 - attention.md"
+    },
+    {
       "basename": "202602191524 - large language model",
       "path": "002 - research/202602191524 - large language model.md"
     },
@@ -43,18 +59,6 @@
     {
       "basename": "202602030230 - pre-training",
       "path": "002 - research/202602030230 - pre-training.md"
-    },
-    {
-      "basename": "transformers",
-      "path": "002 - research/transformers.md"
-    },
-    {
-      "basename": "202602191533 - attention is all you need",
-      "path": "002 - research/202602191533 - attention is all you need.md"
-    },
-    {
-      "basename": "202602191531 - attention",
-      "path": "002 - research/202602191531 - attention.md"
     },
     {
       "basename": "202602102143 - transformer",
@@ -195,10 +199,6 @@
     {
       "basename": "202602080100 - joint probability",
       "path": "002 - research/202602080100 - joint probability.md"
-    },
-    {
-      "basename": "202602092126 - bayes theorem",
-      "path": "002 - research/202602092126 - bayes theorem.md"
     }
   ],
   "omittedPaths": [],

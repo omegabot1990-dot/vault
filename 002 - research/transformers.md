@@ -13,11 +13,6 @@ parent nodes:
 
 ## Papers
 
-- [x] [[202602191533 - attention is all you need|Attention Is All You Need]]
-	- [ ] Holy Grail
-	- [ ] June 12, 2017
-	- [ ] https://www.youtube.com/watch?v=iDulhoQ2pro
-
 ## Videos
 
 ## Code
