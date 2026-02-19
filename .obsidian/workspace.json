@@ -562,9 +562,25 @@
                   "icon": "lucide-file",
                   "title": "202602200001 - policy optimization"
                 }
+              },
+              {
+                "id": "b0a46f119867ecaf",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200013 - transition.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200013 - transition"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 10
           },
           {
             "id": "867784f3a276c04a",
@@ -643,11 +659,11 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602200013 - transition.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/202602200001 - policy optimization.md",
-    "002 - research/202602200013 - transition.md",
     "002 - research/202602192356 - episode.md",
     "002 - research/202602192355 - return.md",
     "002 - research/202602192352 - reward.md",
