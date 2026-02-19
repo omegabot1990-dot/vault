@@ -26,7 +26,7 @@ published on: 2022-03-04
 ## Summary
 
 - InstructGPT was developed by [[openai|OpenAI]]
-	- Aligned with human instructions with [[reinforcement learning human feedback|Reinforcement Learning Human Feedback]]
+	- Aligned with human instructions with [[202602192217 - reinforcement learning human feedback|Reinforcement Learning Human Feedback (RLHF)]]
 - Smaller aligned models were preferred by human evaluators over larger models
 	- <mark style="background: #BBFABBA6;">1.3B aligned model > 175B unaligned model</mark>
 - Aligned models demonstrated improvements in truthfulness and reduced toxicity

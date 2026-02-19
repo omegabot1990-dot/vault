@@ -5,6 +5,10 @@
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
+      "basename": "202602192217 - reinforcement learning human feedback",
+      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
+    },
+    {
       "basename": "202602191537 - feed-forward network",
       "path": "002 - research/202602191537 - feed-forward network.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602072325 - distribution",
       "path": "002 - research/202602072325 - distribution.md"
-    },
-    {
-      "basename": "202602061419 - expected log-likelihood",
-      "path": "002 - research/202602061419 - expected log-likelihood.md"
     }
   ],
   "omittedPaths": [],
