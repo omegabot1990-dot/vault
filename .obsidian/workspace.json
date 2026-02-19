@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602191531 - attention.md"
+                "file": "002 - research/202602102143 - transformer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602191531 - attention"
+              "title": "File properties for 202602102143 - transformer"
             }
           },
           {
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602191531 - attention.md",
+                "file": "002 - research/202602102143 - transformer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,10 +266,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602191531 - attention"
+              "title": "Graph of 202602102143 - transformer"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -410,10 +411,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602191531 - attention.md"
+                        "file": "002 - research/202602102143 - transformer.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602191531 - attention"
+                      "title": "File properties for 202602102143 - transformer"
                     }
                   }
                 ]
@@ -428,7 +429,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602191531 - attention.md",
+                        "file": "002 - research/202602102143 - transformer.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -456,7 +457,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602191531 - attention"
+                      "title": "Graph of 202602102143 - transformer"
                     }
                   }
                 ]
@@ -475,14 +476,14 @@
       }
     ]
   },
-  "active": "1e4d17a91347e27d",
+  "active": "996b056792a2e86c",
   "lastOpenFiles": [
-    "002 - research/202602102143 - transformer.md",
-    "002 - research/202602191533 - attention is all you need.md",
-    "002 - research/202602191531 - attention.md",
     "002 - research/transformers.md",
-    "002 - research/202602191524 - large language model.md",
+    "002 - research/202602191533 - attention is all you need.md",
     "002 - research/attention.md",
+    "002 - research/202602191531 - attention.md",
+    "002 - research/202602102143 - transformer.md",
+    "002 - research/202602191524 - large language model.md",
     "002 - research/neural networks.md",
     "002 - research/202602061153 - neural network.md",
     "002 - research/202602111558 - gradient descent.md",
