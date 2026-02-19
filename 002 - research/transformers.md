@@ -11,6 +11,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602191531 - attention|Attention]]
+- [x] [[202602191619 - multi-head self attention|Multi-Head Self Attention]]
 
 ## Blogs
 
