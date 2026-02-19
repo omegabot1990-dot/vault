@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602192221 - reinforcement learning|Reinforcement Learning]]
+
 - [ ] Markov Decision Process
 	- [ ] The environment is fully observable
 
