@@ -11,6 +11,11 @@ parent nodes:
 published on:
 ---
 
+- [ ] What are relative positions?
+- [ ] What are rotary embeddings?
+- [ ] What are ALiBi-style biases?
+
+---
 - Positional encoding injects token-order information into [[202602102143 - transformer|transformer]] inputs
 - It is needed because [[202602191531 - attention|self-attention]] alone is permutation-invariant over token positions
 - The original transformer uses fixed sinusoidal encodings added to token embeddings
