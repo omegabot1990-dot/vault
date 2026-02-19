@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602192054 - positional encoding|Positional Encoding]]
+
 ## Blogs
 
 ## Papers
