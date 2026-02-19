@@ -9,7 +9,7 @@ parent nodes:
 
 ## Topics
 
-- [ ] Markov Decision Process
+- [x] [[202602192236 - markov decision process|Markov Decision Process]]
 	- [ ] The environment is fully observable
 
 - [ ] Contextual Bandit Problem
