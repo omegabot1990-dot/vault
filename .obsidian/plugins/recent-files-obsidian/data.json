@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
+    },
+    {
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "202602181139 - joint density",
       "path": "002 - research/202602181139 - joint density.md"
-    },
-    {
-      "basename": "202602062209 - standard deviation",
-      "path": "002 - research/202602062209 - standard deviation.md"
-    },
-    {
-      "basename": "202602062110 - mean",
-      "path": "002 - research/202602062110 - mean.md"
-    },
-    {
-      "basename": "202602111530 - softmax",
-      "path": "002 - research/202602111530 - softmax.md"
     }
   ],
   "omittedPaths": [],
