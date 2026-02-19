@@ -25,4 +25,6 @@ parent nodes:
 
 ## Videos
 
+- [ ] [Optimization Basics](https://www.youtube.com/watch?v=uITNXWHZ1qQ)
+
 ## Code

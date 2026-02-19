@@ -12,6 +12,9 @@ parent nodes:
 published on:
 ---
 
+- [ ] [StatQuest - Maximum Likelihood](https://youtube.com/playlist?list=PLblh5JKOoLUJi29IizTBupf0Yrn1l6ntB&si=qwyWZTj3IXb-NYdj)
+
+---
 - Maximum [[202602061241 - likelihood|likelihood]] estimates [[202602111314 - model parameters|model parameters]] by maximising the [[202602062040 - probability|probability]] of observed data under the model
 - For [[202602092108 - independent and identically distributed|Independent and Identically Distributed]] data, the likelihood is the product of per-sample probabilities or densities
 - In practice, optimisation is usually done on the [[202602061424 - log-likelihood|log-likelihood]] for numerical stability and simpler gradients
