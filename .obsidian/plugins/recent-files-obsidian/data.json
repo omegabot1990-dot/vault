@@ -9,12 +9,20 @@
       "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     },
     {
+      "basename": "202602192236 - markov decision process",
+      "path": "002 - research/202602192236 - markov decision process.md"
+    },
+    {
       "basename": "202602192245 - policy",
       "path": "002 - research/202602192245 - policy.md"
     },
     {
-      "basename": "202602192236 - markov decision process",
-      "path": "002 - research/202602192236 - markov decision process.md"
+      "basename": "202602191644 - post-training",
+      "path": "002 - research/202602191644 - post-training.md"
+    },
+    {
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
     },
     {
       "basename": "reinforcement learning",
@@ -71,10 +79,6 @@
     {
       "basename": "202602191537 - feed-forward network",
       "path": "002 - research/202602191537 - feed-forward network.md"
-    },
-    {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
     },
     {
       "basename": "transformers",
@@ -151,10 +155,6 @@
     {
       "basename": "training",
       "path": "002 - research/training.md"
-    },
-    {
-      "basename": "202602191644 - post-training",
-      "path": "002 - research/202602191644 - post-training.md"
     },
     {
       "basename": "post-training",

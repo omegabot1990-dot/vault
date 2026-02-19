@@ -17,7 +17,12 @@ published on:
 - [ ] [YouTube - The FASTEST introduction to Reinforcement Learning on the internet](https://www.youtube.com/watch?v=VnpRp7ZglfA&t=1755s)
 
 ---
-- Reinforcement learning studies how an <mark style="background: #FF5582A6;">agent</mark> learns <mark style="background: #BBFABBA6;">actions</mark> through interaction with the <mark style="background: #ABF7F7A6;">environment</mark> to maximise cumulative <mark style="background: #FFF3A3A6;">reward</mark>
+- Reinforcement learning studies how an <mark style="background: #FF5582A6;">agent</mark> learns <mark style="background: #BBFABBA6;">actions</mark> through interaction with the <mark style="background: #ABF7F7A6;">environment</mark> to maximise cumulative <mark style="background: #FFF3A3A6;">reward/feedback</mark>
+
+![RL-Loop](https://www.reinforcementlearningpath.com/wp-content/uploads/2025/12/RL-is-a-loop-not-a-formula.png)
+
+
+
 - The setting is usually modelled as a [[202602192236 - markov decision process|Markov Decision Process (MDP)]] with:
 	- <mark style="background: #FF5582A6;">States</mark>
 	- <mark style="background: #BBFABBA6;">Actions</mark>

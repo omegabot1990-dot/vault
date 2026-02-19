@@ -475,12 +475,14 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "f0ecb5d308c93cf1",
   "lastOpenFiles": [
     "002 - research/202602192217 - reinforcement learning human feedback.md",
-    "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602192245 - policy.md",
     "002 - research/202602192236 - markov decision process.md",
+    "002 - research/202602192245 - policy.md",
+    "002 - research/202602191644 - post-training.md",
+    "002 - research/202602191524 - large language model.md",
+    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202601282201 - supervised fine-tuning.md",
     "002 - research/202602030238 - cross-entropy loss.md",
@@ -497,7 +499,6 @@
     "002 - research/math.md",
     "002 - research/code.md",
     "002 - research/202602191537 - feed-forward network.md",
-    "002 - research/202602191524 - large language model.md",
     "002 - research/transformers.md",
     "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602111617 - learning rate schedule.md",
