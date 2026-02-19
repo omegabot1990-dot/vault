@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "202602191533 - attention is all you need",
-      "path": "002 - research/202602191533 - attention is all you need.md"
-    },
-    {
       "basename": "202602191531 - attention",
       "path": "002 - research/202602191531 - attention.md"
     },
@@ -13,12 +9,44 @@
       "path": "002 - research/202602102143 - transformer.md"
     },
     {
+      "basename": "202602191533 - attention is all you need",
+      "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
     },
     {
       "basename": "202602191524 - large language model",
       "path": "002 - research/202602191524 - large language model.md"
+    },
+    {
+      "basename": "attention",
+      "path": "002 - research/attention.md"
+    },
+    {
+      "basename": "neural networks",
+      "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "202602061153 - neural network",
+      "path": "002 - research/202602061153 - neural network.md"
+    },
+    {
+      "basename": "202602111558 - gradient descent",
+      "path": "002 - research/202602111558 - gradient descent.md"
+    },
+    {
+      "basename": "202602111557 - backpropagation",
+      "path": "002 - research/202602111557 - backpropagation.md"
+    },
+    {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "202602191537 - feedforward network",
+      "path": "002 - research/202602191537 - feedforward network.md"
     },
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
@@ -171,34 +199,6 @@
     {
       "basename": "202602172339 - t-statistic",
       "path": "002 - research/202602172339 - t-statistic.md"
-    },
-    {
-      "basename": "202602111526 - relu",
-      "path": "002 - research/202602111526 - relu.md"
-    },
-    {
-      "basename": "202602061145 - machine learning",
-      "path": "002 - research/202602061145 - machine learning.md"
-    },
-    {
-      "basename": "machine learning",
-      "path": "002 - research/machine learning.md"
-    },
-    {
-      "basename": "202602062059 - statistics",
-      "path": "002 - research/202602062059 - statistics.md"
-    },
-    {
-      "basename": "optimizer",
-      "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "202602181532 - conditional entropy",
-      "path": "002 - research/202602181532 - conditional entropy.md"
-    },
-    {
-      "basename": "202602181827 - kl divergence",
-      "path": "002 - research/202602181827 - kl divergence.md"
     }
   ],
   "omittedPaths": [],

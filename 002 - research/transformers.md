@@ -1,7 +1,6 @@
 ---
 tags:
   - moc
-  - deep_learning
   - transformers
 description: ""
 parent nodes:
