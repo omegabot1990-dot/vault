@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602191619 - multi-head self attention",
+      "path": "002 - research/202602191619 - multi-head self attention.md"
+    },
+    {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
     },
@@ -9,16 +13,16 @@
       "path": "002 - research/transformers.md"
     },
     {
+      "basename": "202602191531 - attention",
+      "path": "002 - research/202602191531 - attention.md"
+    },
+    {
       "basename": "202602191533 - attention is all you need",
       "path": "002 - research/202602191533 - attention is all you need.md"
     },
     {
       "basename": "attention",
       "path": "002 - research/attention.md"
-    },
-    {
-      "basename": "202602191531 - attention",
-      "path": "002 - research/202602191531 - attention.md"
     },
     {
       "basename": "202602191524 - large language model",
@@ -195,10 +199,6 @@
     {
       "basename": "math",
       "path": "002 - research/math.md"
-    },
-    {
-      "basename": "202602172339 - t-statistic",
-      "path": "002 - research/202602172339 - t-statistic.md"
     }
   ],
   "omittedPaths": [],

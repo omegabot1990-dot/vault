@@ -114,9 +114,25 @@
               "icon": "lucide-file",
               "title": "202602191533 - attention is all you need"
             }
+          },
+          {
+            "id": "0dabbe8318bf3507",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602191619 - multi-head self attention.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602191619 - multi-head self attention"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -185,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602102143 - transformer.md"
+                "file": "002 - research/202602191619 - multi-head self attention.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602102143 - transformer"
+              "title": "File properties for 202602191619 - multi-head self attention"
             }
           },
           {
@@ -238,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602102143 - transformer.md",
+                "file": "002 - research/202602191619 - multi-head self attention.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,11 +282,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602102143 - transformer"
+              "title": "Graph of 202602191619 - multi-head self attention"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -411,10 +426,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602102143 - transformer.md"
+                        "file": "002 - research/202602191619 - multi-head self attention.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602102143 - transformer"
+                      "title": "File properties for 202602191619 - multi-head self attention"
                     }
                   }
                 ]
@@ -429,7 +444,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602102143 - transformer.md",
+                        "file": "002 - research/202602191619 - multi-head self attention.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -457,7 +472,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602102143 - transformer"
+                      "title": "Graph of 202602191619 - multi-head self attention"
                     }
                   }
                 ]
@@ -476,13 +491,14 @@
       }
     ]
   },
-  "active": "996b056792a2e86c",
+  "active": "0dabbe8318bf3507",
   "lastOpenFiles": [
+    "002 - research/202602102143 - transformer.md",
     "002 - research/transformers.md",
+    "002 - research/202602191531 - attention.md",
+    "002 - research/202602191619 - multi-head self attention.md",
     "002 - research/202602191533 - attention is all you need.md",
     "002 - research/attention.md",
-    "002 - research/202602191531 - attention.md",
-    "002 - research/202602102143 - transformer.md",
     "002 - research/202602191524 - large language model.md",
     "002 - research/neural networks.md",
     "002 - research/202602061153 - neural network.md",
@@ -503,7 +519,6 @@
     "002 - research/202602172058 - covariance.md",
     "002 - research/202602072342 - normal distribution.md",
     "002 - research/202602080014 - central limit theorem.md",
-    "002 - research/202602180005 - cumulative distribution function.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
