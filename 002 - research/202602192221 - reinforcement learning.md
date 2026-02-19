@@ -1,9 +1,9 @@
 ---
 tags:
   - reinforcement_learning
-  - RL
 aliases:
   - Reinforcement Learning
+  - RL
 title: reinforcement learning
 description: ""
 bot: true

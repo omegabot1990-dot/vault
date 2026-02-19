@@ -200,11 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602192343 - agent.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602192343 - agent"
+              "title": "File properties"
             }
           },
           {
@@ -254,7 +252,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192343 - agent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192343 - agent"
+              "title": "Graph view"
             }
           }
         ]
@@ -425,11 +422,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602192343 - agent.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192343 - agent"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -444,7 +439,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192343 - agent.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -472,7 +466,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192343 - agent"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -491,7 +485,7 @@
       }
     ]
   },
-  "active": "9e73b0c054834783",
+  "active": "bb42fd34f6702404",
   "lastOpenFiles": [
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192343 - agent.md",
