@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "202602191531 - attention",
+      "path": "002 - research/202602191531 - attention.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
     },
     {
       "basename": "202602191524 - large language model",
       "path": "002 - research/202602191524 - large language model.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
@@ -195,10 +199,6 @@
     {
       "basename": "202602092108 - independent and identically distributed",
       "path": "002 - research/202602092108 - independent and identically distributed.md"
-    },
-    {
-      "basename": "202602181139 - joint density",
-      "path": "002 - research/202602181139 - joint density.md"
     }
   ],
   "omittedPaths": [],
