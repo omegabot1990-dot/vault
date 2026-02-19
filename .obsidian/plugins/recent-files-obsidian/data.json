@@ -5,20 +5,36 @@
       "path": "002 - research/202602191524 - large language model.md"
     },
     {
+      "basename": "normalization",
+      "path": "002 - research/normalization.md"
+    },
+    {
+      "basename": "pre-training",
+      "path": "002 - research/pre-training.md"
+    },
+    {
+      "basename": "continued pre-training",
+      "path": "002 - research/continued pre-training.md"
+    },
+    {
+      "basename": "training",
+      "path": "002 - research/training.md"
+    },
+    {
+      "basename": "202602191644 - post-training",
+      "path": "002 - research/202602191644 - post-training.md"
+    },
+    {
+      "basename": "post-training",
+      "path": "002 - research/post-training.md"
+    },
+    {
       "basename": "202602030230 - pre-training",
       "path": "002 - research/202602030230 - pre-training.md"
     },
     {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
-    },
-    {
-      "basename": "202602050155 - causal language modelling",
-      "path": "002 - research/202602050155 - causal language modelling.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "202602191533 - attention is all you need",
@@ -29,12 +45,16 @@
       "path": "002 - research/202602191531 - attention.md"
     },
     {
-      "basename": "202602191623 - layer normalization",
-      "path": "002 - research/202602191623 - layer normalization.md"
+      "basename": "202602050155 - causal language modelling",
+      "path": "002 - research/202602050155 - causal language modelling.md"
     },
     {
-      "basename": "normalization",
-      "path": "002 - research/normalization.md"
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
+    },
+    {
+      "basename": "202602191623 - layer normalization",
+      "path": "002 - research/202602191623 - layer normalization.md"
     },
     {
       "basename": "202602191621 - residual connection",
@@ -179,26 +199,6 @@
     {
       "basename": "202602092126 - bayes theorem",
       "path": "002 - research/202602092126 - bayes theorem.md"
-    },
-    {
-      "basename": "202602092343 - law of total probabilities",
-      "path": "002 - research/202602092343 - law of total probabilities.md"
-    },
-    {
-      "basename": "202602092150 - marginalisation",
-      "path": "002 - research/202602092150 - marginalisation.md"
-    },
-    {
-      "basename": "202602092352 - event",
-      "path": "002 - research/202602092352 - event.md"
-    },
-    {
-      "basename": "202602100011 - mutually exclusive",
-      "path": "002 - research/202602100011 - mutually exclusive.md"
-    },
-    {
-      "basename": "202602061354 - random experiment",
-      "path": "002 - research/202602061354 - random experiment.md"
     }
   ],
   "omittedPaths": [],

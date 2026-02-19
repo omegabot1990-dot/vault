@@ -1,9 +1,10 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+  - training
+description: ""
 parent nodes:
-- '[[training]]'
+  - "[[training]]"
 ---
 
 ## Topics
