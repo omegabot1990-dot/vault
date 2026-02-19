@@ -1,13 +1,13 @@
 ---
 tags:
-- paper
+  - paper
 aliases:
-- Attention Is All You Need
+  - Attention Is All You Need
 title: attention is all you need
-description: ''
+description: ""
 bot: true
 parent nodes:
-- '[[transformers]]'
+  - "[[202602102143 - transformer|Transformer]]"
 published on: 2017-06-12
 ---
 
@@ -22,7 +22,7 @@ published on: 2017-06-12
 
 ## Summary
 
-- Introduces the [[202602102143 - transformer|Transformer]], an encoder-decoder [[202602010044 - model|model]] built only with attention and feed-forward layers
+- Introduces the [[202602102143 - transformer|Transformer]], an encoder-decoder [[202602010044 - model|model]] built only with attention and [[202602191537 - feedforward network|feed-forward layers]]
 - Removes recurrence and convolution to <mark style="background: #BBFABBA6;">improve parallelism and long-range dependency modelling</mark>
 - Achieves state-of-the-art translation quality with much lower training cost than prior sequence models
 
