@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md"
+                "file": "002 - research/202602192236 - markov decision process.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192221 - reinforcement learning"
+              "title": "File properties for 202602192236 - markov decision process"
             }
           },
           {
@@ -222,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "file": "002 - research/202602192236 - markov decision process.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192221 - reinforcement learning"
+              "title": "Graph of 202602192236 - markov decision process"
             }
           }
         ]
@@ -394,10 +394,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md"
+                        "file": "002 - research/202602192236 - markov decision process.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192221 - reinforcement learning"
+                      "title": "File properties for 202602192236 - markov decision process"
                     }
                   }
                 ]
@@ -412,7 +412,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md",
+                        "file": "002 - research/202602192236 - markov decision process.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -440,7 +440,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192221 - reinforcement learning"
+                      "title": "Graph of 202602192236 - markov decision process"
                     }
                   }
                 ]
@@ -459,11 +459,11 @@
       }
     ]
   },
-  "active": "f0ecb5d308c93cf1",
+  "active": "1eda5a7c65a21d81",
   "lastOpenFiles": [
-    "002 - research/202602192236 - markov decision process.md",
-    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/reinforcement learning.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/deep learning.md",
     "002 - research/202602191533 - attention is all you need.md",
