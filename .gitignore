@@ -4,6 +4,7 @@
 # Obsidian plugins (keep vault minimal)
 
 # Obsidian state (avoid churn)
+.obsidian/*
 .obsidian/workspace*
 .obsidian/graph.json
 .obsidian/plugins/recent-files-obsidian/data.json
