@@ -8,6 +8,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602191524 - large language model|Large Language Model]]
+
 ## Blogs
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
