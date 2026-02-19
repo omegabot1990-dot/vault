@@ -16,6 +16,9 @@ published on: 2017-06-12
 - [ ] What are encoder-decoder models?
 - [ ] What is label smoothing (generalisation)?
 
+---
+> [Attention Is All You Need](https://www.alphaxiv.org/abs/1706.03762)
+
 ## Summary
 
 - Introduces the [[202602102143 - transformer|Transformer]], an encoder-decoder [[202602010044 - model|model]] built only with [[202602191531 - attention|attention]] and [[202602191537 - feed-forward network|feed-forward layers]]

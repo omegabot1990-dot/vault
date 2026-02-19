@@ -21,3 +21,6 @@ published on:
 - Multilayer perceptrons are canonical feedforward [[202602061153 - neural network|neural networks]]
 - [[202602111314 - model parameters|Parameters]] are trained with [[202602111557 - backpropagation|backpropagation]] and [[202602111605 - optimization algorithms|gradient-based optimization]]
 - Feedforward networks are widely used for [[202602120054 - classification|classification]], [[202602120056 - regression|regression]], and as submodules inside larger architectures
+
+
+[^1]: [How might LLMs store facts | Deep Learning Chapter 7](https://www.youtube.com/watch?v=9-Jl0dxWQs8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)

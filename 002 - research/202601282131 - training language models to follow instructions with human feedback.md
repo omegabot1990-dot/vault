@@ -1,13 +1,12 @@
 ---
 tags:
-- research
-- paper
+  - paper
 aliases:
-- Training language models to follow instructions with human feedback
+  - Training language models to follow instructions with human feedback
 title: training language models to follow instructions with human feedback
-description: ''
+description: ""
 parent nodes:
-- '[[post-training]]'
+  - "[[post-training]]"
 published on: 2022-03-04
 ---
 

@@ -23,3 +23,6 @@ published on:
 	- Reasoning with context-dependent quality
 - Performance depends on [[202602111314 - model parameters|model scale]], data quality, compute budget, and [[202602111335 - training|training]] recipe
 - Common limitations include hallucinations, bias, context-window constraints, and sensitivity to prompting
+
+
+[^1]: [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
