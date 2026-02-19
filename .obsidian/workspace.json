@@ -18,8 +18,25 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "9c2f9adc2aa94a5d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202601282131 - training language models to follow instructions with human feedback"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,9 +104,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -273,9 +292,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -290,6 +311,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -317,7 +339,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -336,8 +358,9 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "9c2f9adc2aa94a5d",
   "lastOpenFiles": [
+    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "000 - daily notes/2026-02-19.md",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202602181338 - mutual information.md",
@@ -363,7 +386,6 @@
     "002 - research/202602100138 - bayes factor.md",
     "002 - research/202602080132 - conditional probability.md",
     "002 - research/202602100004 - independence.md",
-    "002 - research/202602080100 - joint probability.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
