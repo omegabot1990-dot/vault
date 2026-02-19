@@ -98,9 +98,25 @@
               "icon": "lucide-file",
               "title": "202602192236 - markov decision process"
             }
+          },
+          {
+            "id": "1b31f8fc55b4722d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602192245 - policy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602192245 - policy"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192236 - markov decision process.md"
+                "file": "002 - research/reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192236 - markov decision process"
+              "title": "File properties for reinforcement learning"
             }
           },
           {
@@ -222,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192236 - markov decision process.md",
+                "file": "002 - research/reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192236 - markov decision process"
+              "title": "Graph of reinforcement learning"
             }
           }
         ]
@@ -394,10 +410,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192236 - markov decision process.md"
+                        "file": "002 - research/reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192236 - markov decision process"
+                      "title": "File properties for reinforcement learning"
                     }
                   }
                 ]
@@ -412,7 +428,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192236 - markov decision process.md",
+                        "file": "002 - research/reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -440,7 +456,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192236 - markov decision process"
+                      "title": "Graph of reinforcement learning"
                     }
                   }
                 ]
@@ -459,11 +475,12 @@
       }
     ]
   },
-  "active": "1eda5a7c65a21d81",
+  "active": "51bed0f44f92b540",
   "lastOpenFiles": [
+    "002 - research/202602192236 - markov decision process.md",
+    "002 - research/202602192245 - policy.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/deep learning.md",
     "002 - research/202602191533 - attention is all you need.md",
@@ -486,7 +503,6 @@
     "002 - research/encoder decoder transformer.md",
     "002 - research/decoder transformers.md",
     "002 - research/encoder transformer.md",
-    "002 - research/202602191531 - attention.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

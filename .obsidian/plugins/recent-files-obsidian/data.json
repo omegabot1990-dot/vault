@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
       "basename": "202602192236 - markov decision process",
       "path": "002 - research/202602192236 - markov decision process.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
+      "basename": "202602192245 - policy",
+      "path": "002 - research/202602192245 - policy.md"
     },
     {
       "basename": "202602192221 - reinforcement learning",
@@ -195,10 +199,6 @@
     {
       "basename": "202602061605 - information theory",
       "path": "002 - research/202602061605 - information theory.md"
-    },
-    {
-      "basename": "202602172103 - correlation",
-      "path": "002 - research/202602172103 - correlation.md"
     }
   ],
   "omittedPaths": [],
