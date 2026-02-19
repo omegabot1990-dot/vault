@@ -86,6 +86,7 @@
           {
             "id": "1e4d17a91347e27d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -93,12 +94,29 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "202602191531 - attention"
             }
+          },
+          {
+            "id": "16a840ee15cd16cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602191533 - attention is all you need.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602191533 - attention is all you need"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -137,11 +155,9 @@
           {
             "id": "629d4760abcd45c6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
-              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -169,10 +185,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602191531 - attention.md"
+                "file": "002 - research/202602191533 - attention is all you need.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602191531 - attention"
+              "title": "File properties for 202602191533 - attention is all you need"
             }
           },
           {
@@ -222,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602191531 - attention.md",
+                "file": "002 - research/202602191533 - attention is all you need.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602191531 - attention"
+              "title": "Graph of 202602191533 - attention is all you need"
             }
           }
         ],
@@ -395,10 +411,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602191531 - attention.md"
+                        "file": "002 - research/202602191533 - attention is all you need.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602191531 - attention"
+                      "title": "File properties for 202602191533 - attention is all you need"
                     }
                   }
                 ]
@@ -413,7 +429,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602191531 - attention.md",
+                        "file": "002 - research/202602191533 - attention is all you need.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -441,7 +457,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602191531 - attention"
+                      "title": "Graph of 202602191533 - attention is all you need"
                     }
                   }
                 ]
@@ -460,11 +476,12 @@
       }
     ]
   },
-  "active": "1e4d17a91347e27d",
+  "active": "16a840ee15cd16cd",
   "lastOpenFiles": [
+    "002 - research/202602191531 - attention.md",
+    "002 - research/202602191533 - attention is all you need.md",
     "002 - research/202602102143 - transformer.md",
     "002 - research/transformers.md",
-    "002 - research/202602191531 - attention.md",
     "002 - research/202602191524 - large language model.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "000 - daily notes/2026-02-19.md",
@@ -487,7 +504,6 @@
     "002 - research/202602061443 - expected log-probability.md",
     "002 - research/202602061424 - log-likelihood.md",
     "002 - research/202602181227 - maximum likelihood.md",
-    "002 - research/202602061333 - expectation.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
