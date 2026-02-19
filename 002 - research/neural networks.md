@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602191537 - feedforward network|Feedforward Network]]
+
 ## Blogs
 
 - [ ] [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
