@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "transformers",
-      "path": "002 - research/transformers.md"
-    },
-    {
       "basename": "202602191533 - attention is all you need",
       "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
+      "basename": "202602191619 - multi-head self attention",
+      "path": "002 - research/202602191619 - multi-head self attention.md"
+    },
+    {
+      "basename": "encoder decoder transformer",
+      "path": "002 - research/encoder decoder transformer.md"
+    },
+    {
+      "basename": "decoder transformers",
+      "path": "002 - research/decoder transformers.md"
+    },
+    {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
     },
     {
       "basename": "encoder transformer",
@@ -71,10 +83,6 @@
     {
       "basename": "202602191621 - residual connection",
       "path": "002 - research/202602191621 - residual connection.md"
-    },
-    {
-      "basename": "202602191619 - multi-head self attention",
-      "path": "002 - research/202602191619 - multi-head self attention.md"
     },
     {
       "basename": "neural networks",
@@ -191,14 +199,6 @@
     {
       "basename": "202602080132 - conditional probability",
       "path": "002 - research/202602080132 - conditional probability.md"
-    },
-    {
-      "basename": "202602100004 - independence",
-      "path": "002 - research/202602100004 - independence.md"
-    },
-    {
-      "basename": "202602080100 - joint probability",
-      "path": "002 - research/202602080100 - joint probability.md"
     }
   ],
   "omittedPaths": [],

@@ -37,7 +37,24 @@ published on: 2017-06-12
 - Uses [[202602191619 - multi-head self attention|multi-head attention]] to capture diverse token relations in parallel subspaces
 - Adds positional encoding to inject order information without recurrence
 
+> [!MATH] Attention
+> $$\text{Attention}(Q,K,V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$
+
+
+
 ![](https://paper-assets.alphaxiv.org/figures/1706.03762v7/ModalNet-19.png)
+
+> [!MATH] MHSA
+> $$\text{MultiHead}(Q,K,V) = \text{Concat}(\text{head}_1, ..., \text{head}_h)W^O$$
+> Where,
+>  $$head_{i}​=Attention(QW_{i}^{Q}​,KW_{i}^K​,VW_{i}^V​)$$
+
+
+![](https://paper-assets.alphaxiv.org/figures/1706.03762v7/ModalNet-20.png)
+
+> [!MATH] Positional Encoding
+> $$PE_{(pos,2i)} = \sin(pos/10000^{2i/d_{model}})$$
+> $$PE_{(pos,2i+1)} = \cos(pos/10000^{2i/d_{model}})$$
 
 ## Result
 
@@ -48,6 +65,7 @@ published on: 2017-06-12
 ## Take Away
 
 - Attention-only architectures are sufficient for high-quality sequence transduction
+	- <mark style="background: #BBFABBA6;">Self-attention enables unprecedented parallelisation, drastically reducing training times for sequence models</mark>
 - Parallel self-attention became the new default backbone for modern [[202602191524 - large language model|LLMs]]
 
 ## Limitations

@@ -18,3 +18,11 @@ published on:
 - This improves representation capacity versus a single-head attention block at a similar model width
 - Scaled dot-product attention is used inside each head with [[202602111530 - softmax|softmax]]-normalised similarity scores
 - MHSA is a core component of [[202602102143 - transformer|transformer]] encoder and decoder blocks
+
+
+![](https://paper-assets.alphaxiv.org/figures/1706.03762v7/ModalNet-20.png)
+
+> [!MATH] MHSA
+> $$\text{MultiHead}(Q,K,V) = \text{Concat}(\text{head}_1, ..., \text{head}_h)W^O$$
+> Where,
+>  $$head_{i}​=Attention(QW_{i}^{Q}​,KW_{i}^K​,VW_{i}^V​)$$

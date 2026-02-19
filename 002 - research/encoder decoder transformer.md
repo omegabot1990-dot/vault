@@ -1,9 +1,10 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+  - transformers
+description: ""
 parent nodes:
-- '[[transformers]]'
+  - "[[transformers]]"
 ---
 
 ## Topics
