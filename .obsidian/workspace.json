@@ -213,11 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602200001 - policy optimization.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602200001 - policy optimization"
+              "title": "File properties"
             }
           },
           {
@@ -267,7 +265,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602200001 - policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602200001 - policy optimization"
+              "title": "Graph view"
             }
           }
         ]
@@ -583,11 +580,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602200001 - policy optimization.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602200001 - policy optimization"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -602,7 +597,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602200001 - policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -630,7 +624,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602200001 - policy optimization"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -649,8 +643,9 @@
       }
     ]
   },
-  "active": "222a2d381e9e58da",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/202602192356 - episode.md",
     "002 - research/202602192355 - return.md",
@@ -658,7 +653,6 @@
     "002 - research/202602111400 - activation.md",
     "002 - research/202602192350 - action.md",
     "002 - research/202602192351 - state.md",
-    "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602192345 - environment.md",
     "002 - research/202602192343 - agent.md",
     "002 - research/202602192221 - reinforcement learning.md",
