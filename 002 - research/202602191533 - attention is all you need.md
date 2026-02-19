@@ -13,7 +13,7 @@ published on: 2017-06-12
 
 ## Topics (not in KG yet)
 
-- [ ] self-attention
+- [ ] What are sequence models?
 - [ ] multi-head attention
 - [ ] scaled dot-product attention
 - [ ] positional encoding
@@ -22,8 +22,8 @@ published on: 2017-06-12
 
 ## Summary
 
-- Introduces the Transformer, an encoder-decoder model built only with attention and feed-forward layers
-- Removes recurrence and convolution to improve parallelism and long-range dependency modeling
+- Introduces the [[202602102143 - transformer|Transformer]], an encoder-decoder [[202602010044 - model|model]] built only with attention and feed-forward layers
+- Removes recurrence and convolution to <mark style="background: #BBFABBA6;">improve parallelism and long-range dependency modelling</mark>
 - Achieves state-of-the-art translation quality with much lower training cost than prior sequence models
 
 ![](https://paper-assets.alphaxiv.org/figures/1706.03762v7/ModalNet-21.png)

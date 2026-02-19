@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602191533 - attention is all you need",
+      "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
       "basename": "202602191531 - attention",
       "path": "002 - research/202602191531 - attention.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602181827 - kl divergence",
       "path": "002 - research/202602181827 - kl divergence.md"
-    },
-    {
-      "basename": "202602092108 - independent and identically distributed",
-      "path": "002 - research/202602092108 - independent and identically distributed.md"
     }
   ],
   "omittedPaths": [],
