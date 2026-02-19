@@ -213,9 +213,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602192343 - agent.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602192343 - agent"
             }
           },
           {
@@ -265,6 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602192343 - agent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602192343 - agent"
             }
           }
         ]
@@ -514,6 +517,22 @@
                   "icon": "lucide-file",
                   "title": "202602192355 - return"
                 }
+              },
+              {
+                "id": "4e12de70658832eb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192356 - episode.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192356 - episode"
+                }
               }
             ],
             "currentTab": 1
@@ -532,9 +551,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602192343 - agent.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602192343 - agent"
                     }
                   }
                 ]
@@ -549,6 +570,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602192343 - agent.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -576,7 +598,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602192343 - agent"
                     }
                   }
                 ]
@@ -595,11 +617,12 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "7503129bfb78b6f9",
   "lastOpenFiles": [
-    "002 - research/202602192343 - agent.md",
-    "002 - research/202602192355 - return.md",
     "002 - research/202602192345 - environment.md",
+    "002 - research/202602192355 - return.md",
+    "002 - research/202602192356 - episode.md",
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602192351 - state.md",
     "002 - research/202602192350 - action.md",
     "002 - research/202602192352 - reward.md",
@@ -625,7 +648,6 @@
     "002 - research/math.md",
     "002 - research/code.md",
     "002 - research/202602191537 - feed-forward network.md",
-    "002 - research/transformers.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

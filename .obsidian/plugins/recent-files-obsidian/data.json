@@ -5,12 +5,16 @@
       "path": "002 - research/202602192343 - agent.md"
     },
     {
+      "basename": "202602192345 - environment",
+      "path": "002 - research/202602192345 - environment.md"
+    },
+    {
       "basename": "202602192355 - return",
       "path": "002 - research/202602192355 - return.md"
     },
     {
-      "basename": "202602192345 - environment",
-      "path": "002 - research/202602192345 - environment.md"
+      "basename": "202602192356 - episode",
+      "path": "002 - research/202602192356 - episode.md"
     },
     {
       "basename": "202602192351 - state",
@@ -195,10 +199,6 @@
     {
       "basename": "202602191623 - layer normalization",
       "path": "002 - research/202602191623 - layer normalization.md"
-    },
-    {
-      "basename": "202602191621 - residual connection",
-      "path": "002 - research/202602191621 - residual connection.md"
     }
   ],
   "omittedPaths": [],
