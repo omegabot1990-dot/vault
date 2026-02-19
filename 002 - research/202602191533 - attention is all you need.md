@@ -14,7 +14,6 @@ published on: 2017-06-12
 - [ ] What are sequence models?
 - [ ] [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [ ] What are encoder-decoder models?
-- [ ] What is positional encoding?
 - [ ] What is label smoothing (generalisation)?
 
 ## Summary
