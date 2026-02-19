@@ -16,9 +16,9 @@ published on:
 - [ ] What are ALiBi-style biases?
 
 ---
-- Positional encoding injects token-order information into [[202602102143 - transformer|transformer]] inputs
+- Positional encoding injects [[202602192100 - token|token]]-order information into [[202602102143 - transformer|transformer]] inputs
 - It is needed because [[202602191531 - attention|self-attention]] alone is permutation-invariant over token positions
-- The original transformer uses fixed sinusoidal encodings added to token embeddings
+- <mark style="background: #BBFABBA6;">The original transformer uses fixed sinusoidal encodings added to token embeddings</mark>
 
 > [!MATH] Positional Encoding
 > $$PE_{(pos,2i)} = \sin(pos/10000^{2i/d_{model}})$$

@@ -18,8 +18,8 @@ published on:
 
 ---
 - A learning rate schedule is a rule for changing the [[202602111600 - learning rate|learning rate]] across [[202602111335 - training|training]] steps or [[202602111623 - epochs|epochs]]
-- It balances fast initial progress with stable late-stage convergence
-- Schedules usually start larger, then decay to smaller values as training proceeds
+- <mark style="background: #BBFABBA6;">It balances fast initial progress with stable late-stage convergence</mark>
+- <mark style="background: #FF5582A6;">Schedules usually start larger</mark>, <mark style="background: #ABF7F7A6;">then decay to smaller values as training proceeds</mark>
 - Common schedules include:
 	- Step decay
 	- Cosine decay

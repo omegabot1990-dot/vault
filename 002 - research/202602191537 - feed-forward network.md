@@ -4,7 +4,7 @@ tags:
 aliases:
   - Feedforward Network
   - Feed-forward network
-title: feedforward network
+title: feed-forward network
 description: ""
 bot: false
 parent nodes:

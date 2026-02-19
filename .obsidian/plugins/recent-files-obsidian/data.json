@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "202602191533 - attention is all you need",
+      "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
+    },
+    {
+      "basename": "202602191537 - feed-forward network",
+      "path": "002 - research/202602191537 - feed-forward network.md"
+    },
+    {
       "basename": "202602192054 - positional encoding",
       "path": "002 - research/202602192054 - positional encoding.md"
     },
     {
-      "basename": "202602191533 - attention is all you need",
-      "path": "002 - research/202602191533 - attention is all you need.md"
+      "basename": "202602192100 - token",
+      "path": "002 - research/202602192100 - token.md"
+    },
+    {
+      "basename": "202602192103 - embedding",
+      "path": "002 - research/202602192103 - embedding.md"
+    },
+    {
+      "basename": "202602050141 - autoregressive",
+      "path": "002 - research/202602050141 - autoregressive.md"
+    },
+    {
+      "basename": "tokenizer",
+      "path": "002 - research/tokenizer.md"
     },
     {
       "basename": "202602191619 - multi-head self attention",
@@ -109,10 +133,6 @@
       "path": "002 - research/large language models.md"
     },
     {
-      "basename": "202602191537 - feedforward network",
-      "path": "002 - research/202602191537 - feedforward network.md"
-    },
-    {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "202602061443 - expected log-probability",
       "path": "002 - research/202602061443 - expected log-probability.md"
-    },
-    {
-      "basename": "202602061424 - log-likelihood",
-      "path": "002 - research/202602061424 - log-likelihood.md"
-    },
-    {
-      "basename": "202602181227 - maximum likelihood",
-      "path": "002 - research/202602181227 - maximum likelihood.md"
-    },
-    {
-      "basename": "202602061333 - expectation",
-      "path": "002 - research/202602061333 - expectation.md"
-    },
-    {
-      "basename": "202602061241 - likelihood",
-      "path": "002 - research/202602061241 - likelihood.md"
-    },
-    {
-      "basename": "202602100138 - bayes factor",
-      "path": "002 - research/202602100138 - bayes factor.md"
     }
   ],
   "omittedPaths": [],

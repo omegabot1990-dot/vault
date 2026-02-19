@@ -9,7 +9,7 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602191537 - feedforward network|Feedforward Network]]
+- [x] [[202602191537 - feed-forward network|Feedforward Network]]
 
 ## Blogs
 

@@ -20,5 +20,5 @@ published on:
 > $$y = x + F(x)$$
 
 - Residual paths help optimization by making identity mapping easy to represent
-- In [[202602102143 - transformer|transformers]], residual connections wrap [[202602191531 - attention|attention]] and [[202602191537 - feedforward network|feedforward]] sublayers
+- In [[202602102143 - transformer|transformers]], residual connections wrap [[202602191531 - attention|attention]] and [[202602191537 - feed-forward network|feedforward]] sublayers
 - Residual design improves [[202602111335 - training|training]] stability and depth scaling
