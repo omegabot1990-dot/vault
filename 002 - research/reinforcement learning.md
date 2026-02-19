@@ -9,9 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602192236 - markov decision process|Markov Decision Process]]
-	- [ ] The environment is fully observable
-
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 

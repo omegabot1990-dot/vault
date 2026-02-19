@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602192217 - reinforcement learning human feedback",
-      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602192236 - markov decision process",
+      "path": "002 - research/202602192236 - markov decision process.md"
     },
     {
       "basename": "reinforcement learning",
       "path": "002 - research/reinforcement learning.md"
     },
     {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
+      "basename": "202602192217 - reinforcement learning human feedback",
+      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     },
     {
       "basename": "deep learning",
@@ -195,10 +199,6 @@
     {
       "basename": "202602172103 - correlation",
       "path": "002 - research/202602172103 - correlation.md"
-    },
-    {
-      "basename": "202602062206 - variance",
-      "path": "002 - research/202602062206 - variance.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,7 @@
 ---
 tags:
   - reinforcement_learning
+  - RL
 aliases:
   - Reinforcement Learning
 title: reinforcement learning
@@ -17,7 +18,7 @@ published on:
 
 ---
 - Reinforcement learning studies how an <mark style="background: #FF5582A6;">agent</mark> learns <mark style="background: #BBFABBA6;">actions</mark> through interaction with the <mark style="background: #ABF7F7A6;">environment</mark> to maximise cumulative <mark style="background: #FFF3A3A6;">reward</mark>
-- The setting is usually modelled as a Markov Decision Process (MDP) with:
+- The setting is usually modelled as a [[202602192236 - markov decision process|Markov Decision Process (MDP)]] with:
 	- <mark style="background: #FF5582A6;">States</mark>
 	- <mark style="background: #BBFABBA6;">Actions</mark>
 	- <mark style="background: #FFF3A3A6;">Rewards</mark>
