@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "202602191619 - multi-head self attention",
-      "path": "002 - research/202602191619 - multi-head self attention.md"
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
     },
     {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
+      "basename": "202602030230 - pre-training",
+      "path": "002 - research/202602030230 - pre-training.md"
     },
     {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
     },
     {
-      "basename": "202602191531 - attention",
-      "path": "002 - research/202602191531 - attention.md"
+      "basename": "202602050155 - causal language modelling",
+      "path": "002 - research/202602050155 - causal language modelling.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "202602191533 - attention is all you need",
       "path": "002 - research/202602191533 - attention is all you need.md"
     },
     {
-      "basename": "attention",
-      "path": "002 - research/attention.md"
+      "basename": "202602191531 - attention",
+      "path": "002 - research/202602191531 - attention.md"
     },
     {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
+      "basename": "202602191623 - layer normalization",
+      "path": "002 - research/202602191623 - layer normalization.md"
+    },
+    {
+      "basename": "normalization",
+      "path": "002 - research/normalization.md"
+    },
+    {
+      "basename": "202602191621 - residual connection",
+      "path": "002 - research/202602191621 - residual connection.md"
+    },
+    {
+      "basename": "202602191619 - multi-head self attention",
+      "path": "002 - research/202602191619 - multi-head self attention.md"
+    },
+    {
+      "basename": "attention",
+      "path": "002 - research/attention.md"
     },
     {
       "basename": "neural networks",
@@ -179,26 +199,6 @@
     {
       "basename": "202602061354 - random experiment",
       "path": "002 - research/202602061354 - random experiment.md"
-    },
-    {
-      "basename": "202602061340 - random variable",
-      "path": "002 - research/202602061340 - random variable.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "002 - research/202602061346 - sample space.md"
-    },
-    {
-      "basename": "202602080005 - sampling",
-      "path": "002 - research/202602080005 - sampling.md"
-    },
-    {
-      "basename": "202602062040 - probability",
-      "path": "002 - research/202602062040 - probability.md"
-    },
-    {
-      "basename": "math",
-      "path": "002 - research/math.md"
     }
   ],
   "omittedPaths": [],

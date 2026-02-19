@@ -1,13 +1,14 @@
 ---
 tags:
-- note
+  - training
 aliases:
-- Causal language modelling
+  - Causal Language Modelling
+  - Next Token Prediction
 title: causal language modelling
-description: ''
+description: ""
 parent nodes:
-- '[[202602050153 - self-supervised learning|Self-supervised learning]]'
-published on: null
+  - "[[202602050153 - self-supervised learning|Self-supervised learning]]"
+published on:
 ---
 
 - [ ] Update GPT link
