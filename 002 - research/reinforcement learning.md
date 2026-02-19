@@ -16,6 +16,7 @@ parent nodes:
 - [x] [[202602192352 - reward|Reward]]
 - [x] [[202602192355 - return|Return]]
 - [x] [[202602192356 - episode|Episode]]
+- [x] [[202602192359 - value estimation|Value Estimation]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
