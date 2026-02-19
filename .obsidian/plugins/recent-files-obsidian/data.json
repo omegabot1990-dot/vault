@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
       "basename": "202602191533 - attention is all you need",
       "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
+      "basename": "transformers",
+      "path": "002 - research/transformers.md"
+    },
+    {
+      "basename": "202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning",
+      "path": "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
       "basename": "202602111617 - learning rate schedule",
@@ -45,10 +57,6 @@
       "path": "002 - research/decoder transformers.md"
     },
     {
-      "basename": "transformers",
-      "path": "002 - research/transformers.md"
-    },
-    {
       "basename": "encoder transformer",
       "path": "002 - research/encoder transformer.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "202602050155 - causal language modelling",
       "path": "002 - research/202602050155 - causal language modelling.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "attention",
@@ -195,10 +199,6 @@
     {
       "basename": "202602061419 - expected log-likelihood",
       "path": "002 - research/202602061419 - expected log-likelihood.md"
-    },
-    {
-      "basename": "202602061443 - expected log-probability",
-      "path": "002 - research/202602061443 - expected log-probability.md"
     }
   ],
   "omittedPaths": [],

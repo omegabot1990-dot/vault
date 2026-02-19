@@ -5,7 +5,7 @@ aliases:
   - Attention Is All You Need
 title: attention is all you need
 description: ""
-bot: true
+bot: false
 parent nodes:
   - "[[202602102143 - transformer|Transformer]]"
 published on: 2017-06-12

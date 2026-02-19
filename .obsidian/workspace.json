@@ -34,41 +34,9 @@
               "icon": "lucide-file",
               "title": "202601282131 - training language models to follow instructions with human feedback"
             }
-          },
-          {
-            "id": "45bb2af1948d6f92",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/transformers.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "transformers"
-            }
-          },
-          {
-            "id": "16a840ee15cd16cd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602191533 - attention is all you need.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602191533 - attention is all you need"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,10 +105,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602191533 - attention is all you need.md"
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602191533 - attention is all you need"
+              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -190,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602191533 - attention is all you need.md",
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602191533 - attention is all you need"
+              "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
             }
           }
         ]
@@ -362,10 +330,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602191533 - attention is all you need.md"
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602191533 - attention is all you need"
+                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -380,7 +348,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602191533 - attention is all you need.md",
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -408,7 +376,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602191533 - attention is all you need"
+                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -427,10 +395,13 @@
       }
     ]
   },
-  "active": "16a840ee15cd16cd",
+  "active": "9c2f9adc2aa94a5d",
   "lastOpenFiles": [
-    "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602191533 - attention is all you need.md",
+    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "002 - research/transformers.md",
+    "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+    "002 - research/202602111617 - learning rate schedule.md",
     "002 - research/202602191537 - feed-forward network.md",
     "002 - research/202602192054 - positional encoding.md",
     "002 - research/202602192100 - token.md",
@@ -440,12 +411,10 @@
     "002 - research/202602191619 - multi-head self attention.md",
     "002 - research/encoder decoder transformer.md",
     "002 - research/decoder transformers.md",
-    "002 - research/transformers.md",
     "002 - research/encoder transformer.md",
     "002 - research/202602191531 - attention.md",
     "002 - research/202602191524 - large language model.md",
     "002 - research/202602050155 - causal language modelling.md",
-    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "002 - research/attention.md",
     "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/normalization.md",
@@ -454,7 +423,6 @@
     "002 - research/training.md",
     "002 - research/202602191644 - post-training.md",
     "002 - research/post-training.md",
-    "002 - research/202602030230 - pre-training.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
