@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602192345 - environment",
+      "path": "002 - research/202602192345 - environment.md"
+    },
+    {
       "basename": "202602192343 - agent",
       "path": "002 - research/202602192343 - agent.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602111557 - backpropagation",
       "path": "002 - research/202602111557 - backpropagation.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
     }
   ],
   "omittedPaths": [],
