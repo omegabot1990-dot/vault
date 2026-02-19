@@ -16,7 +16,7 @@ parent nodes:
 
 ## Papers
 
-- [ ] [Attention Is All You Need](https://www.alphaxiv.org/overview/1706.03762)
+- [x] [[202602191533 - attention is all you need|Attention Is All You Need]]
 	- [ ] Holy Grail
 	- [ ] June 12, 2017
 	- [ ] https://www.youtube.com/watch?v=iDulhoQ2pro
