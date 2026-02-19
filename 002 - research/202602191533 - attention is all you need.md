@@ -60,7 +60,7 @@ published on: 2017-06-12
 
 - 28.4 BLEU on WMT14 En-De, improving prior best systems
 - 41.8 BLEU on WMT14 En-Fr with a single model
-- Trains faster and parallelises better than recurrent baselines
+- <mark style="background: #ABF7F7A6;">Trains faster and parallelises better</mark> than recurrent baselines
 
 ## Take Away
 
