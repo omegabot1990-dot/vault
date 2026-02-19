@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,10 +167,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602191524 - large language model.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602191524 - large language model"
+              "title": "File properties for conflict-files-obsidian-git"
             }
           },
           {
@@ -220,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602191524 - large language model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602191524 - large language model"
+              "title": "Graph view"
             }
           }
         ]
@@ -392,10 +391,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602191524 - large language model.md"
+                        "file": "conflict-files-obsidian-git.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602191524 - large language model"
+                      "title": "File properties for conflict-files-obsidian-git"
                     }
                   }
                 ]
@@ -410,7 +409,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602191524 - large language model.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -438,7 +436,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602191524 - large language model"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -459,10 +457,11 @@
   },
   "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602191644 - post training.md",
     "002 - research/normalization.md",
-    "002 - research/202602030230 - pre-training.md",
     "002 - research/202602191524 - large language model.md",
+    "conflict-files-obsidian-git.md",
+    "002 - research/202602191644 - post training.md",
+    "002 - research/202602030230 - pre-training.md",
     "002 - research/transformers.md",
     "002 - research/202602050155 - causal language modelling.md",
     "002 - research/202602102143 - transformer.md",
@@ -484,7 +483,6 @@
     "002 - research/202602181338 - mutual information.md",
     "002 - research/202602181530 - joint entropy.md",
     "002 - research/202602061804 - entropy.md",
-    "002 - research/202602061530 - self-information.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
