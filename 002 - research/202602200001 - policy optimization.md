@@ -1,14 +1,14 @@
 ---
 tags:
-- note
+  - reinforcement_learning
 aliases:
-- Policy Optimization
+  - Policy Optimization
 title: policy optimization
-description: ''
-bot: true
+description: ""
+bot: false
 parent nodes:
-- '[[reinforcement learning]]'
-published on: null
+  - "[[202602192245 - policy|Policy]]"
+published on:
 ---
 
 - Policy optimization updates [[202602192245 - policy|policy]] [[202602111314 - model parameters|parameters]] directly to maximise expected [[202602192355 - return|return]]
@@ -20,4 +20,4 @@ published on: null
 - Policy-gradient methods estimate gradients of expected return and apply stochastic optimization
 - Trust-region or clipping constraints (e.g., TRPO/PPO-style) improve training stability
 - Actor-critic methods combine policy optimization with value estimation for lower-variance updates
-- Policy optimization is widely used in robotics, control, and LLM post-training pipelines
+- Policy optimization is widely used in robotics, control, and [[202602191524 - large language model|Large Language Model (LLM)]] [[202602191644 - post-training|post-training]] pipelines

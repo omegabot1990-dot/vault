@@ -1,14 +1,14 @@
 ---
 tags:
-- note
+  - reinforcement_learning
 aliases:
-- Value Estimation
+  - Value Estimation
 title: value estimation
-description: ''
-bot: true
+description: ""
+bot: false
 parent nodes:
-- '[[reinforcement learning]]'
-published on: null
+  - "[[202602192221 - reinforcement learning|RL]]"
+published on:
 ---
 
 - Value estimation learns expected return quantities used to evaluate decisions in reinforcement learning
