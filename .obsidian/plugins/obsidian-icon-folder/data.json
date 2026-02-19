@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArrowDownZa",
       "LiAccessibility",
       "LiAlertTriangle",
       "LiAirplay",
-      "LiAlertCircle",
-      "LiAtom"
+      "LiAlertCircle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,11 +43,11 @@
   "600 - task manager/archive/Explore Artists.md": "LiAlbum",
   "001 - daily notes": "LiActivity",
   "002 - inbox": "LiAlbum",
-  "003 - genesis": "LiArchive",
   "001 - daily notes/scratch pad.md": "LiAmphora",
   "002 - research": "LiAtom",
   "000 - daily notes": "LiAlbum",
   "001 - inbox": "LiAirplay",
   "008 - templates": "LiAlertTriangle",
-  "009 - help": "LiAccessibility"
+  "009 - help": "LiAccessibility",
+  "007 - attachments": "LiArrowDownZa"
 }

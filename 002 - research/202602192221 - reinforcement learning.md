@@ -35,3 +35,7 @@ published on:
 	- Robotics
 	- Recommendation
 	- [[202602191644 - post-training|Post-training]] of [[202602191524 - large language model|Large Language Model]]
+
+
+[^1]: [Reinforcement Learning with Neural Networks: Essential Concepts](https://www.youtube.com/watch?v=9hbQieQh7-o&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=23)
+[^2]: [Reinforcement Learning with Neural Networks: Mathematical Details](https://www.youtube.com/watch?v=DVGmsnxB2UQ&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=24)

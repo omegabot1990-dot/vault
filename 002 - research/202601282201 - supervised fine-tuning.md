@@ -31,4 +31,4 @@ published on:
 > 	- $m_t = 1$ if part of **Response**
 > 	- $m_t = 0$ if part of **Prompt**
 
-- [[202602111605 - optimization algorithms|Optimizer]] used is usually AdamW in [[large language models|Large Language Models (LLMs)]]
+- [[202602111605 - optimization algorithms|Optimizer]] used is usually AdamW in [[202602191524 - large language model|Large Language Models (LLMs)]]

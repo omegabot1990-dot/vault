@@ -11,7 +11,7 @@ parent nodes:
 published on:
 ---
 
-- The [[202602120102 - cross-entropy|cross-entropy]] loss minimises the divergence between the true [[202602072325 - distribution|distribution]] $p$ and predicted distribution $q$
+- The [[202602120102 - cross-entropy|cross-entropy]] loss minimises the [[202602181827 - kl divergence|divergence]] between the true [[202602072325 - distribution|distribution]] $p$ and predicted distribution $q$
 - Measures the difference between two probability distributions [^1]
 - <mark style="background: #BBFABBA6;">Binary cross-entropy</mark> is used for two classes (binary)
 
@@ -30,3 +30,5 @@ published on:
 - Primary [[202602010047 - objective function|objective function]] used to [[202602111335 - training|train]] [[202602120054 - classification|classification]] models
 
 
+[^1]: [[build_a_large_language_model_from_scratch.pdf#page=255&selection=3,40,7,43|build_a_large_language_model_from_scratch, page 255]]
+[^2]: [[build_a_large_language_model_from_scratch.pdf#page=255&selection=13,14,17,27|build_a_large_language_model_from_scratch, page 255]]

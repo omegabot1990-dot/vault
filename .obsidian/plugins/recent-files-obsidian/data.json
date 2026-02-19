@@ -1,40 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
-    },
-    {
-      "basename": "202602192236 - markov decision process",
-      "path": "002 - research/202602192236 - markov decision process.md"
-    },
-    {
-      "basename": "202602192245 - policy",
-      "path": "002 - research/202602192245 - policy.md"
-    },
-    {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202602192217 - reinforcement learning human feedback",
       "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
+    },
+    {
+      "basename": "202602192245 - policy",
+      "path": "002 - research/202602192245 - policy.md"
+    },
+    {
+      "basename": "202602192236 - markov decision process",
+      "path": "002 - research/202602192236 - markov decision process.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
+    },
+    {
+      "basename": "202602030238 - cross-entropy loss",
+      "path": "002 - research/202602030238 - cross-entropy loss.md"
+    },
+    {
+      "basename": "build_a_large_language_model_from_scratch",
+      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+    },
+    {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "deep learning",
@@ -191,14 +199,6 @@
     {
       "basename": "202602181338 - mutual information",
       "path": "002 - research/202602181338 - mutual information.md"
-    },
-    {
-      "basename": "202602181530 - joint entropy",
-      "path": "002 - research/202602181530 - joint entropy.md"
-    },
-    {
-      "basename": "202602061804 - entropy",
-      "path": "002 - research/202602061804 - entropy.md"
     }
   ],
   "omittedPaths": [],
