@@ -532,7 +532,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 7
           },
           {
             "id": "867784f3a276c04a",
@@ -611,15 +611,18 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602192356 - episode.md",
+    "002 - research/202602192355 - return.md",
+    "002 - research/202602192352 - reward.md",
+    "002 - research/202602111400 - activation.md",
+    "002 - research/202602192350 - action.md",
     "002 - research/202602192351 - state.md",
+    "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602192345 - environment.md",
     "002 - research/202602192343 - agent.md",
-    "002 - research/202602192355 - return.md",
-    "002 - research/202602192356 - episode.md",
-    "002 - research/202602192350 - action.md",
-    "002 - research/202602192352 - reward.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602192236 - markov decision process.md",
@@ -639,9 +642,6 @@
     "002 - research/202602191533 - attention is all you need.md",
     "002 - research/natural language processing.md",
     "002 - research/definitions.md",
-    "002 - research/math.md",
-    "002 - research/code.md",
-    "002 - research/202602191537 - feed-forward network.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "202602192356 - episode",
+      "path": "002 - research/202602192356 - episode.md"
+    },
+    {
+      "basename": "202602192355 - return",
+      "path": "002 - research/202602192355 - return.md"
+    },
+    {
+      "basename": "202602192352 - reward",
+      "path": "002 - research/202602192352 - reward.md"
+    },
+    {
+      "basename": "202602111400 - activation",
+      "path": "002 - research/202602111400 - activation.md"
+    },
+    {
+      "basename": "202602192350 - action",
+      "path": "002 - research/202602192350 - action.md"
+    },
+    {
       "basename": "202602192351 - state",
       "path": "002 - research/202602192351 - state.md"
     },
@@ -11,22 +31,6 @@
     {
       "basename": "202602192343 - agent",
       "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602192355 - return",
-      "path": "002 - research/202602192355 - return.md"
-    },
-    {
-      "basename": "202602192356 - episode",
-      "path": "002 - research/202602192356 - episode.md"
-    },
-    {
-      "basename": "202602192350 - action",
-      "path": "002 - research/202602192350 - action.md"
-    },
-    {
-      "basename": "202602192352 - reward",
-      "path": "002 - research/202602192352 - reward.md"
     },
     {
       "basename": "202602192221 - reinforcement learning",
@@ -195,10 +199,6 @@
     {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
-    },
-    {
-      "basename": "202602191623 - layer normalization",
-      "path": "002 - research/202602191623 - layer normalization.md"
     }
   ],
   "omittedPaths": [],
