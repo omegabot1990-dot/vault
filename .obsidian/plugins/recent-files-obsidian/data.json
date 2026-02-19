@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602200001 - policy optimization",
+      "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
       "basename": "202602192356 - episode",
       "path": "002 - research/202602192356 - episode.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "post-training",
       "path": "002 - research/post-training.md"
-    },
-    {
-      "basename": "202602030230 - pre-training",
-      "path": "002 - research/202602030230 - pre-training.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
     }
   ],
   "omittedPaths": [],

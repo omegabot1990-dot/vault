@@ -213,9 +213,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602200001 - policy optimization.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602200001 - policy optimization"
             }
           },
           {
@@ -265,6 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602200001 - policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602200001 - policy optimization"
             }
           }
         ]
@@ -530,9 +533,41 @@
                   "icon": "lucide-file",
                   "title": "202602192356 - episode"
                 }
+              },
+              {
+                "id": "53a4f2d4fb64e6ab",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192359 - value estimation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192359 - value estimation"
+                }
+              },
+              {
+                "id": "222a2d381e9e58da",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200001 - policy optimization.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200001 - policy optimization"
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 9
           },
           {
             "id": "867784f3a276c04a",
@@ -548,9 +583,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602200001 - policy optimization.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602200001 - policy optimization"
                     }
                   }
                 ]
@@ -565,6 +602,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602200001 - policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -592,7 +630,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602200001 - policy optimization"
                     }
                   }
                 ]
@@ -611,8 +649,9 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "222a2d381e9e58da",
   "lastOpenFiles": [
+    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602192356 - episode.md",
     "002 - research/202602192355 - return.md",
     "002 - research/202602192352 - reward.md",
@@ -620,7 +659,6 @@
     "002 - research/202602192350 - action.md",
     "002 - research/202602192351 - state.md",
     "002 - research/202602200001 - policy optimization.md",
-    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602192345 - environment.md",
     "002 - research/202602192343 - agent.md",
     "002 - research/202602192221 - reinforcement learning.md",

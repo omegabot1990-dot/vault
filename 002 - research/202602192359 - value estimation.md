@@ -16,4 +16,4 @@ published on: null
 - Estimates can be obtained by Monte Carlo returns, temporal-difference bootstrapping, or dynamic programming
 - Value estimation reduces long-horizon planning to local updates based on Bellman relations
 - Accurate value estimates improve policy improvement and action selection
-- Approximation error, variance, and distribution shift can destabilize value learning
+- Approximation error, variance, and distribution shift can destabilise value learning

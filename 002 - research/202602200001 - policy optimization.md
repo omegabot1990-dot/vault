@@ -11,8 +11,12 @@ parent nodes:
 published on: null
 ---
 
-- Policy optimization updates policy parameters directly to maximize expected return
-- It frames reinforcement learning as optimizing $J(\theta)=\mathbb{E}_{\pi_\theta}[G_t]$
+- Policy optimization updates [[202602192245 - policy|policy]] [[202602111314 - model parameters|parameters]] directly to maximise expected [[202602192355 - return|return]]
+- It frames [[202602192221 - reinforcement learning|reinforcement learning]] as optimizing: 
+
+> [!MATH] Optimization Objective
+>$$J(\theta)=\mathbb{E}_{\pi_\theta}[G_t]$$
+
 - Policy-gradient methods estimate gradients of expected return and apply stochastic optimization
 - Trust-region or clipping constraints (e.g., TRPO/PPO-style) improve training stability
 - Actor-critic methods combine policy optimization with value estimation for lower-variance updates
