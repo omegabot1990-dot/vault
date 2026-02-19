@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192343 - agent.md"
+                "file": "002 - research/202602192345 - environment.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192343 - agent"
+              "title": "File properties for 202602192345 - environment"
             }
           },
           {
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192343 - agent.md",
+                "file": "002 - research/202602192345 - environment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,7 +296,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192343 - agent"
+              "title": "Graph of 202602192345 - environment"
             }
           }
         ]
@@ -521,10 +521,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192343 - agent.md"
+                        "file": "002 - research/202602192345 - environment.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192343 - agent"
+                      "title": "File properties for 202602192345 - environment"
                     }
                   }
                 ]
@@ -539,7 +539,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192343 - agent.md",
+                        "file": "002 - research/202602192345 - environment.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -567,7 +567,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192343 - agent"
+                      "title": "Graph of 202602192345 - environment"
                     }
                   }
                 ]
@@ -586,13 +586,13 @@
       }
     ]
   },
-  "active": "7503129bfb78b6f9",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602192345 - environment.md",
     "002 - research/202602192351 - state.md",
     "002 - research/202602192350 - action.md",
     "002 - research/202602192352 - reward.md",
-    "002 - research/202602192343 - agent.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602192236 - markov decision process.md",
