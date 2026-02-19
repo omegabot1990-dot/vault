@@ -5,6 +5,18 @@
       "path": "002 - research/202602191524 - large language model.md"
     },
     {
+      "basename": "202602050155 - causal language modelling",
+      "path": "002 - research/202602050155 - causal language modelling.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "attention",
+      "path": "002 - research/attention.md"
+    },
+    {
       "basename": "normalization",
       "path": "002 - research/normalization.md"
     },
@@ -45,10 +57,6 @@
       "path": "002 - research/202602191531 - attention.md"
     },
     {
-      "basename": "202602050155 - causal language modelling",
-      "path": "002 - research/202602050155 - causal language modelling.md"
-    },
-    {
       "basename": "202602102143 - transformer",
       "path": "002 - research/202602102143 - transformer.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "202602191619 - multi-head self attention",
       "path": "002 - research/202602191619 - multi-head self attention.md"
-    },
-    {
-      "basename": "attention",
-      "path": "002 - research/attention.md"
     },
     {
       "basename": "neural networks",
@@ -91,10 +95,6 @@
     {
       "basename": "202602191537 - feedforward network",
       "path": "002 - research/202602191537 - feedforward network.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
