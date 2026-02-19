@@ -9,6 +9,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602191524 - large language model|Large Language Model]]
+- [x] [[202602192217 - reinforcement learning human feedback|Reinforcement Learning Human Feedback]]
 
 ## Blogs
 
