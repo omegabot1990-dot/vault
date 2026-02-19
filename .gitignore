@@ -9,6 +9,8 @@
 .obsidian/graph.json
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/cache/
+.data.json
+.workspace.json
 
 # Script caches
 .cache/
