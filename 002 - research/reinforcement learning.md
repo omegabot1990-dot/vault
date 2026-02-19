@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602192343 - agent|Agent]]
+
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 
