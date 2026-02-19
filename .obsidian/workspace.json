@@ -50,9 +50,41 @@
               "icon": "lucide-file",
               "title": "202602192217 - reinforcement learning human feedback"
             }
+          },
+          {
+            "id": "f0ecb5d308c93cf1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602192221 - reinforcement learning"
+            }
+          },
+          {
+            "id": "51bed0f44f92b540",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/reinforcement learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "reinforcement learning"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                "file": "002 - research/202602192221 - reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
+              "title": "File properties for 202602192221 - reinforcement learning"
             }
           },
           {
@@ -174,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                "file": "002 - research/202602192221 - reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
+              "title": "Graph of 202602192221 - reinforcement learning"
             }
           }
         ]
@@ -346,10 +378,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                        "file": "002 - research/202602192221 - reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
+                      "title": "File properties for 202602192221 - reinforcement learning"
                     }
                   }
                 ]
@@ -364,7 +396,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                        "file": "002 - research/202602192221 - reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -392,7 +424,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
+                      "title": "Graph of 202602192221 - reinforcement learning"
                     }
                   }
                 ]
@@ -411,13 +443,20 @@
       }
     ]
   },
-  "active": "9c2f9adc2aa94a5d",
+  "active": "f0ecb5d308c93cf1",
   "lastOpenFiles": [
-    "002 - research/202602192217 - reinforcement learning human feedback.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/deep learning.md",
+    "002 - research/202602191533 - attention is all you need.md",
+    "002 - research/natural language processing.md",
+    "002 - research/definitions.md",
+    "002 - research/math.md",
+    "002 - research/code.md",
+    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602191537 - feed-forward network.md",
     "002 - research/202602191524 - large language model.md",
-    "002 - research/202602191533 - attention is all you need.md",
     "002 - research/transformers.md",
     "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602111617 - learning rate schedule.md",
@@ -432,13 +471,6 @@
     "002 - research/encoder transformer.md",
     "002 - research/202602191531 - attention.md",
     "002 - research/202602050155 - causal language modelling.md",
-    "002 - research/attention.md",
-    "002 - research/202602050153 - self-supervised learning.md",
-    "002 - research/normalization.md",
-    "002 - research/pre-training.md",
-    "002 - research/continued pre-training.md",
-    "002 - research/training.md",
-    "002 - research/202602191644 - post-training.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

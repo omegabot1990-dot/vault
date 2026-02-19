@@ -1,15 +1,13 @@
 ---
 tags:
-- moc
-- root
-description: ''
+  - reinforcement_learning
+  - root
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 ## Topics
-
-- [x] [[202602192221 - reinforcement learning|Reinforcement Learning]]
 
 - [ ] Markov Decision Process
 	- [ ] The environment is fully observable

@@ -1,8 +1,6 @@
 ---
 tags:
-  - moc
   - root
-  - nlp
 description: ""
 parent nodes:
   - "[[research.base]]"

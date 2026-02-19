@@ -1,11 +1,9 @@
 ---
 tags:
-- moc
-- math
-- root
-description: ''
+  - root
+description: ""
 parent nodes:
-- '[[research.base]]'
+  - "[[research.base]]"
 ---
 
 - Learning Strategy

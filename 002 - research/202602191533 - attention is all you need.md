@@ -15,6 +15,7 @@ published on: 2017-06-12
 - [ ] [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [ ] What are encoder-decoder models?
 - [ ] What is label smoothing (generalisation)?
+- [ ] What is cross-attention?
 
 ---
 > [Attention Is All You Need](https://www.alphaxiv.org/abs/1706.03762)
@@ -64,7 +65,7 @@ published on: 2017-06-12
 > $$PE_{(pos,2i)} = \sin(pos/10000^{2i/d_{model}})$$
 > $$PE_{(pos,2i+1)} = \cos(pos/10000^{2i/d_{model}})$$
 
-- Each layer in both encoder and decoder includes position-wise feed-forward networks, which apply two linear transformations with a ReLU activation:
+- Each layer in both encoder and decoder includes position-wise feed-forward networks, which apply two linear transformations with a [[202602111526 - relu|ReLU]] activation:
 
 > [!MATH] Feed-Forward Network
 >$$  

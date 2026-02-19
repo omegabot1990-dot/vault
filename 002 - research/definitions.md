@@ -1,6 +1,6 @@
 ---
 tags:
-  - moc
+  - root
 description: ""
 parent nodes:
   - "[[research.base]]"

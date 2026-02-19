@@ -1,8 +1,6 @@
 ---
 tags:
-  - moc
   - root
-  - deep_learning
 description: ""
 parent nodes:
   - "[[research.base]]"
