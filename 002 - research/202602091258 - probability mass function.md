@@ -12,7 +12,7 @@ published on:
 ---
 
 - Probability Mass Function (PMF) is used for <mark style="background: #ADCCFFA6;">discrete data</mark> (like die rolls)
-- It defines the probability that a discrete random variable $X$ is exactly equal to some value $x$
+- It defines the [[202602062040 - probability|probability]] that a discrete [[202602061340 - random variable|random variable]] $X$ is exactly equal to some value $x$
 
 > [!MATH] Probability Mass Function (PMF)
 > $$f(x) = P(X = x)$$

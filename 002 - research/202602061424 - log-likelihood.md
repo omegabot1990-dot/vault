@@ -10,13 +10,16 @@ parent nodes:
 published on: null
 ---
 
-- Log-likelihood converts the calculation from <mark style="background: #FF5582A6;">Product to Sum</mark>
+- Log-[[202602061241 - likelihood|Likelihood]] converts the calculation from <mark style="background: #FF5582A6;">Product to Sum</mark>
+- If Likelihood $L(\theta)$ is the product of probabilities:
 
-> [!MATH] Log-Likelihood
-> If Likelihood $L(\theta)$ is the product of probabilities:
+> [!MATH] Likelihood
 > $$L(\theta) = \prod_{i=1}^{n} P(x_i | \theta)$$
 > 
-> Then Log-Likelihood $\ell(\theta)$ is the sum of their logs:
+
+- Then Log-Likelihood $\ell(\theta)$ is the sum of their logs:
+
+> [!MATH] Log-Likelihood
 > $$\ell(\theta) = \sum_{i=1}^{n} \log P(x_i | \theta)$$
 
 - No More Underflow

@@ -27,6 +27,7 @@ published on:
 - Larger mutual information implies stronger dependence between variables
 
 - Properties of $I(X; Y)$
+
 1. Non-negativity
 	1. Mutual information is always zero or positive
 

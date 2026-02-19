@@ -10,7 +10,7 @@ parent nodes:
 published on: null
 ---
 
-- <mark style="background: #BBFABBA6;">Conditional Probability</mark> is the probability of an event occurring given that another event has already happened [^1]
+- <mark style="background: #BBFABBA6;">Conditional Probability</mark> is the [[202602062040 - probability|probability]] of an [[202602092352 - event|event]] occurring given that another event has already happened [^1]
 - It is the act of updating your beliefs in light of new information
 - The probability of $A$ occurring given that $B$ has occurred:
 
@@ -18,9 +18,9 @@ published on: null
 > $$P(A | B) = \frac{P(A \cap B)}{P(B)}$$
 > 
 > **Where:**
-> - **$P(A \cap B)$**: The [[202602080100 - joint probability|Joint Probability]] (Both happening)
-> - **$P(B)$**: The probability of the condition (The "New World")
-> - **Constraint**: $P(B) > 0$ (You can't condition on something impossible)
+> - **$P(A \cap B)$**: The [[202602080100 - joint probability|joint probability]] (both happening)
+> - **$P(B)$**: The probability of the condition (the "New World")
+> - **Constraint**: $P(B) > 0$ (you can't condition on something impossible)
 
 - Why does the formula work?
 	- When we say "Given $B$" we are making $B$ our new [[202602061346 - sample space|sample space]]

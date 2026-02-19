@@ -10,7 +10,7 @@ parent nodes:
 published on: null
 ---
 
-- It states that if you take enough samples from any distribution (no matter how weird, skewed, or messy it is), the mean of those samples will eventually form a [[202602072342 - normal distribution|Normal Distribution]] [^1][^2]
+- It states that if you take enough samples from any [[202602072325 - distribution|distribution]] (no matter how weird, skewed, or messy it is), the mean of those samples will eventually form a [[202602072342 - normal distribution|Normal Distribution]] [^1][^2]
 - Let $X_1, X_2, \dots, X_n$ be a sequence of [[202602092108 - independent and identically distributed|independent and identically distributed (IID)]] random variables with mean $\mu$ and variance $\sigma^2$. As $n$ becomes large ($n \to \infty$):
 
 > [!MATH] Central Limit Theorem
@@ -31,20 +31,20 @@ published on: null
 ---
 
 - The reduction in variance occurs because of the properties of the variance of a sum of independent variables:
+- The Math Behind the Variance $\frac{\sigma^2}{n}$
 
-> [!MATH] The Math Behind the Variance $\frac{\sigma^2}{n}$
-> 
-> 
-> 1. **Linearity of Expectation**: 
->    $E[\bar{X}_n] = E\left[\frac{1}{n}\sum X_i\right] = \frac{1}{n} \sum E[X_i] = \frac{n\mu}{n} = \mu$
-> 
-> 2. **Variance of the Mean**: 
->    Since $Var(aX) = a^2Var(X)$, then:
->    $Var(\bar{X}_n) = Var\left(\frac{1}{n}\sum X_i\right) = \frac{1}{n^2} Var\left(\sum X_i\right)$
-> 
-> 3. **Summing Variances**:
->    Because the variables are IID, the variance of the sum is the sum of the variances:
->    $Var(\bar{X}_n) = \frac{1}{n^2} (n\sigma^2) = \frac{\sigma^2}{n}$
+> [!MATH] **Linearity of Expectation**
+>    $$E[\bar{X}_n] = E\left[\frac{1}{n}\sum X_i\right] = \frac{1}{n} \sum E[X_i] = \frac{n\mu}{n} = \mu$$
+
+- Since $Var(aX) = a^2Var(X)$, then:
+
+> [!MATH] **Variance of the Mean**
+>    $$Var(\bar{X}_n) = Var\left(\frac{1}{n}\sum X_i\right) = \frac{1}{n^2} Var\left(\sum X_i\right)$$
+
+- Because the variables are IID, the variance of the sum is the sum of the variances:
+
+> [!MATH] **Summing Variances**
+>    $$Var(\bar{X}_n) = \frac{1}{n^2} (n\sigma^2) = \frac{\sigma^2}{n}$$
 
 
 [^1]: [The Central Limit Theorem, Clearly Explained!!!](https://www.youtube.com/watch?v=YAlJCEDH2uY)

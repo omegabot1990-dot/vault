@@ -11,7 +11,7 @@ published on: null
 ---
 
 - <mark style="background: #BBFABBA6;">Information is a measure of surprise</mark> [^1]
-	- Information represents the degree of surprise or the abstract possibility of the event [^2]
+	- Information represents the degree of surprise or the abstract possibility of the [[202602092352 - event|event ]][^2]
 - For a discrete [[202602061340 - random variable|random variable]] $X$ with probability $P(X=x)$, the information $I(X=x)$ is:
 
 > [!MATH] Self-Information (Surprise)
@@ -22,7 +22,7 @@ published on: null
 	- Measured in <mark style="background: #FF5582A6;">nats</mark> (when using $\log_e$ or $\ln$), for continuous random variables 
 - <mark style="background: #BBFABBA6;">Deterministic outcomes contain no information</mark> [^1]
 - Inverse Relationship
-	- As probability $P(x)$ goes up, information $I(x)$ goes down [^1]
+	- As [[202602062040 - probability|probability]] $P(x)$ goes up, information $I(x)$ goes down [^1]
 - Additive
 	- The information from two independent events is the sum of their individual information [^1]
 	- $I(x, y) = I(x) + I(y)$.
