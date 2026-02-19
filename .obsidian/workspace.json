@@ -443,8 +443,9 @@
       }
     ]
   },
-  "active": "d05dd7c56c78f260",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/normalization.md",
     "002 - research/pre-training.md",
     "002 - research/continued pre-training.md",
@@ -457,7 +458,6 @@
     "002 - research/202602191533 - attention is all you need.md",
     "002 - research/202602191531 - attention.md",
     "202602050153 - self-supervised learning.md",
-    "002 - research/202602050153 - self-supervised learning.md",
     "002 - research/202602191621 - residual connection.md",
     "002 - research/202602191619 - multi-head self attention.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
