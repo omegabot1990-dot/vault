@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602191531 - attention",
-      "path": "002 - research/202602191531 - attention.md"
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
     },
     {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
+      "basename": "202602050153 - self-supervised learning",
+      "path": "002 - research/202602050153 - self-supervised learning.md"
+    },
+    {
+      "basename": "normalization",
+      "path": "002 - research/normalization.md"
+    },
+    {
+      "basename": "202602191621 - residual connection",
+      "path": "002 - research/202602191621 - residual connection.md"
+    },
+    {
+      "basename": "202602191619 - multi-head self attention",
+      "path": "002 - research/202602191619 - multi-head self attention.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "202602191533 - attention is all you need",
@@ -17,12 +33,28 @@
       "path": "002 - research/transformers.md"
     },
     {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
+      "basename": "202602191644 - post-training",
+      "path": "002 - research/202602191644 - post-training.md"
+    },
+    {
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
+    },
+    {
+      "basename": "202602191623 - layer normalization",
+      "path": "002 - research/202602191623 - layer normalization.md"
+    },
+    {
+      "basename": "202602191531 - attention",
+      "path": "002 - research/202602191531 - attention.md"
     },
     {
       "basename": "attention",
       "path": "002 - research/attention.md"
+    },
+    {
+      "basename": "202602102143 - transformer",
+      "path": "002 - research/202602102143 - transformer.md"
     },
     {
       "basename": "neural networks",
@@ -47,10 +79,6 @@
     {
       "basename": "202602191537 - feedforward network",
       "path": "002 - research/202602191537 - feedforward network.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
@@ -171,34 +199,6 @@
     {
       "basename": "202602100011 - mutually exclusive",
       "path": "002 - research/202602100011 - mutually exclusive.md"
-    },
-    {
-      "basename": "202602061354 - random experiment",
-      "path": "002 - research/202602061354 - random experiment.md"
-    },
-    {
-      "basename": "202602061340 - random variable",
-      "path": "002 - research/202602061340 - random variable.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "002 - research/202602061346 - sample space.md"
-    },
-    {
-      "basename": "202602080005 - sampling",
-      "path": "002 - research/202602080005 - sampling.md"
-    },
-    {
-      "basename": "202602062040 - probability",
-      "path": "002 - research/202602062040 - probability.md"
-    },
-    {
-      "basename": "math",
-      "path": "002 - research/math.md"
-    },
-    {
-      "basename": "202602172339 - t-statistic",
-      "path": "002 - research/202602172339 - t-statistic.md"
     }
   ],
   "omittedPaths": [],

@@ -3,6 +3,7 @@ tags:
   - training
 aliases:
   - Supervised Fine-Tuning
+  - SFT
 title: supervised fine-tuning
 description: ""
 parent nodes:
