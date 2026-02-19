@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602192343 - agent",
+      "path": "002 - research/202602192343 - agent.md"
+    },
+    {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "large language models",
       "path": "002 - research/large language models.md"
-    },
-    {
-      "basename": "202602181338 - mutual information",
-      "path": "002 - research/202602181338 - mutual information.md"
     }
   ],
   "omittedPaths": [],
