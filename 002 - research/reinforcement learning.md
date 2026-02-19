@@ -17,6 +17,7 @@ parent nodes:
 - [x] [[202602192355 - return|Return]]
 - [x] [[202602192356 - episode|Episode]]
 - [x] [[202602192359 - value estimation|Value Estimation]]
+- [x] [[202602200020 - value|Value]]
 - [x] [[202602200001 - policy optimization|Policy Optimization]]
 - [x] [[202602200013 - transition|Transition]]
 
