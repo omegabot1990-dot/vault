@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md"
+                "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192221 - reinforcement learning"
+              "title": "File properties for 202602192217 - reinforcement learning human feedback"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192221 - reinforcement learning"
+              "title": "Graph of 202602192217 - reinforcement learning human feedback"
             }
           }
         ]
@@ -378,10 +378,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md"
+                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192221 - reinforcement learning"
+                      "title": "File properties for 202602192217 - reinforcement learning human feedback"
                     }
                   }
                 ]
@@ -396,7 +396,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md",
+                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -424,7 +424,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192221 - reinforcement learning"
+                      "title": "Graph of 202602192217 - reinforcement learning human feedback"
                     }
                   }
                 ]
@@ -443,7 +443,7 @@
       }
     ]
   },
-  "active": "f0ecb5d308c93cf1",
+  "active": "de0dfce4a3db7c6d",
   "lastOpenFiles": [
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
