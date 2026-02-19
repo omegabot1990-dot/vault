@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602192236 - markov decision process",
+      "path": "002 - research/202602192236 - markov decision process.md"
+    },
+    {
+      "basename": "202602192245 - policy",
+      "path": "002 - research/202602192245 - policy.md"
+    },
+    {
+      "basename": "202602192343 - agent",
+      "path": "002 - research/202602192343 - agent.md"
+    },
+    {
+      "basename": "202602192345 - environment",
+      "path": "002 - research/202602192345 - environment.md"
+    },
+    {
+      "basename": "202602200001 - policy optimization",
+      "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "202602200020 - value",
+      "path": "002 - research/202602200020 - value.md"
+    },
+    {
       "basename": "202602200013 - transition",
       "path": "002 - research/202602200013 - transition.md"
     },
     {
       "basename": "202602192359 - value estimation",
       "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
-      "basename": "202602200001 - policy optimization",
-      "path": "002 - research/202602200001 - policy optimization.md"
     },
     {
       "basename": "202602192356 - episode",
@@ -25,10 +49,6 @@
       "path": "002 - research/202602192352 - reward.md"
     },
     {
-      "basename": "202602111400 - activation",
-      "path": "002 - research/202602111400 - activation.md"
-    },
-    {
       "basename": "202602192350 - action",
       "path": "002 - research/202602192350 - action.md"
     },
@@ -37,28 +57,12 @@
       "path": "002 - research/202602192351 - state.md"
     },
     {
-      "basename": "202602192345 - environment",
-      "path": "002 - research/202602192345 - environment.md"
-    },
-    {
-      "basename": "202602192343 - agent",
-      "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
+      "basename": "202602111400 - activation",
+      "path": "002 - research/202602111400 - activation.md"
     },
     {
       "basename": "202602192217 - reinforcement learning human feedback",
       "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
-    },
-    {
-      "basename": "202602192236 - markov decision process",
-      "path": "002 - research/202602192236 - markov decision process.md"
-    },
-    {
-      "basename": "202602192245 - policy",
-      "path": "002 - research/202602192245 - policy.md"
     },
     {
       "basename": "202602191644 - post-training",
@@ -195,10 +199,6 @@
     {
       "basename": "continued pre-training",
       "path": "002 - research/continued pre-training.md"
-    },
-    {
-      "basename": "training",
-      "path": "002 - research/training.md"
     }
   ],
   "omittedPaths": [],

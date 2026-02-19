@@ -12,7 +12,6 @@ parent nodes:
 published on:
 ---
 
-- [ ] What is value-based?
 - [ ] What is actor-critic?
 - [ ] [YouTube - The FASTEST introduction to Reinforcement Learning on the internet](https://www.youtube.com/watch?v=VnpRp7ZglfA&t=1755s)
 
