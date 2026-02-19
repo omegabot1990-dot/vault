@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "202602100004 - independence",
+      "path": "002 - research/202602100004 - independence.md"
+    },
+    {
+      "basename": "202602092352 - event",
+      "path": "002 - research/202602092352 - event.md"
+    },
+    {
+      "basename": "202602100011 - mutually exclusive",
+      "path": "002 - research/202602100011 - mutually exclusive.md"
+    },
+    {
+      "basename": "202602061354 - random experiment",
+      "path": "002 - research/202602061354 - random experiment.md"
+    },
+    {
+      "basename": "202602061340 - random variable",
+      "path": "002 - research/202602061340 - random variable.md"
+    },
+    {
+      "basename": "202602061346 - sample space",
+      "path": "002 - research/202602061346 - sample space.md"
+    },
+    {
+      "basename": "202602080005 - sampling",
+      "path": "002 - research/202602080005 - sampling.md"
+    },
+    {
+      "basename": "202602062040 - probability",
+      "path": "002 - research/202602062040 - probability.md"
+    },
+    {
+      "basename": "math",
+      "path": "002 - research/math.md"
+    },
+    {
+      "basename": "202602172339 - t-statistic",
+      "path": "002 - research/202602172339 - t-statistic.md"
+    },
+    {
+      "basename": "202602111526 - relu",
+      "path": "002 - research/202602111526 - relu.md"
+    },
+    {
+      "basename": "202602092150 - marginalisation",
+      "path": "002 - research/202602092150 - marginalisation.md"
+    },
+    {
+      "basename": "202602061241 - likelihood",
+      "path": "002 - research/202602061241 - likelihood.md"
+    },
+    {
       "basename": "202602092126 - bayes theorem",
       "path": "002 - research/202602092126 - bayes theorem.md"
     },
@@ -23,10 +75,6 @@
     {
       "basename": "optimizer",
       "path": "002 - research/optimizer.md"
-    },
-    {
-      "basename": "math",
-      "path": "002 - research/math.md"
     },
     {
       "basename": "202602061605 - information theory",
@@ -69,14 +117,6 @@
       "path": "002 - research/202602092108 - independent and identically distributed.md"
     },
     {
-      "basename": "202602061241 - likelihood",
-      "path": "002 - research/202602061241 - likelihood.md"
-    },
-    {
-      "basename": "202602062040 - probability",
-      "path": "002 - research/202602062040 - probability.md"
-    },
-    {
       "basename": "202602061424 - log-likelihood",
       "path": "002 - research/202602061424 - log-likelihood.md"
     },
@@ -117,10 +157,6 @@
       "path": "002 - research/202602080100 - joint probability.md"
     },
     {
-      "basename": "202602092150 - marginalisation",
-      "path": "002 - research/202602092150 - marginalisation.md"
-    },
-    {
       "basename": "202602092343 - law of total probabilities",
       "path": "002 - research/202602092343 - law of total probabilities.md"
     },
@@ -133,28 +169,12 @@
       "path": "002 - research/202602062110 - mean.md"
     },
     {
-      "basename": "202602100011 - mutually exclusive",
-      "path": "002 - research/202602100011 - mutually exclusive.md"
-    },
-    {
-      "basename": "202602100004 - independence",
-      "path": "002 - research/202602100004 - independence.md"
-    },
-    {
-      "basename": "202602092352 - event",
-      "path": "002 - research/202602092352 - event.md"
-    },
-    {
       "basename": "202602180005 - cumulative distribution function",
       "path": "002 - research/202602180005 - cumulative distribution function.md"
     },
     {
       "basename": "202602091258 - probability mass function",
       "path": "002 - research/202602091258 - probability mass function.md"
-    },
-    {
-      "basename": "202602061340 - random variable",
-      "path": "002 - research/202602061340 - random variable.md"
     },
     {
       "basename": "202602111530 - softmax",
@@ -169,10 +189,6 @@
       "path": "002 - research/202602172331 - t-test.md"
     },
     {
-      "basename": "202602172339 - t-statistic",
-      "path": "002 - research/202602172339 - t-statistic.md"
-    },
-    {
       "basename": "202602172300 - hypothesis",
       "path": "002 - research/202602172300 - hypothesis.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "202602172113 - population",
       "path": "002 - research/202602172113 - population.md"
-    },
-    {
-      "basename": "202602061346 - sample space",
-      "path": "002 - research/202602061346 - sample space.md"
-    },
-    {
-      "basename": "202602102359 - span",
-      "path": "002 - research/202602102359 - span.md"
-    },
-    {
-      "basename": "202602031104 - agent",
-      "path": "002 - research/202602031104 - agent.md"
-    },
-    {
-      "basename": "202602102143 - transformer",
-      "path": "002 - research/202602102143 - transformer.md"
     }
   ],
   "omittedPaths": [],

@@ -1,16 +1,16 @@
 ---
 tags:
-- math
+  - math
 aliases:
-- Random Variable
+  - Random Variable
 title: random variable
-description: ''
+description: ""
 parent nodes:
-- '[[probability and statistics]]'
-published on: null
+  - "[[202602061346 - sample space|Sample Space]]"
+published on:
 ---
 
-- A Random Variable is a function that maps the [[202602061346 - sample space|sample space]] $S$ (all possible outcomes) to the set of real numbers $\mathbb{R}$ [^1]
+- A Random Variable is a function that maps the [[202602061346 - sample space|Sample Space]] $S$ (all possible outcomes) to the set of real numbers $\mathbb{R}$ [^1]
 
 > [!MATH] Random Variable ($X$)
 > $$X: S \to \mathbb{R}$$
