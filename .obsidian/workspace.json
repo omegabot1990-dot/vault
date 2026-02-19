@@ -215,10 +215,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192345 - environment.md"
+                "file": "002 - research/202602192343 - agent.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192345 - environment"
+              "title": "File properties for 202602192343 - agent"
             }
           },
           {
@@ -268,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192345 - environment.md",
+                "file": "002 - research/202602192343 - agent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,7 +296,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192345 - environment"
+              "title": "Graph of 202602192343 - agent"
             }
           }
         ]
@@ -454,6 +454,54 @@
                   "icon": "lucide-file",
                   "title": "202602192345 - environment"
                 }
+              },
+              {
+                "id": "f1dec78de2ad1021",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192351 - state.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192351 - state"
+                }
+              },
+              {
+                "id": "938a2942759ceb81",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192350 - action.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192350 - action"
+                }
+              },
+              {
+                "id": "8912eecd7a0cf4c8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192352 - reward.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192352 - reward"
+                }
               }
             ],
             "currentTab": 1
@@ -473,10 +521,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192345 - environment.md"
+                        "file": "002 - research/202602192343 - agent.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192345 - environment"
+                      "title": "File properties for 202602192343 - agent"
                     }
                   }
                 ]
@@ -491,7 +539,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192345 - environment.md",
+                        "file": "002 - research/202602192343 - agent.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -519,7 +567,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192345 - environment"
+                      "title": "Graph of 202602192343 - agent"
                     }
                   }
                 ]
@@ -538,10 +586,13 @@
       }
     ]
   },
-  "active": "60c4c12060a150e2",
+  "active": "7503129bfb78b6f9",
   "lastOpenFiles": [
-    "002 - research/202602192343 - agent.md",
     "002 - research/202602192345 - environment.md",
+    "002 - research/202602192351 - state.md",
+    "002 - research/202602192350 - action.md",
+    "002 - research/202602192352 - reward.md",
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602192236 - markov decision process.md",
@@ -566,9 +617,6 @@
     "002 - research/202602191537 - feed-forward network.md",
     "002 - research/transformers.md",
     "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
-    "002 - research/202602111617 - learning rate schedule.md",
-    "002 - research/202602192054 - positional encoding.md",
-    "002 - research/202602192100 - token.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
