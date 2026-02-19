@@ -532,7 +532,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "867784f3a276c04a",
@@ -613,11 +613,11 @@
   },
   "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602192343 - agent.md",
+    "002 - research/202602192351 - state.md",
     "002 - research/202602192345 - environment.md",
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602192355 - return.md",
     "002 - research/202602192356 - episode.md",
-    "002 - research/202602192351 - state.md",
     "002 - research/202602192350 - action.md",
     "002 - research/202602192352 - reward.md",
     "002 - research/202602192221 - reinforcement learning.md",
