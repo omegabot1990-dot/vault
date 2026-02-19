@@ -35,7 +35,7 @@ published on: 2017-06-12
 - Uses stacked encoder and decoder blocks with [[202602191621 - residual connection|residual connections]] and [[202602191623 - layer normalization|layer normalization]]
 - Core operator is scaled dot-product attention
 - Uses [[202602191619 - multi-head self attention|multi-head attention]] to capture diverse token relations in parallel subspaces
-- Adds positional encoding to inject order information without recurrence
+- Adds [[202602192054 - positional encoding|positional encoding]] to inject order information without recurrence
 
 > [!MATH] Attention
 > $$\text{Attention}(Q,K,V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$

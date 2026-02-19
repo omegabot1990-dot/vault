@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192054 - positional encoding.md"
+                "file": "002 - research/202602191533 - attention is all you need.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192054 - positional encoding"
+              "title": "File properties for 202602191533 - attention is all you need"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192054 - positional encoding.md",
+                "file": "002 - research/202602191533 - attention is all you need.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192054 - positional encoding"
+              "title": "Graph of 202602191533 - attention is all you need"
             }
           }
         ]
@@ -378,10 +378,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192054 - positional encoding.md"
+                        "file": "002 - research/202602191533 - attention is all you need.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192054 - positional encoding"
+                      "title": "File properties for 202602191533 - attention is all you need"
                     }
                   }
                 ]
@@ -396,7 +396,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192054 - positional encoding.md",
+                        "file": "002 - research/202602191533 - attention is all you need.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -424,7 +424,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192054 - positional encoding"
+                      "title": "Graph of 202602191533 - attention is all you need"
                     }
                   }
                 ]
@@ -443,10 +443,10 @@
       }
     ]
   },
-  "active": "5419b18afc695d8d",
+  "active": "16a840ee15cd16cd",
   "lastOpenFiles": [
-    "002 - research/202602191533 - attention is all you need.md",
     "002 - research/202602192054 - positional encoding.md",
+    "002 - research/202602191533 - attention is all you need.md",
     "002 - research/202602191619 - multi-head self attention.md",
     "002 - research/encoder decoder transformer.md",
     "002 - research/decoder transformers.md",
