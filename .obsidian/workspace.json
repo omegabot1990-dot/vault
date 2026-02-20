@@ -82,8 +82,51 @@
               "icon": "lucide-file",
               "title": "202602192221 - reinforcement learning"
             }
+          },
+          {
+            "id": "f9158de5d977e686",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/reinforcement learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "reinforcement learning"
+            }
+          },
+          {
+            "id": "b9f0190ba8676867",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602061227 - ppo-ptx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602061227 - ppo-ptx"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,9 +194,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/reinforcement learning.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for reinforcement learning"
             }
           },
           {
@@ -203,6 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of reinforcement learning"
             }
           }
         ]
@@ -438,9 +484,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/reinforcement learning.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for reinforcement learning"
                     }
                   }
                 ]
@@ -455,6 +503,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -482,7 +531,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of reinforcement learning"
                     }
                   }
                 ]
@@ -501,14 +550,16 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "f9158de5d977e686",
   "lastOpenFiles": [
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/202602061329 - proximal policy optimisation.md",
+    "002 - research/reinforcement learning.md",
     "002 - research/202602200134 - reinforce.md",
     "000 - daily notes/2026-02-20.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200148 - advantage.md",
-    "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192245 - policy.md",
@@ -527,9 +578,7 @@
     "002 - research/202602191644 - post-training.md",
     "002 - research/202602191524 - large language model.md",
     "002 - research/202601282201 - supervised fine-tuning.md",
-    "002 - research/202602030238 - cross-entropy loss.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
-    "002 - research/202602181827 - kl divergence.md",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
     "scripts/hf_trending_newsletter.py",

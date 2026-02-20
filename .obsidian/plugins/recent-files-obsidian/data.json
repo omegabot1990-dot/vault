@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602192221 - reinforcement learning",
@@ -191,14 +195,6 @@
     {
       "basename": "202602191531 - attention",
       "path": "002 - research/202602191531 - attention.md"
-    },
-    {
-      "basename": "202602050155 - causal language modelling",
-      "path": "002 - research/202602050155 - causal language modelling.md"
-    },
-    {
-      "basename": "attention",
-      "path": "002 - research/attention.md"
     }
   ],
   "omittedPaths": [],
