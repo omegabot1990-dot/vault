@@ -124,8 +124,25 @@
               "icon": "lucide-file",
               "title": "202602061227 - ppo-ptx"
             }
+          },
+          {
+            "id": "09011ad4ef5a9d9f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602201850 - bias-variance tradeoff.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602201850 - bias-variance tradeoff"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -624,6 +641,9 @@
   },
   "active": "bb42fd34f6702404",
   "lastOpenFiles": [
+    "002 - research/202602201850 - bias-variance tradeoff.md",
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/neural networks.md",
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602201334 - reward model.md",
     "002 - research/202602192359 - value estimation.md",
@@ -647,9 +667,6 @@
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/reinforcement learning.md",
-    "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602061329 - proximal policy optimisation.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
