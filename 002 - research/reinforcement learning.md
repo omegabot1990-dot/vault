@@ -9,18 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602201241 - proximal policy optimization|Proximal Policy Optimization]]
-- [x] [[202602201246 - off-policy|Off-policy]]
-- [x] [[202602201248 - on-policy|On-policy]]
-- [x] [[202602201253 - model-free|Model-free]]
-- [x] [[202602201253 - model-based|Model-based]]
-- [x] [[202602201254 - actor-critic methods|Actor-Critic Methods]]
-- [x] [[202602201255 - value-based methods|Value-Based Methods]]
-- [x] [[202602201303 - q-learning|Q-learning]]
-- [x] [[202602201305 - temporal-difference algorithm|Temporal-Difference Algorithm]]
-- [x] [[202602201334 - reward model|Reward Model]]
-- [x] [[202602201335 - bootstrapping|Bootstrapping]]
-
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 

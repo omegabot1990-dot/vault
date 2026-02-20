@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602201850 - bias-variance tradeoff",
-      "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "neural networks",
       "path": "002 - research/neural networks.md"
+    },
+    {
+      "basename": "202602201850 - bias-variance tradeoff",
+      "path": "002 - research/202602201850 - bias-variance tradeoff.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202602111639 - underfitting",
+      "path": "002 - research/202602111639 - underfitting.md"
+    },
+    {
+      "basename": "202602111358 - weights and biases",
+      "path": "002 - research/202602111358 - weights and biases.md"
     },
     {
       "basename": "202602201254 - actor-critic methods",
@@ -101,10 +113,6 @@
       "path": "002 - research/202602192236 - markov decision process.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "definitions",
       "path": "002 - research/definitions.md"
-    },
-    {
-      "basename": "math",
-      "path": "002 - research/math.md"
-    },
-    {
-      "basename": "code",
-      "path": "002 - research/code.md"
     }
   ],
   "omittedPaths": [],

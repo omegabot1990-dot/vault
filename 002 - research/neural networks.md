@@ -9,10 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602191537 - feed-forward network|Feedforward Network]]
-- [x] [[202602201850 - bias-variance tradeoff|Bias-Variance Tradeoff]]
-- [x] [[202602201853 - bias|Bias]]
-
 ## Blogs
 
 - [ ] [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
