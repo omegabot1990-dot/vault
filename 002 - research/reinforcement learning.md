@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602200129 - policy gradient methods|Policy Gradient Methods]]
+
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 
