@@ -153,10 +153,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md"
+                "file": "002 - research/202602200001 - policy optimization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192221 - reinforcement learning"
+              "title": "File properties for 202602200001 - policy optimization"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "file": "002 - research/202602200001 - policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192221 - reinforcement learning"
+              "title": "Graph of 202602200001 - policy optimization"
             }
           }
         ]
@@ -395,10 +395,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md"
+                        "file": "002 - research/202602200001 - policy optimization.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192221 - reinforcement learning"
+                      "title": "File properties for 202602200001 - policy optimization"
                     }
                   }
                 ]
@@ -413,7 +413,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md",
+                        "file": "002 - research/202602200001 - policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -441,7 +441,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192221 - reinforcement learning"
+                      "title": "Graph of 202602200001 - policy optimization"
                     }
                   }
                 ]
@@ -460,8 +460,9 @@
       }
     ]
   },
-  "active": "f0ecb5d308c93cf1",
+  "active": "222a2d381e9e58da",
   "lastOpenFiles": [
+    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192343 - agent.md",
@@ -476,7 +477,6 @@
     "002 - research/202602192350 - action.md",
     "002 - research/202602192351 - state.md",
     "002 - research/202602111400 - activation.md",
-    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602191644 - post-training.md",
     "002 - research/202602191524 - large language model.md",
