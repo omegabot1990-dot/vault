@@ -32,7 +32,7 @@ published on:
 	- <mark style="background: #BBFABBA6;">On-Policy</mark>
 		- PPO learns from data collected by its current version, but the "Ratio" allows it to safely reuse that data for a few mini-batch updates
 	- <mark style="background: #FF5582A6;">Actor-Critic</mark>
-		- The **Actor** updates the policy ($\pi$), while the **Critic** updates the [[202602200020 - value|Value]] Function ($V$) to calculate the [[202602200148 - advantage|Advantage]] ($\hat{A}_t$)
+		- The Actor updates the policy ($\pi$), while the Critic updates the [[202602200020 - value|Value]] Function ($V$) to calculate the [[202602200148 - advantage|Advantage]] ($\hat{A}_t$)
 
 
 [^1]: [Proximal Policy Optimization (PPO) for LLMs Explained Intuitively](https://www.youtube.com/watch?v=8jtAzxUwDj0)

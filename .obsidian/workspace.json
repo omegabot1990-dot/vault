@@ -480,7 +480,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "867784f3a276c04a",
@@ -559,10 +559,10 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201917 - trust region policy optimization.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602061227 - ppo-ptx.md",
