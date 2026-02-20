@@ -468,7 +468,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "867784f3a276c04a",
@@ -550,12 +550,13 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "b9f0190ba8676867",
   "lastOpenFiles": [
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/generative pre-trained transformer.md",
-    "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200013 - transition.md",
     "002 - research/202602201253 - model-based.md",
@@ -571,7 +572,6 @@
     "002 - research/202602201334 - reward model.md",
     "002 - research/202602111636 - regularization.md",
     "002 - research/202602201335 - bootstrapping.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201255 - value-based methods.md",
     "002 - research/202602200020 - value.md",
     "002 - research/202602200148 - advantage.md",

@@ -5,16 +5,20 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "generative pre-trained transformer",
       "path": "002 - research/generative pre-trained transformer.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
     },
     {
       "basename": "202602200001 - policy optimization",
@@ -71,10 +75,6 @@
     {
       "basename": "202602201335 - bootstrapping",
       "path": "002 - research/202602201335 - bootstrapping.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
       "basename": "202602201255 - value-based methods",
