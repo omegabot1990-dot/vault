@@ -16,6 +16,7 @@ parent nodes:
 - [x] [[202602201253 - model-based|Model-based]]
 - [x] [[202602201254 - actor-critic methods|Actor-Critic Methods]]
 - [x] [[202602201255 - value-based methods|Value-Based Methods]]
+- [x] [[202602201303 - q-learning|Q-learning]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
