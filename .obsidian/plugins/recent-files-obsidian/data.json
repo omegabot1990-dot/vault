@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
-    },
-    {
       "basename": "202602201241 - proximal policy optimization",
       "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602201917 - trust region policy optimization",
+      "path": "002 - research/202602201917 - trust region policy optimization.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -15,6 +15,14 @@
     {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "202602201254 - actor-critic methods",
+      "path": "002 - research/202602201254 - actor-critic methods.md"
     },
     {
       "basename": "generative pre-trained transformer",
@@ -31,10 +39,6 @@
     {
       "basename": "202602201253 - model-based",
       "path": "002 - research/202602201253 - model-based.md"
-    },
-    {
-      "basename": "202602201254 - actor-critic methods",
-      "path": "002 - research/202602201254 - actor-critic methods.md"
     },
     {
       "basename": "202602201253 - model-free",
@@ -195,10 +199,6 @@
     {
       "basename": "202602191533 - attention is all you need",
       "path": "002 - research/202602191533 - attention is all you need.md"
-    },
-    {
-      "basename": "natural language processing",
-      "path": "002 - research/natural language processing.md"
     }
   ],
   "omittedPaths": [],
