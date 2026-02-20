@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602201958 - monte carlo",
+      "path": "002 - research/202602201958 - monte carlo.md"
+    },
+    {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
-    },
-    {
-      "basename": "deep learning",
-      "path": "002 - research/deep learning.md"
     }
   ],
   "omittedPaths": [],

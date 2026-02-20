@@ -124,9 +124,25 @@
               "icon": "lucide-file",
               "title": "202602061227 - ppo-ptx"
             }
+          },
+          {
+            "id": "8e7aefb736f828df",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602201958 - monte carlo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602201958 - monte carlo"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -195,10 +211,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md"
+                "file": "002 - research/202602201958 - monte carlo.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602061227 - ppo-ptx"
+              "title": "File properties for 202602201958 - monte carlo"
             }
           },
           {
@@ -248,7 +264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md",
+                "file": "002 - research/202602201958 - monte carlo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +292,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602061227 - ppo-ptx"
+              "title": "Graph of 202602201958 - monte carlo"
             }
           }
         ]
@@ -517,10 +533,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md"
+                        "file": "002 - research/202602201958 - monte carlo.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602061227 - ppo-ptx"
+                      "title": "File properties for 202602201958 - monte carlo"
                     }
                   }
                 ]
@@ -535,7 +551,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md",
+                        "file": "002 - research/202602201958 - monte carlo.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -563,7 +579,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602061227 - ppo-ptx"
+                      "title": "Graph of 202602201958 - monte carlo"
                     }
                   }
                 ]
@@ -582,12 +598,13 @@
       }
     ]
   },
-  "active": "b9f0190ba8676867",
+  "active": "8e7aefb736f828df",
   "lastOpenFiles": [
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/202602201958 - monte carlo.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
@@ -609,7 +626,6 @@
     "002 - research/202602201335 - bootstrapping.md",
     "002 - research/202602201255 - value-based methods.md",
     "002 - research/202602200020 - value.md",
-    "002 - research/202602200148 - advantage.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
