@@ -83,8 +83,7 @@
               "title": "202602192221 - reinforcement learning"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,11 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/reinforcement learning.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for reinforcement learning"
+              "title": "File properties"
             }
           },
           {
@@ -206,7 +203,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of reinforcement learning"
+              "title": "Graph view"
             }
           }
         ]
@@ -377,8 +373,7 @@
                   "title": "202602200001 - policy optimization"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "867784f3a276c04a",
@@ -394,11 +389,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/reinforcement learning.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for reinforcement learning"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -413,7 +406,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -441,7 +433,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of reinforcement learning"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -460,10 +452,11 @@
       }
     ]
   },
-  "active": "51bed0f44f92b540",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/reinforcement learning.md",
     "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192343 - agent.md",
@@ -480,7 +473,6 @@
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602191644 - post-training.md",
     "002 - research/202602191524 - large language model.md",
-    "002 - research/reinforcement learning.md",
     "002 - research/202601282201 - supervised fine-tuning.md",
     "002 - research/202602030238 - cross-entropy loss.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
