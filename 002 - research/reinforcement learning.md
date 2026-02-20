@@ -13,6 +13,7 @@ parent nodes:
 - [x] [[202602201246 - off-policy|Off-policy]]
 - [x] [[202602201248 - on-policy|On-policy]]
 - [x] [[202602201253 - model-free|Model-free]]
+- [x] [[202602201253 - model-based|Model-based]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
