@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602192359 - value estimation.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602192359 - value estimation"
             }
           },
           {
@@ -245,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602192359 - value estimation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602192359 - value estimation"
             }
           }
         ]
@@ -510,9 +513,25 @@
                   "icon": "lucide-file",
                   "title": "202602201253 - model-free"
                 }
+              },
+              {
+                "id": "007b127a7d8cb745",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192359 - value estimation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192359 - value estimation"
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 8
           },
           {
             "id": "867784f3a276c04a",
@@ -528,9 +547,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602192359 - value estimation.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602192359 - value estimation"
                     }
                   }
                 ]
@@ -545,6 +566,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602192359 - value estimation.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -572,7 +594,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602192359 - value estimation"
                     }
                   }
                 ]
@@ -591,14 +613,14 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "007b127a7d8cb745",
   "lastOpenFiles": [
-    "002 - research/202602201253 - model-based.md",
     "002 - research/202602201253 - model-free.md",
+    "002 - research/202602192359 - value estimation.md",
+    "002 - research/202602201253 - model-based.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201255 - value-based methods.md",
     "002 - research/202602200020 - value.md",
-    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200134 - reinforce.md",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202602201253 - model-based",
-      "path": "002 - research/202602201253 - model-based.md"
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602201253 - model-free",
       "path": "002 - research/202602201253 - model-free.md"
+    },
+    {
+      "basename": "202602201253 - model-based",
+      "path": "002 - research/202602201253 - model-based.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -19,10 +23,6 @@
     {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
