@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "202602201958 - monte carlo",
-      "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
     },
     {
+      "basename": "202602031104 - llm agent",
+      "path": "002 - research/202602031104 - llm agent.md"
+    },
+    {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
+    },
+    {
+      "basename": "202602192343 - agent",
+      "path": "002 - research/202602192343 - agent.md"
+    },
+    {
       "basename": "202602201917 - trust region policy optimization",
       "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602201958 - monte carlo",
+      "path": "002 - research/202602201958 - monte carlo.md"
+    },
+    {
+      "basename": "202602201335 - bootstrapping",
+      "path": "002 - research/202602201335 - bootstrapping.md"
     },
     {
       "basename": "reinforcement learning",
@@ -89,10 +109,6 @@
       "path": "002 - research/202602111636 - regularization.md"
     },
     {
-      "basename": "202602201335 - bootstrapping",
-      "path": "002 - research/202602201335 - bootstrapping.md"
-    },
-    {
       "basename": "202602201255 - value-based methods",
       "path": "002 - research/202602201255 - value-based methods.md"
     },
@@ -133,10 +149,6 @@
       "path": "002 - research/202602192236 - markov decision process.md"
     },
     {
-      "basename": "202602192343 - agent",
-      "path": "002 - research/202602192343 - agent.md"
-    },
-    {
       "basename": "202602192345 - environment",
       "path": "002 - research/202602192345 - environment.md"
     },
@@ -173,10 +185,6 @@
       "path": "002 - research/202602191644 - post-training.md"
     },
     {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
-    },
-    {
       "basename": "202601282201 - supervised fine-tuning",
       "path": "002 - research/202601282201 - supervised fine-tuning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "202602181827 - kl divergence",
       "path": "002 - research/202602181827 - kl divergence.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     }
   ],
   "omittedPaths": [],

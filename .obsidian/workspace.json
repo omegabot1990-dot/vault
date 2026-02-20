@@ -124,25 +124,9 @@
               "icon": "lucide-file",
               "title": "202602061227 - ppo-ptx"
             }
-          },
-          {
-            "id": "8e7aefb736f828df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602201958 - monte carlo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602201958 - monte carlo"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602201958 - monte carlo.md"
+                "file": "002 - research/202602061227 - ppo-ptx.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602201958 - monte carlo"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -264,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201958 - monte carlo.md",
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201958 - monte carlo"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ]
@@ -516,7 +500,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "867784f3a276c04a",
@@ -533,10 +517,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602201958 - monte carlo.md"
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201958 - monte carlo"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -551,7 +535,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201958 - monte carlo.md",
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -579,7 +563,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201958 - monte carlo"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -598,14 +582,19 @@
       }
     ]
   },
-  "active": "8e7aefb736f828df",
+  "active": "b9f0190ba8676867",
   "lastOpenFiles": [
-    "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602201958 - monte carlo.md",
-    "002 - research/202602200134 - reinforce.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602031104 - llm agent.md",
+    "002 - research/large language models.md",
+    "002 - research/202602191524 - large language model.md",
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/202602192343 - agent.md",
     "002 - research/202602201917 - trust region policy optimization.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602200134 - reinforce.md",
+    "002 - research/202602201958 - monte carlo.md",
+    "002 - research/202602201335 - bootstrapping.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602200129 - policy gradient methods.md",
@@ -621,11 +610,6 @@
     "002 - research/202602111639 - underfitting.md",
     "002 - research/202602201853 - bias.md",
     "002 - research/202602111358 - weights and biases.md",
-    "002 - research/202602201334 - reward model.md",
-    "002 - research/202602111636 - regularization.md",
-    "002 - research/202602201335 - bootstrapping.md",
-    "002 - research/202602201255 - value-based methods.md",
-    "002 - research/202602200020 - value.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

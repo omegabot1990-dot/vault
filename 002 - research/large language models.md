@@ -1,15 +1,13 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+  - transformers
+description: ""
 parent nodes:
-- '[[generative pre-trained transformer]]'
+  - "[[generative pre-trained transformer]]"
 ---
 
 ## Topics
-
-- [x] [[202602191524 - large language model|Large Language Model]]
-- [x] [[202602192217 - reinforcement learning human feedback|Reinforcement Learning Human Feedback]]
 
 ## Blogs
 
