@@ -5,16 +5,48 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
+      "basename": "202602200001 - policy optimization",
+      "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "202602200013 - transition",
+      "path": "002 - research/202602200013 - transition.md"
+    },
+    {
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602201253 - model-based",
+      "path": "002 - research/202602201253 - model-based.md"
+    },
+    {
+      "basename": "202602201254 - actor-critic methods",
+      "path": "002 - research/202602201254 - actor-critic methods.md"
+    },
+    {
+      "basename": "202602201253 - model-free",
+      "path": "002 - research/202602201253 - model-free.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
       "basename": "neural networks",
       "path": "002 - research/neural networks.md"
     },
     {
       "basename": "202602201850 - bias-variance tradeoff",
       "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602111639 - underfitting",
@@ -25,16 +57,8 @@
       "path": "002 - research/202602111358 - weights and biases.md"
     },
     {
-      "basename": "202602201254 - actor-critic methods",
-      "path": "002 - research/202602201254 - actor-critic methods.md"
-    },
-    {
       "basename": "202602201334 - reward model",
       "path": "002 - research/202602201334 - reward model.md"
-    },
-    {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602111636 - regularization",
@@ -43,14 +67,6 @@
     {
       "basename": "202602201335 - bootstrapping",
       "path": "002 - research/202602201335 - bootstrapping.md"
-    },
-    {
-      "basename": "202602201253 - model-free",
-      "path": "002 - research/202602201253 - model-free.md"
-    },
-    {
-      "basename": "202602201253 - model-based",
-      "path": "002 - research/202602201253 - model-based.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -63,18 +79,6 @@
     {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602200001 - policy optimization",
-      "path": "002 - research/202602200001 - policy optimization.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "202602200148 - advantage",
@@ -99,10 +103,6 @@
     {
       "basename": "202602010053 - on-line learning",
       "path": "002 - research/202602010053 - on-line learning.md"
-    },
-    {
-      "basename": "202602200013 - transition",
-      "path": "002 - research/202602200013 - transition.md"
     },
     {
       "basename": "202602192245 - policy",
