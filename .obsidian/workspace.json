@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md"
+                "file": "002 - research/reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602201241 - proximal policy optimization"
+              "title": "File properties for reinforcement learning"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md",
+                "file": "002 - research/reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201241 - proximal policy optimization"
+              "title": "Graph of reinforcement learning"
             }
           }
         ]
@@ -501,10 +501,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md"
+                        "file": "002 - research/reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201241 - proximal policy optimization"
+                      "title": "File properties for reinforcement learning"
                     }
                   }
                 ]
@@ -519,7 +519,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md",
+                        "file": "002 - research/reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -547,7 +547,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201241 - proximal policy optimization"
+                      "title": "Graph of reinforcement learning"
                     }
                   }
                 ]
@@ -566,12 +566,12 @@
       }
     ]
   },
-  "active": "aec3f6d76d3d1209",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200148 - advantage.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602061329 - proximal policy optimisation.md",
