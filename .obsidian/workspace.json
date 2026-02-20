@@ -463,7 +463,8 @@
                   "title": "202602201241 - proximal policy optimization"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "867784f3a276c04a",
@@ -542,13 +543,13 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602200134 - reinforce.md",
+    "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200013 - transition.md",
-    "002 - research/202602200129 - policy gradient methods.md",
-    "002 - research/202602200134 - reinforce.md",
     "002 - research/202602201253 - model-based.md",
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602201253 - model-free.md",

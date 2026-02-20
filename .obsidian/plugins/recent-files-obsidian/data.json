@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "202602200013 - transition",
       "path": "002 - research/202602200013 - transition.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "202602201253 - model-based",
