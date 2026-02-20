@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602201303 - q-learning.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602201303 - q-learning"
             }
           },
           {
@@ -245,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602201303 - q-learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602201303 - q-learning"
             }
           }
         ]
@@ -526,9 +529,23 @@
                   "icon": "lucide-file",
                   "title": "202602201246 - off-policy"
                 }
+              },
+              {
+                "id": "33bd53a74301666c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602201303 - q-learning.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "202602201303 - q-learning"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           },
           {
             "id": "867784f3a276c04a",
@@ -544,9 +561,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602201303 - q-learning.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602201303 - q-learning"
                     }
                   }
                 ]
@@ -561,6 +580,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602201303 - q-learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -588,7 +608,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602201303 - q-learning"
                     }
                   }
                 ]
@@ -607,9 +627,10 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "33bd53a74301666c",
   "lastOpenFiles": [
     "002 - research/202602201246 - off-policy.md",
+    "002 - research/202602201303 - q-learning.md",
     "002 - research/202602201248 - on-policy.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602201255 - value-based methods.md",
@@ -634,7 +655,6 @@
     "002 - research/202602200020 - value.md",
     "002 - research/202602192356 - episode.md",
     "002 - research/202602192355 - return.md",
-    "002 - research/202602192352 - reward.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

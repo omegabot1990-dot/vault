@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
+    },
+    {
       "basename": "202602201246 - off-policy",
       "path": "002 - research/202602201246 - off-policy.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "encoder decoder transformer",
       "path": "002 - research/encoder decoder transformer.md"
-    },
-    {
-      "basename": "decoder transformers",
-      "path": "002 - research/decoder transformers.md"
     }
   ],
   "omittedPaths": [],
