@@ -500,7 +500,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 3
           },
           {
             "id": "867784f3a276c04a",
@@ -584,13 +584,13 @@
   },
   "active": "b9f0190ba8676867",
   "lastOpenFiles": [
-    "002 - research/202602201939 - group relative policy optimization.md",
-    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602200134 - reinforce.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/generative pre-trained transformer.md",
