@@ -10,6 +10,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602191537 - feed-forward network|Feedforward Network]]
+- [x] [[202602201850 - bias-variance tradeoff|Bias-Variance Tradeoff]]
 
 ## Blogs
 
