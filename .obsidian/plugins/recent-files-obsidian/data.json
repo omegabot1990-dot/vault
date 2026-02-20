@@ -5,12 +5,24 @@
       "path": "002 - research/reinforcement learning.md"
     },
     {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "202602200148 - advantage",
+      "path": "002 - research/202602200148 - advantage.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -19,14 +31,6 @@
     {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
-    },
-    {
-      "basename": "202602200148 - advantage",
-      "path": "002 - research/202602200148 - advantage.md"
-    },
-    {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202602192236 - markov decision process",
