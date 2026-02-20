@@ -11,6 +11,7 @@ parent nodes:
 
 - [x] [[202602201241 - proximal policy optimization|Proximal Policy Optimization]]
 - [x] [[202602201246 - off-policy|Off-policy]]
+- [x] [[202602201248 - on-policy|On-policy]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
