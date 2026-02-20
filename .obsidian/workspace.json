@@ -193,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602192359 - value estimation.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602192359 - value estimation"
+              "title": "File properties"
             }
           },
           {
@@ -247,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192359 - value estimation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192359 - value estimation"
+              "title": "Graph view"
             }
           }
         ]
@@ -547,11 +544,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602192359 - value estimation.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192359 - value estimation"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -566,7 +561,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192359 - value estimation.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -594,7 +588,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192359 - value estimation"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -613,10 +607,10 @@
       }
     ]
   },
-  "active": "007b127a7d8cb745",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602201253 - model-free.md",
     "002 - research/202602192359 - value estimation.md",
+    "002 - research/202602201253 - model-free.md",
     "002 - research/202602201253 - model-based.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201255 - value-based methods.md",
