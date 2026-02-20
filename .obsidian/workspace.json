@@ -193,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602201241 - proximal policy optimization"
+              "title": "File properties"
             }
           },
           {
@@ -247,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201241 - proximal policy optimization"
+              "title": "Graph view"
             }
           }
         ]
@@ -499,11 +496,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201241 - proximal policy optimization"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -518,7 +513,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -546,7 +540,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201241 - proximal policy optimization"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -565,13 +559,13 @@
       }
     ]
   },
-  "active": "aec3f6d76d3d1209",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200148 - advantage.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200129 - policy gradient methods.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602201246 - off-policy.md",
