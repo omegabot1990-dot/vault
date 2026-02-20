@@ -193,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602201254 - actor-critic methods.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602201254 - actor-critic methods"
+              "title": "File properties"
             }
           },
           {
@@ -247,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201254 - actor-critic methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201254 - actor-critic methods"
+              "title": "Graph view"
             }
           }
         ]
@@ -563,11 +560,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602201254 - actor-critic methods.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201254 - actor-critic methods"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -582,7 +577,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201254 - actor-critic methods.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -610,7 +604,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201254 - actor-critic methods"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -629,8 +623,9 @@
       }
     ]
   },
-  "active": "1f960d17528a0b09",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/202602201334 - reward model.md",
     "002 - research/202602111636 - regularization.md",
@@ -649,7 +644,6 @@
     "002 - research/202602201246 - off-policy.md",
     "002 - research/202602201305 - temporal-difference algorithm.md",
     "002 - research/202602010053 - on-line learning.md",
-    "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602200013 - transition.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192236 - markov decision process.md",
