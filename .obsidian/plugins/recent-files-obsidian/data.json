@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
     },
     {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602192221 - reinforcement learning",
@@ -195,10 +199,6 @@
     {
       "basename": "pre-training",
       "path": "002 - research/pre-training.md"
-    },
-    {
-      "basename": "continued pre-training",
-      "path": "002 - research/continued pre-training.md"
     }
   ],
   "omittedPaths": [],
