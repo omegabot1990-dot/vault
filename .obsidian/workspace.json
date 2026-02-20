@@ -501,8 +501,9 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "000 - daily notes/2026-02-20.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
@@ -531,7 +532,6 @@
     "002 - research/202602181827 - kl divergence.md",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
-    "002 - research/202602120102 - cross-entropy.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
