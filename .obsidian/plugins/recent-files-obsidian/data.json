@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "generative pre-trained transformer",
+      "path": "002 - research/generative pre-trained transformer.md"
+    },
+    {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "natural language processing",
       "path": "002 - research/natural language processing.md"
-    },
-    {
-      "basename": "definitions",
-      "path": "002 - research/definitions.md"
     }
   ],
   "omittedPaths": [],

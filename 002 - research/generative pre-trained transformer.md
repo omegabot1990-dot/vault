@@ -1,7 +1,16 @@
 ---
 tags:
-- moc
-description: ''
+  - moc
+description: ""
 parent nodes:
-- '[[decoder transformers]]'
 ---
+
+## Topics
+
+## Blogs
+
+## Papers
+
+## Videos
+
+## Code
