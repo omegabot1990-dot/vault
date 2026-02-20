@@ -10,6 +10,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602201917 - trust region policy optimization|Trust Region Policy Optimization]]
+- [x] [[202602201939 - group relative policy optimization|Group Relative Policy Optimization]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
