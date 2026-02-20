@@ -125,7 +125,8 @@
               "title": "202602061227 - ppo-ptx"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,9 +194,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602061227 - ppo-ptx.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -245,6 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ]
@@ -478,9 +482,25 @@
                   "icon": "lucide-file",
                   "title": "202602201917 - trust region policy optimization"
                 }
+              },
+              {
+                "id": "10fe5530dda40fa1",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602201939 - group relative policy optimization.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602201939 - group relative policy optimization"
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           },
           {
             "id": "867784f3a276c04a",
@@ -496,9 +516,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -513,6 +535,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -540,7 +563,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -559,13 +582,16 @@
       }
     ]
   },
-  "active": "4153eb17f64db27b",
+  "active": "b9f0190ba8676867",
   "lastOpenFiles": [
+    "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/202602201917 - trust region policy optimization.md",
+    "002 - research/202602200134 - reinforce.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200129 - policy gradient methods.md",
-    "002 - research/202602200134 - reinforce.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/generative pre-trained transformer.md",
     "002 - research/202602200001 - policy optimization.md",
@@ -573,7 +599,6 @@
     "002 - research/202602201253 - model-based.md",
     "002 - research/202602201253 - model-free.md",
     "002 - research/202602192359 - value estimation.md",
-    "002 - research/reinforcement learning.md",
     "002 - research/neural networks.md",
     "002 - research/202602201850 - bias-variance tradeoff.md",
     "002 - research/202602111639 - underfitting.md",
@@ -585,8 +610,6 @@
     "002 - research/202602201255 - value-based methods.md",
     "002 - research/202602200020 - value.md",
     "002 - research/202602200148 - advantage.md",
-    "002 - research/202602201248 - on-policy.md",
-    "002 - research/202602201303 - q-learning.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

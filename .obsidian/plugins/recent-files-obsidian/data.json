@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
       "basename": "202602201917 - trust region policy optimization",
       "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -11,14 +31,6 @@
     {
       "basename": "202602200129 - policy gradient methods",
       "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "202602201254 - actor-critic methods",
@@ -47,10 +59,6 @@
     {
       "basename": "202602192359 - value estimation",
       "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "neural networks",
@@ -119,10 +127,6 @@
     {
       "basename": "202602192236 - markov decision process",
       "path": "002 - research/202602192236 - markov decision process.md"
-    },
-    {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202602192343 - agent",
@@ -195,10 +199,6 @@
     {
       "basename": "deep learning",
       "path": "002 - research/deep learning.md"
-    },
-    {
-      "basename": "202602191533 - attention is all you need",
-      "path": "002 - research/202602191533 - attention is all you need.md"
     }
   ],
   "omittedPaths": [],
