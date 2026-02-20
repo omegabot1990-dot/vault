@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602200134 - reinforce.md"
+                "file": "002 - research/202602061227 - ppo-ptx.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602200134 - reinforce"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602200134 - reinforce.md",
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602200134 - reinforce"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ]
@@ -485,10 +485,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602200134 - reinforce.md"
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602200134 - reinforce"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -503,7 +503,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602200134 - reinforce.md",
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -531,7 +531,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602200134 - reinforce"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -550,11 +550,11 @@
       }
     ]
   },
-  "active": "857780a1daa00323",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602200134 - reinforce.md",
     "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/generative pre-trained transformer.md",
-    "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200013 - transition.md",
