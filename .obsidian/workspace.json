@@ -404,6 +404,22 @@
                   "icon": "lucide-file",
                   "title": "202602200134 - reinforce"
                 }
+              },
+              {
+                "id": "548659cc969c3e23",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200148 - advantage.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200148 - advantage"
+                }
               }
             ],
             "currentTab": 3
@@ -485,11 +501,12 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202602200148 - advantage.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602192236 - markov decision process.md",
@@ -515,7 +532,6 @@
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",
