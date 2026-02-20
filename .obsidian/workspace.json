@@ -125,8 +125,7 @@
               "title": "202602061227 - ppo-ptx"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +194,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/reinforcement learning.md"
+                "file": "002 - research/202602201241 - proximal policy optimization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reinforcement learning"
+              "title": "File properties for 202602201241 - proximal policy optimization"
             }
           },
           {
@@ -248,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/reinforcement learning.md",
+                "file": "002 - research/202602201241 - proximal policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of reinforcement learning"
+              "title": "Graph of 202602201241 - proximal policy optimization"
             }
           }
         ]
@@ -501,10 +500,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/reinforcement learning.md"
+                        "file": "002 - research/202602201241 - proximal policy optimization.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for reinforcement learning"
+                      "title": "File properties for 202602201241 - proximal policy optimization"
                     }
                   }
                 ]
@@ -519,7 +518,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/reinforcement learning.md",
+                        "file": "002 - research/202602201241 - proximal policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -547,7 +546,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of reinforcement learning"
+                      "title": "Graph of 202602201241 - proximal policy optimization"
                     }
                   }
                 ]
@@ -566,19 +565,20 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "aec3f6d76d3d1209",
   "lastOpenFiles": [
-    "002 - research/202602201241 - proximal policy optimization.md",
-    "002 - research/reinforcement learning.md",
-    "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602200148 - advantage.md",
     "002 - research/202602200134 - reinforce.md",
+    "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202602200129 - policy gradient methods.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602192236 - markov decision process.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/202602201246 - off-policy.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602061329 - proximal policy optimisation.md",
     "000 - daily notes/2026-02-20.md",
-    "002 - research/202602200129 - policy gradient methods.md",
-    "002 - research/202602200001 - policy optimization.md",
-    "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192343 - agent.md",
     "002 - research/202602192345 - environment.md",
@@ -593,7 +593,6 @@
     "002 - research/202602111400 - activation.md",
     "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602191644 - post-training.md",
-    "002 - research/202602191524 - large language model.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
