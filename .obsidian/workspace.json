@@ -193,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602201246 - off-policy.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602201246 - off-policy"
+              "title": "File properties"
             }
           },
           {
@@ -247,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201246 - off-policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201246 - off-policy"
+              "title": "Graph view"
             }
           }
         ]
@@ -547,11 +544,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602201246 - off-policy.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201246 - off-policy"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -566,7 +561,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201246 - off-policy.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -594,7 +588,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201246 - off-policy"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -613,10 +607,10 @@
       }
     ]
   },
-  "active": "0a49e23009936cdc",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602201248 - on-policy.md",
     "002 - research/202602201246 - off-policy.md",
+    "002 - research/202602201248 - on-policy.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602201255 - value-based methods.md",
     "002 - research/202602201254 - actor-critic methods.md",
