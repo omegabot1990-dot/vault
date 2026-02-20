@@ -11,6 +11,7 @@ parent nodes:
 
 - [x] [[202602200129 - policy gradient methods|Policy Gradient Methods]]
 - [x] [[202602200134 - reinforce|REINFORCE]]
+- [x] [[202602200148 - advantage|Advantage]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
