@@ -10,7 +10,7 @@ parent nodes:
 published on:
 ---
 
-- Online Learning (also called incremental learning) is a paradigm where a [[202602010044 - model|model]] learns continuously from a stream of data as it arrives, rather than being [[202602111335 - training|Training]] once on a static dataset
+- Online Learning (also called incremental learning) is a paradigm where a [[202602010044 - model|model]] learns continuously from a stream of data as it arrives, rather than being [[202602111335 - training|trained]] once on a static dataset
 
 | Feature        | Online Learning                                 | Offline (Batch) Learning                         |
 | :------------- | :---------------------------------------------- | :----------------------------------------------- |

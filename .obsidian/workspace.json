@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602201253 - model-based.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602201253 - model-based"
             }
           },
           {
@@ -245,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602201253 - model-based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602201253 - model-based"
             }
           }
         ]
@@ -464,22 +467,6 @@
                 }
               },
               {
-                "id": "548659cc969c3e23",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602200148 - advantage.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "202602200148 - advantage"
-                }
-              },
-              {
                 "id": "aec3f6d76d3d1209",
                 "type": "leaf",
                 "pinned": true,
@@ -496,53 +483,39 @@
                 }
               },
               {
-                "id": "3c84415468b1f773",
+                "id": "187459675a60e6de",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602201248 - on-policy.md",
+                    "file": "002 - research/202602201253 - model-based.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602201248 - on-policy"
+                  "title": "202602201253 - model-based"
                 }
               },
               {
-                "id": "0a49e23009936cdc",
+                "id": "ee0891711b0f7c96",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602201246 - off-policy.md",
+                    "file": "002 - research/202602201253 - model-free.md",
                     "mode": "source",
                     "source": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "202602201246 - off-policy"
-                }
-              },
-              {
-                "id": "33bd53a74301666c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "002 - research/202602201303 - q-learning.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "202602201303 - q-learning"
+                  "title": "202602201253 - model-free"
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 6
           },
           {
             "id": "867784f3a276c04a",
@@ -558,9 +531,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602201253 - model-based.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602201253 - model-based"
                     }
                   }
                 ]
@@ -575,6 +550,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602201253 - model-based.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -602,7 +578,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602201253 - model-based"
                     }
                   }
                 ]
@@ -621,22 +597,25 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "187459675a60e6de",
   "lastOpenFiles": [
-    "002 - research/202602201303 - q-learning.md",
-    "002 - research/202602201246 - off-policy.md",
-    "002 - research/202602201248 - on-policy.md",
-    "002 - research/202602200001 - policy optimization.md",
-    "002 - research/202602201255 - value-based methods.md",
-    "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602201253 - model-free.md",
     "002 - research/202602201253 - model-based.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602201255 - value-based methods.md",
+    "002 - research/202602200020 - value.md",
+    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602200129 - policy gradient methods.md",
+    "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200148 - advantage.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602201248 - on-policy.md",
+    "002 - research/202602201303 - q-learning.md",
+    "002 - research/202602201246 - off-policy.md",
+    "002 - research/202602201305 - temporal-difference algorithm.md",
+    "002 - research/202602010053 - on-line learning.md",
+    "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/202602200013 - transition.md",
-    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/reinforcement learning.md",
@@ -646,9 +625,6 @@
     "000 - daily notes/2026-02-20.md",
     "002 - research/202602192343 - agent.md",
     "002 - research/202602192345 - environment.md",
-    "002 - research/202602200020 - value.md",
-    "002 - research/202602192356 - episode.md",
-    "002 - research/202602192355 - return.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

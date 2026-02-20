@@ -1,21 +1,38 @@
 ---
 tags:
-- note
+  - reinforcement_learning
 aliases:
-- Temporal-Difference Algorithm
-- TD learning
+  - Temporal-Difference Algorithm
+  - TD learning
+  - TD Error
 title: temporal-difference algorithm
-description: ''
-bot: true
+description: ""
+bot: false
 parent nodes:
-- '[[reinforcement learning]]'
-published on: null
+  - "[[202602201255 - value-based methods|Value-Based Methods]]"
+published on:
 ---
 
-- Temporal-difference algorithms learn value estimates by bootstrapping from other learned estimates
-- They update from incomplete episodes using one-step prediction errors, improving online learning efficiency
+- [ ] What is Monte Carlo estimation?
+- [ ] What is TD(0)?
+- [ ] What is SARSA?
+
+---
+- Temporal-difference algorithms learn [[202602200020 - value|value]] estimates by bootstrapping from other learned estimates
+- They update from incomplete [[202602192356 - episode|episodes]] using one-step prediction errors, improving [[202602010053 - on-line learning|online learning]] efficiency
 - The TD error is commonly written as:
-  - $$\delta_t = r_{t+1} + \gamma V(s_{t+1}) - V(s_t)$$
-- TD(0), SARSA, and Q-learning are core temporal-difference methods
-- TD methods usually trade lower variance for some bias compared with pure Monte Carlo estimation
-- They are foundational for modern value-based and actor-critic reinforcement learning algorithms
+
+>[!MATH] TD-Error
+>$$\delta_t = r_{t+1} + \gamma V(s_{t+1}) - V(s_t)$$
+>
+> | Symbol | Name | Description |
+> | :--- | :--- | :--- |
+> | $\delta_t$ | **TD Error** | The "Surprise" or prediction error at time $t$ |
+> | $r_{t+1}$ | **Immediate Reward** | The actual reward observed after transitioning from $s_t$ |
+> | $\gamma$ | **Discount Factor** | The weight given to future rewards (0 to 1) |
+> | $V(s_{t+1})$ | **Next State Value** | The agent's current estimate of how good the *next* state is |
+> | $V(s_t)$ | **Current State Value** | The agent's current estimate of how good the *current* state is |
+
+- TD(0), SARSA, and [[202602201303 - q-learning|Q-learning]] are core temporal-difference methods
+- TD methods usually trade lower [[202602062206 - variance|variance]] for some bias compared with pure Monte Carlo estimation
+- They are foundational for modern [[202602201255 - value-based methods|value-based]] and [[202602201254 - actor-critic methods|actor-critic]] reinforcement learning algorithms

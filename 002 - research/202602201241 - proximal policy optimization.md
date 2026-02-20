@@ -1,12 +1,12 @@
 ---
 tags:
-  - note
+  - reinforcement_learning
 aliases:
   - Proximal Policy Optimization
   - PPO
 title: proximal policy optimization
 description: ""
-bot: true
+bot: false
 parent nodes:
   - "[[202602200129 - policy gradient methods|Policy Gradient Methods]]"
 published on:

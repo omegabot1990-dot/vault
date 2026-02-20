@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
+      "basename": "202602201253 - model-based",
+      "path": "002 - research/202602201253 - model-based.md"
     },
     {
-      "basename": "202602201246 - off-policy",
-      "path": "002 - research/202602201246 - off-policy.md"
+      "basename": "202602201253 - model-free",
+      "path": "002 - research/202602201253 - model-free.md"
     },
     {
-      "basename": "202602201248 - on-policy",
-      "path": "002 - research/202602201248 - on-policy.md"
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
-      "basename": "202602200001 - policy optimization",
-      "path": "002 - research/202602200001 - policy optimization.md"
+      "basename": "202602201255 - value-based methods",
+      "path": "002 - research/202602201255 - value-based methods.md"
+    },
+    {
+      "basename": "202602200020 - value",
+      "path": "002 - research/202602200020 - value.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
       "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
+      "basename": "202602200001 - policy optimization",
+      "path": "002 - research/202602200001 - policy optimization.md"
     },
     {
       "basename": "202602200134 - reinforce",
@@ -29,16 +41,28 @@
       "path": "002 - research/202602200148 - advantage.md"
     },
     {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
+      "basename": "202602201248 - on-policy",
+      "path": "002 - research/202602201248 - on-policy.md"
+    },
+    {
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
+    },
+    {
+      "basename": "202602201246 - off-policy",
+      "path": "002 - research/202602201246 - off-policy.md"
+    },
+    {
+      "basename": "202602201305 - temporal-difference algorithm",
+      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
+    },
+    {
+      "basename": "202602010053 - on-line learning",
+      "path": "002 - research/202602010053 - on-line learning.md"
     },
     {
       "basename": "202602200013 - transition",
       "path": "002 - research/202602200013 - transition.md"
-    },
-    {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602192245 - policy",
@@ -67,10 +91,6 @@
     {
       "basename": "202602192345 - environment",
       "path": "002 - research/202602192345 - environment.md"
-    },
-    {
-      "basename": "202602200020 - value",
-      "path": "002 - research/202602200020 - value.md"
     },
     {
       "basename": "202602192356 - episode",
@@ -179,26 +199,6 @@
     {
       "basename": "202602192100 - token",
       "path": "002 - research/202602192100 - token.md"
-    },
-    {
-      "basename": "202602192103 - embedding",
-      "path": "002 - research/202602192103 - embedding.md"
-    },
-    {
-      "basename": "202602050141 - autoregressive",
-      "path": "002 - research/202602050141 - autoregressive.md"
-    },
-    {
-      "basename": "tokenizer",
-      "path": "002 - research/tokenizer.md"
-    },
-    {
-      "basename": "202602191619 - multi-head self attention",
-      "path": "002 - research/202602191619 - multi-head self attention.md"
-    },
-    {
-      "basename": "encoder decoder transformer",
-      "path": "002 - research/encoder decoder transformer.md"
     }
   ],
   "omittedPaths": [],
