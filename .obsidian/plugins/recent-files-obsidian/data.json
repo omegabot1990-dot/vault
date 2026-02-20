@@ -5,12 +5,12 @@
       "path": "002 - research/202602201254 - actor-critic methods.md"
     },
     {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
       "basename": "202602201334 - reward model",
       "path": "002 - research/202602201334 - reward model.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602111636 - regularization",

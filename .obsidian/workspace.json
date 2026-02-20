@@ -543,8 +543,7 @@
                   "title": "202602201254 - actor-critic methods"
                 }
               }
-            ],
-            "currentTab": 9
+            ]
           },
           {
             "id": "867784f3a276c04a",
@@ -623,11 +622,11 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "bb42fd34f6702404",
   "lastOpenFiles": [
     "002 - research/202602201254 - actor-critic methods.md",
-    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602201334 - reward model.md",
+    "002 - research/202602192359 - value estimation.md",
     "002 - research/202602111636 - regularization.md",
     "002 - research/202602201335 - bootstrapping.md",
     "002 - research/202602201253 - model-free.md",
