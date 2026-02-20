@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "202602201254 - actor-critic methods",
+      "path": "002 - research/202602201254 - actor-critic methods.md"
+    },
+    {
       "basename": "202602192359 - value estimation",
       "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
+      "basename": "202602201334 - reward model",
+      "path": "002 - research/202602201334 - reward model.md"
+    },
+    {
+      "basename": "202602111636 - regularization",
+      "path": "002 - research/202602111636 - regularization.md"
+    },
+    {
+      "basename": "202602201335 - bootstrapping",
+      "path": "002 - research/202602201335 - bootstrapping.md"
     },
     {
       "basename": "202602201253 - model-free",
@@ -183,22 +199,6 @@
     {
       "basename": "transformers",
       "path": "002 - research/transformers.md"
-    },
-    {
-      "basename": "202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602192054 - positional encoding",
-      "path": "002 - research/202602192054 - positional encoding.md"
-    },
-    {
-      "basename": "202602192100 - token",
-      "path": "002 - research/202602192100 - token.md"
     }
   ],
   "omittedPaths": [],

@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602201254 - actor-critic methods.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602201254 - actor-critic methods"
             }
           },
           {
@@ -245,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602201254 - actor-critic methods.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602201254 - actor-critic methods"
             }
           }
         ]
@@ -526,9 +529,25 @@
                   "icon": "lucide-file",
                   "title": "202602192359 - value estimation"
                 }
+              },
+              {
+                "id": "1f960d17528a0b09",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602201254 - actor-critic methods.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602201254 - actor-critic methods"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           },
           {
             "id": "867784f3a276c04a",
@@ -544,9 +563,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602201254 - actor-critic methods.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602201254 - actor-critic methods"
                     }
                   }
                 ]
@@ -561,6 +582,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602201254 - actor-critic methods.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -588,7 +610,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602201254 - actor-critic methods"
                     }
                   }
                 ]
@@ -607,9 +629,12 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "1f960d17528a0b09",
   "lastOpenFiles": [
     "002 - research/202602192359 - value estimation.md",
+    "002 - research/202602201334 - reward model.md",
+    "002 - research/202602111636 - regularization.md",
+    "002 - research/202602201335 - bootstrapping.md",
     "002 - research/202602201253 - model-free.md",
     "002 - research/202602201253 - model-based.md",
     "002 - research/202602201241 - proximal policy optimization.md",
@@ -632,9 +657,6 @@
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602061329 - proximal policy optimisation.md",
-    "000 - daily notes/2026-02-20.md",
-    "002 - research/202602192343 - agent.md",
-    "002 - research/202602192345 - environment.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
