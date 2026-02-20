@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602201246 - off-policy",
+      "path": "002 - research/202602201246 - off-policy.md"
+    },
+    {
+      "basename": "202602201248 - on-policy",
+      "path": "002 - research/202602201248 - on-policy.md"
+    },
+    {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
-    },
-    {
-      "basename": "202602201246 - off-policy",
-      "path": "002 - research/202602201246 - off-policy.md"
-    },
-    {
-      "basename": "202602201248 - on-policy",
-      "path": "002 - research/202602201248 - on-policy.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",

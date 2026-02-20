@@ -193,9 +193,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202602201246 - off-policy.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202602201246 - off-policy"
             }
           },
           {
@@ -245,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202602201246 - off-policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +275,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202602201246 - off-policy"
             }
           }
         ]
@@ -528,7 +531,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 8
           },
           {
             "id": "867784f3a276c04a",
@@ -544,9 +547,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202602201246 - off-policy.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202602201246 - off-policy"
                     }
                   }
                 ]
@@ -561,6 +566,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202602201246 - off-policy.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -588,7 +594,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202602201246 - off-policy"
                     }
                   }
                 ]
@@ -607,14 +613,18 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "0a49e23009936cdc",
   "lastOpenFiles": [
+    "002 - research/202602201248 - on-policy.md",
+    "002 - research/202602201246 - off-policy.md",
     "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202602201255 - value-based methods.md",
+    "002 - research/202602201254 - actor-critic methods.md",
+    "002 - research/202602201253 - model-free.md",
+    "002 - research/202602201253 - model-based.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200148 - advantage.md",
-    "002 - research/202602201246 - off-policy.md",
-    "002 - research/202602201248 - on-policy.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200013 - transition.md",
     "002 - research/202602192359 - value estimation.md",
@@ -631,10 +641,6 @@
     "002 - research/202602192356 - episode.md",
     "002 - research/202602192355 - return.md",
     "002 - research/202602192352 - reward.md",
-    "002 - research/202602192350 - action.md",
-    "002 - research/202602192351 - state.md",
-    "002 - research/202602111400 - activation.md",
-    "002 - research/202602192217 - reinforcement learning human feedback.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
