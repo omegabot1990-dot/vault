@@ -9,18 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602192343 - agent|Agent]]
-- [x] [[202602192345 - environment|Environment]]
-- [x] [[202602192350 - action|Action]]
-- [x] [[202602192351 - state|State]]
-- [x] [[202602192352 - reward|Reward]]
-- [x] [[202602192355 - return|Return]]
-- [x] [[202602192356 - episode|Episode]]
-- [x] [[202602192359 - value estimation|Value Estimation]]
-- [x] [[202602200020 - value|Value]]
-- [x] [[202602200001 - policy optimization|Policy Optimization]]
-- [x] [[202602200013 - transition|Transition]]
-
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 
