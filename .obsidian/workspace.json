@@ -388,9 +388,25 @@
                   "icon": "lucide-file",
                   "title": "202602200129 - policy gradient methods"
                 }
+              },
+              {
+                "id": "857780a1daa00323",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200134 - reinforce.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200134 - reinforce"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "867784f3a276c04a",
@@ -471,6 +487,7 @@
   },
   "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602200134 - reinforce.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/reinforcement learning.md",
@@ -499,7 +516,6 @@
     "007 - attachments",
     "002 - research/202602120102 - cross-entropy.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
-    "002 - research/deep learning.md",
     "scripts/hf_trending_newsletter.py",
     "scripts",
     "000 - daily notes/2026/February",

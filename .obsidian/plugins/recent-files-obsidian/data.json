@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
       "basename": "202602200129 - policy gradient methods",
       "path": "002 - research/202602200129 - policy gradient methods.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "normalization",
       "path": "002 - research/normalization.md"
-    },
-    {
-      "basename": "pre-training",
-      "path": "002 - research/pre-training.md"
     }
   ],
   "omittedPaths": [],
