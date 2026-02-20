@@ -18,6 +18,7 @@ parent nodes:
 - [x] [[202602201255 - value-based methods|Value-Based Methods]]
 - [x] [[202602201303 - q-learning|Q-learning]]
 - [x] [[202602201305 - temporal-difference algorithm|Temporal-Difference Algorithm]]
+- [x] [[202602201334 - reward model|Reward Model]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
