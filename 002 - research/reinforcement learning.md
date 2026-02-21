@@ -15,6 +15,7 @@ parent nodes:
 - [x] [[202602211411 - generalized advantage estimation|Generalized Advantage Estimation]]
 - [x] [[202602211420 - bellman equation|The Bellman Equation]]
 - [x] [[202602211440 - dynamic programming|Dynamic Programming]]
+- [x] [[202602211445 - importance sampling|Importance Sampling]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
