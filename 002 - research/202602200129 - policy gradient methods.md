@@ -17,3 +17,6 @@ published on:
 - Baselines (e.g., [[202602200020 - value|value]] functions) reduce variance without changing expected gradient
 - [[202602201254 - actor-critic methods|Actor-critic methods]] combine policy gradients with learned critics for better sample efficiency
 - [[202602201241 - proximal policy optimization|PPO]] and related methods add trust-region style constraints for stable policy updates
+
+
+[^1]: [Policy Gradient Methods | Reinforcement Learning Part 6](https://www.youtube.com/watch?v=e20EY4tFC_Q&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr&index=6)

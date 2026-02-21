@@ -23,7 +23,8 @@ parent nodes:
 
 - [ ] [HuggingFace - Transformer Reinforcement Learning](https://huggingface.co/docs/trl/en/index)
 
-- [ ] [What is Actor-Critic in Reinforcement Learning?](https://www.reinforcementlearningpath.com/what-is-actor-critic-in-reinforcement-learning)
+- [ ] [Reinforcement Learning Path](https://www.reinforcementlearningpath.com/)
+	- [ ] [What is Actor-Critic in Reinforcement Learning?](https://www.reinforcementlearningpath.com/what-is-actor-critic-in-reinforcement-learning)
 
 - [ ] [Deep Reinforcement Learning: Pong from Pixels - Andrej Karpathy](https://karpathy.github.io/2016/05/31/rl/)
 
