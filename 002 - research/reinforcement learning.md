@@ -12,6 +12,7 @@ parent nodes:
 - [x] [[202602201917 - trust region policy optimization|Trust Region Policy Optimization]]
 - [x] [[202602201939 - group relative policy optimization|Group Relative Policy Optimization]]
 - [x] [[202602201958 - monte carlo|Monte Carlo]]
+- [x] [[202602211411 - generalized advantage estimation|Generalized Advantage Estimation]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
