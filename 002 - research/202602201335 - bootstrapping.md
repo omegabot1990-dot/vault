@@ -7,7 +7,7 @@ title: bootstrapping
 description: ""
 bot: false
 parent nodes:
-  - "[[202602201305 - temporal-difference algorithm|Temporal-Difference Algorithm]]"
+  - "[[202602192221 - reinforcement learning|Reinforcement Learning]]"
 published on:
 ---
 

@@ -5,8 +5,36 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602201917 - trust region policy optimization",
+      "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
+      "basename": "202602201850 - bias-variance tradeoff",
+      "path": "002 - research/202602201850 - bias-variance tradeoff.md"
+    },
+    {
+      "basename": "202602201958 - monte carlo",
+      "path": "002 - research/202602201958 - monte carlo.md"
+    },
+    {
+      "basename": "202602201305 - temporal-difference algorithm",
+      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
+    },
+    {
+      "basename": "202602201335 - bootstrapping",
+      "path": "002 - research/202602201335 - bootstrapping.md"
+    },
+    {
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
     },
     {
       "basename": "202602031104 - llm agent",
@@ -25,24 +53,8 @@
       "path": "002 - research/202602192343 - agent.md"
     },
     {
-      "basename": "202602201917 - trust region policy optimization",
-      "path": "002 - research/202602201917 - trust region policy optimization.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602201958 - monte carlo",
-      "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
-      "basename": "202602201335 - bootstrapping",
-      "path": "002 - research/202602201335 - bootstrapping.md"
     },
     {
       "basename": "reinforcement learning",
@@ -89,10 +101,6 @@
       "path": "002 - research/neural networks.md"
     },
     {
-      "basename": "202602201850 - bias-variance tradeoff",
-      "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
       "basename": "202602111639 - underfitting",
       "path": "002 - research/202602111639 - underfitting.md"
     },
@@ -125,16 +133,8 @@
       "path": "002 - research/202602201248 - on-policy.md"
     },
     {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
-    },
-    {
       "basename": "202602201246 - off-policy",
       "path": "002 - research/202602201246 - off-policy.md"
-    },
-    {
-      "basename": "202602201305 - temporal-difference algorithm",
-      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
     },
     {
       "basename": "202602010053 - on-line learning",

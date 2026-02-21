@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md"
+                "file": "002 - research/202602201241 - proximal policy optimization.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602061227 - ppo-ptx"
+              "title": "File properties for 202602201241 - proximal policy optimization"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md",
+                "file": "002 - research/202602201241 - proximal policy optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602061227 - ppo-ptx"
+              "title": "Graph of 202602201241 - proximal policy optimization"
             }
           }
         ]
@@ -500,7 +500,7 @@
                 }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "867784f3a276c04a",
@@ -517,10 +517,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md"
+                        "file": "002 - research/202602201241 - proximal policy optimization.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602061227 - ppo-ptx"
+                      "title": "File properties for 202602201241 - proximal policy optimization"
                     }
                   }
                 ]
@@ -535,7 +535,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md",
+                        "file": "002 - research/202602201241 - proximal policy optimization.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -563,7 +563,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602061227 - ppo-ptx"
+                      "title": "Graph of 202602201241 - proximal policy optimization"
                     }
                   }
                 ]
@@ -582,19 +582,22 @@
       }
     ]
   },
-  "active": "b9f0190ba8676867",
+  "active": "aec3f6d76d3d1209",
   "lastOpenFiles": [
+    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602201850 - bias-variance tradeoff.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602201958 - monte carlo.md",
+    "002 - research/202602201305 - temporal-difference algorithm.md",
+    "002 - research/202602201335 - bootstrapping.md",
+    "002 - research/202602201303 - q-learning.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602031104 - llm agent.md",
     "002 - research/large language models.md",
     "002 - research/202602191524 - large language model.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602192343 - agent.md",
-    "002 - research/202602201917 - trust region policy optimization.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200134 - reinforce.md",
-    "002 - research/202602201958 - monte carlo.md",
-    "002 - research/202602201335 - bootstrapping.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602200129 - policy gradient methods.md",
@@ -606,10 +609,7 @@
     "002 - research/202602201253 - model-free.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/neural networks.md",
-    "002 - research/202602201850 - bias-variance tradeoff.md",
     "002 - research/202602111639 - underfitting.md",
-    "002 - research/202602201853 - bias.md",
-    "002 - research/202602111358 - weights and biases.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
