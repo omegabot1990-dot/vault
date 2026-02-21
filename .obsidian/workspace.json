@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602200148 - advantage.md"
+                "file": "002 - research/202602061227 - ppo-ptx.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602200148 - advantage"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602200148 - advantage.md",
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602200148 - advantage"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ],
@@ -515,9 +515,41 @@
                   "icon": "lucide-file",
                   "title": "202602200148 - advantage"
                 }
+              },
+              {
+                "id": "b9e9bee5fe299cc7",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192359 - value estimation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192359 - value estimation"
+                }
+              },
+              {
+                "id": "2ff2b062168bda3f",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200020 - value.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200020 - value"
+                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           },
           {
             "id": "867784f3a276c04a",
@@ -534,10 +566,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602200148 - advantage.md"
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602200148 - advantage"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -552,7 +584,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602200148 - advantage.md",
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -580,7 +612,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602200148 - advantage"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -599,11 +631,14 @@
       }
     ]
   },
-  "active": "9354035c8238092c",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602192359 - value estimation.md",
+    "002 - research/202602200020 - value.md",
+    "002 - research/202602200148 - advantage.md",
+    "002 - research/202602211411 - generalized advantage estimation.md",
     "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602200148 - advantage.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602201305 - temporal-difference algorithm.md",
     "002 - research/202602201958 - monte carlo.md",
@@ -624,9 +659,6 @@
     "002 - research/generative pre-trained transformer.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602200013 - transition.md",
-    "002 - research/202602201253 - model-based.md",
-    "002 - research/202602201253 - model-free.md",
-    "002 - research/202602192359 - value estimation.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

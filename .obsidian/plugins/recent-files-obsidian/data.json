@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
+      "basename": "202602200020 - value",
+      "path": "002 - research/202602200020 - value.md"
+    },
+    {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
     },
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -97,10 +105,6 @@
       "path": "002 - research/202602201253 - model-free.md"
     },
     {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
       "basename": "neural networks",
       "path": "002 - research/neural networks.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "202602201255 - value-based methods",
       "path": "002 - research/202602201255 - value-based methods.md"
-    },
-    {
-      "basename": "202602200020 - value",
-      "path": "002 - research/202602200020 - value.md"
     },
     {
       "basename": "202602201248 - on-policy",
