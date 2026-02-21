@@ -26,3 +26,6 @@ published on:
 - Equivalent [[202602192350 - action|action]]-value forms define targets used by [[202602201303 - q-learning|Q-learning]] and other [[202602201255 - value-based methods|value-based methods]]
 - Dynamic programming and [[202602201305 - temporal-difference algorithm|temporal-difference algorithms]] rely directly on Bellman updates
 - The equation is foundational because it turns long-horizon [[202602192355 - return|return]] optimization into local recursive updates
+
+
+[^1]: [Bellman Equations, Dynamic Programming, Generalized Policy Iteration | Reinforcement Learning Part 2](https://www.youtube.com/watch?v=_j6pvGEchWU&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr&index=2)

@@ -1,12 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
+    },
+    {
+      "basename": "202602201335 - bootstrapping",
+      "path": "002 - research/202602201335 - bootstrapping.md"
+    },
+    {
+      "basename": "202602201253 - model-free",
+      "path": "002 - research/202602201253 - model-free.md"
+    },
+    {
+      "basename": "202602201305 - temporal-difference algorithm",
+      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
+    },
+    {
+      "basename": "202602201246 - off-policy",
+      "path": "002 - research/202602201246 - off-policy.md"
+    },
+    {
+      "basename": "202602201248 - on-policy",
+      "path": "002 - research/202602201248 - on-policy.md"
+    },
+    {
+      "basename": "202602201253 - model-based",
+      "path": "002 - research/202602201253 - model-based.md"
+    },
+    {
+      "basename": "202602201958 - monte carlo",
+      "path": "002 - research/202602201958 - monte carlo.md"
+    },
+    {
+      "basename": "202602211420 - bellman equation",
+      "path": "002 - research/202602211420 - bellman equation.md"
+    },
+    {
+      "basename": "202602192236 - markov decision process",
+      "path": "002 - research/202602192236 - markov decision process.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602200013 - transition",
+      "path": "002 - research/202602200013 - transition.md"
+    },
+    {
+      "basename": "202602192245 - policy",
+      "path": "002 - research/202602192245 - policy.md"
+    },
+    {
+      "basename": "202602192355 - return",
+      "path": "002 - research/202602192355 - return.md"
+    },
+    {
+      "basename": "202602192351 - state",
+      "path": "002 - research/202602192351 - state.md"
+    },
+    {
+      "basename": "202602192350 - action",
+      "path": "002 - research/202602192350 - action.md"
+    },
+    {
+      "basename": "202602192345 - environment",
+      "path": "002 - research/202602192345 - environment.md"
+    },
+    {
+      "basename": "202602200020 - value",
+      "path": "002 - research/202602200020 - value.md"
+    },
+    {
+      "basename": "202602201334 - reward model",
+      "path": "002 - research/202602201334 - reward model.md"
+    },
+    {
+      "basename": "202602192343 - agent",
+      "path": "002 - research/202602192343 - agent.md"
+    },
+    {
+      "basename": "202602192352 - reward",
+      "path": "002 - research/202602192352 - reward.md"
     },
     {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "202602080005 - sampling",
+      "path": "002 - research/202602080005 - sampling.md"
+    },
+    {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -57,24 +149,12 @@
       "path": "002 - research/202602120102 - cross-entropy.md"
     },
     {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
     },
     {
       "basename": "202602211411 - generalized advantage estimation",
       "path": "002 - research/202602211411 - generalized advantage estimation.md"
-    },
-    {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
-      "basename": "202602200020 - value",
-      "path": "002 - research/202602200020 - value.md"
     },
     {
       "basename": "policy gradient methods",
@@ -89,28 +169,8 @@
       "path": "002 - research/202602211440 - dynamic programming.md"
     },
     {
-      "basename": "202602211420 - bellman equation",
-      "path": "002 - research/202602211420 - bellman equation.md"
-    },
-    {
-      "basename": "202602201305 - temporal-difference algorithm",
-      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
-    },
-    {
-      "basename": "202602201958 - monte carlo",
-      "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
       "basename": "202602201850 - bias-variance tradeoff",
       "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
-      "basename": "202602201335 - bootstrapping",
-      "path": "002 - research/202602201335 - bootstrapping.md"
-    },
-    {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
     },
     {
       "basename": "202602031104 - llm agent",
@@ -125,24 +185,8 @@
       "path": "002 - research/202602191524 - large language model.md"
     },
     {
-      "basename": "202602192343 - agent",
-      "path": "002 - research/202602192343 - agent.md"
-    },
-    {
       "basename": "generative pre-trained transformer",
       "path": "002 - research/generative pre-trained transformer.md"
-    },
-    {
-      "basename": "202602200013 - transition",
-      "path": "002 - research/202602200013 - transition.md"
-    },
-    {
-      "basename": "202602201253 - model-based",
-      "path": "002 - research/202602201253 - model-based.md"
-    },
-    {
-      "basename": "202602201253 - model-free",
-      "path": "002 - research/202602201253 - model-free.md"
     },
     {
       "basename": "neural networks",
@@ -155,50 +199,6 @@
     {
       "basename": "202602111358 - weights and biases",
       "path": "002 - research/202602111358 - weights and biases.md"
-    },
-    {
-      "basename": "202602201334 - reward model",
-      "path": "002 - research/202602201334 - reward model.md"
-    },
-    {
-      "basename": "202602111636 - regularization",
-      "path": "002 - research/202602111636 - regularization.md"
-    },
-    {
-      "basename": "202602201255 - value-based methods",
-      "path": "002 - research/202602201255 - value-based methods.md"
-    },
-    {
-      "basename": "202602201248 - on-policy",
-      "path": "002 - research/202602201248 - on-policy.md"
-    },
-    {
-      "basename": "202602201246 - off-policy",
-      "path": "002 - research/202602201246 - off-policy.md"
-    },
-    {
-      "basename": "202602010053 - on-line learning",
-      "path": "002 - research/202602010053 - on-line learning.md"
-    },
-    {
-      "basename": "202602192245 - policy",
-      "path": "002 - research/202602192245 - policy.md"
-    },
-    {
-      "basename": "202602192236 - markov decision process",
-      "path": "002 - research/202602192236 - markov decision process.md"
-    },
-    {
-      "basename": "202602192345 - environment",
-      "path": "002 - research/202602192345 - environment.md"
-    },
-    {
-      "basename": "202602192356 - episode",
-      "path": "002 - research/202602192356 - episode.md"
-    },
-    {
-      "basename": "202602192355 - return",
-      "path": "002 - research/202602192355 - return.md"
     }
   ],
   "omittedPaths": [],

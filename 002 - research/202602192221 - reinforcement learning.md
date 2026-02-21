@@ -6,13 +6,12 @@ aliases:
   - RL
 title: reinforcement learning
 description: ""
-bot: true
+bot: false
 parent nodes:
-  - "[[reinforcement learning]]"
+  - "[[202602061145 - machine learning|Machine Learning]]"
 published on:
 ---
 
-- [ ] What is actor-critic?
 - [ ] [YouTube - The FASTEST introduction to Reinforcement Learning on the internet](https://www.youtube.com/watch?v=VnpRp7ZglfA&t=1755s)
 
 ---
@@ -29,9 +28,9 @@ published on:
 	- <mark style="background: #D2B3FFA6;">Transitions</mark>
 - <mark style="background: #ADCCFFA6;">A policy maps states to actions, and learning improves this policy from experience</mark>
 - Core method families are:
-	- Value-based
-	- Policy-gradient
-	- Actor-critic
+	- [[202602201255 - value-based methods|Value-based]]
+	- [[202602200129 - policy gradient methods|Policy-gradient]]
+	- [[202602201254 - actor-critic methods|Actor-critic]]
 - <mark style="background: #FF5582A6;">Exploration-exploitation</mark> trade-offs are central because rewards are observed only for chosen actions
 - RL is used in:
 	- Control
@@ -43,3 +42,4 @@ published on:
 
 [^1]: [Reinforcement Learning with Neural Networks: Essential Concepts](https://www.youtube.com/watch?v=9hbQieQh7-o&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=23)
 [^2]: [Reinforcement Learning with Neural Networks: Mathematical Details](https://www.youtube.com/watch?v=DVGmsnxB2UQ&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=24)
+[^3]: [Reinforcement Learning, by the Book](https://www.youtube.com/watch?v=NFo9v_yKQXA&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)

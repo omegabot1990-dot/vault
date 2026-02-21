@@ -34,3 +34,6 @@ published on:
 - TD(0), SARSA, and [[202602201303 - q-learning|Q-learning]] are core temporal-difference methods
 - TD methods usually trade lower [[202602062206 - variance|variance]] for some bias compared with pure [[202602201958 - monte carlo|Monte Carlo]] estimation
 - They are foundational for modern [[202602201255 - value-based methods|value-based]] and [[202602201254 - actor-critic methods|actor-critic]] reinforcement learning algorithms
+
+
+[^1]: [Temporal Difference Learning (including Q-Learning) | Reinforcement Learning Part 4](https://www.youtube.com/watch?v=AJiG3ykOxmY&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr&index=4)

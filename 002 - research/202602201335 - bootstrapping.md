@@ -21,3 +21,6 @@ published on:
 - Bootstrapping often improves sample efficiency and enables [[202602010053 - on-line learning|online learning]]
 - It <mark style="background: #BBFABBA6;">introduces bias because targets depend on imperfect learned estimates</mark>
 - Practical stability depends on step sizes, target construction, and function approximation choices
+
+
+[^1]: [Temporal Difference Learning (including Q-Learning) | Reinforcement Learning Part 4](https://www.youtube.com/watch?v=AJiG3ykOxmY&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr&index=4)

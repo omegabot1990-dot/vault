@@ -11,7 +11,7 @@ parent nodes:
 published on:
 ---
 
-- Value estimation learns [[202602061333 - expectation|expected]] [[202602192355 - return|return]] quantities used to evaluate decisions in [[202602192221 - reinforcement learning|reinforcement learning]]
+- Value estimation learns [[202602061333 - expectation|expected]] [[202602192355 - return|return]] quantities used to evaluate decisions
 - Common targets are the [[202602192351 - state|state]]-[[202602200020 - value|value]] $V^\pi(s)$ and [[202602192350 - action|action]]-value $Q^\pi(s,a)$ functions
 - The value of a state $s$ under a policy $\pi$ is the [[202602061333 - expectation|expected]] [[202602192355 - return|return]] when starting in $s$ and following $\pi$ thereafter:
 	- We can decompose the value into the immediate [[202602192352 - reward|reward]] plus the discounted value of the next state:
@@ -40,3 +40,6 @@ published on:
 - Value estimation reduces long-horizon planning to local updates based on Bellman relations
 - Accurate value estimates improve [[202602192245 - policy|policy]] improvement and action selection
 - Approximation error, [[202602062206 - variance|variance]], and [[202602072325 - distribution|distribution]] shift can destabilise value learning
+
+
+[^1]: [Bellman Equations, Dynamic Programming, Generalized Policy Iteration | Reinforcement Learning Part 2](https://www.youtube.com/watch?v=_j6pvGEchWU&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr&index=2)

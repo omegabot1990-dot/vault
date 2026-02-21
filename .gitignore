@@ -12,6 +12,7 @@
 .data.json
 .workspace.json
 
+007 - attachments/
 # Script caches
 .cache/
 
