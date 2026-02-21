@@ -125,8 +125,7 @@
               "title": "202602061227 - ppo-ptx"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 202602192217 - reinforcement learning human feedback"
+              "title": "File properties"
             }
           },
           {
@@ -248,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192217 - reinforcement learning human feedback"
+              "title": "Graph view"
             }
           }
         ],
@@ -514,8 +510,7 @@
                   "title": "202602211445 - importance sampling"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "867784f3a276c04a",
@@ -531,11 +526,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192217 - reinforcement learning human feedback"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -550,7 +543,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -578,7 +570,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192217 - reinforcement learning human feedback"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -597,16 +589,16 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "4153eb17f64db27b",
   "lastOpenFiles": [
+    "002 - research/202602192217 - reinforcement learning human feedback.md",
+    "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602211445 - importance sampling.md",
-    "002 - research/202602201917 - trust region policy optimization.md",
-    "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/202602181827 - kl divergence.md",
     "002 - research/202602061804 - entropy.md",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602061227 - ppo-ptx.md",

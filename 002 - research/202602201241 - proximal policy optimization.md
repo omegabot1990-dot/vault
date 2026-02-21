@@ -29,7 +29,7 @@ published on:
 - [[202602111625 - batch size|Mini-batch]] [[202602111623 - epochs|epochs]] over collected trajectories improve data utilisation per rollout
 - PPO is widely used in robotics, control benchmarks, and [[202602191524 - large language model|Large Language Model (LLM)]] [[202602191644 - post-training|post-training]] pipelines
 - Key Properties
-	- <mark style="background: #BBFABBA6;">On-Policy</mark>
+	- [[202602201248 - on-policy|On-Policy]]
 		- PPO learns from data collected by its current version, but the "Ratio" allows it to safely reuse that data for a few mini-batch updates
 	- <mark style="background: #FF5582A6;">Actor-Critic</mark>
 		- The Actor updates the policy ($\pi$), while the Critic updates the [[202602200020 - value|Value]] Function ($V$) to calculate the [[202602200148 - advantage|Advantage]] ($\hat{A}_t$)

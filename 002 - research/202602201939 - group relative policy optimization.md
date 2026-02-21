@@ -34,3 +34,6 @@ published on:
 		- Specifically designed for scaling Large Language Models
 	- <mark style="background: #FFF3A3A6;">Reasoning Focused</mark>
 		- The core algorithm behind DeepSeek-R1's ability to self-correct and "think" longer
+
+
+[^1]: [DeepSeek's GRPO (Group Relative Policy Optimization) | Reinforcement Learning for LLMs](https://www.youtube.com/watch?v=xT4jxQUl0X8)
