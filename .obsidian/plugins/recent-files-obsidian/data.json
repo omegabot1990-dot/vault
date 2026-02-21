@@ -5,36 +5,60 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
-      "basename": "202602201254 - actor-critic methods",
-      "path": "002 - research/202602201254 - actor-critic methods.md"
-    },
-    {
-      "basename": "202602200020 - value",
-      "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602192359 - value estimation",
-      "path": "002 - research/202602192359 - value estimation.md"
-    },
-    {
-      "basename": "202602211440 - dynamic programming",
-      "path": "002 - research/202602211440 - dynamic programming.md"
-    },
-    {
-      "basename": "202602200148 - advantage",
-      "path": "002 - research/202602200148 - advantage.md"
-    },
-    {
-      "basename": "202602211420 - bellman equation",
-      "path": "002 - research/202602211420 - bellman equation.md"
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
     },
     {
+      "basename": "202602200148 - advantage",
+      "path": "002 - research/202602200148 - advantage.md"
+    },
+    {
+      "basename": "202602211411 - generalized advantage estimation",
+      "path": "002 - research/202602211411 - generalized advantage estimation.md"
+    },
+    {
+      "basename": "202602201917 - trust region policy optimization",
+      "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
+      "basename": "202602192359 - value estimation",
+      "path": "002 - research/202602192359 - value estimation.md"
+    },
+    {
+      "basename": "202602200020 - value",
+      "path": "002 - research/202602200020 - value.md"
+    },
+    {
+      "basename": "202602211445 - importance sampling",
+      "path": "002 - research/202602211445 - importance sampling.md"
+    },
+    {
       "basename": "202602200129 - policy gradient methods",
       "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "policy gradient methods",
+      "path": "002 - research/policy gradient methods.md"
+    },
+    {
+      "basename": "202602201254 - actor-critic methods",
+      "path": "002 - research/202602201254 - actor-critic methods.md"
+    },
+    {
+      "basename": "202602211440 - dynamic programming",
+      "path": "002 - research/202602211440 - dynamic programming.md"
+    },
+    {
+      "basename": "202602211420 - bellman equation",
+      "path": "002 - research/202602211420 - bellman equation.md"
     },
     {
       "basename": "202602201305 - temporal-difference algorithm",
@@ -43,14 +67,6 @@
     {
       "basename": "202602201958 - monte carlo",
       "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
-      "basename": "202602201917 - trust region policy optimization",
-      "path": "002 - research/202602201917 - trust region policy optimization.md"
     },
     {
       "basename": "202602201850 - bias-variance tradeoff",
@@ -79,10 +95,6 @@
     {
       "basename": "202602192343 - agent",
       "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "reinforcement learning",
@@ -187,18 +199,6 @@
     {
       "basename": "202602192217 - reinforcement learning human feedback",
       "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
-    },
-    {
-      "basename": "202602191644 - post-training",
-      "path": "002 - research/202602191644 - post-training.md"
-    },
-    {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
     }
   ],
   "omittedPaths": [],
