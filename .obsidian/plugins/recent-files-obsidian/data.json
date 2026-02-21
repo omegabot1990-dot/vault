@@ -13,6 +13,10 @@
       "path": "002 - research/202602192359 - value estimation.md"
     },
     {
+      "basename": "202602211440 - dynamic programming",
+      "path": "002 - research/202602211440 - dynamic programming.md"
+    },
+    {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602030238 - cross-entropy loss",
       "path": "002 - research/202602030238 - cross-entropy loss.md"
-    },
-    {
-      "basename": "build_a_large_language_model_from_scratch",
-      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
     }
   ],
   "omittedPaths": [],
