@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602212156 - direct preference optimization|Direct Preference Optimization]]
+
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 
