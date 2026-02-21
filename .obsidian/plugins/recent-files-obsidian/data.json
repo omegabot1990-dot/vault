@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602192217 - reinforcement learning human feedback",
-      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
+      "basename": "202602212156 - direct preference optimization",
+      "path": "002 - research/202602212156 - direct preference optimization.md"
     },
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
+      "basename": "202602211445 - importance sampling",
+      "path": "002 - research/202602211445 - importance sampling.md"
+    },
+    {
+      "basename": "202602192217 - reinforcement learning human feedback",
+      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     },
     {
       "basename": "202602201917 - trust region policy optimization",
@@ -15,10 +23,6 @@
     {
       "basename": "202602201241 - proximal policy optimization",
       "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
-      "basename": "202602211445 - importance sampling",
-      "path": "002 - research/202602211445 - importance sampling.md"
     },
     {
       "basename": "202602181827 - kl divergence",
@@ -195,10 +199,6 @@
     {
       "basename": "202602192355 - return",
       "path": "002 - research/202602192355 - return.md"
-    },
-    {
-      "basename": "202602192352 - reward",
-      "path": "002 - research/202602192352 - reward.md"
     }
   ],
   "omittedPaths": [],

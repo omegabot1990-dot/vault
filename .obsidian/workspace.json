@@ -497,20 +497,21 @@
                 }
               },
               {
-                "id": "f16d26f798791627",
+                "id": "66921443c8185823",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "002 - research/202602211445 - importance sampling.md",
+                    "file": "002 - research/202602212156 - direct preference optimization.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "202602211445 - importance sampling"
+                  "title": "202602212156 - direct preference optimization"
                 }
               }
-            ]
+            ],
+            "currentTab": 7
           },
           {
             "id": "867784f3a276c04a",
@@ -591,11 +592,12 @@
   },
   "active": "4153eb17f64db27b",
   "lastOpenFiles": [
-    "002 - research/202602192217 - reinforcement learning human feedback.md",
+    "002 - research/202602212156 - direct preference optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602211445 - importance sampling.md",
+    "002 - research/202602192217 - reinforcement learning human feedback.md",
     "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201241 - proximal policy optimization.md",
-    "002 - research/202602211445 - importance sampling.md",
     "002 - research/202602181827 - kl divergence.md",
     "002 - research/202602061804 - entropy.md",
     "002 - research/202602120102 - cross-entropy.md",
@@ -616,7 +618,6 @@
     "002 - research/202602201958 - monte carlo.md",
     "000 - daily notes/2026-02-21.md",
     "002 - research/202602201850 - bias-variance tradeoff.md",
-    "002 - research/202602201335 - bootstrapping.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
