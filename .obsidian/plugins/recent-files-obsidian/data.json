@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602200148 - advantage",
+      "path": "002 - research/202602200148 - advantage.md"
+    },
+    {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
       "basename": "202602061227 - ppo-ptx",
       "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
+      "basename": "202602201305 - temporal-difference algorithm",
+      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
+    },
+    {
+      "basename": "202602201958 - monte carlo",
+      "path": "002 - research/202602201958 - monte carlo.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -13,20 +33,8 @@
       "path": "002 - research/202602201917 - trust region policy optimization.md"
     },
     {
-      "basename": "202602201939 - group relative policy optimization",
-      "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
       "basename": "202602201850 - bias-variance tradeoff",
       "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
-      "basename": "202602201958 - monte carlo",
-      "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
-      "basename": "202602201305 - temporal-difference algorithm",
-      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
     },
     {
       "basename": "202602201335 - bootstrapping",
@@ -63,10 +71,6 @@
     {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
     },
     {
       "basename": "202602201254 - actor-critic methods",
@@ -123,10 +127,6 @@
     {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602200148 - advantage",
-      "path": "002 - research/202602200148 - advantage.md"
     },
     {
       "basename": "202602201248 - on-policy",

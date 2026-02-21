@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md"
+                "file": "002 - research/202602200148 - advantage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602061227 - ppo-ptx"
+              "title": "File properties for 202602200148 - advantage"
             }
           },
           {
@@ -221,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attention",
+                "query": "GAE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602061227 - ppo-ptx.md",
+                "file": "002 - research/202602200148 - advantage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,10 +276,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602061227 - ppo-ptx"
+              "title": "Graph of 202602200148 - advantage"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -498,9 +499,25 @@
                   "icon": "lucide-file",
                   "title": "202602201939 - group relative policy optimization"
                 }
+              },
+              {
+                "id": "9354035c8238092c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602200148 - advantage.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602200148 - advantage"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 7
           },
           {
             "id": "867784f3a276c04a",
@@ -517,10 +534,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md"
+                        "file": "002 - research/202602200148 - advantage.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602061227 - ppo-ptx"
+                      "title": "File properties for 202602200148 - advantage"
                     }
                   }
                 ]
@@ -535,7 +552,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602061227 - ppo-ptx.md",
+                        "file": "002 - research/202602200148 - advantage.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -563,7 +580,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602061227 - ppo-ptx"
+                      "title": "Graph of 202602200148 - advantage"
                     }
                   }
                 ]
@@ -582,18 +599,20 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "9354035c8238092c",
   "lastOpenFiles": [
-    "000 - daily notes/2026-02-21.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
-    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
-    "002 - research/202602201850 - bias-variance tradeoff.md",
-    "002 - research/202602201958 - monte carlo.md",
+    "002 - research/202602061227 - ppo-ptx.md",
+    "002 - research/202602200148 - advantage.md",
+    "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602201305 - temporal-difference algorithm.md",
+    "002 - research/202602201958 - monte carlo.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "000 - daily notes/2026-02-21.md",
+    "002 - research/202602201917 - trust region policy optimization.md",
+    "002 - research/202602201850 - bias-variance tradeoff.md",
     "002 - research/202602201335 - bootstrapping.md",
     "002 - research/202602201303 - q-learning.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602031104 - llm agent.md",
     "002 - research/large language models.md",
     "002 - research/202602191524 - large language model.md",
@@ -601,7 +620,6 @@
     "002 - research/202602200134 - reinforce.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/generative pre-trained transformer.md",
     "002 - research/202602200001 - policy optimization.md",
@@ -609,7 +627,6 @@
     "002 - research/202602201253 - model-based.md",
     "002 - research/202602201253 - model-free.md",
     "002 - research/202602192359 - value estimation.md",
-    "002 - research/neural networks.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

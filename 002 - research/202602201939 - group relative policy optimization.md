@@ -33,4 +33,4 @@ published on:
 	- <mark style="background: #BBFABBA6;">Memory Efficient</mark>
 		- Specifically designed for scaling Large Language Models
 	- <mark style="background: #FFF3A3A6;">Reasoning Focused</mark>
-		- The core algorithm behind **DeepSeek-R1**'s ability to self-correct and "think" longer
+		- The core algorithm behind DeepSeek-R1's ability to self-correct and "think" longer
