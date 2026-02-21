@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
       "basename": "202602212156 - direct preference optimization",
       "path": "002 - research/202602212156 - direct preference optimization.md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "202602200148 - advantage",
