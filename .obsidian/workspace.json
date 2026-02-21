@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602200020 - value.md"
+                "file": "002 - research/202602061227 - ppo-ptx.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602200020 - value"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602200020 - value.md",
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602200020 - value"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ],
@@ -566,10 +566,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602200020 - value.md"
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602200020 - value"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -584,7 +584,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602200020 - value.md",
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -612,7 +612,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602200020 - value"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -631,11 +631,11 @@
       }
     ]
   },
-  "active": "2ff2b062168bda3f",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602200020 - value.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/202602211440 - dynamic programming.md",
-    "002 - research/202602200020 - value.md",
     "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602200148 - advantage.md",
     "002 - research/202602211420 - bellman equation.md",
