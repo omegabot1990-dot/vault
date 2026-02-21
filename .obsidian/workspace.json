@@ -547,6 +547,22 @@
                   "icon": "lucide-file",
                   "title": "202602200020 - value"
                 }
+              },
+              {
+                "id": "f4f51272280d6943",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602192359 - value estimation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "202602192359 - value estimation"
+                }
               }
             ],
             "currentTab": 9
@@ -635,8 +651,9 @@
   "lastOpenFiles": [
     "002 - research/202602200020 - value.md",
     "002 - research/202602192359 - value estimation.md",
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602200148 - advantage.md",
+    "002 - research/202602211420 - bellman equation.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602211411 - generalized advantage estimation.md",
     "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/202602200129 - policy gradient methods.md",
@@ -658,7 +675,6 @@
     "002 - research/202602201254 - actor-critic methods.md",
     "002 - research/generative pre-trained transformer.md",
     "002 - research/202602200001 - policy optimization.md",
-    "002 - research/202602200013 - transition.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

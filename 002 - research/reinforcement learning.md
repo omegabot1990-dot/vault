@@ -13,7 +13,7 @@ parent nodes:
 - [x] [[202602201939 - group relative policy optimization|Group Relative Policy Optimization]]
 - [x] [[202602201958 - monte carlo|Monte Carlo]]
 - [x] [[202602211411 - generalized advantage estimation|Generalized Advantage Estimation]]
-- [x] [[202602211420 - the bellman equation|The Bellman Equation]]
+- [x] [[202602211420 - bellman equation|The Bellman Equation]]
 
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions

@@ -17,6 +17,10 @@
       "path": "002 - research/202602200148 - advantage.md"
     },
     {
+      "basename": "202602211420 - bellman equation",
+      "path": "002 - research/202602211420 - bellman equation.md"
+    },
+    {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "build_a_large_language_model_from_scratch",
       "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
-    },
-    {
-      "basename": "202602181827 - kl divergence",
-      "path": "002 - research/202602181827 - kl divergence.md"
     }
   ],
   "omittedPaths": [],
