@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
+      "basename": "202602192217 - reinforcement learning human feedback",
+      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
       "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
+      "basename": "202602211445 - importance sampling",
+      "path": "002 - research/202602211445 - importance sampling.md"
+    },
+    {
+      "basename": "202602201917 - trust region policy optimization",
+      "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
+      "basename": "202602061804 - entropy",
+      "path": "002 - research/202602061804 - entropy.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "202602200148 - advantage",
@@ -25,20 +53,12 @@
       "path": "002 - research/202602211411 - generalized advantage estimation.md"
     },
     {
-      "basename": "202602201917 - trust region policy optimization",
-      "path": "002 - research/202602201917 - trust region policy optimization.md"
-    },
-    {
       "basename": "202602192359 - value estimation",
       "path": "002 - research/202602192359 - value estimation.md"
     },
     {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602211445 - importance sampling",
-      "path": "002 - research/202602211445 - importance sampling.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -99,10 +119,6 @@
     {
       "basename": "202602192343 - agent",
       "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "generative pre-trained transformer",
@@ -183,22 +199,6 @@
     {
       "basename": "202602192352 - reward",
       "path": "002 - research/202602192352 - reward.md"
-    },
-    {
-      "basename": "202602192350 - action",
-      "path": "002 - research/202602192350 - action.md"
-    },
-    {
-      "basename": "202602192351 - state",
-      "path": "002 - research/202602192351 - state.md"
-    },
-    {
-      "basename": "202602111400 - activation",
-      "path": "002 - research/202602111400 - activation.md"
-    },
-    {
-      "basename": "202602192217 - reinforcement learning human feedback",
-      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     }
   ],
   "omittedPaths": [],

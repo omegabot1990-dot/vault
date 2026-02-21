@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/reinforcement learning.md"
+                "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reinforcement learning"
+              "title": "File properties for 202602192217 - reinforcement learning human feedback"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/reinforcement learning.md",
+                "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of reinforcement learning"
+              "title": "Graph of 202602192217 - reinforcement learning human feedback"
             }
           }
         ],
@@ -499,6 +499,20 @@
                   "icon": "lucide-file",
                   "title": "202602201939 - group relative policy optimization"
                 }
+              },
+              {
+                "id": "f16d26f798791627",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "002 - research/202602211445 - importance sampling.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "202602211445 - importance sampling"
+                }
               }
             ],
             "currentTab": 4
@@ -518,10 +532,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/reinforcement learning.md"
+                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for reinforcement learning"
+                      "title": "File properties for 202602192217 - reinforcement learning human feedback"
                     }
                   }
                 ]
@@ -536,7 +550,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/reinforcement learning.md",
+                        "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -564,7 +578,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of reinforcement learning"
+                      "title": "Graph of 202602192217 - reinforcement learning human feedback"
                     }
                   }
                 ]
@@ -583,17 +597,23 @@
       }
     ]
   },
-  "active": "f9158de5d977e686",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
-    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602211445 - importance sampling.md",
+    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
+    "002 - research/202602181827 - kl divergence.md",
+    "002 - research/202602061804 - entropy.md",
+    "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202602192217 - reinforcement learning human feedback.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/202602200148 - advantage.md",
     "002 - research/202602211411 - generalized advantage estimation.md",
-    "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602192359 - value estimation.md",
     "002 - research/202602200020 - value.md",
-    "002 - research/202602211445 - importance sampling.md",
     "002 - research/202602200129 - policy gradient methods.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/policy gradient methods.md",
@@ -605,12 +625,6 @@
     "000 - daily notes/2026-02-21.md",
     "002 - research/202602201850 - bias-variance tradeoff.md",
     "002 - research/202602201335 - bootstrapping.md",
-    "002 - research/202602201303 - q-learning.md",
-    "002 - research/202602031104 - llm agent.md",
-    "002 - research/large language models.md",
-    "002 - research/202602191524 - large language model.md",
-    "002 - research/202602192343 - agent.md",
-    "002 - research/reinforcement learning.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
