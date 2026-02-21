@@ -195,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md"
+                "file": "002 - research/202602061227 - ppo-ptx.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602201241 - proximal policy optimization"
+              "title": "File properties for 202602061227 - ppo-ptx"
             }
           },
           {
@@ -248,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602201241 - proximal policy optimization.md",
+                "file": "002 - research/202602061227 - ppo-ptx.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602201241 - proximal policy optimization"
+              "title": "Graph of 202602061227 - ppo-ptx"
             }
           }
         ]
@@ -517,10 +517,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md"
+                        "file": "002 - research/202602061227 - ppo-ptx.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602201241 - proximal policy optimization"
+                      "title": "File properties for 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -535,7 +535,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602201241 - proximal policy optimization.md",
+                        "file": "002 - research/202602061227 - ppo-ptx.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -563,7 +563,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602201241 - proximal policy optimization"
+                      "title": "Graph of 202602061227 - ppo-ptx"
                     }
                   }
                 ]
@@ -582,12 +582,12 @@
       }
     ]
   },
-  "active": "aec3f6d76d3d1209",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201917 - trust region policy optimization.md",
     "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/202602201850 - bias-variance tradeoff.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602201958 - monte carlo.md",
     "002 - research/202602201305 - temporal-difference algorithm.md",
     "002 - research/202602201335 - bootstrapping.md",
