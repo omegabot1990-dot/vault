@@ -18,6 +18,6 @@ published on:
 >$$J(\theta)=\mathbb{E}_{\pi_\theta}[G_t]$$
 
 - [[202602200129 - policy gradient methods|Policy-gradient methods]] estimate gradients of expected return and apply [[202512271205 - stochastic|stochastic]] optimization
-- Trust-region or clipping constraints (e.g., TRPO/PPO-style) improve training stability
-- Actor-critic methods combine policy optimization with value estimation for lower-variance updates
+- Trust-region or clipping constraints (e.g., [[202602201917 - trust region policy optimization|TRPO]]/[[202602201241 - proximal policy optimization|PPO]]-style) improve [[202602111335 - training|training]] stability
+- [[202602201254 - actor-critic methods|Actor-critic methods]] combine policy optimization with [[202602192359 - value estimation|value estimation]] for lower-[[202602062206 - variance|variance]] updates
 - Policy optimization is widely used in robotics, control, and [[202602191524 - large language model|Large Language Model (LLM)]] [[202602191644 - post-training|post-training]] pipelines

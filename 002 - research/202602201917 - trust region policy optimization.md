@@ -26,11 +26,11 @@ published on:
 > 3. $KL(\cdot \| \cdot)$ or **KL Divergence**: Measures the "distance" between the old and new probability distributions
 > 4. $\delta$ or **Step Size (Trust Region)**: A small constant (hyperparameter) that limits the maximum allowed change
 
-- This reduces destructive large policy steps that can collapse performance
+- <mark style="background: #FFF3A3A6;">This reduces destructive large policy steps that can collapse performance</mark>
 - TRPO is often more stable than unconstrained policy gradients but computationally heavier than [[202602201241 - proximal policy optimization|PPO]]
 - It is foundational for later clipped-objective methods such as PPO
 - Key Properties
 	- <mark style="background: #FF5582A6;">Monotonic Improvement</mark>
 		- Mathematically guarantees that the policy will get better (or stay the same) at every step
 	- <mark style="background: #BBFABBA6;">Second-Order</mark>
-		- Uses second-order information (Hessian/Fisher Matrix), making it more accurate but computationally **heavy** compared to PPO
+		- Uses second-order information (Hessian/Fisher Matrix), making it more accurate but computationally heavy compared to PPO

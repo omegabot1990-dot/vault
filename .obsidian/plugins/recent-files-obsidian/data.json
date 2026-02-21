@@ -5,16 +5,36 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
+      "basename": "202602200001 - policy optimization",
+      "path": "002 - research/202602200001 - policy optimization.md"
+    },
+    {
+      "basename": "202602200129 - policy gradient methods",
+      "path": "002 - research/202602200129 - policy gradient methods.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602201917 - trust region policy optimization",
+      "path": "002 - research/202602201917 - trust region policy optimization.md"
+    },
+    {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
     },
     {
       "basename": "202602212156 - direct preference optimization",
       "path": "002 - research/202602212156 - direct preference optimization.md"
     },
     {
-      "basename": "202602201939 - group relative policy optimization",
-      "path": "002 - research/202602201939 - group relative policy optimization.md"
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602211445 - importance sampling",
@@ -23,14 +43,6 @@
     {
       "basename": "202602192217 - reinforcement learning human feedback",
       "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
-    },
-    {
-      "basename": "202602201917 - trust region policy optimization",
-      "path": "002 - research/202602201917 - trust region policy optimization.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
       "basename": "202602181827 - kl divergence",
@@ -63,14 +75,6 @@
     {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
     },
     {
       "basename": "policy gradient methods",
@@ -127,10 +131,6 @@
     {
       "basename": "generative pre-trained transformer",
       "path": "002 - research/generative pre-trained transformer.md"
-    },
-    {
-      "basename": "202602200001 - policy optimization",
-      "path": "002 - research/202602200001 - policy optimization.md"
     },
     {
       "basename": "202602200013 - transition",
