@@ -5,6 +5,10 @@
       "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
+      "basename": "202602201254 - actor-critic methods",
+      "path": "002 - research/202602201254 - actor-critic methods.md"
+    },
+    {
       "basename": "202602200020 - value",
       "path": "002 - research/202602200020 - value.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "202602201254 - actor-critic methods",
-      "path": "002 - research/202602201254 - actor-critic methods.md"
     },
     {
       "basename": "generative pre-trained transformer",
