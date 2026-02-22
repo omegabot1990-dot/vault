@@ -2,7 +2,7 @@
 tags:
 - paper
 aliases:
-- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+- DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 title: deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning
 description: ''
 bot: true

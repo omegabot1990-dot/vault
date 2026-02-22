@@ -22,15 +22,17 @@
           {
             "id": "7815bb3e807cb12e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/deepseek.md",
+                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "deepseek"
+              "title": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
           }
         ],
@@ -103,10 +105,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/deepseek.md"
+                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for deepseek"
+              "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
           },
           {
@@ -156,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/deepseek.md",
+                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of deepseek"
+              "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
           }
         ]
@@ -328,10 +330,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/deepseek.md"
+                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for deepseek"
+                      "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
                     }
                   }
                 ]
@@ -346,7 +348,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/deepseek.md",
+                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -374,7 +376,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of deepseek"
+                      "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
                     }
                   }
                 ]
@@ -395,10 +397,11 @@
   },
   "active": "7815bb3e807cb12e",
   "lastOpenFiles": [
+    "002 - research/deepseek.md",
+    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "002 - research/openai.md",
-    "002 - research/deepseek.md",
     "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
     "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602201303 - q-learning.md",
@@ -420,7 +423,6 @@
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/proximal policy optimisation.md",
     "002 - research/202602200134 - reinforce.md",
-    "002 - research/202602211411 - generalized advantage estimation.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
