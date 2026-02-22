@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,10 +119,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602111640 - dropout.md"
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602111640 - dropout"
+              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602111640 - dropout.md",
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +200,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602111640 - dropout"
+              "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
             }
           }
         ]
@@ -344,10 +344,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602111640 - dropout.md"
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602111640 - dropout"
+                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -362,7 +362,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602111640 - dropout.md",
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -390,7 +390,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602111640 - dropout"
+                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -409,8 +409,9 @@
       }
     ]
   },
-  "active": "1bb6b827f5fdef5f",
+  "active": "9c2f9adc2aa94a5d",
   "lastOpenFiles": [
+    "002 - research/202602111640 - dropout.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "002 - research/post-training.md",
     "002 - research/202602061227 - ppo-ptx.md",
@@ -439,7 +440,6 @@
     "002 - research/202602201246 - off-policy.md",
     "002 - research/202602201248 - on-policy.md",
     "002 - research/202602201253 - model-based.md",
-    "002 - research/202602201958 - monte carlo.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
