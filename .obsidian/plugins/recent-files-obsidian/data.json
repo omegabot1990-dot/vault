@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202602220131 - residual dropouts",
+      "path": "002 - research/202602220131 - residual dropouts.md"
+    },
+    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602200148 - advantage",
       "path": "002 - research/202602200148 - advantage.md"
-    },
-    {
-      "basename": "policy gradient methods",
-      "path": "002 - research/policy gradient methods.md"
     }
   ],
   "omittedPaths": [],
