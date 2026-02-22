@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "openai",
+      "path": "002 - research/openai.md"
+    },
+    {
+      "basename": "deepseek",
+      "path": "002 - research/deepseek.md"
+    },
+    {
       "basename": "202602221541 - deep reinforcement learning doesn't work yet (2018)",
       "path": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
     },
     {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "202602201303 - q-learning",
@@ -187,18 +195,6 @@
     {
       "basename": "202602212156 - direct preference optimization",
       "path": "002 - research/202602212156 - direct preference optimization.md"
-    },
-    {
-      "basename": "202602211445 - importance sampling",
-      "path": "002 - research/202602211445 - importance sampling.md"
-    },
-    {
-      "basename": "202602061804 - entropy",
-      "path": "002 - research/202602061804 - entropy.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
     }
   ],
   "omittedPaths": [],

@@ -17,6 +17,8 @@ parent nodes:
 
 ## Papers
 
+- [x] [Training language models to follow instructions with human feedback](https://www.alphaxiv.org/abs/2203.02155)
+
 - [ ] [Language Models are Unsupervised Multitask Learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)
 	- [ ] February 14, 2019
 	- [ ] GPT2
