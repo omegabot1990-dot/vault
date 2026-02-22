@@ -36,70 +36,6 @@
             }
           },
           {
-            "id": "51bed0f44f92b540",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "reinforcement learning"
-            }
-          },
-          {
-            "id": "de0dfce4a3db7c6d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602192217 - reinforcement learning human feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602192217 - reinforcement learning human feedback"
-            }
-          },
-          {
-            "id": "f0ecb5d308c93cf1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602192221 - reinforcement learning"
-            }
-          },
-          {
-            "id": "f9158de5d977e686",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/reinforcement learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "reinforcement learning"
-            }
-          },
-          {
             "id": "b9f0190ba8676867",
             "type": "leaf",
             "pinned": true,
@@ -124,8 +60,23 @@
               "icon": "lucide-file",
               "title": "202602061227 - ppo-ptx"
             }
+          },
+          {
+            "id": "57a13a39c37e1674",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202601282131 - training language models to follow instructions with human feedback"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,9 +144,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
             }
           },
           {
@@ -245,6 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,11 +226,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -416,9 +369,11 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {},
+                      "state": {
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                      },
                       "icon": "lucide-info",
-                      "title": "File properties"
+                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -433,6 +388,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
+                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -460,7 +416,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph view"
+                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
                     }
                   }
                 ]
@@ -479,10 +435,16 @@
       }
     ]
   },
-  "active": "bb42fd34f6702404",
+  "active": "57a13a39c37e1674",
   "lastOpenFiles": [
-    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602061227 - ppo-ptx.md",
     "002 - research/reinforcement learning.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602192217 - reinforcement learning human feedback.md",
+    "002 - research/202602200001 - policy optimization.md",
+    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/proximal policy optimisation.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602211411 - generalized advantage estimation.md",
     "002 - research/202602200129 - policy gradient methods.md",
@@ -500,16 +462,10 @@
     "002 - research/202602211420 - bellman equation.md",
     "002 - research/202602192236 - markov decision process.md",
     "002 - research/202602192359 - value estimation.md",
-    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602200013 - transition.md",
     "002 - research/202602192245 - policy.md",
     "002 - research/202602192355 - return.md",
     "002 - research/202602192351 - state.md",
-    "002 - research/202602192350 - action.md",
-    "002 - research/202602192345 - environment.md",
-    "002 - research/202602200020 - value.md",
-    "002 - research/202602201334 - reward model.md",
-    "002 - research/202602192343 - agent.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",

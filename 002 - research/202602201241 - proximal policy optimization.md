@@ -12,6 +12,10 @@ parent nodes:
 published on:
 ---
 
+- [ ] [Proximal Policy Optimization Algorithms](https://www.alphaxiv.org/abs/1707.06347)
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
+---
 - Proximal Policy Optimization is an on-policy [[202602200129 - policy gradient methods|policy-gradient method]] designed for stable [[202602192245 - policy|policy]] updates
 - <mark style="background: #BBFABBA6;">PPO constrains policy change between updates using a clipped objective on probability ratios</mark>
 - PPO is an [[202602201254 - actor-critic methods|Actor-Critic]] algorithm that uses a "Clipped Surrogate Objective" to prevent the updated policy from deviating too far from the old policy:

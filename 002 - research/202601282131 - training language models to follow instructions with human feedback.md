@@ -12,10 +12,6 @@ published on: 2022-03-04
 
 - [ ] Read overview
 - [ ] Read paper
-- [ ] What is a reward model?
-- [ ] What is reinforcement learning?
-- [ ] What is PPO?
-- [ ] What is RLHF?
 - [ ] What is TruthfulQA?
 - [ ] What is SQuAD v2?
 - [ ] What is DROP?
@@ -53,16 +49,16 @@ published on: 2022-03-04
 
 - A 3-stage pipeline was introduced,
 	- Starting with [[202601282201 - supervised fine-tuning|supervised fine-tuning]]
-	- Training a [[reward model|reward model]] on human-labelled preference data
-	- Optimising a policy against the reward model using [[reinforcement learning]]
+	- Training a [[202602201334 - reward model|reward model]] on human-labelled preference data
+	- Optimising a [[202602192245 - policy|policy]] against the reward model using [[202602192221 - reinforcement learning|reinforcement learning]]
 		- The RL algorithm used was [[proximal policy optimisation|Proximal Policy Optimisation]]
 
 ![3-step Process|700](https://paper-assets.alphaxiv.org/figures/2203.02155/img-1.jpeg)
 
 - The alignment approach here is termed [[reinforcement learning human feedback|reinforcement learning with human feedback (RLHF)]]
 	- A reward model is trained on human-labelled preference data
-	- The policy is updated against the reward model using [[reinforcement learning|reinforcement learning]]
-	- The reinforcement learning algorithm is called [[proximal policy optimisation|Proximal Policy Optimisation]]
+	- The policy is updated against the reward model using reinforcement learning
+	- The reinforcement learning algorithm is called [[202602201241 - proximal policy optimization|Proximal Policy Optimisation]]
 - The resultant aligned model was <mark style="background: #BBFABBA6;">InstructGPT</mark>
 
 ### Result
@@ -70,7 +66,7 @@ published on: 2022-03-04
 - <mark style="background: #FF5582A6;">Human evaluators preferred outputs from the 1.3B parameter InstructGPT model over the 175B parameter GPT-3 model</mark> 71% of the time, and the 175B InstructGPT model over the 175B GPT-3 model 85% of the time
 - InstructGPT models showed improvements in truthfulness on the TruthfulQA benchmark and modest reductions in toxicity when specifically prompted for respectful behaviour
 - Performance on standard [[202602061133 - natural language processing|Natural Language Processing]] benchmarks varied
-	- InstructGPT models maintained or improved performance on some tasks (e.g., SQuAD v2) and showed some regression on others (e.g., DROP), but the PPO-ptx variant helped mitigate these drops
+	- InstructGPT models maintained or improved performance on some tasks (e.g., SQuAD v2) and showed some regression on others (e.g., DROP), but the [[202602061227 - ppo-ptx|PPO-ptx]] variant helped mitigate these drops
 
 ### Take Away
 

@@ -23,6 +23,6 @@ parent nodes:
 
 ## Videos
 
-- [ ] [YouTube -Proximal Policy Optimization (PPO) for LLMs Explained Intuitively](https://www.youtube.com/watch?v=8jtAzxUwDj0)
+- [x] [YouTube -Proximal Policy Optimization (PPO) for LLMs Explained Intuitively](https://www.youtube.com/watch?v=8jtAzxUwDj0)
 
 ## Code
