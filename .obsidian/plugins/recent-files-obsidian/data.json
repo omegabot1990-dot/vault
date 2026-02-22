@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
       "basename": "202602221541 - deep reinforcement learning doesn't work yet (2018)",
       "path": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
     },
     {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
     },
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
     },
     {
       "basename": "202602181827 - kl divergence",

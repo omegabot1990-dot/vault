@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "202602192221 - reinforcement learning"
             }
+          },
+          {
+            "id": "d1f0b8f1f22b9dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202602221541 - deep reinforcement learning doesn't work yet (2018)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md"
+                "file": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602192221 - reinforcement learning"
+              "title": "File properties for 202602221541 - deep reinforcement learning doesn't work yet (2018)"
             }
           },
           {
@@ -174,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "file": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602192221 - reinforcement learning"
+              "title": "Graph of 202602221541 - deep reinforcement learning doesn't work yet (2018)"
             }
           }
         ]
@@ -346,10 +360,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md"
+                        "file": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602192221 - reinforcement learning"
+                      "title": "File properties for 202602221541 - deep reinforcement learning doesn't work yet (2018)"
                     }
                   }
                 ]
@@ -364,7 +378,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602192221 - reinforcement learning.md",
+                        "file": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -392,7 +406,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602192221 - reinforcement learning"
+                      "title": "Graph of 202602221541 - deep reinforcement learning doesn't work yet (2018)"
                     }
                   }
                 ]
@@ -411,12 +425,12 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "d1f0b8f1f22b9dbf",
   "lastOpenFiles": [
-    "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
     "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602201303 - q-learning.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
+    "002 - research/202602201303 - q-learning.md",
     "000 - daily notes/2026-02-22.md",
     "002 - research/202602181827 - kl divergence.md",
     "002 - research/202602111640 - dropout.md",
