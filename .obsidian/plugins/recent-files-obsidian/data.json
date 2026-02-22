@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "deepseek",
+      "path": "002 - research/deepseek.md"
+    },
+    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "openai",
       "path": "002 - research/openai.md"
-    },
-    {
-      "basename": "deepseek",
-      "path": "002 - research/deepseek.md"
     },
     {
       "basename": "202602221541 - deep reinforcement learning doesn't work yet (2018)",
