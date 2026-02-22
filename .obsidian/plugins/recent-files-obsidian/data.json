@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
+      "basename": "202602111617 - learning rate schedule",
+      "path": "002 - research/202602111617 - learning rate schedule.md"
+    },
+    {
+      "basename": "202602111600 - learning rate",
+      "path": "002 - research/202602111600 - learning rate.md"
+    },
+    {
+      "basename": "202602111634 - weight decay",
+      "path": "002 - research/202602111634 - weight decay.md"
     },
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "202602192217 - reinforcement learning human feedback",
+      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
+    },
+    {
+      "basename": "202602061227 - ppo-ptx",
+      "path": "002 - research/202602061227 - ppo-ptx.md"
     },
     {
       "basename": "reinforcement learning",
@@ -15,10 +31,6 @@
     {
       "basename": "202602192221 - reinforcement learning",
       "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "202602192217 - reinforcement learning human feedback",
-      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
     },
     {
       "basename": "202602200001 - policy optimization",
@@ -187,18 +199,6 @@
     {
       "basename": "large language models",
       "path": "002 - research/large language models.md"
-    },
-    {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
-    },
-    {
-      "basename": "generative pre-trained transformer",
-      "path": "002 - research/generative pre-trained transformer.md"
-    },
-    {
-      "basename": "neural networks",
-      "path": "002 - research/neural networks.md"
     }
   ],
   "omittedPaths": [],

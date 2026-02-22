@@ -60,6 +60,8 @@ published on: 2022-03-04
 	- The policy is updated against the reward model using reinforcement learning
 	- The reinforcement learning algorithm is called [[202602201241 - proximal policy optimization|Proximal Policy Optimisation]]
 - The resultant aligned model was <mark style="background: #BBFABBA6;">InstructGPT</mark>
+- Training
+	- [[202601282201 - supervised fine-tuning|Fine-tuning]] [[202602111600 - learning rate|learning rates]] with cosine decay
 
 ### Result
 
