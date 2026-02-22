@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602221541 - deep reinforcement learning doesn't work yet (2018)",
+      "path": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
+    },
+    {
+      "basename": "202602201303 - q-learning",
+      "path": "002 - research/202602201303 - q-learning.md"
+    },
+    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
@@ -57,10 +69,6 @@
       "path": "002 - research/reinforcement learning.md"
     },
     {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "202602200129 - policy gradient methods",
       "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
     },
     {
       "basename": "202602201335 - bootstrapping",
@@ -195,10 +199,6 @@
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202602200148 - advantage",
-      "path": "002 - research/202602200148 - advantage.md"
     }
   ],
   "omittedPaths": [],

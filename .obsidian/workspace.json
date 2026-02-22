@@ -34,9 +34,25 @@
               "icon": "lucide-file",
               "title": "202601282131 - training language models to follow instructions with human feedback"
             }
+          },
+          {
+            "id": "c9744231ab5d0e92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602192221 - reinforcement learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602192221 - reinforcement learning"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,10 +121,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                "file": "002 - research/202602192221 - reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
+              "title": "File properties for 202602192221 - reinforcement learning"
             }
           },
           {
@@ -158,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                "file": "002 - research/202602192221 - reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
+              "title": "Graph of 202602192221 - reinforcement learning"
             }
           }
         ]
@@ -330,10 +346,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+                        "file": "002 - research/202602192221 - reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202601282131 - training language models to follow instructions with human feedback"
+                      "title": "File properties for 202602192221 - reinforcement learning"
                     }
                   }
                 ]
@@ -348,7 +364,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+                        "file": "002 - research/202602192221 - reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -376,7 +392,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202601282131 - training language models to follow instructions with human feedback"
+                      "title": "Graph of 202602192221 - reinforcement learning"
                     }
                   }
                 ]
@@ -395,9 +411,13 @@
       }
     ]
   },
-  "active": "9c2f9adc2aa94a5d",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602201303 - q-learning.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
+    "000 - daily notes/2026-02-22.md",
     "002 - research/202602181827 - kl divergence.md",
     "002 - research/202602111640 - dropout.md",
     "002 - research/202602220131 - residual dropouts.md",
@@ -411,7 +431,6 @@
     "002 - research/202602111256 - hyperparameters.md",
     "002 - research/202602111634 - weight decay.md",
     "002 - research/reinforcement learning.md",
-    "002 - research/202602192221 - reinforcement learning.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/proximal policy optimisation.md",
@@ -421,11 +440,8 @@
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
-    "002 - research/202602201303 - q-learning.md",
     "002 - research/202602201335 - bootstrapping.md",
     "002 - research/202602201253 - model-free.md",
-    "002 - research/202602201305 - temporal-difference algorithm.md",
-    "002 - research/202602201246 - off-policy.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
