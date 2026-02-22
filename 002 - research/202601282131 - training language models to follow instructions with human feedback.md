@@ -51,14 +51,13 @@ published on: 2022-03-04
 	- Starting with [[202601282201 - supervised fine-tuning|supervised fine-tuning]]
 	- Training a [[202602201334 - reward model|reward model]] on human-labelled preference data
 	- Optimising a [[202602192245 - policy|policy]] against the reward model using [[202602192221 - reinforcement learning|reinforcement learning]]
-		- The RL algorithm used was [[proximal policy optimisation|Proximal Policy Optimisation]]
+		- The RL algorithm used was [[202602201241 - proximal policy optimization|Proximal Policy Optimisation]]
 
 ![3-step Process|700](https://paper-assets.alphaxiv.org/figures/2203.02155/img-1.jpeg)
 
-- The alignment approach here is termed [[reinforcement learning human feedback|reinforcement learning with human feedback (RLHF)]]
+- The alignment approach here is termed [[202602192217 - reinforcement learning human feedback|reinforcement learning with human feedback (RLHF)]]
 	- A reward model is trained on human-labelled preference data
 	- The policy is updated against the reward model using reinforcement learning
-	- The reinforcement learning algorithm is called [[202602201241 - proximal policy optimization|Proximal Policy Optimisation]]
 - The resultant aligned model was <mark style="background: #BBFABBA6;">InstructGPT</mark>
 - Training
 	- [[202601282201 - supervised fine-tuning|Fine-tuning]] [[202602111600 - learning rate|learning rates]] with cosine decay
