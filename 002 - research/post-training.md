@@ -13,10 +13,6 @@ parent nodes:
 ## Papers
 
 - [x] [Training language models to follow instructions with human feedback](https://www.alphaxiv.org/abs/2203.02155)
-	- [x] SFT
-	- [x] RLHF
-	- [x] PPO
-	- [x] March 2022
 
 - [ ] [A Comprehensive Survey of LLM Alignment Techniques: RLHF, RLAIF, PPO, DPO and More](https://www.alphaxiv.org/overview/2407.16216)
 

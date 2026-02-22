@@ -6,7 +6,7 @@ aliases:
 title: training language models to follow instructions with human feedback
 description: ""
 parent nodes:
-  - "[[post-training]]"
+  - "[[202602191644 - post-training|Post-Training]]"
 published on: 2022-03-04
 ---
 

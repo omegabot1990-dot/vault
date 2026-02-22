@@ -12,7 +12,6 @@ published on:
 ---
 
 - [ ] What is step decay?
-- [ ] What is cosine decay?
 - [ ] What is exponential decay?
 - [ ] One-cycle policies?
 
@@ -22,7 +21,7 @@ published on:
 - <mark style="background: #FF5582A6;">Schedules usually start larger</mark>, <mark style="background: #ABF7F7A6;">then decay to smaller values as training proceeds</mark>
 - Common schedules include:
 	- Step decay
-	- Cosine decay
+	- [[202602220121 - cosine decay|Cosine decay]]
 	- Exponential decay
 	- [[202602011426 - warmup|Warmup]]
 	- One-cycle policies
