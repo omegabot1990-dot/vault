@@ -61,6 +61,7 @@ published on: 2022-03-04
 - The resultant aligned model was <mark style="background: #BBFABBA6;">InstructGPT</mark>
 - Training
 	- [[202601282201 - supervised fine-tuning|Fine-tuning]] [[202602111600 - learning rate|learning rates]] with cosine decay
+	- Employing residual [[202602111640 - dropout|dropout]] and [[202602030230 - pre-training|pre-training]] mix to prevent [[202602010049 - overfitting|overfitting]]
 
 ### Result
 
