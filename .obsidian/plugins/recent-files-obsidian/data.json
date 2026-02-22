@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "202602220131 - residual dropouts",
-      "path": "002 - research/202602220131 - residual dropouts.md"
-    },
-    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
       "basename": "202602111640 - dropout",
       "path": "002 - research/202602111640 - dropout.md"
+    },
+    {
+      "basename": "202602220131 - residual dropouts",
+      "path": "002 - research/202602220131 - residual dropouts.md"
     },
     {
       "basename": "post-training",
@@ -183,10 +187,6 @@
     {
       "basename": "202602211445 - importance sampling",
       "path": "002 - research/202602211445 - importance sampling.md"
-    },
-    {
-      "basename": "202602181827 - kl divergence",
-      "path": "002 - research/202602181827 - kl divergence.md"
     },
     {
       "basename": "202602061804 - entropy",

@@ -62,6 +62,7 @@ published on: 2022-03-04
 - Training
 	- [[202601282201 - supervised fine-tuning|Fine-tuning]] [[202602111600 - learning rate|learning rates]] with cosine decay
 	- Employing [[202602220131 - residual dropouts|residual dropout]] and [[202602030230 - pre-training|pre-training]] mix to prevent [[202602010049 - overfitting|overfitting]]
+	- Carefully balancing the [[202602181827 - kl divergence|KL divergence]] term to maintain output diversity
 
 ### Result
 
@@ -73,7 +74,8 @@ published on: 2022-03-04
 ### Take Away
 
 - <mark style="background: #FF5582A6;">Alignment can be more impactful than increasing model size alone</mark>
-- Reinforcement Learning Human Feedback (RLHF) can help with alignment without significantly degrading general capabilities
+- <mark style="background: #FFF3A3A6;">Reinforcement Learning from Human Feedback is an effective technique for aligning language models with human preferences</mark>
+	- Reinforcement Learning Human Feedback (RLHF) can help with alignment without significantly degrading general capabilities
 - <mark style="background: #BBFABBA6;">InstructGPT generalised beyond its training distribution</mark>
 	- Aligned models showcase increased generalisation capabilities beyond their specific training data, extending to:
 		- Held-out human evaluators
