@@ -16,6 +16,7 @@ published on:
 - [ ] What is grid search?
 - [ ] What is random search?
 - [ ] What is Bayesian optimisation?
+- [x] [[202602220121 - cosine decay|Cosine Decay]]
 
 ---
 - Hyperparameters are <mark style="background: #BBFABBA6;">top-level configuration values</mark> set before [[202602111335 - training|training]] that control model structure or learning behaviour [^1][^2]
