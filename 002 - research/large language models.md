@@ -9,7 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602232008 - cold start sft|Cold Start SFT]]
 
 ## Blogs
 

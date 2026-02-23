@@ -15,19 +15,38 @@ published on: 2025-01-22
 ## Summary
 
 - The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as [[202602231757 - reasoning|reasoning]]-focused [[202602191524 - large language model|LLMs]] [[202602111335 - training|trained]] primarily through [[202602192221 - reinforcement learning|RL]]
-- It shows pure RL can induce strong reasoning behaviours, then improves readability and stability with a multi-stage pipeline
+- <mark style="background: #BBFABBA6;">It shows pure RL can induce strong reasoning behaviours</mark>, then improves readability and stability with a multi-stage pipeline
 - DeepSeek-R1 reaches near-o1-level reasoning results on math and coding benchmarks and enables strong distilled, smaller models
 
 ## Problem
 
+- Existing LLM reasoning methods heavily rely on labour-intensive human-annotated data, leading to scalability issues and the introduction of human cognitive biases
+- Training models to imitate human reasoning pathways caps their performance and prevents exploration of potentially superior, non-human strategies
 - Prior open methods had not matched o1-class reasoning while staying reproducible and scalable
 - Pure RL for reasoning without a supervised chain-of-thought warm start was not clearly validated at scale
 - Strong reasoning often conflicted with readability, language consistency, and broad assistant alignment
 
 ## Method
 
-- Train DeepSeek-R1-Zero from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
-- Build DeepSeek-R1 via a staged pipeline: cold-start SFT, reasoning RL, [[202602231804 - rejection sampling|rejection-sampled]] [[202601282201 - supervised fine-tuning|SFT]] refresh, then broader RL alignment
+- DeepSeek-R1-Zero
+	- Trained from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
+		- GRPO eliminates the need for a separate value model and estimates [[202602200148 - advantage|advantages]] from grouped rewards
+		- <mark style="background: #FF5582A6;">Reducing computational overhead</mark>
+	- [[202602020018 - verifiable domains|Rule-based rewards]]
+		- <mark style="background: #BBFABBA6;">Binary accuracy rewards</mark> (correct/incorrect final answers) and <mark style="background: #FFF3A3A6;">format rewards </mark>(proper reasoning structure using `<think>...</think><answer>...</answer>` tags)
+	- Extensive exploration
+		- High sampling temperature (1.0) and very long response lengths (up to 65,536 tokens)
+	- Objective feedback
+		- Compiler-based evaluation for coding problems and answer format verification for mathematics
+- DeepSeek-R1
+	- Build via a staged pipeline: [[202602232008 - cold-start sft|cold-start SFT]], reasoning RL, [[202602231804 - rejection sampling|rejection-sampled]] [[202601282201 - supervised fine-tuning|SFT]] refresh, then broader RL alignment
+
+> [!MATH] R1-Pipeline
+> $$\text{Cold Start SFT} \rightarrow \text{First RL Stage} \rightarrow \text{Rejection Sampling + Secondary SFT} \rightarrow \text{Second RL Stage}$$
+
+- This framework addresses practical limitations of R1-Zero (poor readability, language mixing) while preserving reasoning capabilities
+- The process incorporates both rule-based and model-based rewards, including helpful and safety reward models trained on human preference data
+
 - [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
 
 ## Result
@@ -40,6 +59,8 @@ published on: 2025-01-22
 
 - RL can be a primary driver of reasoning emergence in LLMs, not just a final alignment step
 - Multi-stage pipelines combining RL and targeted SFT can preserve reasoning gains while improving usability
+- Reinforcement learning incentivises emergent behaviours such as <mark style="background: #FF5582A6;">self-reflection</mark>, <mark style="background: #BBFABBA6;">verification</mark>, and <mark style="background: #FFF3A3A6;">dynamic strategy adaptation</mark>, with models generating longer 'thinking chains' for harder problems
+- <mark style="background: #ABF7F7A6;">Bypassing conventional supervised fine-tuning for reasoning tasks can allow LLMs to discover novel and potentially superior problem-solving strategies beyond human cognitive biases</mark>
 - Distillation transfers reasoning patterns effectively, making strong reasoning more accessible at smaller scales
 
 ## Limitations
