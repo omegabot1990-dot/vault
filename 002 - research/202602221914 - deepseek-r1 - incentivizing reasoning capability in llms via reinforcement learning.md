@@ -22,8 +22,8 @@ published on: 2025-01-22
 
 ## Summary
 
-- The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as reasoning-focused LLMs trained primarily through RL
-- It shows pure RL can induce strong reasoning behaviors, then improves readability and stability with a multi-stage pipeline
+- The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as reasoning-focused LLMs trained primarily through [[202602192221 - reinforcement learning|RL]]
+- It shows pure RL can induce strong reasoning behaviours, then improves readability and stability with a multi-stage pipeline
 - DeepSeek-R1 reaches near-o1-level reasoning results on math and coding benchmarks and enables strong distilled smaller models
 
 ## Problem
