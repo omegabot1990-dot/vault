@@ -5,6 +5,10 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "202602231757 - reasoning",
+      "path": "002 - research/202602231757 - reasoning.md"
+    },
+    {
       "basename": "deepseek",
       "path": "002 - research/deepseek.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
-      "basename": "202602212156 - direct preference optimization",
-      "path": "002 - research/202602212156 - direct preference optimization.md"
     }
   ],
   "omittedPaths": [],

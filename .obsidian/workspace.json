@@ -395,10 +395,11 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "7815bb3e807cb12e",
   "lastOpenFiles": [
-    "000 - daily notes/2026-02-23.md",
+    "002 - research/202602231757 - reasoning.md",
     "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+    "000 - daily notes/2026-02-23.md",
     "002 - research/deepseek.md",
     "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
@@ -422,7 +423,6 @@
     "002 - research/reinforcement learning.md",
     "002 - research/202602200001 - policy optimization.md",
     "002 - research/202602201241 - proximal policy optimization.md",
-    "002 - research/proximal policy optimisation.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",

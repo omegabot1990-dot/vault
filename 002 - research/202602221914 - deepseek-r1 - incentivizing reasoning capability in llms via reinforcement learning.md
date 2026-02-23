@@ -22,19 +22,19 @@ published on: 2025-01-22
 
 ## Summary
 
-- The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as reasoning-focused LLMs trained primarily through [[202602192221 - reinforcement learning|RL]]
+- The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as [[202602231757 - reasoning|reasoning]]-focused [[202602191524 - large language model|LLMs]] [[202602111335 - training|trained]] primarily through [[202602192221 - reinforcement learning|RL]]
 - It shows pure RL can induce strong reasoning behaviours, then improves readability and stability with a multi-stage pipeline
-- DeepSeek-R1 reaches near-o1-level reasoning results on math and coding benchmarks and enables strong distilled smaller models
+- DeepSeek-R1 reaches near-o1-level reasoning results on math and coding benchmarks and enables strong distilled, smaller models
 
 ## Problem
 
 - Prior open methods had not matched o1-class reasoning while staying reproducible and scalable
-- Pure RL for reasoning without supervised chain-of-thought warm start was not clearly validated at scale
+- Pure RL for reasoning without a supervised chain-of-thought warm start was not clearly validated at scale
 - Strong reasoning often conflicted with readability, language consistency, and broad assistant alignment
 
 ## Method
 
-- Train DeepSeek-R1-Zero from a base model with large-scale GRPO-style RL and outcome-based rewards
+- Train DeepSeek-R1-Zero from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
 - Build DeepSeek-R1 via a staged pipeline: cold-start SFT, reasoning RL, rejection-sampled SFT refresh, then broader RL alignment
 - Distill reasoning traces and behaviors into smaller dense Qwen/Llama-family models
 
