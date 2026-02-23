@@ -5,8 +5,36 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
       "basename": "large language models",
       "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "activation analysis",
+      "path": "002 - research/activation analysis.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "node - zettel",
+      "path": "008 - templates/node - zettel.md"
+    },
+    {
+      "basename": "node - inbox",
+      "path": "008 - templates/node - inbox.md"
+    },
+    {
+      "basename": "node - daily notes",
+      "path": "008 - templates/node - daily notes.md"
+    },
+    {
+      "basename": "202602062040 - probability",
+      "path": "002 - research/202602062040 - probability.md"
     },
     {
       "basename": "202602191524 - large language model",
@@ -19,10 +47,6 @@
     {
       "basename": "deepseek",
       "path": "002 - research/deepseek.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "openai",
@@ -175,30 +199,6 @@
     {
       "basename": "202602192350 - action",
       "path": "002 - research/202602192350 - action.md"
-    },
-    {
-      "basename": "202602192345 - environment",
-      "path": "002 - research/202602192345 - environment.md"
-    },
-    {
-      "basename": "202602200020 - value",
-      "path": "002 - research/202602200020 - value.md"
-    },
-    {
-      "basename": "202602201334 - reward model",
-      "path": "002 - research/202602201334 - reward model.md"
-    },
-    {
-      "basename": "202602192343 - agent",
-      "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602192352 - reward",
-      "path": "002 - research/202602192352 - reward.md"
-    },
-    {
-      "basename": "202602080005 - sampling",
-      "path": "002 - research/202602080005 - sampling.md"
     }
   ],
   "omittedPaths": [],
