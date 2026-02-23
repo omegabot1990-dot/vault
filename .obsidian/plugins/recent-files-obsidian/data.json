@@ -5,6 +5,22 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "202602231804 - rejection sampling",
+      "path": "002 - research/202602231804 - rejection sampling.md"
+    },
+    {
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
+    },
+    {
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
+    },
+    {
+      "basename": "neural networks",
+      "path": "002 - research/neural networks.md"
+    },
+    {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "202602062040 - probability",
       "path": "002 - research/202602062040 - probability.md"
-    },
-    {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
     },
     {
       "basename": "202602231757 - reasoning",
@@ -187,18 +199,6 @@
     {
       "basename": "202602192245 - policy",
       "path": "002 - research/202602192245 - policy.md"
-    },
-    {
-      "basename": "202602192355 - return",
-      "path": "002 - research/202602192355 - return.md"
-    },
-    {
-      "basename": "202602192351 - state",
-      "path": "002 - research/202602192351 - state.md"
-    },
-    {
-      "basename": "202602192350 - action",
-      "path": "002 - research/202602192350 - action.md"
     }
   ],
   "omittedPaths": [],

@@ -395,8 +395,13 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "7815bb3e807cb12e",
   "lastOpenFiles": [
+    "002 - research/202602231804 - rejection sampling.md",
+    "002 - research/202601282201 - supervised fine-tuning.md",
+    "002 - research/202602191524 - large language model.md",
+    "002 - research/neural networks.md",
+    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602201939 - group relative policy optimization.md",
     "002 - research/large language models.md",
     "002 - research/activation analysis.md",
@@ -405,8 +410,6 @@
     "008 - templates/node - inbox.md",
     "008 - templates/node - daily notes.md",
     "002 - research/202602062040 - probability.md",
-    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
-    "002 - research/202602191524 - large language model.md",
     "002 - research/202602231757 - reasoning.md",
     "000 - daily notes/2026-02-23.md",
     "002 - research/deepseek.md",
@@ -420,9 +423,6 @@
     "002 - research/202602111640 - dropout.md",
     "002 - research/202602220131 - residual dropouts.md",
     "002 - research/post-training.md",
-    "002 - research/202602061227 - ppo-ptx.md",
-    "002 - research/202602192217 - reinforcement learning human feedback.md",
-    "002 - research/202602111600 - learning rate.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",

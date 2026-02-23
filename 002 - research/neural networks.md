@@ -9,8 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602231804 - rejection sampling|Rejection Sampling]]
-
 ## Blogs
 
 - [ ] [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/index.html)
