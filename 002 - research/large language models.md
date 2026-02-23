@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602232008 - cold start sft|Cold Start SFT]]
+
 ## Blogs
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
