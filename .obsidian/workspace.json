@@ -28,7 +28,17 @@
               "state": {
                 "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -52,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,10 +131,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+                "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+              "title": "File properties for 202602232025 - reinforcement learning verifiable rewards"
             }
           },
           {
@@ -174,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+                "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,10 +212,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+              "title": "Graph of 202602232025 - reinforcement learning verifiable rewards"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -346,10 +357,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+                        "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+                      "title": "File properties for 202602232025 - reinforcement learning verifiable rewards"
                     }
                   }
                 ]
@@ -364,7 +375,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+                        "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -392,7 +403,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+                      "title": "Graph of 202602232025 - reinforcement learning verifiable rewards"
                     }
                   }
                 ]
@@ -411,12 +422,13 @@
       }
     ]
   },
-  "active": "7815bb3e807cb12e",
+  "active": "0103d6d5c37cfd4e",
   "lastOpenFiles": [
+    "002 - research/202602201334 - reward model.md",
+    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
     "002 - research/202602020022 - non-verifiable domains.md",
     "002 - research/202602020018 - verifiable domains.md",
-    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602232008 - cold-start sft.md",
     "002 - research/large language models.md",
     "002 - research/202602231948 - distillation.md",
@@ -438,7 +450,6 @@
     "002 - research/openai.md",
     "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md",
     "002 - research/202602192221 - reinforcement learning.md",
-    "002 - research/202602201303 - q-learning.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",

@@ -12,7 +12,7 @@ parent nodes:
 published on:
 ---
 
-- Reinforcement Learning with Verifiable Rewards (RLVR) [[202602111335 - training|trains]] [[202602192245 - policy|policies]] using [[202602192352 - reward|rewards]] computed by [[202602020018 - verifiable domains|objective checks]] rather than human preference models
+- Reinforcement Learning with Verifiable Rewards (RLVR) [[202602111335 - training|trains]] [[202602192245 - policy|policies]] using [[202602192352 - reward|rewards]] computed by objective checks rather than human preference models
 - Rewards are derived from automatic validators such as:
 	- Unit tests
 	- Symbolic solvers

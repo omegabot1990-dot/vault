@@ -32,7 +32,7 @@ published on: 2025-01-22
 	- Trained from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]] ([[202602232025 - reinforcement learning verifiable rewards|RLVR]])
 		- GRPO eliminates the need for a separate value model and estimates the [[202602200148 - advantage|advantages]] from grouped rewards
 		- <mark style="background: #FF5582A6;">Reducing computational overhead</mark>
-	- [[202602020018 - verifiable domains|Rule-based rewards]]
+	- Rule-based rewards
 		- <mark style="background: #BBFABBA6;">Binary accuracy rewards</mark> (correct/incorrect final answers) and <mark style="background: #FFF3A3A6;">format rewards </mark>(proper reasoning structure using `<think>...</think><answer>...</answer>` tags)
 	- Extensive exploration
 		- High sampling temperature (1.0) and very long response lengths (up to 65,536 tokens)
@@ -45,7 +45,7 @@ published on: 2025-01-22
 > $$\text{Cold Start SFT} \rightarrow \text{First RL Stage} \rightarrow \text{Rejection Sampling + Secondary SFT} \rightarrow \text{Second RL Stage}$$
 
 - This framework addresses practical limitations of R1-Zero (poor readability, language mixing) while preserving reasoning capabilities
-- The process incorporates both rule-based and model-based rewards, including helpful and safety reward models trained on human preference data
+- The process incorporates both <mark style="background: #BBFABBA6;">rule-based</mark> and model-based rewards, including helpful and safety [[202602201334 - reward model|reward models]] trained on human preference data
 
 - [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
 

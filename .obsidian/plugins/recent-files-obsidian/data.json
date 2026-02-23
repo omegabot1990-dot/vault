@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
-    },
-    {
       "basename": "202602232025 - reinforcement learning verifiable rewards",
       "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "202602201334 - reward model",
+      "path": "002 - research/202602201334 - reward model.md"
+    },
+    {
+      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
+      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
       "basename": "202602020022 - non-verifiable domains",
@@ -195,10 +199,6 @@
     {
       "basename": "202602201253 - model-based",
       "path": "002 - research/202602201253 - model-based.md"
-    },
-    {
-      "basename": "202602201958 - monte carlo",
-      "path": "002 - research/202602201958 - monte carlo.md"
     }
   ],
   "omittedPaths": [],
