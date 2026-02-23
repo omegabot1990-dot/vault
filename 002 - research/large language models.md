@@ -9,8 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602231948 - distillation|Distillation]]
-
 ## Blogs
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)

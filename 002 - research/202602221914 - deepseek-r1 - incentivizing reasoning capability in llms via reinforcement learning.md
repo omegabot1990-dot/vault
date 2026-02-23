@@ -1,13 +1,13 @@
 ---
 tags:
-- paper
+  - paper
 aliases:
-- DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+  - DeepSeek-R1- Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 title: deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning
-description: ''
-bot: true
+description: ""
+bot: false
 parent nodes:
-- '[[deepseek]]'
+  - "[[deepseek]]"
 published on: 2025-01-22
 ---
 
@@ -36,7 +36,7 @@ published on: 2025-01-22
 
 - Train DeepSeek-R1-Zero from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
 - Build DeepSeek-R1 via a staged pipeline: cold-start SFT, reasoning RL, [[202602231804 - rejection sampling|rejection-sampled]] [[202601282201 - supervised fine-tuning|SFT]] refresh, then broader RL alignment
-- Distil reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
+- [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
 
 ## Result
 
@@ -52,8 +52,8 @@ published on: 2025-01-22
 
 ## Limitations
 
-- Pure RL variants can produce poor readability and language-mixing artifacts
-- Outcome-centric rewards risk reward hacking and weak process faithfulness
+- Pure RL variants can produce poor readability and language-mixing artefacts
+- Outcome-centric rewards risk reward-hacking, and weak process faithfulness
 - Benchmark-heavy evaluation may not fully capture real-world reliability and safety failure modes
 
 ## Future Work

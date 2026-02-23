@@ -5,6 +5,14 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "202602231948 - distillation",
+      "path": "002 - research/202602231948 - distillation.md"
+    },
+    {
       "basename": "202602231804 - rejection sampling",
       "path": "002 - research/202602231804 - rejection sampling.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
     },
     {
       "basename": "activation analysis",
@@ -195,10 +199,6 @@
     {
       "basename": "202602200013 - transition",
       "path": "002 - research/202602200013 - transition.md"
-    },
-    {
-      "basename": "202602192245 - policy",
-      "path": "002 - research/202602192245 - policy.md"
     }
   ],
   "omittedPaths": [],
