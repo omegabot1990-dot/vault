@@ -11,15 +11,7 @@ parent nodes:
 published on: 2025-01-22
 ---
 
-## Topics (not in KG yet)
-
-- [ ] DeepSeek-R1-Zero
-- [ ] cold-start data
-- [ ] rejection sampling
 - [ ] majority voting
-- [ ] reasoning-oriented reinforcement learning
-- [ ] distillation
-
 ## Summary
 
 - The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as [[202602231757 - reasoning|reasoning]]-focused [[202602191524 - large language model|LLMs]] [[202602111335 - training|trained]] primarily through [[202602192221 - reinforcement learning|RL]]
