@@ -35,7 +35,7 @@ published on: 2025-01-22
 ## Method
 
 - Train DeepSeek-R1-Zero from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
-- Build DeepSeek-R1 via a staged pipeline: cold-start SFT, reasoning RL, rejection-sampled SFT refresh, then broader RL alignment
+- Build DeepSeek-R1 via a staged pipeline: cold-start SFT, reasoning RL, [[202602231804 - rejection sampling|rejection-sampled]] [[202601282201 - supervised fine-tuning|SFT]] refresh, then broader RL alignment
 - Distil reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
 
 ## Result
