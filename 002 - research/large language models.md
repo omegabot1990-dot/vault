@@ -9,8 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602231757 - reasoning|Reasoning]]
-
 ## Blogs
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)

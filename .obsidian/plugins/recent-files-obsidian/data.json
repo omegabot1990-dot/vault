@@ -5,6 +5,14 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "202602191524 - large language model",
+      "path": "002 - research/202602191524 - large language model.md"
+    },
+    {
       "basename": "202602231757 - reasoning",
       "path": "002 - research/202602231757 - reasoning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "202602080005 - sampling",
       "path": "002 - research/202602080005 - sampling.md"
-    },
-    {
-      "basename": "202602201917 - trust region policy optimization",
-      "path": "002 - research/202602201917 - trust region policy optimization.md"
-    },
-    {
-      "basename": "202602201939 - group relative policy optimization",
-      "path": "002 - research/202602201939 - group relative policy optimization.md"
     }
   ],
   "omittedPaths": [],
