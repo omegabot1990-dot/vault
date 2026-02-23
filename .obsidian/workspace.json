@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +163,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602232032 - model-based rewards.md"
+                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602232032 - model-based rewards"
+              "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
           },
           {
@@ -216,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602232032 - model-based rewards.md",
+                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602232032 - model-based rewards"
+              "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
           }
         ]
@@ -388,10 +388,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602232032 - model-based rewards.md"
+                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602232032 - model-based rewards"
+                      "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
                     }
                   }
                 ]
@@ -406,7 +406,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602232032 - model-based rewards.md",
+                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -434,7 +434,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602232032 - model-based rewards"
+                      "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
                     }
                   }
                 ]
@@ -453,12 +453,12 @@
       }
     ]
   },
-  "active": "498b142cede8dd69",
+  "active": "7815bb3e807cb12e",
   "lastOpenFiles": [
+    "002 - research/202602232032 - model-based rewards.md",
     "002 - research/202602232031 - rule-based rewards.md",
     "002 - research/reinforcement learning.md",
     "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
-    "002 - research/202602232032 - model-based rewards.md",
     "002 - research/202602201334 - reward model.md",
     "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602020022 - non-verifiable domains.md",
