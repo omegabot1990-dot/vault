@@ -2,7 +2,7 @@
 tags:
   - note
 aliases:
-  - Verifiable domains
+  - Verifiable Domains
 title: verifiable domains
 description: ""
 parent nodes:

@@ -2,7 +2,7 @@
 tags:
   - note
 aliases:
-  - Non-verifiable domains
+  - Non-verifiable Domains
 title: non-verifiable domains
 description: ""
 parent nodes:

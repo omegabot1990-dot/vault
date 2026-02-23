@@ -29,8 +29,8 @@ published on: 2025-01-22
 ## Method
 
 - DeepSeek-R1-Zero
-	- Trained from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]]
-		- GRPO eliminates the need for a separate value model and estimates [[202602200148 - advantage|advantages]] from grouped rewards
+	- Trained from a base model with large-scale [[202602201939 - group relative policy optimization|GRPO]]-style RL and outcome-based [[202602192352 - reward|rewards]] ([[202602232025 - reinforcement learning verifiable rewards|RLVR]])
+		- GRPO eliminates the need for a separate value model and estimates the [[202602200148 - advantage|advantages]] from grouped rewards
 		- <mark style="background: #FF5582A6;">Reducing computational overhead</mark>
 	- [[202602020018 - verifiable domains|Rule-based rewards]]
 		- <mark style="background: #BBFABBA6;">Binary accuracy rewards</mark> (correct/incorrect final answers) and <mark style="background: #FFF3A3A6;">format rewards </mark>(proper reasoning structure using `<think>...</think><answer>...</answer>` tags)

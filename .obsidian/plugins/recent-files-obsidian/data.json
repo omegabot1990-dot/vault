@@ -5,6 +5,10 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
       "basename": "202602020022 - non-verifiable domains",
       "path": "002 - research/202602020022 - non-verifiable domains.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602201958 - monte carlo",
       "path": "002 - research/202602201958 - monte carlo.md"
-    },
-    {
-      "basename": "202602211420 - bellman equation",
-      "path": "002 - research/202602211420 - bellman equation.md"
     }
   ],
   "omittedPaths": [],
