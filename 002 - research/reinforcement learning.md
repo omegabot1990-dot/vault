@@ -9,10 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202602232025 - reinforcement learning verifiable rewards|Reinforcement Learning Verifiable Rewards]]
-- [x] [[202602232031 - rule-based rewards|Rule-Based Rewards]]
-- [x] [[202602232032 - model-based rewards|Model-Based Rewards]]
-
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 

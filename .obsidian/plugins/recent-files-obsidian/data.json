@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "202602232032 - model-based rewards",
+      "path": "002 - research/202602232032 - model-based rewards.md"
+    },
+    {
+      "basename": "202602232031 - rule-based rewards",
+      "path": "002 - research/202602232031 - rule-based rewards.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
       "basename": "202602232025 - reinforcement learning verifiable rewards",
       "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
@@ -149,10 +161,6 @@
       "path": "002 - research/202602111634 - weight decay.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
       "basename": "202602200001 - policy optimization",
       "path": "002 - research/202602200001 - policy optimization.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "202602201246 - off-policy",
       "path": "002 - research/202602201246 - off-policy.md"
-    },
-    {
-      "basename": "202602201248 - on-policy",
-      "path": "002 - research/202602201248 - on-policy.md"
-    },
-    {
-      "basename": "202602201253 - model-based",
-      "path": "002 - research/202602201253 - model-based.md"
     }
   ],
   "omittedPaths": [],
