@@ -9,6 +9,8 @@ parent nodes:
 
 ## Topics
 
+- [x] [[202602232038 - adversarial evaluation|Adversarial Evaluation]]
+
 - [ ] Contextual Bandit Problem
 	- [ ] The state does not depend on previous actions
 
