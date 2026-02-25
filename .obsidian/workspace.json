@@ -405,8 +405,10 @@
       }
     ]
   },
-  "active": "7815bb3e807cb12e",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "000 - daily notes/2026-02-25.md",
+    "000 - daily notes/2026-02-24.md",
     "002 - research/202602201241 - proximal policy optimization.md",
     "002 - research/202602200134 - reinforce.md",
     "002 - research/202602211411 - generalized advantage estimation.md",
@@ -431,8 +433,6 @@
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "008 - templates/node - zettel.md",
     "008 - templates/node - inbox.md",
-    "008 - templates/node - daily notes.md",
-    "002 - research/202602062040 - probability.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
