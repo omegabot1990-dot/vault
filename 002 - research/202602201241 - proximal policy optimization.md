@@ -24,7 +24,7 @@ published on:
 > $$L^{CLIP}(\theta) = \hat{E}_t \left[ \min(r_t(\theta)\hat{A}_t, \text{clip}(r_t(\theta), 1-\epsilon, 1+\epsilon)\hat{A}_t) \right]$$
 > 
 > 1. $r_t(\theta)$ or **Probability Ratio**: The ratio $\frac{\pi_{\theta}(a|s)}{\pi_{\theta_{old}}(a|s)}$, how much more/less likely the action is now vs. before
-> 2. $\hat{A}_t$ or **Advantage Estimate**: How much better the action was than the average: $G_t - V(s_t)$ 
+> 2. $\hat{A}_t$ or **Advantage Estimate**: How much better the action was than the average: $G_t - V(s_t)$, $\hat{A}_t = R_t + \gamma V(s_{t+1}) - V(s_t)$
 > 3.  $\epsilon$ or **Clipping Parameter**: Usually set to $0.1$ or $0.2$, limits how much the policy can change in one step
 > 4. $\text{clip}(\cdot)$ or **Clipped Ratio**: Forces the ratio to stay between $[1-\epsilon, 1+\epsilon]$
 
@@ -40,3 +40,4 @@ published on:
 
 
 [^1]: [Proximal Policy Optimization (PPO) for LLMs Explained Intuitively](https://www.youtube.com/watch?v=8jtAzxUwDj0)
+

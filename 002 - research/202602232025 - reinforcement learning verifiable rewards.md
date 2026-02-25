@@ -18,7 +18,7 @@ published on:
 	- Symbolic solvers
 	- Exact match
 	- Formal verification signals
-- This reduces reward-model misspecification and improves training signal reliability in domains with clear correctness criteria [[202602020018 - verifiable domains|(verifiable domains)]]
+- This reduces reward-model misspecification and improves training signal reliability in domains with clear correctness criteria ([[202602020018 - verifiable domains|verifiable domains]])
 - RLVR is especially effective for:
 	- Math
 	- Coding

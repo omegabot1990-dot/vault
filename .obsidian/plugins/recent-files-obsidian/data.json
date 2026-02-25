@@ -5,20 +5,36 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
-      "basename": "202602232032 - model-based rewards",
-      "path": "002 - research/202602232032 - model-based rewards.md"
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "202602200134 - reinforce",
+      "path": "002 - research/202602200134 - reinforce.md"
+    },
+    {
+      "basename": "202602211411 - generalized advantage estimation",
+      "path": "002 - research/202602211411 - generalized advantage estimation.md"
+    },
+    {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
     {
       "basename": "202602232031 - rule-based rewards",
       "path": "002 - research/202602232031 - rule-based rewards.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
+      "basename": "202602232032 - model-based rewards",
+      "path": "002 - research/202602232032 - model-based rewards.md"
     },
     {
-      "basename": "202602232025 - reinforcement learning verifiable rewards",
-      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+      "basename": "202602232038 - adversarial evaluation",
+      "path": "002 - research/202602232038 - adversarial evaluation.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602201334 - reward model",
@@ -165,20 +181,8 @@
       "path": "002 - research/202602200001 - policy optimization.md"
     },
     {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
       "basename": "proximal policy optimisation",
       "path": "002 - research/proximal policy optimisation.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602211411 - generalized advantage estimation",
-      "path": "002 - research/202602211411 - generalized advantage estimation.md"
     },
     {
       "basename": "202602200129 - policy gradient methods",
@@ -195,10 +199,6 @@
     {
       "basename": "202602201305 - temporal-difference algorithm",
       "path": "002 - research/202602201305 - temporal-difference algorithm.md"
-    },
-    {
-      "basename": "202602201246 - off-policy",
-      "path": "002 - research/202602201246 - off-policy.md"
     }
   ],
   "omittedPaths": [],

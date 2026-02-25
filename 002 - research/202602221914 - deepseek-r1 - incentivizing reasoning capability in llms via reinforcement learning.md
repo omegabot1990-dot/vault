@@ -49,11 +49,24 @@ published on: 2025-01-22
 
 - [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
 
+![Pipeline|700](https://paper-assets.alphaxiv.org/figures/2501.12948v2/img-2.jpeg)
+
 ## Result
 
 - R1-Zero improves sharply on reasoning metrics from base performance through RL alone
+- DeepSeek-R1-Zero demonstrates remarkable emergent behaviours during training
+	- The model naturally develops sophisticated reasoning strategies including:
+		- <mark style="background: #BBFABBA6;">Self-reflection</mark>
+			- Dramatic increases in reflective language use, with words like "wait," "evaluate," and "retry" appearing 5-7 times more frequently
+		- <mark style="background: #FF5582A6;">Verification</mark>
+			- Active attempts to check and validate reasoning steps
+		- <mark style="background: #FFF3A3A6;">Dynamic strategy adaptation</mark>
+			- Evidence of "aha moments" where the model suddenly shifts its approach to problem-solving
 - DeepSeek-R1 reports strong pass@1 and benchmark results competitive with frontier closed models on reasoning-heavy tasks
 - Distilled small/medium models show strong gains, with several checkpoints surpassing earlier open baselines
+- [[202602201241 - proximal policy optimization|PPO]] vs GRPO
+
+![PPOvsGRPO|700](https://paper-assets.alphaxiv.org/figures/2501.12948v2/img-4.jpeg)
 
 ## Take Away
 

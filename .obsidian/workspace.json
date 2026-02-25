@@ -44,54 +44,6 @@
               "icon": "lucide-file",
               "title": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
-          },
-          {
-            "id": "0103d6d5c37cfd4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602232025 - reinforcement learning verifiable rewards"
-            }
-          },
-          {
-            "id": "8a4aa429ba094f18",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602232031 - rule-based rewards.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602232031 - rule-based rewards"
-            }
-          },
-          {
-            "id": "498b142cede8dd69",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/202602232032 - model-based rewards.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "202602232032 - model-based rewards"
-            }
           }
         ],
         "currentTab": 1
@@ -455,12 +407,16 @@
   },
   "active": "7815bb3e807cb12e",
   "lastOpenFiles": [
-    "002 - research/202602232032 - model-based rewards.md",
-    "002 - research/202602232031 - rule-based rewards.md",
-    "002 - research/reinforcement learning.md",
-    "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
-    "002 - research/202602201334 - reward model.md",
+    "002 - research/202602201241 - proximal policy optimization.md",
+    "002 - research/202602200134 - reinforce.md",
+    "002 - research/202602211411 - generalized advantage estimation.md",
     "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+    "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
+    "002 - research/202602232031 - rule-based rewards.md",
+    "002 - research/202602232032 - model-based rewards.md",
+    "002 - research/202602232038 - adversarial evaluation.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/202602201334 - reward model.md",
     "002 - research/202602020022 - non-verifiable domains.md",
     "002 - research/202602020018 - verifiable domains.md",
     "002 - research/202602232008 - cold-start sft.md",
@@ -477,10 +433,6 @@
     "008 - templates/node - inbox.md",
     "008 - templates/node - daily notes.md",
     "002 - research/202602062040 - probability.md",
-    "002 - research/202602231757 - reasoning.md",
-    "000 - daily notes/2026-02-23.md",
-    "002 - research/deepseek.md",
-    "002 - research/202601291921 - deepseek r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
