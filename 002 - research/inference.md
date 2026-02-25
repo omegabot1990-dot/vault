@@ -9,6 +9,7 @@ parent nodes:
 ## Topics
 
 - [x] [[202602111350 - inference|Inference]]
+- [x] [[202602252301 - self consistency decoding|Self-Consistency Decoding]]
 
 ## Blogs
 
