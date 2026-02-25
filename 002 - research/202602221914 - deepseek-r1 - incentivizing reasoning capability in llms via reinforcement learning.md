@@ -11,7 +11,6 @@ parent nodes:
 published on: 2025-01-22
 ---
 
-- [ ] majority voting
 
 > [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
 
@@ -50,10 +49,10 @@ published on: 2025-01-22
 - This framework addresses practical limitations of R1-Zero (poor readability, language mixing) while preserving reasoning capabilities
 - The process incorporates both <mark style="background: #BBFABBA6;">rule-based</mark> and [[202602232032 - model-based rewards|model-based rewards]], including helpful and safety [[202602201334 - reward model|reward models]] trained on human preference data
 
-- [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
-
 ![Pipeline|700](https://paper-assets.alphaxiv.org/figures/2501.12948v2/img-2.jpeg)
 
+- [[202602231948 - distillation|Distil]] reasoning traces and behaviours into smaller, dense [[qwen|Qwen]]/[[llama|Llama]]-family models
+- Used [[202602252301 - self-consistency decoding|self-consistency decoding]] to show improved results
 ## Result
 
 - R1-Zero improves sharply on reasoning metrics from base performance through RL alone

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
+      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+    },
+    {
+      "basename": "202602252301 - self-consistency decoding",
+      "path": "002 - research/202602252301 - self-consistency decoding.md"
+    },
+    {
+      "basename": "inference",
+      "path": "002 - research/inference.md"
+    },
+    {
       "basename": "202602181827 - kl divergence",
       "path": "002 - research/202602181827 - kl divergence.md"
     },
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
       "basename": "deepseek",
@@ -191,14 +199,6 @@
     {
       "basename": "proximal policy optimisation",
       "path": "002 - research/proximal policy optimisation.md"
-    },
-    {
-      "basename": "202602200129 - policy gradient methods",
-      "path": "002 - research/202602200129 - policy gradient methods.md"
-    },
-    {
-      "basename": "202602201335 - bootstrapping",
-      "path": "002 - research/202602201335 - bootstrapping.md"
     }
   ],
   "omittedPaths": [],
