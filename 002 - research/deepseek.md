@@ -34,7 +34,7 @@ parent nodes:
 
 ## Papers
 
-- [x] [[202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning|DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]]
+- [x] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
 
 - [ ] [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://www.alphaxiv.org/abs/2511.22570)
 	- [ ] November 2025

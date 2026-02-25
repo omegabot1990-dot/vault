@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
       "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+    },
+    {
+      "basename": "deepseek",
+      "path": "002 - research/deepseek.md"
+    },
+    {
+      "basename": "202602191533 - attention is all you need",
+      "path": "002 - research/202602191533 - attention is all you need.md"
+    },
+    {
+      "basename": "202602211411 - generalized advantage estimation",
+      "path": "002 - research/202602211411 - generalized advantage estimation.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -11,10 +31,6 @@
     {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602211411 - generalized advantage estimation",
-      "path": "002 - research/202602211411 - generalized advantage estimation.md"
     },
     {
       "basename": "202602232025 - reinforcement learning verifiable rewards",
@@ -109,10 +125,6 @@
       "path": "002 - research/202602231757 - reasoning.md"
     },
     {
-      "basename": "deepseek",
-      "path": "002 - research/deepseek.md"
-    },
-    {
       "basename": "openai",
       "path": "002 - research/openai.md"
     },
@@ -127,10 +139,6 @@
     {
       "basename": "202602201303 - q-learning",
       "path": "002 - research/202602201303 - q-learning.md"
-    },
-    {
-      "basename": "202602181827 - kl divergence",
-      "path": "002 - research/202602181827 - kl divergence.md"
     },
     {
       "basename": "202602111640 - dropout",
@@ -191,14 +199,6 @@
     {
       "basename": "202602201335 - bootstrapping",
       "path": "002 - research/202602201335 - bootstrapping.md"
-    },
-    {
-      "basename": "202602201253 - model-free",
-      "path": "002 - research/202602201253 - model-free.md"
-    },
-    {
-      "basename": "202602201305 - temporal-difference algorithm",
-      "path": "002 - research/202602201305 - temporal-difference algorithm.md"
     }
   ],
   "omittedPaths": [],

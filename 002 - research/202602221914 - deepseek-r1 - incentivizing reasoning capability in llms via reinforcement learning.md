@@ -12,6 +12,9 @@ published on: 2025-01-22
 ---
 
 - [ ] majority voting
+
+> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
+
 ## Summary
 
 - The paper introduces DeepSeek-R1-Zero and DeepSeek-R1 as [[202602231757 - reasoning|reasoning]]-focused [[202602191524 - large language model|LLMs]] [[202602111335 - training|trained]] primarily through [[202602192221 - reinforcement learning|RL]]
@@ -34,9 +37,9 @@ published on: 2025-01-22
 		- <mark style="background: #FF5582A6;">Reducing computational overhead</mark>
 	- [[202602232031 - rule-based rewards|Rule-based rewards]]
 		- <mark style="background: #BBFABBA6;">Binary accuracy rewards</mark> (correct/incorrect final answers) and <mark style="background: #FFF3A3A6;">format rewards </mark>(proper reasoning structure using `<think>...</think><answer>...</answer>` tags)
-	- Extensive exploration
+	- <mark style="background: #ABF7F7A6;">Extensive exploration</mark>
 		- High sampling temperature (1.0) and very long response lengths (up to 65,536 tokens)
-	- Objective feedback
+	- <mark style="background: #FFB86CA6;">Objective feedback</mark>
 		- Compiler-based evaluation for coding problems and answer format verification for mathematics
 - DeepSeek-R1
 	- Build via a staged pipeline: [[202602232008 - cold-start sft|cold-start SFT]], reasoning RL, [[202602231804 - rejection sampling|rejection-sampled]] [[202601282201 - supervised fine-tuning|SFT]] refresh, then broader RL alignment
