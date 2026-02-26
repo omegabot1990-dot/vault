@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "inference",
+      "path": "002 - research/inference.md"
+    },
+    {
       "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
       "basename": "202602252301 - self-consistency decoding",
       "path": "002 - research/202602252301 - self-consistency decoding.md"
-    },
-    {
-      "basename": "inference",
-      "path": "002 - research/inference.md"
     },
     {
       "basename": "202602181827 - kl divergence",

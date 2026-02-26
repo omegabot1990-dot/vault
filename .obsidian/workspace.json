@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
             }
+          },
+          {
+            "id": "840ee3954c2f71e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/inference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inference"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+                "file": "002 - research/inference.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+              "title": "File properties for inference"
             }
           },
           {
@@ -168,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+                "file": "002 - research/inference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +210,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+              "title": "Graph of inference"
             }
           }
         ]
@@ -340,10 +354,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+                        "file": "002 - research/inference.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+                      "title": "File properties for inference"
                     }
                   }
                 ]
@@ -358,7 +372,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
+                        "file": "002 - research/inference.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -386,7 +400,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning"
+                      "title": "Graph of inference"
                     }
                   }
                 ]
@@ -405,13 +419,13 @@
       }
     ]
   },
-  "active": "7815bb3e807cb12e",
+  "active": "840ee3954c2f71e8",
   "lastOpenFiles": [
+    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602252301 - self-consistency decoding.md",
     "002 - research/inference.md",
     "002 - research/202602181827 - kl divergence.md",
     "002 - research/202602120102 - cross-entropy.md",
-    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/deepseek.md",
     "002 - research/202602191533 - attention is all you need.md",
     "002 - research/202602211411 - generalized advantage estimation.md",
