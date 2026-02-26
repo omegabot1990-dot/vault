@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "202602120145 - loss",
-      "path": "002 - research/202602120145 - loss.md"
+      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
+      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
       "basename": "202602030238 - cross-entropy loss",
       "path": "002 - research/202602030238 - cross-entropy loss.md"
     },
     {
-      "basename": "inference",
-      "path": "002 - research/inference.md"
+      "basename": "202602020105 - negative sampling",
+      "path": "002 - research/202602020105 - negative sampling.md"
     },
     {
-      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+      "basename": "202602260106 - pair-wise ranking loss",
+      "path": "002 - research/202602260106 - pair-wise ranking loss.md"
+    },
+    {
+      "basename": "202602120145 - loss",
+      "path": "002 - research/202602120145 - loss.md"
+    },
+    {
+      "basename": "inference",
+      "path": "002 - research/inference.md"
     },
     {
       "basename": "202602252301 - self-consistency decoding",
@@ -191,14 +199,6 @@
     {
       "basename": "202602011426 - warmup",
       "path": "002 - research/202602011426 - warmup.md"
-    },
-    {
-      "basename": "202602111256 - hyperparameters",
-      "path": "002 - research/202602111256 - hyperparameters.md"
-    },
-    {
-      "basename": "202602111634 - weight decay",
-      "path": "002 - research/202602111634 - weight decay.md"
     }
   ],
   "omittedPaths": [],
