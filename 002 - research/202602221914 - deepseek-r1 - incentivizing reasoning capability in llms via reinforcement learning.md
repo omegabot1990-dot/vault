@@ -13,6 +13,7 @@ published on: 2025-01-22
 
 
 > [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
+> [DeepSeek-R1: Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf)
 
 ## Summary
 
@@ -88,6 +89,9 @@ published on: 2025-01-22
 
 ## Future Work
 
+- Improve structural output capabilities
+- <mark style="background: #BBFABBA6;">Improve tool use capabilities</mark>
+- 
 - Improve process-level supervision and reward robustness for faithful long-chain reasoning
 - Increase stability and multilingual quality without losing reasoning depth
 - Study data-efficient distillation and stronger small-model reasoning transfer

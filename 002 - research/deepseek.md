@@ -39,6 +39,8 @@ parent nodes:
 - [ ] [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://www.alphaxiv.org/abs/2511.22570)
 	- [ ] November 2025
 
+- [ ] [DeepSeek-V3 Technical Report](https://www.alphaxiv.org/abs/2412.19437)
+
 - [ ] [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556)
 
 ## Videos
