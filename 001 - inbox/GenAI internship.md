@@ -1,3 +1,19 @@
+---
+tags:
+  - inbox
+description: Internship Plan
+bot: false
+status: In Progress
+task type: recurrent
+urgency level: urgent
+importance level: important
+due date:
+start date:
+end date:
+story points: 5
+recurrent: true
+parent nodes:
+---
 # **6‑Month Internship Plan: Domain‑Specialized LLM / SLM Adaptation (DAPT, SFT, RL)**
 
 ### *For Railway Root Cause Analysis & Maintenance Expertise Transfer into LLMs*
@@ -24,17 +40,19 @@ By the end of 6 months, the intern produces:
 **Technical Outcomes**
 
 *   A domain-specialized LLM (1–7B) adapted using:
-    *   **DAPT + LoRA**
-    *   **SFT**
     *   **RL (RLVR + GRPO)**
-*   A library of **Tool‑Verified reasoning tasks** tailored to railway diagnostics.
-*   A reproducible **training + inference pipeline**, with evaluation suite and benchmarks.
+    *   **SFT**
+        * **Final-layers**
+        *  **LoRA**
+    * **DAPT** - Only if needed?
+*   A reproducible **training + inference pipeline**, with an evaluation suite and benchmarks.
+*   ==A library of **Tool‑Verified reasoning tasks** tailored to railway diagnostics.== - What is this?
 
 **Business Outcomes**
 
 *   A prototype model capable of:
     *   Suggesting root causes from textual descriptions
-    *   Summarizing FRB discussions
+    *   Summarising FRB discussions
     *   Extracting failure patterns from service notes
     *   Proposing repair actions with traceable reasoning
 
@@ -56,20 +74,25 @@ By the end of 6 months, the intern produces:
 **Monthly Technical Review**
 
 *   Alireza, Thijs, FSCO domain expert
-*   Evaluate: data prep, DAPT quality, SFT progress, RL stability, evaluation metrics
+*   Evaluate: data prep, SFT progress, RL stability, evaluation metrics, ==DAPT quality?==
 
 **Monthly Business Review**
 
 *   Alireza + Erik
-*   Evaluate business value, reasoning accuracy, domain adoption, user fit
+*   Evaluate business value, reasoning accuracy, domain adoption, and user fit
 
 **Open Door Policy**
 
 *   Intern can ask Alireza at any time
 
-**Decision Gates**
+**Decision Gates** ==TODO: UPDATE==
 
-*   **Gate A (Week 4):** Data readiness + corpus design validated
+*   **Gate A (Week 4):** Base Model + Training Pipelines
+*   ==**Gate A (Week 4):** Data readiness + corpus design validated== TODO: REMOVE
+## Task
+
+- 
+
 *   **Gate B (Week 8):** DAPT + LoRA → coherent domain outputs
 *   **Gate C (Week 16):** SFT + baseline RL working
 *   **Gate D (Week 22):** Prototype reasoning model validated
@@ -77,7 +100,7 @@ By the end of 6 months, the intern produces:
 
 ***
 
-# **2) Deliverables**
+# **2) Deliverables** ==TODO: UPDATE==
 
 ### **Code (Notebooks & Scripts)**
 
@@ -99,7 +122,7 @@ By the end of 6 months, the intern produces:
 
 ***
 
-# **3) Repository Structure**
+# **3) Repository Structure** ==TODO: UPDATE==
 
     repo/
       README.md
@@ -148,11 +171,11 @@ By the end of 6 months, the intern produces:
 
 ***
 
-# **4) Evaluation Metrics**
+# **4) Evaluation Metrics** ==TODO: UPDATE==
 
 ### **DAPT**
 
-*   Perplexity on domain corpus
+*   Perplexity on the domain corpus
 *   Vocabulary coverage score
 *   Jargon comprehension tests
 
@@ -174,7 +197,7 @@ By the end of 6 months, the intern produces:
 
 *   Model usefulness to FSCOs
 *   Accuracy on root cause reasoning tasks
-*   Reduction in time required to analyze FRB entries
+*   Reduction in time required to analyse FRB entries
 *   Internal adoption potential
 
 ***
@@ -183,6 +206,49 @@ By the end of 6 months, the intern produces:
 
 ***
 
+## **Month 1 — Base Model Creation, Supervised Fine-tuning (Full vs Layer-wise vs LoRA) Pipeline, Reinforcement Learning Pipeline, Generic Evaluation Benchmarks**
+
+### *(Weeks 1–4)*
+
+**Objectives**
+
+* Build Qwen3 0.6B (base model) in Pytorch.
+* Build SFT training pipeline.
+	* Extend with LoRA training pipeline.
+*  Build an RL training pipeline.
+	* Implement Group Relative Policy Optimization.
+	* Build a reward model.
+* Build a suite that can run the Evaluation Benchmarks.
+
+**Tasks**
+
+* Build the Qwen3 architecture in Python using PyTorch.
+	* Create a modular code base for Qwen3.
+	* Create a notebook to load model weights.
+	* Build an inference pipeline.
+		* Temperature
+		* Top-k
+		* To be updated....
+* Build a training pipeline for fine-tuning an LLM.
+	* Layer selection.
+	* LoRA capability.
+* Build a training pipeline for reinforcement learning with GRPO.
+* Build a test suite.
+	* Multi-hop reasoning benchmarks:
+		* MuSiQue
+		- HotpotQA
+		- 2WikiMultiHopQA
+		- Bamboogle
+
+**Deliverables**
+
+*   `notebooks/qwen_model_loader.ipynb`
+*   `qwen3`
+*   `reports/tech_imrad.md` v1
+*   **Gate A**: Base Model + Training Pipelines
+
+
+---
 ## **Month 1 — Corpus Creation, Tokenizer, and DAPT Planning**
 
 ### *(Weeks 1–4)*
@@ -197,7 +263,7 @@ By the end of 6 months, the intern produces:
 **Tasks**
 
 *   Data discovery + privacy filtering
-*   Build corpus builder notebook
+*   Build a corpus builder notebook
 *   Cleaning (de-duplication, section extraction, formatting)
 *   Domain vocabulary extraction (technical jargon, component names)
 *   Extend tokenizer (if needed)
@@ -367,7 +433,7 @@ By the end of 6 months, the intern produces:
 *   **Hallucinations in repair actions** → integrate rule-based verifiers; RLVR rewards
 *   **Data leakage** from internal documents → strict preprocessing
 *   **Training instability in RL** → use GRPO for clipping + controlled step sizes
-*   **GPU constraints** → prioritize 1B–7B, use QLoRA + gradient accumulation
+*   **GPU constraints** → prioritise 1B–7B, use QLoRA + gradient accumulation
 *   **Safety concerns** → implement refusal rules for unsafe instructions
 
 ***
@@ -376,6 +442,6 @@ By the end of 6 months, the intern produces:
 
 *   Multi-turn FRB entries summarizer
 *   Causal reasoning traces
-*   Mixture‑of‑Experts on top of domain specialist
+*   Mixture‑of‑Experts on top of a domain specialist
 *   Synthetic data generation for rare failure modes
 *   Multi-modal integration (pictures of components → text reasoning)
