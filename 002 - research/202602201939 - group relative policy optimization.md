@@ -12,6 +12,9 @@ parent nodes:
 published on:
 ---
 
+- [ ] [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://www.alphaxiv.org/abs/2402.03300)
+
+---
 - Group Relative Policy Optimization (GRPO) is a [[202602200001 - policy optimization|policy optimization]] method that normalizes [[202602192352 - reward|rewards]] within sampled output groups
 - Instead of relying on a separate [[202602200020 - value|value]] critic, it <mark style="background: #BBFABBA6;">computes relative</mark> [[202602200148 - advantage|advantages]] <mark style="background: #BBFABBA6;">from group-level statistics</mark>
 - This reduces dependence on explicit value-function fitting while preserving [[202602200129 - policy gradient methods|policy-gradient]] style updates

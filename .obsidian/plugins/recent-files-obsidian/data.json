@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "GenAI internship",
+      "path": "001 - inbox/GenAI internship.md"
+    },
+    {
       "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+    },
+    {
+      "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
+      "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
+    },
+    {
+      "basename": "timeline",
+      "path": "002 - research/timeline.md"
+    },
+    {
+      "basename": "Agenda 3rd March",
+      "path": "001 - inbox/Agenda 3rd March.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "202601101646 - is tool use a way towards domain adaptation?",
+      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "retrieval augmented generation",
+      "path": "002 - research/retrieval augmented generation.md"
+    },
+    {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "reinforcement learning verifiable rewards",
+      "path": "002 - research/reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
     },
     {
       "basename": "deepseek",
@@ -53,16 +101,8 @@
       "path": "002 - research/202602211411 - generalized advantage estimation.md"
     },
     {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
       "basename": "202602200134 - reinforce",
       "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602232025 - reinforcement learning verifiable rewards",
-      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
     {
       "basename": "202602232031 - rule-based rewards",
@@ -121,16 +161,8 @@
       "path": "002 - research/neural networks.md"
     },
     {
-      "basename": "202602201939 - group relative policy optimization",
-      "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
       "basename": "activation analysis",
       "path": "002 - research/activation analysis.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
     {
       "basename": "node - zettel",
@@ -167,38 +199,6 @@
     {
       "basename": "202602201303 - q-learning",
       "path": "002 - research/202602201303 - q-learning.md"
-    },
-    {
-      "basename": "202602111640 - dropout",
-      "path": "002 - research/202602111640 - dropout.md"
-    },
-    {
-      "basename": "202602220131 - residual dropouts",
-      "path": "002 - research/202602220131 - residual dropouts.md"
-    },
-    {
-      "basename": "post-training",
-      "path": "002 - research/post-training.md"
-    },
-    {
-      "basename": "202602061227 - ppo-ptx",
-      "path": "002 - research/202602061227 - ppo-ptx.md"
-    },
-    {
-      "basename": "202602192217 - reinforcement learning human feedback",
-      "path": "002 - research/202602192217 - reinforcement learning human feedback.md"
-    },
-    {
-      "basename": "202602111600 - learning rate",
-      "path": "002 - research/202602111600 - learning rate.md"
-    },
-    {
-      "basename": "202602111617 - learning rate schedule",
-      "path": "002 - research/202602111617 - learning rate schedule.md"
-    },
-    {
-      "basename": "202602220121 - cosine decay",
-      "path": "002 - research/202602220121 - cosine decay.md"
     }
   ],
   "omittedPaths": [],

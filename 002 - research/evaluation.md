@@ -21,6 +21,30 @@ parent nodes:
 
 - [ ] Perplexity
 
+- [ ] IFEval
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+	- [ ] [Instruction-Following Evaluation for Large Language Models](https://www.alphaxiv.org/abs/2311.07911)
+
+- [ ] FRAMES
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+	- [ ] [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](https://www.alphaxiv.org/abs/2409.12941)
+
+- [ ] DROP
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+	- [ ] [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://www.alphaxiv.org/abs/1903.00161)
+
+- [ ] MuSiQue 
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
+- [ ] HotpotQA
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
+- [ ] 2WikiMultiHopQA
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
+- [ ] Bamboogle
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
 ## Blogs
 
 - [ ] [Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)](https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches)

@@ -10,7 +10,6 @@ parent nodes:
 published on: 2022-03-04
 ---
 
-- [ ] Read paper
 - [ ] What is TruthfulQA?
 - [ ] What is SQuAD v2?
 - [ ] What is DROP?

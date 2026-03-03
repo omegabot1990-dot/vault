@@ -24,7 +24,7 @@ parent nodes:
 
 ## Papers
 
-- [x] [[202602102118 - research- learning to reason with search for llms via reinforcement learning|ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning]]
+- [x] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.19470)
 
 - [ ] [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](https://www.alphaxiv.org/abs/2601.22975)
 

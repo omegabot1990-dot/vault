@@ -11,7 +11,6 @@ parent nodes:
 published on: 2025-01-22
 ---
 
-
 > [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
 > [DeepSeek-R1: Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf)
 
@@ -37,6 +36,7 @@ published on: 2025-01-22
 		- <mark style="background: #FF5582A6;">Reducing computational overhead</mark>
 	- [[202602232031 - rule-based rewards|Rule-based rewards]]
 		- <mark style="background: #BBFABBA6;">Binary accuracy rewards</mark> (correct/incorrect final answers) and <mark style="background: #FFF3A3A6;">format rewards </mark>(proper reasoning structure using `<think>...</think><answer>...</answer>` tags)
+		- <mark style="background: #D2B3FFA6;">Language consistency rewards</mark>
 	- <mark style="background: #ABF7F7A6;">Extensive exploration</mark>
 		- High sampling temperature (1.0) and very long response lengths (up to 65,536 tokens)
 	- <mark style="background: #FFB86CA6;">Objective feedback</mark>
@@ -91,7 +91,7 @@ published on: 2025-01-22
 
 - Improve structural output capabilities
 - <mark style="background: #BBFABBA6;">Improve tool use capabilities</mark>
-- 
+- <mark style="background: #FF5582A6;">Incorporate multi-turn dialogue data</mark>
 - Improve process-level supervision and reward robustness for faithful long-chain reasoning
 - Increase stability and multilingual quality without losing reasoning depth
 - Study data-efficient distillation and stronger small-model reasoning transfer
