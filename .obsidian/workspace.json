@@ -104,11 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "001 - inbox/GenAI internship.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for GenAI internship"
+              "title": "File properties"
             }
           },
           {
@@ -158,7 +156,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - inbox/GenAI internship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of GenAI internship"
+              "title": "Graph view"
             }
           }
         ]
@@ -329,11 +326,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "file-properties",
-                      "state": {
-                        "file": "001 - inbox/GenAI internship.md"
-                      },
+                      "state": {},
                       "icon": "lucide-info",
-                      "title": "File properties for GenAI internship"
+                      "title": "File properties"
                     }
                   }
                 ]
@@ -348,7 +343,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "001 - inbox/GenAI internship.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -376,7 +370,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of GenAI internship"
+                      "title": "Graph view"
                     }
                   }
                 ]
@@ -395,8 +389,9 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "bb42fd34f6702404",
   "lastOpenFiles": [
+    "001 - inbox/GenAI internship.md",
     "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md",
     "002 - research/timeline.md",
@@ -406,7 +401,6 @@
     "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
     "002 - research/retrieval augmented generation.md",
     "002 - research/202602201939 - group relative policy optimization.md",
-    "001 - inbox/GenAI internship.md",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
     "002 - research/reinforcement learning verifiable rewards.md",
