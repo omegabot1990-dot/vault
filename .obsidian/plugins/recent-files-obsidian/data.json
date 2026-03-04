@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "RLVR",
+      "path": "001 - inbox/RLVR.md"
+    },
+    {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "reinforcement learning ai feedback",
+      "path": "002 - research/reinforcement learning ai feedback.md"
+    },
+    {
+      "basename": "202601101646 - is tool use a way towards domain adaptation?",
+      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "distillation",
+      "path": "002 - research/distillation.md"
+    },
+    {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
     },
@@ -31,10 +55,6 @@
     {
       "basename": "supervised fine-tuning",
       "path": "002 - research/supervised fine-tuning.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
     },
     {
       "basename": "202602192343 - agent",
@@ -93,10 +113,6 @@
       "path": "002 - research/evaluation.md"
     },
     {
-      "basename": "202601101646 - is tool use a way towards domain adaptation?",
-      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
-    },
-    {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     },
@@ -107,10 +123,6 @@
     {
       "basename": "202602201939 - group relative policy optimization",
       "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
-      "basename": "202602232025 - reinforcement learning verifiable rewards",
-      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
     {
       "basename": "202602201241 - proximal policy optimization",
@@ -187,18 +199,6 @@
     {
       "basename": "202602232008 - cold-start sft",
       "path": "002 - research/202602232008 - cold-start sft.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
-    },
-    {
-      "basename": "202602231948 - distillation",
-      "path": "002 - research/202602231948 - distillation.md"
-    },
-    {
-      "basename": "202602231804 - rejection sampling",
-      "path": "002 - research/202602231804 - rejection sampling.md"
     }
   ],
   "omittedPaths": [],

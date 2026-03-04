@@ -16,6 +16,8 @@ parent nodes: null
 recurrent: null
 ---
 
+> https://www.emergentmind.com/research/42565fb502d962bf490ffafc
+
 ## Open Problems
 
 - Process Reward Models
@@ -114,6 +116,32 @@ recurrent: null
 
 ## Papers
 
+- [RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844)
+- [The Invisible Leash? Why RLVR May or May Not Escape Its Origin](https://www.alphaxiv.org/abs/2507.14843)
+- [Reinforcement Learning with Verifiable yet Noisy Rewards under Imperfect Verifiers](https://www.alphaxiv.org/abs/2510.00915)
+- [RLPR: Extrapolating RLVR to General Domains without Verifiers](https://arxiv.org/abs/2506.18254)
+- [Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning](https://www.alphaxiv.org/abs/2507.17512)
+- [Agent-RLVR: Training Software Engineering Agents via Guidance and Environment Rewards](https://www.alphaxiv.org/abs/2506.11425)
+- [Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning](https://www.alphaxiv.org/abs/2511.14460)
+- [Using Semantic Similarity as Reward for Reinforcement Learning in Sentence Generation](https://aclanthology.org/P19-2056.pdf)
+- [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://www.alphaxiv.org/abs/2511.21689)
+- [CoSineVerifier: Tool-Augmented Answer Verification for Computation-Oriented Scientific Questions](https://www.alphaxiv.org/abs/2512.01224)
+- [Dr. Zero: Self-Evolving Search Agents without Training Data](https://www.alphaxiv.org/abs/2601.07055)
+	- <mark style="background: #FF5582A6;">IMPORTANT</mark>
+- [A Comprehensive Survey of Reward Models: Taxonomy, Applications, Challenges, and Future](https://www.alphaxiv.org/abs/2504.12328)
+- [LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions](https://www.alphaxiv.org/abs/2405.11106)
+- [Learning to Reason without External Rewards](https://www.alphaxiv.org/abs/2505.19590)
+- [STEPHINT: MULTI-LEVEL STEPWISE HINTS ENHANCE REINFORCEMENT LEARNING TO REASON](https://www.alphaxiv.org/abs/2507.02841)
+- [First Return, Entropy-Eliciting Explore](https://www.alphaxiv.org/abs/2507.07017)
+- [DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search](https://www.alphaxiv.org/abs/2509.25454)
+	- <mark style="background: #FF5582A6;">IMPORTANT</mark>
+- [ENABLING TOOL USE OF REASONING MODELS WITH-OUT VERIFIABLE REWARD VIA SFT-RL LOOP](https://openreview.net/pdf/1ca67ceed76207273bb57d9dc64f0ce06c209123.pdf)
+- [EXTENDING RLVR TO OPEN-ENDED TASKS VIA VER-IFIABLE MULTIPLE-CHOICE REFORMULATION](https://openreview.net/pdf?id=uZxyvmN72d)
+- [Replacing thinking with tool usage enables reasoning in small language models](https://www.alphaxiv.org/abs/2507.05065)
+	- <mark style="background: #FF5582A6;">IMPORTANT</mark>
+- [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://www.alphaxiv.org/abs/2504.04736)
+
+
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/overview/2501.12948) - Jan 4, 2025
 	- [DeepSeek-R1 (Supplementary)](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-025-09422-z/MediaObjects/41586_2025_9422_MOESM1_ESM.pdf)
 	- Foundational for RL and RLVR
@@ -170,6 +198,7 @@ recurrent: null
 	- Future direction?
 		- Personalised guidance strategies
 - [VerIF](https://www.emergentmind.com/papers/2506.09942) - June 11, 2025
+	- [VerIF: Verification Engineering for Reinforcement Learning in Instruction Following](https://www.alphaxiv.org/abs/2506.09942)
 	- Combines rule-based and LLM-based semantic verification
 	- ==Has an instruction-following dataset with signals==
 - [Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards](https://www.emergentmind.com/papers/2505.13445) - May 19, 2025
@@ -210,6 +239,7 @@ recurrent: null
 	- [Acting Less is Reasoning More! Teaching Model to Act Efficiently](https://alphaxiv.org/abs/2504.14870)
 	- [On Group Relative Policy Optimization Collapse in Agent Search: The Lazy Likelihood-Displacement](https://alphaxiv.org/abs/2512.04220)
 - [REASONING GYM](https://www.emergentmind.com/papers/2505.24760) - May 30, 2025
+	- [REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards](https://www.alphaxiv.org/abs/2505.24760)
 	- Provides data generators and verifiers (over 100)
 	- Adjustable difficulty
 	- Curriculum learning is good

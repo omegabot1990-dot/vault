@@ -44,6 +44,10 @@ parent nodes:
 
 - [ ] [Experiential Reinforcement Learning](https://www.alphaxiv.org/abs/2602.13949)
 
+- [ ] [TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2509.25760)
+
+- [ ] [A Survey of Reinforcement Learning for Large Reasoning Models](https://www.alphaxiv.org/abs/2509.08827)
+
 ## Videos
 
 - [ ] [YouTube DeepMind x UCL - 2015](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=Z_ehZvM8ZBHQsMJf)
