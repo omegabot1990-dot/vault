@@ -24,12 +24,21 @@ parent nodes:
 
 ## Papers
 
+#### Tool Use + Search
+
 - [x] [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.19470)
 
+- [ ] [R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.05592)
+	- [ ] <mark style="background: #FF5582A6;">VERY IMPORTANT</mark>
+
+- [ ] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://www.alphaxiv.org/abs/2503.09516)
+	- [ ] <mark style="background: #FF5582A6;">VERY IMPORTANT</mark>
+
 - [ ] [Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text](https://www.alphaxiv.org/abs/2601.22975)
+	- [ ] 
 
 - [ ] [Learning to Reason in 13 Parameters](https://www.alphaxiv.org/abs/2602.04118)
-	- [ ] <mark style="background: #FF5582A6;">VERY IMPORTANT</mark>
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
 
 ## Videos
 

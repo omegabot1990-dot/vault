@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "GenAI internship",
-      "path": "001 - inbox/GenAI internship.md"
+      "basename": "reinforcement learning verifiable rewards",
+      "path": "002 - research/reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "proximal policy optimisation",
+      "path": "002 - research/proximal policy optimisation.md"
+    },
+    {
+      "basename": "group relative policy optimisation",
+      "path": "002 - research/group relative policy optimisation.md"
+    },
+    {
+      "basename": "post-training",
+      "path": "002 - research/post-training.md"
+    },
+    {
+      "basename": "highlights",
+      "path": "002 - research/highlights.md"
+    },
+    {
+      "basename": "direct preference optimisation",
+      "path": "002 - research/direct preference optimisation.md"
+    },
+    {
+      "basename": "deepseek",
+      "path": "002 - research/deepseek.md"
+    },
+    {
+      "basename": "lightweight models",
+      "path": "002 - research/lightweight models.md"
     },
     {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
+    },
+    {
+      "basename": "GenAI internship",
+      "path": "001 - inbox/GenAI internship.md"
+    },
+    {
+      "basename": "202602061804 - entropy",
+      "path": "002 - research/202602061804 - entropy.md"
     },
     {
       "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
@@ -45,16 +81,8 @@
       "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
     {
-      "basename": "reinforcement learning verifiable rewards",
-      "path": "002 - research/reinforcement learning verifiable rewards.md"
-    },
-    {
       "basename": "202602201241 - proximal policy optimization",
       "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
-      "basename": "deepseek",
-      "path": "002 - research/deepseek.md"
     },
     {
       "basename": "202602020032 - monte-carlo tree search",
@@ -171,34 +199,6 @@
     {
       "basename": "node - inbox",
       "path": "008 - templates/node - inbox.md"
-    },
-    {
-      "basename": "node - daily notes",
-      "path": "008 - templates/node - daily notes.md"
-    },
-    {
-      "basename": "202602062040 - probability",
-      "path": "002 - research/202602062040 - probability.md"
-    },
-    {
-      "basename": "202602231757 - reasoning",
-      "path": "002 - research/202602231757 - reasoning.md"
-    },
-    {
-      "basename": "openai",
-      "path": "002 - research/openai.md"
-    },
-    {
-      "basename": "202602221541 - deep reinforcement learning doesn't work yet (2018)",
-      "path": "002 - research/202602221541 - deep reinforcement learning doesn't work yet (2018).md"
-    },
-    {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
-    },
-    {
-      "basename": "202602201303 - q-learning",
-      "path": "002 - research/202602201303 - q-learning.md"
     }
   ],
   "omittedPaths": [],

@@ -11,7 +11,11 @@ parent nodes:
 published on: 2025-03-25
 ---
 
+- [ ] [[reinforcement learning verifiable rewards|Similar Papers]]
+
+---
 > [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2503.19470)
+> [GitHub](https://github.com/Agent-RL/ReCall)
 
 ## Summary
 

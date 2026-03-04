@@ -18,8 +18,8 @@ parent nodes:
 	- [ ] Less complicated than Trusted Region Policy Optimisation
 
 - [ ] [Rethinking the Trust Region in LLM Reinforcement Learning](https://www.alphaxiv.org/abs/2602.04879)
-	- [ ] <mark style="background: #ADCCFFA6;">LATER</mark>
 	- [ ] Divergence Proximal Policy Optimisation (DPPO), a framework for LLM fine-tuning that replaces PPO's heuristic ratio clipping with a principled, divergence-based trust region
+	- [ ] <mark style="background: #ADCCFFA6;">LATER</mark>
 
 ## Videos
 

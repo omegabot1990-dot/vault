@@ -23,6 +23,9 @@ parent nodes:
 
 - [ ] [Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models](https://www.alphaxiv.org/abs/2512.24618)
 
+- [ ] [Effective Learning for Small Reasoning Models: An Empirical Study on 0.5B Reasoning LLMs](https://www.alphaxiv.org/abs/2506.13404)
+	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
+
 ## Videos
 
 ## Code

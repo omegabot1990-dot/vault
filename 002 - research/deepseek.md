@@ -6,26 +6,6 @@ parent nodes:
   - "[[large language models]]"
 ---
 
-- [ ] Read overview
-- [ ] Read paper
-
----
-> [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
-
-## Summary
-
-- Showed that LLMs can demonstrate sophisticated **reasoning** abilities
-- These capabilities can emerge from ==pure outcome-based reinforcement learning without human-annotated reasoning trajectories==
-	- Showed emergent self-reflection and dynamic strategy adaptation
-- Released R1-Zero and R1
-	- R1-Zero is similar to the original [[alphago zero|DeepMind AlphaGo Zero]]
-- R1 Surpassed SOTA models in deterministic or verifiable domains like math, programming and STEM
-- Evaluation used AIME 2024, pass@1
-
-
-## Core Research Framework
-
-
 ## Topics
 
 ## Blogs
@@ -36,8 +16,13 @@ parent nodes:
 
 - [x] [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://www.alphaxiv.org/abs/2501.12948)
 
+- [ ] [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://www.alphaxiv.org/abs/2402.03300)
+	- [ ] Introduced GRPO
+	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
+
 - [ ] [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://www.alphaxiv.org/abs/2511.22570)
 	- [ ] November 2025
+	- [ ] <mark style="background: #FF5582A6;">VERY IMPORTANT</mark>
 
 - [ ] [DeepSeek-V3 Technical Report](https://www.alphaxiv.org/abs/2412.19437)
 
