@@ -28,6 +28,8 @@ parent nodes:
 
 - [ ] [SimpleMem: Efficient Lifelong Memory for LLM Agents](https://www.alphaxiv.org/abs/2601.02553)
 
+- [ ] [SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://www.alphaxiv.org/abs/2602.08234)
+
 ## Videos
 
 ## Code

@@ -84,6 +84,7 @@
           {
             "id": "5ce6ba065dcdb29a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -91,12 +92,41 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "reinforcement learning verifiable rewards"
             }
+          },
+          {
+            "id": "a32e4e1973ac7a90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/highlights.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "highlights"
+            }
+          },
+          {
+            "id": "174fe8f5f766cd6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/inference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "inference"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/reinforcement learning verifiable rewards.md"
+                "file": "002 - research/inference.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reinforcement learning verifiable rewards"
+              "title": "File properties for inference"
             }
           },
           {
@@ -191,7 +221,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "golde",
+                "query": "recurs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +248,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/reinforcement learning verifiable rewards.md",
+                "file": "002 - research/inference.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +276,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of reinforcement learning verifiable rewards"
+              "title": "Graph of inference"
             }
           }
         ],
@@ -391,10 +421,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/reinforcement learning verifiable rewards.md"
+                        "file": "002 - research/inference.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for reinforcement learning verifiable rewards"
+                      "title": "File properties for inference"
                     }
                   }
                 ]
@@ -409,7 +439,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/reinforcement learning verifiable rewards.md",
+                        "file": "002 - research/inference.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -437,7 +467,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of reinforcement learning verifiable rewards"
+                      "title": "Graph of inference"
                     }
                   }
                 ]
@@ -456,16 +486,22 @@
       }
     ]
   },
-  "active": "5ce6ba065dcdb29a",
+  "active": "174fe8f5f766cd6f",
   "lastOpenFiles": [
+    "002 - research/202602201850 - bias-variance tradeoff.md",
+    "002 - research/reasoning.md",
+    "002 - research/agent.md",
+    "002 - research/parameter efficient fine-tuning.md",
+    "002 - research/reinforcement learning.md",
+    "002 - research/reinforcement learning verifiable rewards.md",
+    "002 - research/highlights.md",
+    "000 - daily notes/2026-03-04.md",
     "002 - research/proximal policy optimisation.md",
     "002 - research/group relative policy optimisation.md",
     "002 - research/post-training.md",
-    "002 - research/highlights.md",
     "002 - research/direct preference optimisation.md",
     "002 - research/deepseek.md",
     "002 - research/lightweight models.md",
-    "002 - research/reinforcement learning verifiable rewards.md",
     "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md",
     "001 - inbox/GenAI internship.md",
     "002 - research/202602061804 - entropy.md",
@@ -478,13 +514,7 @@
     "002 - research/timeline.md",
     "001 - inbox/Agenda 3rd March.md",
     "002 - research/evaluation.md",
-    "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
-    "002 - research/202601282131 - training language models to follow instructions with human feedback.md",
-    "002 - research/retrieval augmented generation.md",
-    "002 - research/202602201939 - group relative policy optimization.md",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
-    "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
-    "002 - research/202602201241 - proximal policy optimization.md",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",

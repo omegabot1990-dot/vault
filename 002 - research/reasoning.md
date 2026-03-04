@@ -19,6 +19,8 @@ parent nodes:
 
 - [ ] [FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable Reasoning](https://www.alphaxiv.org/abs/2510.22543)
 
+- [ ] [Large Language Model Reasoning Failures](https://www.alphaxiv.org/abs/2602.06176)
+
 ## Videos
 
 ## Code

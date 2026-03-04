@@ -18,6 +18,8 @@ parent nodes:
 
 - [ ] [Shared LoRA Subspaces for almost Strict Continual Learning](https://www.alphaxiv.org/abs/2602.06043)
 
+- [ ] [Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning](https://www.alphaxiv.org/abs/2602.04998)
+
 ## Videos
 
 ## Code
