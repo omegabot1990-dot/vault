@@ -42,6 +42,8 @@ parent nodes:
 
 - [ ] [On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models](https://www.alphaxiv.org/abs/2602.03392)
 
+- [ ] [Experiential Reinforcement Learning](https://www.alphaxiv.org/abs/2602.13949)
+
 ## Videos
 
 - [ ] [YouTube DeepMind x UCL - 2015](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=Z_ehZvM8ZBHQsMJf)

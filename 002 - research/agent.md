@@ -30,6 +30,10 @@ parent nodes:
 
 - [ ] [SKILLRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning](https://www.alphaxiv.org/abs/2602.08234)
 
+- [ ] [How to Train Your Deep Research Agent? Prompt, Reward, and Policy Optimization in Search-R1](https://www.alphaxiv.org/abs/2602.19526)
+
+- [ ] [Agents of Chaos](https://www.alphaxiv.org/abs/2602.20021)
+
 ## Videos
 
 ## Code

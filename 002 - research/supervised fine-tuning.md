@@ -22,6 +22,8 @@ parent nodes:
 	- [ ] Evaluation tools
 	- [ ] Introduces RLVR
 
+- [ ] [Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning](https://www.alphaxiv.org/abs/2602.11149)
+
 ## Videos
 
 - [ ] [YouTube - Tülu 3 from AI2: Full open-source fine-tuning recipe for LLMs](https://www.youtube.com/watch?v=P26xOoUuef4)

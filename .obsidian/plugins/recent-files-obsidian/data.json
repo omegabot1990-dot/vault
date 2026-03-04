@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
+      "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
+    },
+    {
+      "basename": "post-training",
+      "path": "002 - research/post-training.md"
+    },
+    {
+      "basename": "group relative policy optimisation",
+      "path": "002 - research/group relative policy optimisation.md"
+    },
+    {
+      "basename": "proximal policy optimisation",
+      "path": "002 - research/proximal policy optimisation.md"
+    },
+    {
+      "basename": "reinforcement learning verifiable rewards",
+      "path": "002 - research/reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "highlights",
+      "path": "002 - research/highlights.md"
+    },
+    {
+      "basename": "agent",
+      "path": "002 - research/agent.md"
+    },
+    {
+      "basename": "supervised fine-tuning",
+      "path": "002 - research/supervised fine-tuning.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "202602192343 - agent",
+      "path": "002 - research/202602192343 - agent.md"
+    },
+    {
       "basename": "inference",
       "path": "002 - research/inference.md"
     },
@@ -13,36 +53,8 @@
       "path": "002 - research/reasoning.md"
     },
     {
-      "basename": "agent",
-      "path": "002 - research/agent.md"
-    },
-    {
       "basename": "parameter efficient fine-tuning",
       "path": "002 - research/parameter efficient fine-tuning.md"
-    },
-    {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
-      "basename": "reinforcement learning verifiable rewards",
-      "path": "002 - research/reinforcement learning verifiable rewards.md"
-    },
-    {
-      "basename": "highlights",
-      "path": "002 - research/highlights.md"
-    },
-    {
-      "basename": "proximal policy optimisation",
-      "path": "002 - research/proximal policy optimisation.md"
-    },
-    {
-      "basename": "group relative policy optimisation",
-      "path": "002 - research/group relative policy optimisation.md"
-    },
-    {
-      "basename": "post-training",
-      "path": "002 - research/post-training.md"
     },
     {
       "basename": "direct preference optimisation",
@@ -55,10 +67,6 @@
     {
       "basename": "lightweight models",
       "path": "002 - research/lightweight models.md"
-    },
-    {
-      "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
-      "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
     },
     {
       "basename": "GenAI internship",
@@ -191,14 +199,6 @@
     {
       "basename": "202602231804 - rejection sampling",
       "path": "002 - research/202602231804 - rejection sampling.md"
-    },
-    {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
-      "basename": "202602191524 - large language model",
-      "path": "002 - research/202602191524 - large language model.md"
     }
   ],
   "omittedPaths": [],
