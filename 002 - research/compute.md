@@ -16,6 +16,12 @@ parent nodes:
 	- [ ] <mark style="background: #FF5582A6;">SET UP ASAP</mark>
 	- [x] Request access
 
+```
+ssh s4374886@ssh-gw.alice.universiteitleiden.nl # 1
+ssh s4374886@login.alice.universiteitleiden.nl #2
+ssh alice
+```
+
 ## Papers
 
 ## Videos

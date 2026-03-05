@@ -16,6 +16,9 @@ published on:
 ---
 - Often called [[202602050141 - autoregressive|autoregressive]] modelling, causal language modelling predicts the next token in a sequence based only on the tokens that came before it
 - Strictly <mark style="background: #BBFABBA6;">unidirectional (left-to-right)</mark>, the model is "causally masked", so it cannot "cheat" by looking at future words
-- Next-token prediction
+- Next-token prediction [^1]
 - Self-supervised learning paradigm
 - Examples: Text Generation ([[generative pre-trained transformer|GPT]])
+
+
+[^1]: [[build_a_large_language_model_from_scratch.pdf#page=47&selection=6,0,7,43|build_a_large_language_model_from_scratch, page 47]]

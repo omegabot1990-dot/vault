@@ -17,6 +17,8 @@ parent nodes:
 
 ## Papers
 
+- [ ] [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
 - [x] [Training language models to follow instructions with human feedback](https://www.alphaxiv.org/abs/2203.02155)
 
 - [ ] [Language Models are Unsupervised Multitask Learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe)

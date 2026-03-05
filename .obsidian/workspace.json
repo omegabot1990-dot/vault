@@ -50,9 +50,23 @@
               "icon": "lucide-file",
               "title": "202601101646 - is tool use a way towards domain adaptation?"
             }
+          },
+          {
+            "id": "1b8034ddd3dbf7ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "build_a_large_language_model_from_scratch"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,10 +135,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+                "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202601101646 - is tool use a way towards domain adaptation?"
+              "title": "File properties for build_a_large_language_model_from_scratch"
             }
           },
           {
@@ -147,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Learning to Reason without External Rewards\"",
+                "query": "\"Word\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
+                "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,10 +216,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202601101646 - is tool use a way towards domain adaptation?"
+              "title": "Graph of build_a_large_language_model_from_scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -346,10 +361,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+                        "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202601101646 - is tool use a way towards domain adaptation?"
+                      "title": "File properties for build_a_large_language_model_from_scratch"
                     }
                   }
                 ]
@@ -364,7 +379,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
+                        "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -392,7 +407,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202601101646 - is tool use a way towards domain adaptation?"
+                      "title": "Graph of build_a_large_language_model_from_scratch"
                     }
                   }
                 ]
@@ -411,16 +426,30 @@
       }
     ]
   },
-  "active": "6a766da0e364bf60",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "002 - research/llama.md",
+    "002 - research/data.md",
+    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
+    "007 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
+    "machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
+    "002 - research/openai.md",
+    "002 - research/202602050155 - causal language modelling.md",
+    "002 - research/202602050141 - autoregressive.md",
+    "002 - research/202602020105 - negative sampling.md",
+    "002 - research/202601282201 - supervised fine-tuning.md",
+    "002 - research/timeline.md",
+    "002 - research/alice.md",
+    "002 - research/compute.md",
+    "002 - research/post-training.md",
+    "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
+    "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
     "001 - inbox/RLVR.md",
     "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
-    "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
     "002 - research/reinforcement learning.md",
     "002 - research/reinforcement learning ai feedback.md",
     "002 - research/distillation.md",
     "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md",
-    "002 - research/post-training.md",
     "002 - research/group relative policy optimisation.md",
     "002 - research/proximal policy optimisation.md",
     "002 - research/reinforcement learning verifiable rewards.md",
@@ -428,27 +457,12 @@
     "002 - research/agent.md",
     "002 - research/supervised fine-tuning.md",
     "002 - research/202602192343 - agent.md",
-    "002 - research/inference.md",
-    "002 - research/202602201850 - bias-variance tradeoff.md",
-    "002 - research/reasoning.md",
-    "002 - research/parameter efficient fine-tuning.md",
-    "000 - daily notes/2026-03-04.md",
-    "002 - research/direct preference optimisation.md",
-    "002 - research/deepseek.md",
-    "002 - research/lightweight models.md",
-    "001 - inbox/GenAI internship.md",
-    "002 - research/202602061804 - entropy.md",
-    "000 - daily notes/2026-03-03.md",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
-    "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
-    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
     "007 - attachments",
     "scripts/hf_trending_newsletter.py",
-    "scripts",
-    "000 - daily notes/2026/February",
     "800 - metadata/workflow.canvas",
     "003 - genesis/somedude - time.canvas",
     "003 - genesis/music/guitar/guitar fretboard patterns 15x6.canvas",

@@ -28,6 +28,8 @@ parent nodes:
 - [ ] [Reinforced Attention Learning](https://www.alphaxiv.org/abs/2602.04884)
 	- [ ] Reinforced Attention Learning (RAL) is a post-training framework for Multimodal Large Language Models (MLLMs) that directly optimizes internal attention distributions instead of just output tokens
 
+- [ ] [FlashOptim: Optimizers for Memory Efficient Training](https://www.alphaxiv.org/abs/2602.23349)
+
 ## Videos
 
 ## Code

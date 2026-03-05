@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "build_a_large_language_model_from_scratch",
+      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+    },
+    {
+      "basename": "llama",
+      "path": "002 - research/llama.md"
+    },
+    {
+      "basename": "data",
+      "path": "002 - research/data.md"
+    },
+    {
+      "basename": "openai",
+      "path": "002 - research/openai.md"
+    },
+    {
+      "basename": "202602050155 - causal language modelling",
+      "path": "002 - research/202602050155 - causal language modelling.md"
+    },
+    {
+      "basename": "202602050141 - autoregressive",
+      "path": "002 - research/202602050141 - autoregressive.md"
+    },
+    {
+      "basename": "202602020105 - negative sampling",
+      "path": "002 - research/202602020105 - negative sampling.md"
+    },
+    {
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
+    },
+    {
+      "basename": "timeline",
+      "path": "002 - research/timeline.md"
+    },
+    {
+      "basename": "alice",
+      "path": "002 - research/alice.md"
+    },
+    {
+      "basename": "compute",
+      "path": "002 - research/compute.md"
+    },
+    {
+      "basename": "post-training",
+      "path": "002 - research/post-training.md"
+    },
+    {
+      "basename": "build_a_reasoning_model_from_scrath_v6",
+      "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
+    },
+    {
       "basename": "202601101646 - is tool use a way towards domain adaptation?",
       "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
     },
@@ -27,10 +79,6 @@
     {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
-    },
-    {
-      "basename": "post-training",
-      "path": "002 - research/post-training.md"
     },
     {
       "basename": "group relative policy optimisation",
@@ -101,10 +149,6 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
-      "basename": "timeline",
-      "path": "002 - research/timeline.md"
-    },
-    {
       "basename": "Agenda 3rd March",
       "path": "001 - inbox/Agenda 3rd March.md"
     },
@@ -137,10 +181,6 @@
       "path": "002 - research/202602030238 - cross-entropy loss.md"
     },
     {
-      "basename": "202602020105 - negative sampling",
-      "path": "002 - research/202602020105 - negative sampling.md"
-    },
-    {
       "basename": "202602260106 - pair-wise ranking loss",
       "path": "002 - research/202602260106 - pair-wise ranking loss.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "202602120102 - cross-entropy",
       "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202602191533 - attention is all you need",
-      "path": "002 - research/202602191533 - attention is all you need.md"
-    },
-    {
-      "basename": "202602211411 - generalized advantage estimation",
-      "path": "002 - research/202602211411 - generalized advantage estimation.md"
-    },
-    {
-      "basename": "202602200134 - reinforce",
-      "path": "002 - research/202602200134 - reinforce.md"
-    },
-    {
-      "basename": "202602232031 - rule-based rewards",
-      "path": "002 - research/202602232031 - rule-based rewards.md"
-    },
-    {
-      "basename": "202602232032 - model-based rewards",
-      "path": "002 - research/202602232032 - model-based rewards.md"
-    },
-    {
-      "basename": "202602232038 - adversarial evaluation",
-      "path": "002 - research/202602232038 - adversarial evaluation.md"
-    },
-    {
-      "basename": "202602201334 - reward model",
-      "path": "002 - research/202602201334 - reward model.md"
-    },
-    {
-      "basename": "202602020022 - non-verifiable domains",
-      "path": "002 - research/202602020022 - non-verifiable domains.md"
-    },
-    {
-      "basename": "202602020018 - verifiable domains",
-      "path": "002 - research/202602020018 - verifiable domains.md"
-    },
-    {
-      "basename": "202602232008 - cold-start sft",
-      "path": "002 - research/202602232008 - cold-start sft.md"
     }
   ],
   "omittedPaths": [],

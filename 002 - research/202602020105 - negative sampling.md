@@ -7,7 +7,7 @@ title: negative sampling
 description: ""
 parent nodes:
   - "[[data]]"
-  - "[[fine-tuning]]"
+  - "[[202601282201 - supervised fine-tuning|Supervised Fine-Tuning]]"
 published on:
 ---
 
