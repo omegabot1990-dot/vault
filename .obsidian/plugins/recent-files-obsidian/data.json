@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "202603051540 - rope",
+      "path": "002 - research/202603051540 - rope.md"
+    },
+    {
       "basename": "202603051537 - positional encoding",
       "path": "002 - research/202603051537 - positional encoding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "202602020032 - monte-carlo tree search",
       "path": "002 - research/202602020032 - monte-carlo tree search.md"
-    },
-    {
-      "basename": "202602030238 - cross-entropy loss",
-      "path": "002 - research/202602030238 - cross-entropy loss.md"
     }
   ],
   "omittedPaths": [],
