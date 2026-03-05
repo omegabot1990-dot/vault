@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "build_a_large_language_model_from_scratch",
+      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+    },
+    {
       "basename": "202603051540 - rope",
       "path": "002 - research/202603051540 - rope.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "normalization",
       "path": "002 - research/normalization.md"
-    },
-    {
-      "basename": "build_a_large_language_model_from_scratch",
-      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
     },
     {
       "basename": "llama",
