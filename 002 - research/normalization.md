@@ -10,7 +10,6 @@ parent nodes:
 ## Topics
 
 - [ ] What is Batch Normalization?
-- [x] [[202603051524 - rms norm|RMSNorm]]
 
 ## Blogs
 

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "202603051524 - rms norm",
+      "path": "002 - research/202603051524 - rms norm.md"
+    },
+    {
+      "basename": "202602191623 - layer normalization",
+      "path": "002 - research/202602191623 - layer normalization.md"
+    },
+    {
+      "basename": "normalization",
+      "path": "002 - research/normalization.md"
+    },
+    {
       "basename": "build_a_large_language_model_from_scratch",
       "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "202602120145 - loss",
       "path": "002 - research/202602120145 - loss.md"
-    },
-    {
-      "basename": "202602252301 - self-consistency decoding",
-      "path": "002 - research/202602252301 - self-consistency decoding.md"
-    },
-    {
-      "basename": "202602181827 - kl divergence",
-      "path": "002 - research/202602181827 - kl divergence.md"
-    },
-    {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
     }
   ],
   "omittedPaths": [],

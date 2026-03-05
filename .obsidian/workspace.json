@@ -64,9 +64,23 @@
               "icon": "lucide-file-text",
               "title": "build_a_large_language_model_from_scratch"
             }
+          },
+          {
+            "id": "89591cdd04f82338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202603051524 - rms norm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202603051524 - rms norm"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+                "file": "002 - research/202603051524 - rms norm.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for build_a_large_language_model_from_scratch"
+              "title": "File properties for 202603051524 - rms norm"
             }
           },
           {
@@ -188,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf",
+                "file": "002 - research/202603051524 - rms norm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,11 +230,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of build_a_large_language_model_from_scratch"
+              "title": "Graph of 202603051524 - rms norm"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -361,10 +374,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+                        "file": "002 - research/202603051524 - rms norm.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for build_a_large_language_model_from_scratch"
+                      "title": "File properties for 202603051524 - rms norm"
                     }
                   }
                 ]
@@ -379,7 +392,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "007 - attachments/build_a_large_language_model_from_scratch.pdf",
+                        "file": "002 - research/202603051524 - rms norm.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -407,7 +420,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of build_a_large_language_model_from_scratch"
+                      "title": "Graph of 202603051524 - rms norm"
                     }
                   }
                 ]
@@ -426,12 +439,15 @@
       }
     ]
   },
-  "active": "629d4760abcd45c6",
+  "active": "89591cdd04f82338",
   "lastOpenFiles": [
+    "002 - research/202602191623 - layer normalization.md",
+    "002 - research/normalization.md",
+    "002 - research/202603051524 - rms norm.md",
+    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "000 - daily notes/2026-03-05.md",
     "002 - research/llama.md",
     "002 - research/data.md",
-    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "007 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
     "machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
     "002 - research/openai.md",
@@ -455,9 +471,6 @@
     "002 - research/proximal policy optimisation.md",
     "002 - research/reinforcement learning verifiable rewards.md",
     "002 - research/highlights.md",
-    "002 - research/agent.md",
-    "002 - research/supervised fine-tuning.md",
-    "002 - research/202602192343 - agent.md",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
