@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/202603051524 - rms norm.md",
+                "file": "002 - research/202603051537 - positional encoding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202603051524 - rms norm"
+              "title": "202603051537 - positional encoding"
             }
           }
         ],
@@ -149,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/202603051524 - rms norm.md"
+                "file": "002 - research/202603051537 - positional encoding.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 202603051524 - rms norm"
+              "title": "File properties for 202603051537 - positional encoding"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/202603051524 - rms norm.md",
+                "file": "002 - research/202603051537 - positional encoding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 202603051524 - rms norm"
+              "title": "Graph of 202603051537 - positional encoding"
             }
           }
         ]
@@ -374,10 +374,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/202603051524 - rms norm.md"
+                        "file": "002 - research/202603051537 - positional encoding.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for 202603051524 - rms norm"
+                      "title": "File properties for 202603051537 - positional encoding"
                     }
                   }
                 ]
@@ -392,7 +392,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/202603051524 - rms norm.md",
+                        "file": "002 - research/202603051537 - positional encoding.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -420,7 +420,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of 202603051524 - rms norm"
+                      "title": "Graph of 202603051537 - positional encoding"
                     }
                   }
                 ]
@@ -441,9 +441,11 @@
   },
   "active": "89591cdd04f82338",
   "lastOpenFiles": [
+    "002 - research/large language models.md",
+    "002 - research/202603051524 - rms norm.md",
+    "002 - research/202603051537 - positional encoding.md",
     "002 - research/202602191623 - layer normalization.md",
     "002 - research/normalization.md",
-    "002 - research/202603051524 - rms norm.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "000 - daily notes/2026-03-05.md",
     "002 - research/llama.md",
@@ -469,8 +471,6 @@
     "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md",
     "002 - research/group relative policy optimisation.md",
     "002 - research/proximal policy optimisation.md",
-    "002 - research/reinforcement learning verifiable rewards.md",
-    "002 - research/highlights.md",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",

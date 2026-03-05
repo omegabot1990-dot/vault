@@ -9,8 +9,6 @@ parent nodes:
 
 ## Topics
 
-- [x] [[202603051537 - positional encoding|Positional Encoding]]
-
 ## Blogs
 
 - [ ] [HuggingFace LLM Course](https://huggingface.co/learn/llm-course/chapter0/1)
