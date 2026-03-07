@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "fine-tuning",
+      "path": "002 - research/fine-tuning.md"
+    },
+    {
+      "basename": "202602232008 - cold-start sft",
+      "path": "002 - research/202602232008 - cold-start sft.md"
+    },
+    {
+      "basename": "tool use",
+      "path": "002 - research/tool use.md"
+    },
+    {
+      "basename": "202601101646 - is tool use a way towards domain adaptation?",
+      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
       "basename": "build_a_large_language_model_from_scratch",
       "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+    },
+    {
+      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
+      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
+    },
+    {
+      "basename": "RLVR",
+      "path": "001 - inbox/RLVR.md"
+    },
+    {
+      "basename": "supervised fine-tuning",
+      "path": "002 - research/supervised fine-tuning.md"
+    },
+    {
+      "basename": "202601311954 - pytorch",
+      "path": "002 - research/202601311954 - pytorch.md"
     },
     {
       "basename": "202603051540 - rope",
@@ -77,14 +109,6 @@
       "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
     },
     {
-      "basename": "202601101646 - is tool use a way towards domain adaptation?",
-      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
-    },
-    {
-      "basename": "RLVR",
-      "path": "001 - inbox/RLVR.md"
-    },
-    {
       "basename": "202602232025 - reinforcement learning verifiable rewards",
       "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
@@ -123,10 +147,6 @@
     {
       "basename": "agent",
       "path": "002 - research/agent.md"
-    },
-    {
-      "basename": "supervised fine-tuning",
-      "path": "002 - research/supervised fine-tuning.md"
     },
     {
       "basename": "202602192343 - agent",
@@ -169,10 +189,6 @@
       "path": "002 - research/202602061804 - entropy.md"
     },
     {
-      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
-    },
-    {
       "basename": "Agenda 3rd March",
       "path": "001 - inbox/Agenda 3rd March.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "202601282131 - training language models to follow instructions with human feedback",
       "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
-    },
-    {
-      "basename": "retrieval augmented generation",
-      "path": "002 - research/retrieval augmented generation.md"
-    },
-    {
-      "basename": "202602201939 - group relative policy optimization",
-      "path": "002 - research/202602201939 - group relative policy optimization.md"
-    },
-    {
-      "basename": "202602201241 - proximal policy optimization",
-      "path": "002 - research/202602201241 - proximal policy optimization.md"
-    },
-    {
-      "basename": "202602020032 - monte-carlo tree search",
-      "path": "002 - research/202602020032 - monte-carlo tree search.md"
     }
   ],
   "omittedPaths": [],
