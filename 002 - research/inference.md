@@ -20,6 +20,7 @@ parent nodes:
 	- [ ] Recursive Language Models (RLMs) treat the user prompt as an external environment, allowing the LLM to programmatically decompose, examine, and recursively call itself over snippets of the input via a persistent Python REPL
 	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
 
+- [ ] [PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference](https://www.alphaxiv.org/abs/2603.02479)
 ## Videos
 
 ## Code

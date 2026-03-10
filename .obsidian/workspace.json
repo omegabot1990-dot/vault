@@ -66,35 +66,21 @@
             }
           },
           {
-            "id": "7d66b84bdce04f4c",
+            "id": "35a78b62b98a7ea3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/202602232008 - cold-start sft.md",
+                "file": "002 - research/pre-training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202602232008 - cold-start sft"
-            }
-          },
-          {
-            "id": "13f46cfcac12db67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 - research/fine-tuning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fine-tuning"
+              "title": "pre-training"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,10 +149,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/fine-tuning.md"
+                "file": "002 - research/pre-training.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for fine-tuning"
+              "title": "File properties for pre-training"
             }
           },
           {
@@ -189,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"PRISM\"",
+                "query": "\"Tips for LLM Pretraining and Evaluating Reward Models\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 - research/fine-tuning.md",
+                "file": "002 - research/pre-training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of fine-tuning"
+              "title": "Graph of pre-training"
             }
           }
         ],
@@ -389,10 +375,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/fine-tuning.md"
+                        "file": "002 - research/pre-training.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for fine-tuning"
+                      "title": "File properties for pre-training"
                     }
                   }
                 ]
@@ -407,7 +393,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/fine-tuning.md",
+                        "file": "002 - research/pre-training.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -435,7 +421,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of fine-tuning"
+                      "title": "Graph of pre-training"
                     }
                   }
                 ]
@@ -454,37 +440,36 @@
       }
     ]
   },
-  "active": "d9d7af2bd74cd698",
+  "active": "35a78b62b98a7ea3",
   "lastOpenFiles": [
+    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
+    "002 - research/202602120145 - loss.md",
+    "002 - research/fine-tuning.md",
+    "002 - research/evaluation.md",
+    "002 - research/normalization.md",
+    "002 - research/olmo.md",
+    "002 - research/continued pre-training.md",
+    "002 - research/pre-training.md",
+    "002 - research/202603051540 - rope.md",
+    "002 - research/inference.md",
     "000 - daily notes/2026-03-07.md",
     "000 - daily notes/2026-03-06.md",
     "002 - research/202602232008 - cold-start sft.md",
     "002 - research/tool use.md",
     "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
-    "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
     "001 - inbox/RLVR.md",
     "002 - research/supervised fine-tuning.md",
     "002 - research/202601311954 - pytorch.md",
-    "002 - research/202603051540 - rope.md",
     "002 - research/202603051537 - positional encoding.md",
     "002 - research/large language models.md",
     "002 - research/202603051524 - rms norm.md",
     "002 - research/202602191623 - layer normalization.md",
-    "002 - research/normalization.md",
     "000 - daily notes/2026-03-05.md",
     "002 - research/llama.md",
     "002 - research/data.md",
     "007 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
     "machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
-    "002 - research/openai.md",
-    "002 - research/202602050155 - causal language modelling.md",
-    "002 - research/202602050141 - autoregressive.md",
-    "002 - research/202602020105 - negative sampling.md",
-    "002 - research/202601282201 - supervised fine-tuning.md",
-    "002 - research/timeline.md",
-    "002 - research/alice.md",
-    "002 - research/compute.md",
     "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "007 - attachments/understanding_deep_learning_2025.pdf",

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "pre-training",
+      "path": "002 - research/pre-training.md"
+    },
+    {
+      "basename": "build_a_large_language_model_from_scratch",
+      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+    },
+    {
+      "basename": "202602120145 - loss",
+      "path": "002 - research/202602120145 - loss.md"
+    },
+    {
       "basename": "fine-tuning",
       "path": "002 - research/fine-tuning.md"
+    },
+    {
+      "basename": "evaluation",
+      "path": "002 - research/evaluation.md"
+    },
+    {
+      "basename": "normalization",
+      "path": "002 - research/normalization.md"
+    },
+    {
+      "basename": "olmo",
+      "path": "002 - research/olmo.md"
+    },
+    {
+      "basename": "continued pre-training",
+      "path": "002 - research/continued pre-training.md"
+    },
+    {
+      "basename": "202603051540 - rope",
+      "path": "002 - research/202603051540 - rope.md"
+    },
+    {
+      "basename": "inference",
+      "path": "002 - research/inference.md"
     },
     {
       "basename": "202602232008 - cold-start sft",
@@ -15,10 +51,6 @@
     {
       "basename": "202601101646 - is tool use a way towards domain adaptation?",
       "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
-    },
-    {
-      "basename": "build_a_large_language_model_from_scratch",
-      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
     },
     {
       "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
@@ -37,10 +69,6 @@
       "path": "002 - research/202601311954 - pytorch.md"
     },
     {
-      "basename": "202603051540 - rope",
-      "path": "002 - research/202603051540 - rope.md"
-    },
-    {
       "basename": "202603051537 - positional encoding",
       "path": "002 - research/202603051537 - positional encoding.md"
     },
@@ -55,10 +83,6 @@
     {
       "basename": "202602191623 - layer normalization",
       "path": "002 - research/202602191623 - layer normalization.md"
-    },
-    {
-      "basename": "normalization",
-      "path": "002 - research/normalization.md"
     },
     {
       "basename": "llama",
@@ -153,10 +177,6 @@
       "path": "002 - research/202602192343 - agent.md"
     },
     {
-      "basename": "inference",
-      "path": "002 - research/inference.md"
-    },
-    {
       "basename": "202602201850 - bias-variance tradeoff",
       "path": "002 - research/202602201850 - bias-variance tradeoff.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "lightweight models",
       "path": "002 - research/lightweight models.md"
-    },
-    {
-      "basename": "GenAI internship",
-      "path": "001 - inbox/GenAI internship.md"
-    },
-    {
-      "basename": "202602061804 - entropy",
-      "path": "002 - research/202602061804 - entropy.md"
-    },
-    {
-      "basename": "Agenda 3rd March",
-      "path": "001 - inbox/Agenda 3rd March.md"
-    },
-    {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
-    },
-    {
-      "basename": "202601282131 - training language models to follow instructions with human feedback",
-      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
     }
   ],
   "omittedPaths": [],

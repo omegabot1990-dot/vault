@@ -24,3 +24,8 @@ parent nodes:
 ## Videos
 
 ## Code
+
+- [ ] [axolotl](https://github.com/axolotl-ai-cloud/axolotl)
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+- [ ] [litgpt](https://github.com/Lightning-AI/litgpt)
+	- [ ] <mark style="background: #ADCCFFA6;">LATER</mark>
