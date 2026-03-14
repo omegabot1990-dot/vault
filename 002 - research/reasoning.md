@@ -21,6 +21,10 @@ parent nodes:
 
 - [ ] [Large Language Model Reasoning Failures](https://www.alphaxiv.org/abs/2602.06176)
 
+- [ ] [Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs](https://www.alphaxiv.org/abs/2603.09906)
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+	- [ ] Google
+
 ## Videos
 
 ## Code

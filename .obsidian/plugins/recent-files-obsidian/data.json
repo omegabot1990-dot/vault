@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "data",
-      "path": "002 - research/data.md"
+      "basename": "reasoning",
+      "path": "002 - research/reasoning.md"
+    },
+    {
+      "basename": "reinforcement learning",
+      "path": "002 - research/reinforcement learning.md"
+    },
+    {
+      "basename": "parameter efficient fine-tuning",
+      "path": "002 - research/parameter efficient fine-tuning.md"
+    },
+    {
+      "basename": "specialisation",
+      "path": "002 - research/specialisation.md"
+    },
+    {
+      "basename": "2026-03-12",
+      "path": "000 - daily notes/2026/March/2026-03-12.md"
     },
     {
       "basename": "202601101646 - is tool use a way towards domain adaptation?",
       "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
+      "basename": "data",
+      "path": "002 - research/data.md"
     },
     {
       "basename": "build_a_large_language_model_from_scratch",
@@ -137,10 +157,6 @@
       "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
-    },
-    {
       "basename": "reinforcement learning ai feedback",
       "path": "002 - research/reinforcement learning ai feedback.md"
     },
@@ -181,24 +197,8 @@
       "path": "002 - research/202602201850 - bias-variance tradeoff.md"
     },
     {
-      "basename": "reasoning",
-      "path": "002 - research/reasoning.md"
-    },
-    {
-      "basename": "parameter efficient fine-tuning",
-      "path": "002 - research/parameter efficient fine-tuning.md"
-    },
-    {
       "basename": "direct preference optimisation",
       "path": "002 - research/direct preference optimisation.md"
-    },
-    {
-      "basename": "deepseek",
-      "path": "002 - research/deepseek.md"
-    },
-    {
-      "basename": "lightweight models",
-      "path": "002 - research/lightweight models.md"
     }
   ],
   "omittedPaths": [],

@@ -48,6 +48,9 @@ parent nodes:
 
 - [ ] [A Survey of Reinforcement Learning for Large Reasoning Models](https://www.alphaxiv.org/abs/2509.08827)
 
+- [ ] [OpenClaw-RL: Train Any Agent Simply by Talking](https://www.alphaxiv.org/abs/2603.10165)
+	- [ ] <mark style="background: #ADCCFFA6;">LATER</mark>
+
 ## Videos
 
 - [ ] [YouTube DeepMind x UCL - 2015](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=Z_ehZvM8ZBHQsMJf)

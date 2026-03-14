@@ -15,6 +15,9 @@ parent nodes:
 - [ ] [Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey](https://arxiv.org/abs/2305.18703)
 	- [ ] <mark style="background: #FFB86CA6;">IMPORTANT</mark>
 
+- [ ] [KARL: Knowledge Agents via Reinforcement Learning](https://www.alphaxiv.org/abs/2603.05218)
+	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+
 ## Videos
 
 ## Code
