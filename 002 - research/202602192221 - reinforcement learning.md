@@ -39,7 +39,12 @@ published on:
 	- Recommendation
 	- [[202602191644 - post-training|Post-training]] of [[202602191524 - large language model|Large Language Model]]
 
+---
+
+![[reinforcement_learning_cheatsheet.pdf]]
+
 
 [^1]: [Reinforcement Learning with Neural Networks: Essential Concepts](https://www.youtube.com/watch?v=9hbQieQh7-o&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=23)
 [^2]: [Reinforcement Learning with Neural Networks: Mathematical Details](https://www.youtube.com/watch?v=DVGmsnxB2UQ&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=24)
 [^3]: [Reinforcement Learning, by the Book](https://www.youtube.com/watch?v=NFo9v_yKQXA&list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
+[^4]: [Reinforcement Learning for LLMs](https://mesuvash.github.io/blog/2026/rl_for_llm/)

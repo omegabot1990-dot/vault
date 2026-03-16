@@ -25,6 +25,9 @@ parent nodes:
 	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
 	- [ ] Google
 
+- [ ] [Front-Loading Reasoning: The Synergy between Pretraining and Post-Training Data](https://www.alphaxiv.org/abs/2510.03264)
+	- [ ] Nvidia
+
 ## Videos
 
 ## Code

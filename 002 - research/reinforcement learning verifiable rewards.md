@@ -1,11 +1,12 @@
 ---
 tags:
-- moc
-description: ''
+  - rlvr
+  - moc
+description: ""
 parent nodes:
-- '[[proximal policy optimisation]]'
-- '[[group relative policy optimisation]]'
-- '[[reward model]]'
+  - "[[proximal policy optimisation]]"
+  - "[[group relative policy optimisation]]"
+  - "[[reward model]]"
 ---
 
 ## Topics

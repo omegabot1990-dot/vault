@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "kv cache",
+      "path": "002 - research/kv cache.md"
+    },
+    {
+      "basename": "build_a_reasoning_model_from_scrath_v6",
+      "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
+    },
+    {
+      "basename": "reinforcement learning verifiable rewards",
+      "path": "002 - research/reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "RLVR",
+      "path": "001 - inbox/RLVR.md"
+    },
+    {
+      "basename": "202601101646 - is tool use a way towards domain adaptation?",
+      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602120102 - cross-entropy",
+      "path": "002 - research/202602120102 - cross-entropy.md"
+    },
+    {
+      "basename": "202601282201 - supervised fine-tuning",
+      "path": "002 - research/202601282201 - supervised fine-tuning.md"
+    },
+    {
+      "basename": "nvidia",
+      "path": "002 - research/nvidia.md"
+    },
+    {
+      "basename": "agent",
+      "path": "002 - research/agent.md"
+    },
+    {
+      "basename": "code",
+      "path": "002 - research/code.md"
+    },
+    {
       "basename": "reasoning",
       "path": "002 - research/reasoning.md"
+    },
+    {
+      "basename": "large language models",
+      "path": "002 - research/large language models.md"
+    },
+    {
+      "basename": "random ideas",
+      "path": "002 - research/random ideas.md"
+    },
+    {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "tech_imrad_march",
+      "path": "001 - inbox/tech_imrad_march.md"
     },
     {
       "basename": "reinforcement learning",
@@ -15,14 +75,6 @@
     {
       "basename": "specialisation",
       "path": "002 - research/specialisation.md"
-    },
-    {
-      "basename": "2026-03-12",
-      "path": "000 - daily notes/2026/March/2026-03-12.md"
-    },
-    {
-      "basename": "202601101646 - is tool use a way towards domain adaptation?",
-      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
     },
     {
       "basename": "data",
@@ -81,10 +133,6 @@
       "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
     },
     {
-      "basename": "RLVR",
-      "path": "001 - inbox/RLVR.md"
-    },
-    {
       "basename": "supervised fine-tuning",
       "path": "002 - research/supervised fine-tuning.md"
     },
@@ -95,10 +143,6 @@
     {
       "basename": "202603051537 - positional encoding",
       "path": "002 - research/202603051537 - positional encoding.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
     },
     {
       "basename": "202603051524 - rms norm",
@@ -129,10 +173,6 @@
       "path": "002 - research/202602020105 - negative sampling.md"
     },
     {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
       "basename": "timeline",
       "path": "002 - research/timeline.md"
     },
@@ -149,14 +189,6 @@
       "path": "002 - research/post-training.md"
     },
     {
-      "basename": "build_a_reasoning_model_from_scrath_v6",
-      "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
-    },
-    {
-      "basename": "202602232025 - reinforcement learning verifiable rewards",
-      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
-    },
-    {
       "basename": "reinforcement learning ai feedback",
       "path": "002 - research/reinforcement learning ai feedback.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
-    },
-    {
-      "basename": "group relative policy optimisation",
-      "path": "002 - research/group relative policy optimisation.md"
-    },
-    {
-      "basename": "proximal policy optimisation",
-      "path": "002 - research/proximal policy optimisation.md"
-    },
-    {
-      "basename": "reinforcement learning verifiable rewards",
-      "path": "002 - research/reinforcement learning verifiable rewards.md"
-    },
-    {
-      "basename": "highlights",
-      "path": "002 - research/highlights.md"
-    },
-    {
-      "basename": "agent",
-      "path": "002 - research/agent.md"
-    },
-    {
-      "basename": "202602192343 - agent",
-      "path": "002 - research/202602192343 - agent.md"
-    },
-    {
-      "basename": "202602201850 - bias-variance tradeoff",
-      "path": "002 - research/202602201850 - bias-variance tradeoff.md"
-    },
-    {
-      "basename": "direct preference optimisation",
-      "path": "002 - research/direct preference optimisation.md"
     }
   ],
   "omittedPaths": [],

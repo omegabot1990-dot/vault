@@ -52,35 +52,69 @@
             }
           },
           {
-            "id": "7f9485012de9caab",
+            "id": "c918beb17a990526",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - daily notes/2026/March/2026-03-12.md",
+                "file": "001 - inbox/tech_imrad_march.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-03-12"
+              "title": "tech_imrad_march"
             }
           },
           {
-            "id": "a178aa339b038656",
+            "id": "e78ba19975baaff6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "202602232025 - reinforcement learning verifiable rewards"
+            }
+          },
+          {
+            "id": "d7ff6f71ab58911b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 - research/reinforcement learning verifiable rewards.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "reinforcement learning verifiable rewards"
+            }
+          },
+          {
+            "id": "1c41c0ab6444716c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 - research/reasoning.md",
+                "file": "002 - research/kv cache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reasoning"
+              "title": "kv cache"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 - research/reasoning.md"
+                "file": "002 - research/kv cache.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for reasoning"
+              "title": "File properties for kv cache"
             }
           },
           {
@@ -175,7 +209,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing\"\"",
+                "query": "\"Discovering Multiagent Learning Algorithms with Large Language Models\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -374,10 +408,10 @@
                     "state": {
                       "type": "file-properties",
                       "state": {
-                        "file": "002 - research/reasoning.md"
+                        "file": "002 - research/kv cache.md"
                       },
                       "icon": "lucide-info",
-                      "title": "File properties for reasoning"
+                      "title": "File properties for kv cache"
                     }
                   }
                 ]
@@ -392,7 +426,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "002 - research/reasoning.md",
+                        "file": "002 - research/kv cache.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -420,7 +454,7 @@
                         }
                       },
                       "icon": "lucide-git-fork",
-                      "title": "Graph of reasoning"
+                      "title": "Graph of kv cache"
                     }
                   }
                 ]
@@ -436,47 +470,79 @@
         "height": 865,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "fbd7c6e20f63d433",
+        "type": "window",
+        "children": [
+          {
+            "id": "4b771a730fe8f530",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a61d952ebc04e702",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file-text",
+                  "title": "build_a_reasoning_model_from_scrath_v6"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 33,
+        "width": 1512,
+        "height": 949,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "6dc1e73051258a8e",
+  "active": "629d4760abcd45c6",
   "lastOpenFiles": [
+    "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
+    "002 - research/kv cache.md",
+    "002 - research/reinforcement learning verifiable rewards.md",
+    "001 - inbox/RLVR.md",
+    "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
+    "002 - research/202602192221 - reinforcement learning.md",
+    "002 - research/202602120102 - cross-entropy.md",
+    "002 - research/202601282201 - supervised fine-tuning.md",
+    "002 - research/nvidia.md",
+    "002 - research/agent.md",
+    "002 - research/code.md",
     "002 - research/reasoning.md",
+    "002 - research/large language models.md",
+    "002 - research/random ideas.md",
+    "002 - research/research interests.md",
+    "007 - attachments/reinforcement_learning_cheatsheet.pdf",
+    "002 - research/202602232025 - reinforcement learning verifiable rewards.md",
+    "001 - inbox/tech_imrad_march.md",
+    "000 - daily notes/2026/March/2026-03-12.md",
+    "tech_imrad_march.md",
+    "000 - daily notes/2026-03-13.md",
     "002 - research/reinforcement learning.md",
     "002 - research/parameter efficient fine-tuning.md",
     "002 - research/specialisation.md",
-    "000 - daily notes/2026/March/2026-03-12.md",
     "002 - research/data.md",
     "000 - daily notes/2026/March",
-    "002 - research/202601101646 - is tool use a way towards domain adaptation?.md",
     "007 - attachments/build_a_large_language_model_from_scratch.pdf",
     "002 - research/pre-training.md",
     "000 - daily notes/2026-03-10.md",
-    "000 - daily notes/2026-03-09.md",
-    "000 - daily notes/2026-03-08.md",
-    "002 - research/202602120145 - loss.md",
-    "002 - research/fine-tuning.md",
-    "002 - research/evaluation.md",
-    "002 - research/normalization.md",
-    "002 - research/olmo.md",
-    "002 - research/continued pre-training.md",
-    "002 - research/202603051540 - rope.md",
-    "002 - research/inference.md",
-    "000 - daily notes/2026-03-07.md",
-    "000 - daily notes/2026-03-06.md",
-    "002 - research/202602232008 - cold-start sft.md",
-    "002 - research/tool use.md",
-    "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md",
-    "001 - inbox/RLVR.md",
-    "002 - research/supervised fine-tuning.md",
     "007 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
     "machine_learning_q_and_ai_sebastian_raschka_phd.pdf",
-    "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf",
     "007 - attachments/the_hundred_page_machine_learning_book.pdf",
     "007 - attachments/understanding_deep_learning_2025.pdf",
     "007 - attachments/reinforcement_learning_introduction.pdf",
     "007 - attachments/build_a_reasoning_model_from_scrath.pdf",
-    "007 - attachments",
     "800 - metadata/workflow.canvas",
     "003 - genesis/somedude - time.canvas",
     "003 - genesis/music/guitar/guitar fretboard patterns 15x6.canvas",

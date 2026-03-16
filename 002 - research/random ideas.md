@@ -14,3 +14,5 @@ parent nodes:
 		- [ ] https://allenai.org/blog/theorizer
 - [ ] How to create a speech-to-speech model?
 	- [ ] https://huggingface.co/nvidia/personaplex-7b-v1
+- [ ] Check out ontology creation
+	- [ ] https://www.palantir.com/docs/foundry/ontology/overview

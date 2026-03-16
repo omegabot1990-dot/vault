@@ -41,6 +41,9 @@ parent nodes:
 
 - [ ] [Linear representations in language models can change dramatically over a conversation](https://www.alphaxiv.org/abs/2601.20834)
 	- [ ] <mark style="background: #FF5582A6;">IMPORTANT</mark>
+- [ ] [H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs](https://www.alphaxiv.org/abs/2512.01797)
+	- [ ] Hallucination 
+	- [ ] <mark style="background: #ADCCFFA6;">LATER</mark>
 
 ## Videos
 

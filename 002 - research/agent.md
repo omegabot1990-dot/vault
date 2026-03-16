@@ -34,6 +34,8 @@ parent nodes:
 
 - [ ] [Agents of Chaos](https://www.alphaxiv.org/abs/2602.20021)
 
+- [ ] [Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations](https://www.alphaxiv.org/abs/2602.19320)
+
 ## Videos
 
 ## Code
