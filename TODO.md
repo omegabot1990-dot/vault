@@ -1,0 +1,13 @@
+
+- [ ] Update LinkedIn
+	- [x] Posted the planned ones
+- [ ] Combine Obsidian Vaults
+	- [ ] Fix Obsidian
+	- [ ] Create workflows
+- [x] Check Storage on Mac
+- [x] Wrap up Alstom stuff
+- [ ] String Guitar
+- [ ] Start using Ableton
+	- [x] Get Ableton back
+- [ ] MedicHive
+- [ ] Rekordbox 

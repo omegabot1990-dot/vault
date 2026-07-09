@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
+  "accentColor": "#4aa3ff",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "centre-img",
+    "cursor-theme",
     "center-img"
-  ]
+  ],
+  "theme": "obsidian"
 }

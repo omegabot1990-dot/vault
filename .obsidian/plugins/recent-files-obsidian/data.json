@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "kv cache",
-      "path": "002 - research/kv cache.md"
+      "basename": "glossary",
+      "path": "memory/glossary.md"
     },
     {
-      "basename": "build_a_reasoning_model_from_scrath_v6",
-      "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
+      "basename": "omega-bot",
+      "path": "memory/projects/omega-bot.md"
     },
     {
-      "basename": "reinforcement learning verifiable rewards",
-      "path": "002 - research/reinforcement learning verifiable rewards.md"
+      "basename": "masters-research",
+      "path": "memory/projects/masters-research.md"
     },
     {
-      "basename": "RLVR",
-      "path": "001 - inbox/RLVR.md"
+      "basename": "aske-plaat",
+      "path": "memory/people/aske-plaat.md"
     },
     {
-      "basename": "202601101646 - is tool use a way towards domain adaptation?",
-      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+      "basename": "leiden",
+      "path": "memory/context/leiden.md"
     },
     {
-      "basename": "202602192221 - reinforcement learning",
-      "path": "002 - research/202602192221 - reinforcement learning.md"
+      "basename": "Vast Setup",
+      "path": "001 - inbox/Vast Setup.md"
     },
     {
-      "basename": "202602120102 - cross-entropy",
-      "path": "002 - research/202602120102 - cross-entropy.md"
-    },
-    {
-      "basename": "202601282201 - supervised fine-tuning",
-      "path": "002 - research/202601282201 - supervised fine-tuning.md"
-    },
-    {
-      "basename": "nvidia",
-      "path": "002 - research/nvidia.md"
-    },
-    {
-      "basename": "agent",
-      "path": "002 - research/agent.md"
-    },
-    {
-      "basename": "code",
-      "path": "002 - research/code.md"
-    },
-    {
-      "basename": "reasoning",
-      "path": "002 - research/reasoning.md"
-    },
-    {
-      "basename": "large language models",
-      "path": "002 - research/large language models.md"
-    },
-    {
-      "basename": "random ideas",
-      "path": "002 - research/random ideas.md"
-    },
-    {
-      "basename": "202602232025 - reinforcement learning verifiable rewards",
-      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+      "basename": "Tool-use to bridge verifiable and non-verifiable domains",
+      "path": "001 - inbox/Tool-use to bridge verifiable and non-verifiable domains.md"
     },
     {
       "basename": "tech_imrad_march",
       "path": "001 - inbox/tech_imrad_march.md"
     },
     {
-      "basename": "reinforcement learning",
-      "path": "002 - research/reinforcement learning.md"
+      "basename": "Reward",
+      "path": "001 - inbox/Reward.md"
     },
     {
-      "basename": "parameter efficient fine-tuning",
-      "path": "002 - research/parameter efficient fine-tuning.md"
+      "basename": "RLVR",
+      "path": "001 - inbox/RLVR.md"
     },
     {
-      "basename": "specialisation",
-      "path": "002 - research/specialisation.md"
+      "basename": "GenAI internship",
+      "path": "001 - inbox/GenAI internship.md"
     },
     {
-      "basename": "data",
-      "path": "002 - research/data.md"
+      "basename": "Agenda 31st March",
+      "path": "001 - inbox/Agenda 31st March.md"
     },
     {
-      "basename": "build_a_large_language_model_from_scratch",
-      "path": "007 - attachments/build_a_large_language_model_from_scratch.pdf"
+      "basename": "Agenda 9th April",
+      "path": "001 - inbox/Agenda 9th April.md"
     },
     {
-      "basename": "pre-training",
-      "path": "002 - research/pre-training.md"
+      "basename": "Agenda 3rd March",
+      "path": "001 - inbox/Agenda 3rd March.md"
     },
     {
-      "basename": "202602120145 - loss",
-      "path": "002 - research/202602120145 - loss.md"
+      "basename": "PhD",
+      "path": "001 - inbox/PhD.md"
     },
     {
-      "basename": "fine-tuning",
-      "path": "002 - research/fine-tuning.md"
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
     },
     {
-      "basename": "evaluation",
-      "path": "002 - research/evaluation.md"
+      "basename": "TASKS",
+      "path": "TASKS.md"
     },
     {
-      "basename": "normalization",
-      "path": "002 - research/normalization.md"
+      "basename": "TODO",
+      "path": "TODO.md"
     },
     {
-      "basename": "olmo",
-      "path": "002 - research/olmo.md"
+      "basename": "exp_one_tool_call_mean",
+      "path": "007 - attachments/exp_one_tool_call_mean.png"
     },
     {
-      "basename": "continued pre-training",
-      "path": "002 - research/continued pre-training.md"
+      "basename": "exp_zero_score_max",
+      "path": "007 - attachments/exp_zero_score_max.png"
     },
     {
-      "basename": "202603051540 - rope",
-      "path": "002 - research/202603051540 - rope.md"
-    },
-    {
-      "basename": "inference",
-      "path": "002 - research/inference.md"
-    },
-    {
-      "basename": "202602232008 - cold-start sft",
-      "path": "002 - research/202602232008 - cold-start sft.md"
-    },
-    {
-      "basename": "tool use",
-      "path": "002 - research/tool use.md"
-    },
-    {
-      "basename": "202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning",
-      "path": "002 - research/202602221914 - deepseek-r1 - incentivizing reasoning capability in llms via reinforcement learning.md"
-    },
-    {
-      "basename": "supervised fine-tuning",
-      "path": "002 - research/supervised fine-tuning.md"
-    },
-    {
-      "basename": "202601311954 - pytorch",
-      "path": "002 - research/202601311954 - pytorch.md"
-    },
-    {
-      "basename": "202603051537 - positional encoding",
-      "path": "002 - research/202603051537 - positional encoding.md"
-    },
-    {
-      "basename": "202603051524 - rms norm",
-      "path": "002 - research/202603051524 - rms norm.md"
-    },
-    {
-      "basename": "202602191623 - layer normalization",
-      "path": "002 - research/202602191623 - layer normalization.md"
-    },
-    {
-      "basename": "llama",
-      "path": "002 - research/llama.md"
-    },
-    {
-      "basename": "openai",
-      "path": "002 - research/openai.md"
-    },
-    {
-      "basename": "202602050155 - causal language modelling",
-      "path": "002 - research/202602050155 - causal language modelling.md"
-    },
-    {
-      "basename": "202602050141 - autoregressive",
-      "path": "002 - research/202602050141 - autoregressive.md"
-    },
-    {
-      "basename": "202602020105 - negative sampling",
-      "path": "002 - research/202602020105 - negative sampling.md"
+      "basename": "exp_zero_score_min",
+      "path": "007 - attachments/exp_zero_score_min.png"
     },
     {
       "basename": "timeline",
       "path": "002 - research/timeline.md"
     },
     {
-      "basename": "alice",
-      "path": "002 - research/alice.md"
+      "basename": "trusted sources",
+      "path": "002 - research/trusted sources.md"
     },
     {
-      "basename": "compute",
-      "path": "002 - research/compute.md"
+      "basename": "2026-03-10",
+      "path": "000 - daily notes/2026-03-10.md"
     },
     {
-      "basename": "post-training",
-      "path": "002 - research/post-training.md"
+      "basename": "2026-02-12",
+      "path": "000 - daily notes/2026-02-12.md"
     },
     {
-      "basename": "reinforcement learning ai feedback",
-      "path": "002 - research/reinforcement learning ai feedback.md"
+      "basename": "highlights",
+      "path": "002 - research/highlights.md"
     },
     {
-      "basename": "distillation",
-      "path": "002 - research/distillation.md"
+      "basename": "hotkeys",
+      "path": "009 - help/hotkeys.md"
+    },
+    {
+      "basename": "2026-06-24",
+      "path": "000 - daily notes/2026/June/2026-06-24.md"
+    },
+    {
+      "basename": "202605011609 - information retrieval",
+      "path": "002 - research/202605011609 - information retrieval.md"
+    },
+    {
+      "basename": "202605011625 - tf-idf",
+      "path": "002 - research/202605011625 - tf-idf.md"
+    },
+    {
+      "basename": "202605011627 - bm25",
+      "path": "002 - research/202605011627 - bm25.md"
+    },
+    {
+      "basename": "202605011617 - inverted index",
+      "path": "002 - research/202605011617 - inverted index.md"
+    },
+    {
+      "basename": "reinforcement learning verifiable rewards",
+      "path": "002 - research/reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "202601101646 - is tool use a way towards domain adaptation?",
+      "path": "002 - research/202601101646 - is tool use a way towards domain adaptation?.md"
+    },
+    {
+      "basename": "202602232025 - reinforcement learning verifiable rewards",
+      "path": "002 - research/202602232025 - reinforcement learning verifiable rewards.md"
+    },
+    {
+      "basename": "2026-05-03",
+      "path": "000 - daily notes/2026/May/2026-05-03.md"
+    },
+    {
+      "basename": "build_a_reasoning_model_from_scrath_v6",
+      "path": "007 - attachments/build_a_reasoning_model_from_scrath_v6.pdf"
+    },
+    {
+      "basename": "2026-05-22",
+      "path": "000 - daily notes/2026/May/2026-05-22.md"
     },
     {
       "basename": "202602102118 - research- learning to reason with search for llms via reinforcement learning",
       "path": "002 - research/202602102118 - research- learning to reason with search for llms via reinforcement learning.md"
+    },
+    {
+      "basename": "2026-05-02",
+      "path": "000 - daily notes/2026/May/2026-05-02.md"
+    },
+    {
+      "basename": "202601282131 - training language models to follow instructions with human feedback",
+      "path": "002 - research/202601282131 - training language models to follow instructions with human feedback.md"
+    },
+    {
+      "basename": "2026-05-01",
+      "path": "000 - daily notes/2026/May/2026-05-01.md"
+    },
+    {
+      "basename": "202602192103 - embedding",
+      "path": "002 - research/202602192103 - embedding.md"
+    },
+    {
+      "basename": "202602192221 - reinforcement learning",
+      "path": "002 - research/202602192221 - reinforcement learning.md"
+    },
+    {
+      "basename": "202602201241 - proximal policy optimization",
+      "path": "002 - research/202602201241 - proximal policy optimization.md"
+    },
+    {
+      "basename": "2026-04-23",
+      "path": "000 - daily notes/2026/April/2026-04-23.md"
+    },
+    {
+      "basename": "machine_learning_q_and_ai_sebastian_raschka_phd",
+      "path": "007 - attachments/machine_learning_q_and_ai_sebastian_raschka_phd.pdf"
+    },
+    {
+      "basename": "202602201939 - group relative policy optimization",
+      "path": "002 - research/202602201939 - group relative policy optimization.md"
+    },
+    {
+      "basename": "202602181827 - kl divergence",
+      "path": "002 - research/202602181827 - kl divergence.md"
+    },
+    {
+      "basename": "2026-04-14",
+      "path": "000 - daily notes/2026/April/2026-04-14.md"
     }
   ],
   "omittedPaths": [],

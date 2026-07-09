@@ -16,6 +16,9 @@
 # Script caches
 .cache/
 
+# Secrets: setup note holds live tokens (HF / Overleaf / GitHub PATs). Keep local-only.
+001 - inbox/Vast Setup.md
+
 # Obsidian macOS
 .obsidian/.DS_Store
 .obsidian/plugins/.DS_Store

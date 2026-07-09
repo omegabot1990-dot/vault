@@ -23,5 +23,5 @@ published on:
 	- Math
 	- Coding
 	- Tool-using tasks where outputs can be programmatically verified
-- Main limitations are <mark style="background: #FF5582A6;">sparse rewards</mark> and <mark style="background: #BBFABBA6;">limited applicability to open-ended subjective tasks</mark>
+- The main limitations are <mark style="background: #FF5582A6;">sparse rewards</mark> and <mark style="background: #BBFABBA6;">limited applicability to open-ended subjective tasks</mark>
 - Practical RLVR setups often combine verifiable rewards with <mark style="background: #FFF3A3A6;">curriculum design</mark>, <mark style="background: #ABF7F7A6;">shaping</mark>, and <mark style="background: #FFB86CA6;">controlled exploration</mark>
